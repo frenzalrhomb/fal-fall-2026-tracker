@@ -1,0 +1,24 @@
+{
+  "status": "awaiting_verified_fresh_API_access_before_scheduling",
+  "automation_created": false,
+  "registration_deadline_utc": "2026-09-27T22:00:00Z",
+  "week1_scoring_utc": "2026-10-04T22:00:00Z",
+  "proposed_preseason_collection_dates": [
+    "2026-09-15",
+    "2026-09-17",
+    "2026-09-19",
+    "2026-09-21",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-27"
+  ],
+  "required_input": "MAL API Client ID only; no account password, Client Secret or OAuth token required for documented public-statistics reads",
+  "gates": [
+    "Test official API on multiple roster IDs with expected titles, scores and status totals",
+    "Verify per-record timestamps and persist successful baseline",
+    "Create collection automation after a fresh-data read and durable write both succeed",
+    "Collect a second comparable snapshot; begin actual growth estimates",
+    "Resolve scoring details and recover historical weekly data",
+    "Produce provisional and final roster with uncertainty and swap/Ace windows"
+  ]
+}

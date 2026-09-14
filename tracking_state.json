@@ -1,0 +1,1567 @@
+{
+  "schema_version": 1,
+  "roster": [
+    {
+      "mal_id": 53913,
+      "title": "Tensei shitara Ken deshita II",
+      "fal_id": 765,
+      "restricted": true,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-08"
+    },
+    {
+      "mal_id": 61323,
+      "title": "Ao no Hako Season 2",
+      "fal_id": 766,
+      "restricted": true,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 59088,
+      "title": "Tokyo Revengers: Santen Sensou-hen",
+      "fal_id": 767,
+      "restricted": true,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 61603,
+      "title": "Ao Ashi Season 2",
+      "fal_id": 771,
+      "restricted": true,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 52480,
+      "title": "Tantei wa Mou, Shindeiru. Season 2",
+      "fal_id": 768,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-07"
+    },
+    {
+      "mal_id": 57612,
+      "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "fal_id": 769,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 60601,
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "fal_id": 770,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-09-28"
+    },
+    {
+      "mal_id": 64534,
+      "title": "Koori no Jouheki 2nd Season",
+      "fal_id": 772,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 63293,
+      "title": "Hotaru no Yomeiri",
+      "fal_id": 773,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-09"
+    },
+    {
+      "mal_id": 63367,
+      "title": "Dragon Ball Super: Beerus",
+      "fal_id": 774,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-11"
+    },
+    {
+      "mal_id": 63801,
+      "title": "Ranma ½ (2024) 3rd Season",
+      "fal_id": 776,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 58518,
+      "title": "Sasaki to Pii-chan Season 2",
+      "fal_id": 775,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-07"
+    },
+    {
+      "mal_id": 63181,
+      "title": "Tougen Anki: Nikko Kegon no Taki-hen",
+      "fal_id": 777,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 62484,
+      "title": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "fal_id": 778,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-13"
+    },
+    {
+      "mal_id": 64254,
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "fal_id": 779,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-09"
+    },
+    {
+      "mal_id": 61578,
+      "title": "Seitokai ni mo Ana wa Aru!",
+      "fal_id": 780,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 63140,
+      "title": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "fal_id": 781,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 63409,
+      "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+      "fal_id": 783,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 61153,
+      "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "fal_id": 782,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 64503,
+      "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "fal_id": 784,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-11"
+    },
+    {
+      "mal_id": 63098,
+      "title": "Psyren",
+      "fal_id": 786,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 59204,
+      "title": "Magic Knight Rayearth (2026)",
+      "fal_id": 785,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-07"
+    },
+    {
+      "mal_id": 63382,
+      "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "fal_id": 787,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-06"
+    },
+    {
+      "mal_id": 60948,
+      "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "fal_id": 789,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 61014,
+      "title": "Toaru Anbu no Item",
+      "fal_id": 790,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-09"
+    },
+    {
+      "mal_id": 54344,
+      "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "fal_id": 788,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-06"
+    },
+    {
+      "mal_id": 56733,
+      "title": "Magical★Explorer",
+      "fal_id": 791,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 64340,
+      "title": "Tempal: Item no Chikara",
+      "fal_id": 793,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-02"
+    },
+    {
+      "mal_id": 63754,
+      "title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "fal_id": 792,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 61999,
+      "title": "Shuiro no Kamen",
+      "fal_id": 794,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-10"
+    },
+    {
+      "mal_id": 62753,
+      "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "fal_id": 795,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 63337,
+      "title": "FX Senshi Kurumi-chan",
+      "fal_id": 796,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 59787,
+      "title": "Romelia Senki",
+      "fal_id": 802,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 64505,
+      "title": "Diamond no Ace: Act II Second Season Part 2",
+      "fal_id": 797,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-11"
+    },
+    {
+      "mal_id": 62524,
+      "title": "#Zombie Sagashitemasu",
+      "fal_id": 801,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 64084,
+      "title": "Sekai Saikyou no Majo, Hajimemashita",
+      "fal_id": 800,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-07"
+    },
+    {
+      "mal_id": 63292,
+      "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "fal_id": 804,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-11"
+    },
+    {
+      "mal_id": 63751,
+      "title": "Tank Chair",
+      "fal_id": 799,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 62922,
+      "title": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+      "fal_id": 805,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 62590,
+      "title": "Hotel Inhumans 2nd Season",
+      "fal_id": 803,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 61140,
+      "title": "Gensou Suikoden",
+      "fal_id": 806,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 63509,
+      "title": "Dark Summoner to Dekiteiru",
+      "fal_id": 809,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 63753,
+      "title": "Kanata kara",
+      "fal_id": 807,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 63712,
+      "title": "Tensei Goblin dakedo Shitsumon Aru?",
+      "fal_id": 812,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 64298,
+      "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "fal_id": 813,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 64131,
+      "title": "Kanojo no Tomodachi",
+      "fal_id": 810,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 64180,
+      "title": "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+      "fal_id": 808,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-02"
+    },
+    {
+      "mal_id": 62907,
+      "title": "Ojisan wa Kawaii Mono ga Osuki.",
+      "fal_id": 814,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 62696,
+      "title": "Choujun! Choujou-senpai",
+      "fal_id": 811,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-06"
+    },
+    {
+      "mal_id": 62615,
+      "title": "Tetsuryou! Meet with Tetsudou Musume",
+      "fal_id": 816,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-09"
+    },
+    {
+      "mal_id": 63764,
+      "title": "Vertex Force",
+      "fal_id": 815,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 64326,
+      "title": "Marronnier Oukoku no Shichinin no Kishi",
+      "fal_id": 817,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 63157,
+      "title": "Keroro Gunsou☆",
+      "fal_id": 818,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 62534,
+      "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+      "fal_id": 819,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 63053,
+      "title": "Kyoufu Collector",
+      "fal_id": 820,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 63381,
+      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "fal_id": 824,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 59415,
+      "title": "Dark Machine: The Animation",
+      "fal_id": 821,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-14"
+    },
+    {
+      "mal_id": 63667,
+      "title": "Mahou no Shimai Lulutto Lilly Part 2",
+      "fal_id": 822,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 63818,
+      "title": "Battle Spirits [Re]: Zekkai no Kuu",
+      "fal_id": 823,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-06"
+    },
+    {
+      "mal_id": 64718,
+      "title": "Ghost Meets Gal!",
+      "fal_id": 826,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-09-05"
+    },
+    {
+      "mal_id": 64344,
+      "title": "Juuou Mujin Dandivine",
+      "fal_id": 825,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-08"
+    },
+    {
+      "mal_id": 63938,
+      "title": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
+      "fal_id": 827,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-11-07"
+    },
+    {
+      "mal_id": 62039,
+      "title": "Pan Dorobou",
+      "fal_id": 828,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-01"
+    },
+    {
+      "mal_id": 63901,
+      "title": "Shirotan",
+      "fal_id": 829,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-03"
+    },
+    {
+      "mal_id": 64028,
+      "title": "Tanuki to Kitsune (TV)",
+      "fal_id": 830,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 64430,
+      "title": "Yuruyuru Zukan",
+      "fal_id": 831,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 64717,
+      "title": "Yuusanchi! from Yuu-hachi",
+      "fal_id": 833,
+      "restricted": false,
+      "sequel": false,
+      "premiere_date_jst": "2026-10-05"
+    },
+    {
+      "mal_id": 63823,
+      "title": "Punirunes: Puni 4",
+      "fal_id": 832,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-04"
+    },
+    {
+      "mal_id": 64789,
+      "title": "Nezumi-kun no Chokki (TV) 2nd Season",
+      "fal_id": 834,
+      "restricted": false,
+      "sequel": true,
+      "premiere_date_jst": "2026-10-03"
+    }
+  ],
+  "snapshots": [
+    {
+      "mal_id": 53913,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 92114
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "c145745435f23fa1f572e6b2c819ca77af784bf5a010e8312629eed14453e4c7"
+    },
+    {
+      "mal_id": 61323,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 69429
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "f9cc13e483d67bd59d11dfcdecac154937aebb344afcb129f04bc8de2ea84690"
+    },
+    {
+      "mal_id": 59088,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 58117
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "ff3e031a956cc303d788abd4779fcfb75ffc35152cae188508edfadd796e89c7"
+    },
+    {
+      "mal_id": 61603,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 31227
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "f56f098e56f652d97ddde407b35316cd962092dedc9dc0a964bc25d467b051c0"
+    },
+    {
+      "mal_id": 52480,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 55315
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "5f28de84d3ef02ce71e567cbc9a7eac51dc5f76a36b94ffdba007814a0f1bf7a"
+    },
+    {
+      "mal_id": 57612,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 43623
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "bc328e462fbd734e260ced8f14605cdbf7407fa394883417ed28f44dfa3def01"
+    },
+    {
+      "mal_id": 60601,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 37340
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "68864830b49270b1fcdac612ed94003f5ee412b56a9bd99db54203ae4f513daa"
+    },
+    {
+      "mal_id": 64534,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 33190
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "3131edbe8697c959b932dd1ca7e1d0a8ec80b306da3342b21bafa7fb618584fc"
+    },
+    {
+      "mal_id": 63293,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 28848
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "2037a9998421afed5ace9b26e335540479a7234df619235cf620677bb986b885"
+    },
+    {
+      "mal_id": 63367,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 25550
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "a2902e0bd63dcacbbafd485bad9d1a6e6a35f6c31e1895c6b35806b1fd3c9021"
+    },
+    {
+      "mal_id": 63801,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 23338
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "94ffc6b161be2dadbd473e4b12305c35eb1b7146c96575ab10fa3c38b9f46809"
+    },
+    {
+      "mal_id": 58518,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 22945
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "445c55eb17096fafbabe6c24d452c47685ce5149f8bb692fb88f03115df03597"
+    },
+    {
+      "mal_id": 63181,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 19895
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "c30e6ed754ffeb1ad9284307922b04fcdf8c8d7306e5e315d024ea9a31bc7a9e"
+    },
+    {
+      "mal_id": 62484,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 19062
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "5372eb4c061da57a094c5c8f79d89a0be7025ef88e30e943ccc1ba4ddee04195"
+    },
+    {
+      "mal_id": 64254,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 17830
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "156292b4459623bd6a9096e79b1f9f842593a954c5ed40a532f89351eca346f8"
+    },
+    {
+      "mal_id": 61578,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 17034
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "79386087588ab348bc7c43992c4848cb5ebe186e55ff45cae3c201dbb06105ae"
+    },
+    {
+      "mal_id": 63140,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 14877
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "6894311a74a11f169fededf16e3b52d4e54fc5a9c20acee85c754bc5ac34186e"
+    },
+    {
+      "mal_id": 63409,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 14445
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "61322394c3fa6d39aa6b059b7ccefac6f365b5ff11cd7f1bd99bedb21634c9a2"
+    },
+    {
+      "mal_id": 61153,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 13309
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "377560b6a21fc389be11de70a0863809c65e32133e507a12380d8574e00733f9"
+    },
+    {
+      "mal_id": 64503,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 12661
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "21489c65f14b983ed64d89754dcebb0b0f3b320b5db90eb462ca2e68f116b7d2"
+    },
+    {
+      "mal_id": 63098,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 12496
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "ca6bf74a3fbc63bb5918944a414fffe686d2e21c2999a615a07f4e7a16bdc806"
+    },
+    {
+      "mal_id": 59204,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 12151
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "52af6f38e370b73ab905a261acdbbb821b6d373ba778d13169a4b84d8d665dfe"
+    },
+    {
+      "mal_id": 63382,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 11483
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "04e0a4aabaa956eb6109bf867aff6c012bcfd9f6d54dcb2938036085d90ad023"
+    },
+    {
+      "mal_id": 60948,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 10359
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "445df57d2f59845a0a28740f77f48d4c88d5d603c9deed6879affc05c630157e"
+    },
+    {
+      "mal_id": 61014,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 10073
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "11d2360d2857ba1597453e44eb05fa16c21fec7e84d23a89ada125eede3332fc"
+    },
+    {
+      "mal_id": 54344,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 9817
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "4cdf8e6c3dbe94266b2ae7245c3c449aecc52e894a69b07c485d6dfb1f174230"
+    },
+    {
+      "mal_id": 56733,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 9515
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "e4f8648cbade5c01044eaec84f194eee39e11949f85352e06c507a48c0733f32"
+    },
+    {
+      "mal_id": 64340,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 9494
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "d7fd5e972cd5d62126a4a8b824ef72ce52cd61709d7d250a4e0b40a82e745fcb"
+    },
+    {
+      "mal_id": 63754,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 9442
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "662852fed7d4662299e58e0968ca79a15dc825efa95c1fa599e526266d491a48"
+    },
+    {
+      "mal_id": 61999,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 8442
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "e471d1bdfd4def820a2eb79c42e6a5e9e121d8b1372ea388be3cc3979eaf9739"
+    },
+    {
+      "mal_id": 62753,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 8231
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "5d5401a1b0d41d2e75a8e304ae1d4bf98c1085ad43fd9f0ceee4e26aa7c5e68b"
+    },
+    {
+      "mal_id": 63337,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 7484
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "ea5669992f2d282851956e6194b41ece7d4c849d606335f915ab286f95ee3436"
+    },
+    {
+      "mal_id": 59787,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 6306
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "11c6659600170fc6140579a02496281134ed48ccdfaa41f4a82733ea7da20a9b"
+    },
+    {
+      "mal_id": 64505,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 6075
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "0718d5eb688dd4a926ccd9a99eee72d45f6b3c05a6b77161a4a6759cfdf5f872"
+    },
+    {
+      "mal_id": 62524,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 5860
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "5a900dd8d078e1aa1240020a86548839c856c3fc9ff3b77f78ddadbfcb3309d8"
+    },
+    {
+      "mal_id": 64084,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 5807
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "bbc72d9875eb97d2fd9d3f3d4e87adb39490c9cfd7230390737cb0c7e7004a49"
+    },
+    {
+      "mal_id": 63292,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 5794
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "8ce8517fccf5755748c2f5fe6f69557d2d853b3ac55b534b8177cb4f4f2685ba"
+    },
+    {
+      "mal_id": 63751,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 5730
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "b2b99bfa85b96023937d07f658ad655632ed82c4d7b1f0dcf73e2f1b9c9f583c"
+    },
+    {
+      "mal_id": 62922,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 5398
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "de787a0fceeb2a9ada80a0fce2acd376675de344f3ca51d2f772db4f7f240f6e"
+    },
+    {
+      "mal_id": 62590,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 4853
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "9428c6182d8d98710481a566f8bd8a9afe05fb7082eb0117176437aee51d22eb"
+    },
+    {
+      "mal_id": 61140,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 4476
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "67424ed7ed5f0edf54a29fedb4b49486476dd90bd1b94ed17fb76304184d2f8e"
+    },
+    {
+      "mal_id": 63509,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 4409
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "f89b9aa3284ebcadc7bd6a96473f9efe10e27dd2f88b04c8c4324781211b10ed"
+    },
+    {
+      "mal_id": 63753,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 4316
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "d63be8c1af24e4eb428b99385ab4eff8e6bc67483e7e6d8bf1f87f272a8ea97d"
+    },
+    {
+      "mal_id": 63712,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3872
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "7415645e4a2eeb46c34289442fd0d32d18dc85a4930df87caccd333fbb96e700"
+    },
+    {
+      "mal_id": 64298,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3775
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "f12522ab0c6fa244a0c4c77c90fdd5d8d38f371feb98f3b6aefbdc3c85f73210"
+    },
+    {
+      "mal_id": 64131,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3661
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "dfe47e7e4373184b1d35b59b776225915deb51ad5de08d5647e8ede72333b0db"
+    },
+    {
+      "mal_id": 64180,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3632
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "d516fee58b1f0023a99b875904a7cafb3df2bff5a899d226962ea76594e0c528"
+    },
+    {
+      "mal_id": 62907,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3545
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "8a2274bb135a4de396717790813638d50c62283056bd07f4fad79b6c7a811deb"
+    },
+    {
+      "mal_id": 62696,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3526
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "94b9a391658c4fe27d4c113aeb7cd2e79930f55ec078700f15535364ca895455"
+    },
+    {
+      "mal_id": 62615,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3291
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "3673e26c879c6b2e4076ab6faa14a0ca7c4bad7e09c0d89fe8609275963af495"
+    },
+    {
+      "mal_id": 63764,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3274
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "da05f22d748e97a84c64452ed6b16abe34f051517fe4317ead5ce97a677ec9c6"
+    },
+    {
+      "mal_id": 64326,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 3078
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "508c9757df3eade54a9dbdbb6952b956058764cefbe8bfc6578400e4eddf4d6f"
+    },
+    {
+      "mal_id": 63157,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 2358
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "9280a267d8b6da4ef0cda8c2700cd0630e7bc521922b7f9d2d4a6a808de31f9a"
+    },
+    {
+      "mal_id": 62534,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 2124
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "7310f9e418cfecc33de7b276635d7dc31f51bd2c199ef19d454f0ca4d6517e0c"
+    },
+    {
+      "mal_id": 63053,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 2079
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "b70631168b8e05124d76a73ba5dfd6592515c4e99ca39f07f7188d428f0ae229"
+    },
+    {
+      "mal_id": 63381,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 2033
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "71ba70d11d230bb79b0aa442926b370919d44baa02e9821e20b3b2c66f32f54b"
+    },
+    {
+      "mal_id": 59415,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 1867
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "62b1a63ecc4d052a017cd9db9cb693f8d3e4ecd1a85e339b8b6095c0b08bff29"
+    },
+    {
+      "mal_id": 63667,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 1395
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "a53e30f564ab96cc63511b9dde4aae6201a642e0e76d8ab93a883790e91faba2"
+    },
+    {
+      "mal_id": 63818,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 1337
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "a3a1286b2cfa424a0c4b07a59f18c06dd5a359cf846b391b048e948d03d3ba08"
+    },
+    {
+      "mal_id": 64718,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 1334
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "dba15fc046b65046354d611750f57be9ae3421cdab72ccb6dd379cd1958c7fd3"
+    },
+    {
+      "mal_id": 64344,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 1192
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "978ce243cc24312a3cd03a6e7ea0ffb4a42034dd9e00bd1e62359fca9afd6d68"
+    },
+    {
+      "mal_id": 63938,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 725
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "a3ca2a7d14a23e4a8e8ec9be2f8b4e1255bc136700634715625032d9cc55165f"
+    },
+    {
+      "mal_id": 62039,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 179
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "58f836447cf0c253aac979ed51756a8b38ba0d364c08d07056de524f99726202"
+    },
+    {
+      "mal_id": 63901,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 174
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "47c7dcacfcd63ac64f242eb376d2853c84cee75caa4882ae1066d3eb8a1b76a8"
+    },
+    {
+      "mal_id": 64028,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 165
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "176c7469f1ad60b94c911bfc179f1583d5d7d46b4d0b6e877a75b61e417d2680"
+    },
+    {
+      "mal_id": 64430,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 121
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "2223c76806d5f1104874776e19566be03e45d90f0c7d8284337b04c4d9a42363"
+    },
+    {
+      "mal_id": 64717,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 93
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "4870e1e5b5824c04fb46d54f54ba2bfe8de0a3a1a69216056cbe1537a4bd26f2"
+    },
+    {
+      "mal_id": 63823,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 88
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "45ec884d854402f43f52519bda5617dcefbaefc3c9752fb05eab4221490236e7"
+    },
+    {
+      "mal_id": 64789,
+      "source": "user_saved_fal_html",
+      "retrieved_at": "2026-09-14T09:17:54.589409+00:00",
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "date_only",
+      "metrics": {
+        "members": 51
+      },
+      "quality_flags": [],
+      "eligible_for_growth": false,
+      "snapshot_id": "e6f99245870a2b3fedc60b15c0179e348ca7fad00070314541657f1448bb0279"
+    }
+  ],
+  "runs": [],
+  "source_access_checks": [
+    {
+      "checked_date": "2026-09-14",
+      "source": "jikan",
+      "endpoint": "https://api.jikan.moe/v4/anime/53913",
+      "http_status": 200,
+      "response_title": "Tensei shitara Ken deshita 2",
+      "members": 87372,
+      "favorites": 468,
+      "score": null,
+      "scored_by": null,
+      "last_modified": "Sat, 11 Jul 2026 18:00:45 GMT",
+      "expires": "Sun, 12 Jul 2026 18:00:45 GMT",
+      "decision": "excluded_from_current_growth_due_to_stale_cache_metadata"
+    },
+    {
+      "checked_date": "2026-09-14",
+      "source": "jikan",
+      "endpoints": [
+        "anime/53913/statistics",
+        "anime/61323",
+        "anime/53913/full",
+        "seasons/2026/fall?page=1"
+      ],
+      "http_status": 504,
+      "message": "Jikan failed to connect to MyAnimeList"
+    },
+    {
+      "checked_date": "2026-09-14",
+      "source": "anilist",
+      "endpoint": "https://graphql.anilist.co",
+      "http_status": 403
+    },
+    {
+      "checked_date": "2026-09-14",
+      "source": "mal_official_documentation",
+      "http_status": 200,
+      "client_id_read_only_auth_documented": true,
+      "live_api_acceptance": "not_tested_without_client_id"
+    }
+  ]
+}

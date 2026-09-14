@@ -1,0 +1,46 @@
+{
+  "source_url": "https://myanimelist.net/apiconfig/references/api/v2",
+  "retrieved_date": "2026-09-14",
+  "client_auth": {
+    "type": "apiKey",
+    "name": "X-MAL-CLIENT-ID",
+    "in": "header",
+    "description": "When user login is not required, the X-MAL-CLIENT-ID request header can be used to authenticate the client by setting your API client ID.\n"
+  },
+  "servers": [
+    {
+      "url": "https://api.myanimelist.net/v2"
+    }
+  ],
+  "anime_statistics": {
+    "type": "object",
+    "description": "",
+    "properties": {
+      "num_list_users": {
+        "type": "integer",
+        "nullable": false
+      },
+      "status": {
+        "type": "object",
+        "properties": {
+          "watching": {
+            "type": "integer"
+          },
+          "completed": {
+            "type": "integer"
+          },
+          "on_hold": {
+            "type": "integer"
+          },
+          "dropped": {
+            "type": "integer"
+          },
+          "plan_to_watch": {
+            "type": "integer"
+          }
+        },
+        "nullable": false
+      }
+    }
+  }
+}

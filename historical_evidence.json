@@ -1,0 +1,31 @@
+{
+  "source": "User-supplied Fall 2025 anime ranking screenshot",
+  "coverage": "Partial transcribed sample, not complete rankings",
+  "week_number": "not_visible_in_crop; user identifies end-of-season rankings",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Boku no Hero Academia: Final Season",
+      "weekly_points": 230232,
+      "total_points": 936075
+    },
+    {
+      "rank": 8,
+      "title": "Kingdom 6th Season",
+      "weekly_points": 123390,
+      "total_points": 354149
+    },
+    {
+      "rank": 10,
+      "title": "Sanda",
+      "weekly_points": 68859,
+      "total_points": 322653
+    },
+    {
+      "rank": 20,
+      "title": "Towa no Yuugure",
+      "weekly_points": 8881,
+      "total_points": 209519
+    }
+  ]
+}
