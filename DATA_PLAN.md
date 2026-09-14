@@ -1,13 +1,13 @@
 # FAL Fall 2026 evidence plan
 
-The tracker currently contains one September 14 MAL/FAL baseline. It is not yet a prediction model and cannot establish growth from a single observation.
+Version 0.2 collects daily MAL observations and attempts independent sources. Consult tracking_report.md and external_report.md for live coverage. Implementation is not evidence of successful access. It is not yet a prediction model.
 
 ## Automated series
 
 | Signal | Fields | Frequency | Intended use |
 |---|---|---|---|
-| Official MAL API | Total list users; Plan to Watch; Watching; Completed; Dropped; On Hold; score; scoring-user count | Every two days preseason; weekly after launch | Audience level, growth, conversion, score and drop trajectory; Ace threshold |
-| AniList API, after a GitHub-runner acceptance test | Popularity; favourites; average score; status distribution and available trend history | Same dates as MAL | Independent audience momentum and early reception |
+| Official MAL API | Total list users; Plan to Watch; Watching; Completed; Dropped; On Hold; score; scoring-user count | Daily preseason and in-season; additional Sunday checkpoint | Audience level, growth, conversion, score and drop trajectory; Ace threshold |
+| AniList API, subject to successful runtime acceptance | Popularity; favourites; average score; status distribution and available trend history | Same dates as MAL | Independent audience momentum and early reception |
 
 Cross-site levels will not be added together. They are separate predictors, and growth is calculated only within a consistent source.
 
@@ -49,5 +49,5 @@ These signals are better researched at defined checkpoints than scraped blindly 
 - Cached observations are not fresh observations.
 - Total MAL members are not the Ace-threshold quantity; Watching plus Completed is.
 - Current data for an old title cannot substitute for its historical preseason state.
-- Social signals enter the model only if historical validation shows incremental value beyond MAL/AniList and franchise priors.
+- Social signals receive fitted predictive weights only if historical validation shows incremental value. Until then they are labeled qualitative evidence with uncertainty.
 - Popularity, rating, discussions, drops and favorites are forecast separately before applying the FAL scoring rules.

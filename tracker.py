@@ -140,7 +140,7 @@ def collect(state, source, limit=None):
     client_id = os.environ.get("MAL_CLIENT_ID")
     if source == "mal" and not client_id:
         raise ValueError("Set MAL_CLIENT_ID in the execution environment. Do not put secrets in the project.")
-    run = {"started_at": now(), "source": source, "attempted": 0, "successes": 0, "errors": [], "usable_new_records": 0}
+    run = {"started_at": now(), "source": source, "expected": len(roster) * (1 if source == "mal" else 2), "attempted": 0, "successes": 0, "errors": [], "usable_new_records": 0}
     consecutive_errors = 0
     for anime in roster:
         mid = anime["mal_id"]
@@ -156,9 +156,12 @@ def collect(state, source, limit=None):
                     if payload.get("id") != mid:
                         raise ValueError("Response MAL ID mismatch")
                     status = (payload.get("statistics") or {}).get("status") or {}
+                    if payload.get("num_list_users") is None or any(status.get(k) is None for k in ("watching", "completed", "on_hold", "dropped", "plan_to_watch")):
+                        raise ValueError("Missing required audience statistics")
                     record = {"mal_id": mid, "source": "mal_official", "retrieved_at": now(), "observed_at": now(),
                               "source_time_quality": "retrieval_time_proxy", "response_title": payload.get("title"),
                               "airing_status": payload.get("status"), "start_date": payload.get("start_date"),
+                              "metadata": {k: payload.get(k) for k in ("end_date", "media_type", "num_episodes", "broadcast", "source")},
                               "metrics": {"members": payload.get("num_list_users"), "score": payload.get("mean"),
                                           "scored_by": payload.get("num_scoring_users"),
                                           **{k: int(status[k]) if status.get(k) is not None else None for k in ("watching", "completed", "on_hold", "dropped", "plan_to_watch")}},
@@ -215,35 +218,16 @@ def growth_pair(before, after, metric="members"):
             "percent_change": 100*(b-a)/a if a else None}
 
 
+def collection_complete(run):
+    return (run.get("expected", 0) > 0
+            and run.get("successes") == run["expected"]
+            and run.get("attempted") == run["expected"]
+            and not run.get("errors") and not run.get("stopped_reason"))
+
+
 def report(state):
-    lines = ["# FAL Fall 2026 tracking status", "", f"Generated: {now()}", "",
-             f"Roster: {len(state['roster'])} selectable titles; {sum(x['restricted'] for x in state['roster'])} restricted.",
-             "Registration closes 2026-09-27 22:00 UTC. Week 1 scores 2026-10-04 22:00 UTC.", "",
-             "Total members are not Watching + Completed. Missing data are not zero. Sources are never mixed when calculating growth.", "",
-             "The uploaded baseline has a known capture date but no verified timezone; it is excluded from exact daily-growth calculations.", "",
-             "| Title | Restricted | Uploaded members | Premiere (JST date) | Comparable growth/day |", "|---|---|---:|---|---:|"]
-    for anime in state["roster"]:
-        records = [r for r in state["snapshots"] if r["mal_id"] == anime["mal_id"]]
-        uploaded = [r for r in records if r["source"] == "user_saved_fal_html"]
-        base = uploaded[0]["metrics"]["members"] if uploaded else None
-        candidates = []
-        for source in {r["source"] for r in records}:
-            valid = sorted([r for r in records if r["source"] == source and r.get("eligible_for_growth") and r["metrics"].get("members") is not None], key=lambda r:r["observed_at"])
-            if len(valid) >= 2:
-                result = growth_pair(valid[0], valid[-1])
-                if result is not None:
-                    candidates.append((valid[-1]["observed_at"], result))
-        growth = f"{max(candidates, key=lambda r:r[0])[1]['per_day']:.1f}" if candidates else "Insufficient fresh observations"
-        title = anime["title"].replace("|", "\\|")
-        lines.append(f"| {title} | {'Yes' if anime['restricted'] else 'No'} | {base:,} | {anime['premiere_date_jst']} | {growth} |")
-    lines += ["", "## Schedule checks", ""]
-    for anime in state["roster"]:
-        if anime["premiere_date_jst"] >= "2026-11-02":
-            lines.append(f"- {anime['title']}: listed premiere {anime['premiere_date_jst']} falls after Week 5 (November 1 UTC). Verify before selecting.")
-        elif anime["premiere_date_jst"] < "2026-09-27":
-            lines.append(f"- {anime['title']}: listed premiere precedes registration close; verify unusual broadcast circumstances.")
-    lines += ["", "## Collection runs", "", json.dumps(state.get("runs", []), indent=2), ""]
-    (ROOT / "tracking_report.md").write_text("\n".join(lines), encoding="utf-8")
+    from reporting import write_reports
+    write_reports(state, ROOT)
 
 
 def main():
@@ -264,6 +248,8 @@ def main():
         result = collect(state, args.source, args.limit)
         print(json.dumps(result, indent=2))
     report(state)
+    if args.command == "collect" and not collection_complete(result):
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

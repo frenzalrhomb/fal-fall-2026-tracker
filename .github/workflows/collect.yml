@@ -1,63 +1,101 @@
-name: Collect FAL preseason data
+name: Collect FAL data
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "*.py"
+      - ".github/workflows/collect.yml"
   schedule:
-    # September 16, 18, 20, 22, 24 and 26 at 09:17 UTC.
-    - cron: "17 9 16-26/2 9 *"
-    # Final pre-deadline run on September 27 at 14:30 UTC.
+    - cron: "17 9 15-27 9 *"
     - cron: "30 14 27 9 *"
+    - cron: "17 9 * 10-12 *"
+    - cron: "17 20 * 10-12 0"
 
 permissions:
   contents: write
 
+concurrency:
+  group: fal-data-main
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 15
     steps:
       - name: Check collection window
         id: window
         shell: bash
         run: |
-          if [[ "$(date -u +%Y)" == "2026" ]]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
+          today=$(date -u +%F)
+          if [[ "$today" < "2026-09-14" || "$today" > "2026-12-27" ]]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Check out tracker
         if: steps.window.outputs.run == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
         if: steps.window.outputs.run == 'true'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
-      - name: Collect MAL statistics
+      - name: Test data integrity and rule arithmetic
+        id: tests
         if: steps.window.outputs.run == 'true'
+        run: python -m unittest discover -v
+
+      - name: Collect MAL statistics
+        id: mal
+        if: steps.tests.outcome == 'success'
+        continue-on-error: true
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: python tracker.py collect --source mal
 
-      - name: Verify and rebuild report
-        if: steps.window.outputs.run == 'true'
-        run: |
-          python -m unittest -v test_tracker.py
-          python tracker.py report
+      - name: Collect independent signals
+        id: external
+        if: always() && steps.tests.outcome == 'success'
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python external_collect.py
 
-      - name: Save new observations
-        if: steps.window.outputs.run == 'true'
+      - name: Rebuild reports
+        if: always() && steps.tests.outcome == 'success'
+        run: python tracker.py report
+
+      - name: Preserve observations and failure records
+        if: always() && steps.tests.outcome == 'success'
         shell: bash
         run: |
-          if git diff --quiet -- tracking_state.json tracking_report.md; then
-            echo "No data changes to commit."
-            exit 0
-          fi
           git config user.name "FAL data collector"
           git config user.email "actions@users.noreply.github.com"
-          git add tracking_state.json tracking_report.md
-          git commit -m "Collect FAL snapshot $(date -u +%F)"
+          for file in tracking_state.json tracking_report.md tracking_features.csv external_state.json external_report.md; do
+            if [[ -f "$file" ]]; then git add -- "$file"; fi
+          done
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Collect FAL evidence $(date -u +%FT%H:%MZ)"
           git push
+
+      - name: Report collection health
+        if: always() && steps.tests.outcome == 'success'
+        env:
+          MAL_OUTCOME: ${{ steps.mal.outcome }}
+          EXTERNAL_OUTCOME: ${{ steps.external.outcome }}
+        run: |
+          echo "MAL collection: $MAL_OUTCOME" >> "$GITHUB_STEP_SUMMARY"
+          echo "Independent collection: $EXTERNAL_OUTCOME (see external_report.md for source coverage)" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$EXTERNAL_OUTCOME" != "success" ]]; then
+            echo "::warning::One or more independent sources is unavailable or incomplete. See external_report.md."
+          fi
+          if [[ "$MAL_OUTCOME" != "success" ]]; then
+            echo "::error::MAL collection incomplete. Successful rows and failure records were preserved."
+            exit 1
+          fi

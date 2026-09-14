@@ -1,74 +1,58 @@
-# FAL Fall 2026 tracker — version 0.1
+# FAL Fall 2026 tracker — version 0.2
 
-Status: roster and uploaded baseline extracted and tested. Automatic fresh data collection is NOT enabled. Official MAL API adapter is implemented but awaits a user-supplied Client ID and a successful live acceptance test. No model has been trained and no team has been submitted.
+This project collects evidence for Fantasy Anime League roster decisions. It is not yet a trained prediction model and has not submitted a team.
 
-## Contents
+## Open the results
 
-- `tracker.py`: dependency-free Python collector, saved-HTML importer, growth calculation and report generation.
-- `tracking_state.json`: all 69 selectable titles, their exact MAL IDs, restricted flags, premiere dates and 69 uploaded membership observations; append-only observations with deduplication, plus source-access test evidence.
-- `tracking_report.md`: readable full roster, data coverage and schedule warnings.
-- `test_tracker.py`: six data-integrity tests covering stale caches, missing values, identity, duplicates and growth calculations.
-- `official_api_reference.json`: narrowly extracted official API documentation relevant to read-only client authentication and list-status counts.
-- `historical_evidence.json`: a few explicitly transcribed Fall 2025 screenshot rows for strategy analysis. This is a partial sample, not a complete historical dataset.
-- `next_steps.json`: readiness gates and proposed collection schedule; not a running automation.
+- [Live audience and momentum report](tracking_report.md): all 69 titles, latest MAL counts, status breakdown, score availability, freshness, momentum and independent-platform coverage.
+- [External-source report](external_report.md): actual collection status and evidence candidates; blocked and unconfigured sources stay visible.
+- [Feature table](tracking_features.csv): latest fields and growth measurements for analysis.
+- [Raw MAL history](tracking_state.json) and [raw independent history](external_state.json): timestamped, append-only observations.
+- [Model specification](MODEL_SPEC.md): what must be resolved and validated before final picks.
 
-## Run locally
+## Running automatically
 
-Requires Python 3.10 or newer; no third-party Python packages.
+GitHub Actions runs daily September 15–27 at 09:17 UTC and September 27 at 14:30 UTC.
+It then runs daily October–December 27 at 09:17 UTC, with Sunday checkpoints at 20:17 UTC.
+All automatic execution stops after December 27, 2026. The user does not need to run it manually.
 
-Generate report:
+Code changes on main also trigger tests and collection. An Actions green result means core MAL collection succeeded, not that every optional platform is available; check the external-source report.
 
-```sh
-python tracker.py report
-```
+- Required repository secret: MAL_CLIENT_ID.
+- Optional repository secret: YOUTUBE_API_KEY, only if YouTube collection is enabled through a user-provided Google API key.
+- No OpenAI API key or LLM call is used for collection.
+- Never store credentials in files or commits.
 
-Import another user-saved FAL roster HTML (timestamp is the time the page was saved, including timezone):
+## Sources
 
-```sh
-python tracker.py import-html new_roster.html --captured-at 2026-09-16T15:00:00+07:00
-```
+MAL: all 69 eligible IDs, audience states, score/scorer count, airing status and schedule metadata. Missing audience fields fail validation; a partial run cannot silently succeed.
 
-Use a capture DATE instead if timezone-qualified time is not known; the observation is retained but not used for precise per-day growth.
+AniList: separate popularity, favorites, 0–100 scores, status distribution, studio/trailer metadata and current franchise relations. Exact MAL ID matching; no fuzzy joins. Successful runtime access is required before calling it active.
 
-```sh
-python tracker.py import-html new_roster.html --captured-date 2026-09-16
-```
+Reddit: bounded sample of the latest 100 r/anime posts from the past seven days. This discovers title-matched evidence candidates; it is not a complete mention count or sentiment estimate. Missing matches do not establish no interest.
 
-Collect using the official MAL API after setting the `MAL_CLIENT_ID` environment variable in the execution environment:
+YouTube: optional official Data API collector for AniList-linked trailer IDs. Captures views, likes and comments; channel identity needs review. No key means not configured, not zero views.
 
-```sh
-python tracker.py collect --source mal
-```
+X, Google Trends, MAL favorites and unique MAL episode-thread users remain unimplemented. Do not infer coverage from this roadmap.
 
-Public Jikan adapter (failed freshness/access acceptance on September 14; do not assume it is working):
+Access denials pause the affected independent source until its access setup is deliberately revised. No credential or access-control workaround is attempted.
 
-```sh
-python tracker.py collect --source jikan
-```
+## Data interpretation
 
-Run integrity tests:
+One snapshot is a baseline. Multiple snapshots on the same UTC day count as one day for trend fitting.
+Recent momentum uses a roughly three-day window. Pace change compares disjoint recent/prior windows and requires enough history in both.
+Sources are never added together. AniList favorites are not MAL favorites. Pre-airing Watching counts are not FAL audience points.
+Current franchise statistics are priors as of retrieval, not reconstructed historic preseason data.
+Scores remain missing when unpublished. Zero drop counts are retained as genuine observations.
 
-```sh
-python -m unittest -v test_tracker.py
-```
+## Development
 
-## Data and limits
+Python 3.10+, standard library only.
 
-- The uploaded PDF is stamped September 14, 2026, 16:09. Its timezone is not explicitly stated, so the initial snapshot has date-only precision. It is a valid membership baseline, not a verified exact-time source observation.
-- Total members, Plan to Watch, and Watching + Completed are different quantities. Only the latter determines the stated Ace threshold. The uploaded HTML supplies total members, not list-status breakdowns.
-- MAL official API exposes list-status counts and scores; its documented anime-details schema does not provide an anime-favorites count. Favorites and exact FAL discussion counts require an additional verified route.
-- Jikan detail successfully returned ID 53913 with 87,372 members, while the user upload shows 92,114. Its Last-Modified metadata was July 11 and Expires July 12. It is retained as source-access evidence only; this mismatch is NOT a September membership decline.
-- Jikan statistics, another title, the full detail route and the seasonal route returned 504 upstream-connection failures. AniList returned HTTP 403. These are current limitations of the tested routes; an API credential is not guaranteed to solve network access.
-- Never mix sources in a growth series. Treat cache timestamps as provenance proxies; they do not establish the exact MAL collection time. Duplicate cached observations do not create independent evidence. Unknown/missing data are not zero.
-- The initial report deliberately has no growth rates: it needs at least two fresh, comparable timestamped observations, separated by at least 24 hours.
-- The first report uses the earliest and latest comparable observation for an average daily rate. Robust recent slopes, acceleration and forecasting remain later model work.
-- Script saves data after each response, requests sequentially with a one-second gap, stops on authentication/access/rate-limit errors or three consecutive failures, and never modifies MAL lists or FAL teams. It does not run a background daemon or schedule itself.
-- For a future scheduled task, materialize the latest persistent archive, collect once, regenerate the report, replace the same archive identity, and only then report success. Do not rely on scratch storage surviving between runs. Test a fresh read and durable save before creating the collection automation.
+    python -m unittest discover -v
+    python tracker.py collect --source mal
+    python external_collect.py
+    python tracker.py report
 
-## Scoring and validation still to resolve
-
-- Clarify the even-week watching multiplier, Week 13 replacement/additive coefficients, exact Ace comparison rules and discussion windows.
-- Recover per-week historical anime points and, where possible, component statistics and timestamped preseason features. Final rankings alone cannot establish predictive accuracy.
-- Train and compare a simple baseline before adding external social signals. This tracker is the data foundation, not a validated ranking model.
-
-Official API reference: https://myanimelist.net/apiconfig/references/api/v2
+scoring.py provides rule arithmetic only and requires an explicit bonus interpretation.
+No forecast accuracy or winning-team claim has been established.
