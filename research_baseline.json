@@ -1,0 +1,124 @@
+{
+  "as_of": "2026-09-14",
+  "notes": [
+    {
+      "confidence": "high for stated schedule; finale inference requires verification",
+      "interpretation": "Do not assume full-title finale/completion within FAL; verify cour split and MAL entry mapping. Broadcast timing can affect Sunday snapshots.",
+      "mal_id": 61603,
+      "observed_date": "2026-09-14",
+      "source_type": "official_anime_site",
+      "source_url": "https://aoashi-pr.com/",
+      "title": "Ao Ashi Season 2",
+      "verified_fields": {
+        "announced_total_episodes": 24,
+        "broadcast_time_jst": "17:00 Sunday",
+        "opening_cour_episodes": 12,
+        "premiere_date_jst": "2026-10-04"
+      }
+    },
+    {
+      "confidence": "qualitative lead, not live baseline",
+      "interpretation": "Sampled reactions include source-material enthusiasm and concern about CG. Not representative sentiment; cached counts are discovery context only.",
+      "mal_id": 61603,
+      "metrics_eligible_for_growth": false,
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "search_snippet_metrics": {
+        "comments": 35,
+        "score": 224
+      },
+      "source_time_quality": "web_cache_time_uncertain",
+      "source_type": "public_reddit_thread",
+      "source_url": "https://www.reddit.com/r/anime/comments/1w4stoh/aoashi_season_2_new_pv/",
+      "title": "Ao Ashi Season 2"
+    },
+    {
+      "confidence": "qualitative lead",
+      "interpretation": "Positive sampled fan reactions to visual. Franchise-specific community selection bias; no verified engagement counts or current surge.",
+      "mal_id": 61323,
+      "metrics": null,
+      "metrics_eligible_for_growth": false,
+      "observed_at": null,
+      "observed_date": "2026-09-14",
+      "source_time_quality": "conflicting relative-time/cache labels",
+      "source_type": "public_reddit_thread",
+      "source_url": "https://www.reddit.com/r/BlueBox/comments/1vyl2lu/blue_box_season_2_key_visual/",
+      "title": "Ao no Hako Season 2"
+    },
+    {
+      "confidence": "secondary report",
+      "interpretation": "Distribution lead; verify with Netflix or official anime site before final schedule model. Older-season production references in article should not be reused uncritically.",
+      "mal_id": 61323,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-09-02",
+      "reported_fields": {
+        "netflix_release_date": "2026-10-04"
+      },
+      "source_type": "secondary_distribution_news",
+      "source_url": "https://www.whats-on-netflix.com/news/anime/blue-box-season-2-netflix-release-date-everything-we-know/",
+      "title": "Ao no Hako Season 2"
+    },
+    {
+      "confidence": "discovery lead only",
+      "interpretation": "Old promotional thread. Fan enthusiasm does not establish September momentum. Counts cached, not current.",
+      "mal_id": 59088,
+      "metrics_eligible_for_growth": false,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-03-29",
+      "search_snippet_metrics": {
+        "comments": 77,
+        "score": 715
+      },
+      "source_type": "search_discovered_reddit_thread",
+      "source_url": "https://www.reddit.com/r/TokyoRevengers/comments/1s6p9mm/tokyo_revengers_season_4_new_trailer_is_out/",
+      "title": "Tokyo Revengers: Santen Sensou-hen"
+    },
+    {
+      "confidence": "unverified lead",
+      "interpretation": "Thread reports Disney+ distribution; verify official regional availability and schedule. Not enough evidence to treat as confirmed worldwide distribution.",
+      "mal_id": 59088,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-08-24",
+      "source_type": "search_discovered_distribution_lead",
+      "source_url": "https://www.reddit.com/r/Animedubs/comments/1vx0p5c/new_key_visual_and_trailer_for_tokyo_revengers/",
+      "title": "Tokyo Revengers: Santen Sensou-hen"
+    },
+    {
+      "confidence": "discovery lead",
+      "interpretation": "Recent key-visual thread located for repeatable follow-up. No trustworthy current engagement totals obtained.",
+      "mal_id": 63293,
+      "metrics": null,
+      "metrics_eligible_for_growth": false,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-09-06",
+      "source_type": "search_discovered_reddit_thread",
+      "source_url": "https://www.reddit.com/r/anime/comments/1w8mwen/firefly_wedding_key_visual/",
+      "title": "Hotaru no Yomeiri"
+    },
+    {
+      "confidence": "discovery lead",
+      "interpretation": "Trailer candidate found through search. Direct video retrieval failed; verify channel and title with API before treating as official.",
+      "mal_id": 63293,
+      "metrics": null,
+      "metrics_eligible_for_growth": false,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-06-03",
+      "reported_channel": "Crunchyroll",
+      "source_type": "search_discovered_youtube_trailer",
+      "source_url": "https://www.youtube.com/watch?v=kLfQNqd_NA0",
+      "title": "Hotaru no Yomeiri",
+      "video_id": "kLfQNqd_NA0"
+    },
+    {
+      "confidence": "discovery lead",
+      "interpretation": "Additional trailer and shoujo-community evidence candidate. No current reach estimate.",
+      "linked_video_id": "feXx-UG9iZk",
+      "mal_id": 63293,
+      "observed_date": "2026-09-14",
+      "publication_date": "2026-03-25",
+      "source_type": "search_discovered_reddit_thread",
+      "source_url": "https://www.reddit.com/r/shoujo/comments/1s3nkni/new_visual_for_the_firefly_wedding_anime/",
+      "title": "Hotaru no Yomeiri"
+    }
+  ]
+}

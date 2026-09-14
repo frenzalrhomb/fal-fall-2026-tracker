@@ -8,6 +8,7 @@ This project collects evidence for Fantasy Anime League roster decisions. It is 
 - [External-source report](external_report.md): actual collection status and evidence candidates; blocked and unconfigured sources stay visible.
 - [Feature table](tracking_features.csv): latest fields and growth measurements for analysis.
 - [Raw MAL history](tracking_state.json) and [raw independent history](external_state.json): timestamped, append-only observations.
+- [Research checkpoint](RESEARCH_CHECKPOINT.md): sourced schedule checks and qualitative social leads, with uncertainty explicitly recorded.
 - [Model specification](MODEL_SPEC.md): what must be resolved and validated before final picks.
 
 ## Running automatically

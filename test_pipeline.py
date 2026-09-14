@@ -83,6 +83,19 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(r["stopped_reason"],"access_denied_source_paused")
         self.assertEqual(paused["stopped_reason"],"paused_after_access_denial")
 
+    def test_anilist_missing_ids_do_not_skip_later_titles(self):
+        missing=HTTPError("test",404,"not found",{},None)
+        payload={"data":{"Media":{"id":20,"idMal":4,"popularity":100,"favourites":0}}}
+        data={"snapshots":[],"runs":[]}
+        with patch.object(external,"save"),patch.object(external.time,"sleep"),patch.object(external,"request",side_effect=[missing,missing,missing,payload]) as request:
+            r=external.run_source("anilist",[{"mal_id":i} for i in range(1,5)],data)
+        self.assertEqual(request.call_count,4)
+        self.assertEqual(r["missing_ids"],[1,2,3])
+        self.assertEqual(len(r["errors"]),3)
+        self.assertEqual(r["successes"],1)
+        self.assertNotIn("stopped_reason",r)
+        self.assertEqual(data["snapshots"][0]["mal_id"],4)
+
     def test_title_matching_requires_word_boundaries(self):
         self.assertEqual(external.title_matches("Psyren official trailer",["Psyren"]),["Psyren"])
         self.assertEqual(external.title_matches("Psyrenish unrelated post",["Psyren"]),[])

@@ -99,6 +99,11 @@ def run_source(source, roster, data):
         code = getattr(exc, "code", None)
         # Never log request headers, credential values or exception URLs.
         run["errors"].append({"target": target, "http_status": code, "error": type(exc).__name__, "at": now()})
+        if source == "anilist" and code == 404:
+            # An individual missing ID is a coverage gap, not an outage.
+            run.setdefault("missing_ids", []).append(target)
+            consecutive = 0
+            return False
         if code in (401, 403):
             data.setdefault("paused", {})[source] = {"at": now(), "http_status": code}
             run["stopped_reason"] = "access_denied_source_paused"
@@ -210,6 +215,11 @@ def report(data):
         r=runs[-1]
         status=r.get("stopped_reason") or ("errors" if r["errors"] else "success")
         lines.append(f"| {source} | {r['started_at']} | {r['successes']} | {r['expected']} | {status} |")
+    anilist_runs = [r for r in data.get("runs", []) if r["source"] == "anilist"]
+    if anilist_runs and anilist_runs[-1].get("missing_ids"):
+        lines += ["", "AniList returned no mapping (HTTP 404) for MAL IDs: "+
+                  ", ".join(map(str, anilist_runs[-1]["missing_ids"]))+
+                  ". Other titles were still checked."]
     lines += ["", "## Limits", "",
               "- AniList titles are matched by MAL ID; missing matches stay missing. Scores retain the 0–100 scale.",
               "- AniList current franchise statistics are today's priors, not historical preseason observations.",
