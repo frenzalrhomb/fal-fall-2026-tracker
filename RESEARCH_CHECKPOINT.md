@@ -6,6 +6,8 @@ Machine-readable evidence and explicit uncertainty are in [research_baseline.jso
 
 | Title | Evidence found | Decision relevance | What it does not establish |
 |---|---|---|---|
+| Reincarnated as a Sword II | [Official schedule](https://tenken-anime.com/onair.html) gives ABEMA advance release October 1 at 00:30 JST, ahead of October 8 TV premiere | Could affect week 1; reconcile MAL/FAL airing-status handling before assigning points | Guaranteed early FAL credit or worldwide streaming access |
+| Reincarnated as a Sword II | [Official news](https://tenken-anime.com/news.html) lists September follow/repost and reaction giveaways | Tag promotional engagement separately from organic demand | A measured surge; X counts are not collected |
 | Ao Ashi Season 2 | [Official site](https://aoashi-pr.com/) states 24 episodes, opening cour of 12, October 4 Sunday premiere at 17:00 JST | Verify cour/entry boundaries; do not assume full-series finale in December | A projected rating, audience or FAL rank |
 | Ao Ashi Season 2 | [PV discussion](https://www.reddit.com/r/anime/comments/1w4stoh/aoashi_season_2_new_pv/) has both manga enthusiasm and CG concerns | Production reception deserves follow-up alongside audience growth | Representative sentiment or a current surge |
 | Blue Box Season 2 | [Key-visual discussion](https://www.reddit.com/r/BlueBox/comments/1vyl2lu/blue_box_season_2_key_visual/) contains positive sampled fan reactions | Track a specific resource over time, accounting for fan-community bias | Broad audience demand or trustworthy live counts |
@@ -19,3 +21,21 @@ The original FAL uploaded membership baseline remains separate from both these w
 
 Next detailed research should cover all four restricted titles and approximately 20 unrestricted candidates, without dropping broader discovery coverage.
 Source/franchise reception is a prior, not this user's personal anime preferences.
+
+## Initial platform comparison
+
+Snapshot date: September 14, 2026. Ranks below use the same 63-title intersection with verified MAL and AniList observations. They are popularity ranks within the eligible roster, not projected FAL ranks. Missing AniList matches are excluded from both ranking columns.
+
+| Title | MAL members | MAL rank | AniList popularity | AniList rank |
+|---|---:|---:|---:|---:|
+| Tensei shitara Ken deshita II | 92,159 | 1 | 36,904 | 1 |
+| Ao no Hako Season 2 | 69,505 | 2 | 32,835 | 2 |
+| Tokyo Revengers: Santen Sensou-hen | 58,161 | 3 | 22,817 | 3 |
+| Ao Ashi Season 2 | 31,256 | 8 | 15,258 | 8 |
+| Hotaru no Yomeiri | 28,943 | 9 | 16,649 | 7 |
+| Tempal: Item no Chikara | 9,571 | 27 | 8,781 | 16 |
+| Dark Summoner to Dekiteiru | 4,477 | 41 | 5,359 | 26 |
+
+Tempal and Dark Summoner merit follow-up because their relative popularity is stronger on AniList. This could reflect platform demographics rather than future MAL growth. Confirm with repeated observations and source/franchise quality research. The four restricted titles have the same relative order on both sites; quality, premiere timing and Ace opportunities can still alter their FAL value.
+
+These are static comparisons. No September surge is yet established by a series spanning multiple days.

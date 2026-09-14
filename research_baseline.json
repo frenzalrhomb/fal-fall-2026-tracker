@@ -119,6 +119,35 @@
       "source_type": "search_discovered_reddit_thread",
       "source_url": "https://www.reddit.com/r/shoujo/comments/1s3nkni/new_visual_for_the_firefly_wedding_anime/",
       "title": "Hotaru no Yomeiri"
+    },
+    {
+      "confidence": "high for announced schedule; FAL handling not verified",
+      "interpretation": "Official Japanese schedule uses September 30 24:30 for advance streaming (October 1 civil date). MAL currently lists October 8, consistent with television premiere. Advance streaming is before FAL week 1 cutoff October 4; verify MAL/FAL airing status handling rather than assume zero week 1 or guaranteed credit.",
+      "mal_id": 53913,
+      "observed_date": "2026-09-14",
+      "source_type": "official_anime_schedule",
+      "source_url": "https://tenken-anime.com/onair.html",
+      "title": "Tensei shitara Ken deshita II",
+      "verified_fields": {
+        "abema_advance_local": "2026-10-01T00:30:00+09:00",
+        "abema_advance_utc": "2026-09-30T15:30:00Z",
+        "tokyo_mx_local": "2026-10-08T00:00:00+09:00"
+      }
+    },
+    {
+      "confidence": "verified promotion; no measured engagement",
+      "interpretation": "Prize-driven follow/repost and reaction campaigns can inflate social counts independently of organic viewing demand. Tag campaign-linked engagement separately if future X collection is enabled; no X metrics collected.",
+      "mal_id": 53913,
+      "observed_date": "2026-09-14",
+      "source_type": "official_anime_campaign",
+      "source_url": "https://tenken-anime.com/news.html",
+      "title": "Tensei shitara Ken deshita II",
+      "verified_fields": {
+        "collaboration_repost_giveaway_end_jst": "2026-09-23T23:59",
+        "collaboration_repost_giveaway_start": "2026-09-11",
+        "first_season_reaction_campaign_end_jst": "2026-09-27T23:59",
+        "first_season_reaction_campaign_start": "2026-08-27"
+      }
     }
   ]
 }
