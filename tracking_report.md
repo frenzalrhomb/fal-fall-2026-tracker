@@ -1,6 +1,6 @@
 # FAL Fall 2026 tracking status
 
-Generated: 2026-09-14T09:59:03.352560+00:00
+Generated: 2026-09-14T12:12:28.348007+00:00
 
 Roster: 69 selectable titles; 4 restricted.
 Registration closes 2026-09-27 22:00 UTC. Week 1 scores 2026-10-04 22:00 UTC.
@@ -88,4 +88,14 @@ The uploaded baseline has a known capture date but no verified timezone; it is e
 
 ## Collection runs
 
-[]
+[
+  {
+    "started_at": "2026-09-14T12:11:09.210509+00:00",
+    "source": "mal",
+    "attempted": 69,
+    "successes": 69,
+    "errors": [],
+    "usable_new_records": 69,
+    "finished_at": "2026-09-14T12:12:28.112444+00:00"
+  }
+]
