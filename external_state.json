@@ -12854,6 +12854,6433 @@
         }
       ],
       "snapshot_id": "732a211b5fd247cf2bdd68443bbf43b1f2e53a4f133eb8ef3dbe7ec461b00302"
+    },
+    {
+      "mal_id": 53913,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:28.569055+00:00",
+      "retrieved_at": "2026-09-15T14:22:28.569055+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 37038,
+        "favorites": 586,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 159042,
+      "titles": {
+        "romaji": "Tensei Shitara Ken Deshita 2nd Season",
+        "english": "Reincarnated as a Sword Season 2",
+        "native": "転生したら剣でした 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 2326
+        },
+        {
+          "status": "PLANNING",
+          "amount": 33979
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 283
+        },
+        {
+          "status": "DROPPED",
+          "amount": 109
+        },
+        {
+          "status": "PAUSED",
+          "amount": 341
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "ONA",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 1
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6052,
+              "name": "C2C"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "kbtRqqa2GyA",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 97466,
+            "idMal": 99891,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Tensei Shitara Ken Deshita",
+              "english": "Reincarnated as a Sword"
+            },
+            "popularity": 3529,
+            "averageScore": 77,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 139587,
+            "idMal": 49891,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Tensei Shitara Ken Deshita",
+              "english": "Reincarnated as a Sword"
+            },
+            "popularity": 114592,
+            "averageScore": 74,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 98014,
+            "idMal": 103144,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tensei Shitara Ken Deshita",
+              "english": "Reincarnated as a Sword"
+            },
+            "popularity": 17405,
+            "averageScore": 73,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "054535642a6547bae484e132b96e95c23856a51b8a777d26ddae9b78aa197591"
+    },
+    {
+      "mal_id": 61323,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:30.722498+00:00",
+      "retrieved_at": "2026-09-15T14:22:30.722498+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 32989,
+        "favorites": 475,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 189123,
+      "titles": {
+        "romaji": "Ao no Hako Season 2",
+        "english": "Blue Box Season 2",
+        "native": "アオのハコ Season２"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 1378
+        },
+        {
+          "status": "PLANNING",
+          "amount": 30968
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 236
+        },
+        {
+          "status": "DROPPED",
+          "amount": 105
+        },
+        {
+          "status": "PAUSED",
+          "amount": 302
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7799,
+              "name": "Electric Circus"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "hJ6Y8PAOUk8",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 132182,
+            "idMal": 135545,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Ao no Hako",
+              "english": "Blue Box"
+            },
+            "popularity": 55252,
+            "averageScore": 81,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 170942,
+            "idMal": 57181,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Ao no Hako",
+              "english": "Blue Box"
+            },
+            "popularity": 148708,
+            "averageScore": 81,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "6b23add618300dd31b2ac735a75026d0acb439a9c2e46caf9cccb33af8352058"
+    },
+    {
+      "mal_id": 59088,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:32.953637+00:00",
+      "retrieved_at": "2026-09-15T14:22:32.953637+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 22912,
+        "favorites": 276,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 178083,
+      "titles": {
+        "romaji": "Tokyo Revengers: Santen Sensou-hen",
+        "english": null,
+        "native": "東京リベンジャーズ 三天戦争編"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 1030
+        },
+        {
+          "status": "PLANNING",
+          "amount": 21135
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 325
+        },
+        {
+          "status": "DROPPED",
+          "amount": 130
+        },
+        {
+          "status": "PAUSED",
+          "amount": 292
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 839,
+              "name": "LIDENFILMS"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "Nm21TTXUkf4",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 163329,
+            "idMal": 54918,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Tokyo Revengers: Tenjiku-hen",
+              "english": "Tokyo Revengers Season 2 Part 2"
+            },
+            "popularity": 85666,
+            "averageScore": 77,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 102988,
+            "idMal": 104565,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tokyo卍Revengers",
+              "english": "Tokyo Revengers"
+            },
+            "popularity": 117772,
+            "averageScore": 74,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "SPIN_OFF",
+          "node": {
+            "id": 178084,
+            "idMal": 59091,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Douwa Revengers",
+              "english": null
+            },
+            "popularity": 868,
+            "averageScore": 52,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "e5fde0dd6ba11e61a9f3a868d08786dd4dc6bd9a5e2a4a24f3529b5755c93c84"
+    },
+    {
+      "mal_id": 61603,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:35.120176+00:00",
+      "retrieved_at": "2026-09-15T14:22:35.120176+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 15333,
+        "favorites": 168,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 191788,
+      "titles": {
+        "romaji": "Aoashi 2nd Season",
+        "english": null,
+        "native": "アオアシ 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 759
+        },
+        {
+          "status": "PLANNING",
+          "amount": 14260
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 106
+        },
+        {
+          "status": "DROPPED",
+          "amount": 46
+        },
+        {
+          "status": "PAUSED",
+          "amount": 162
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": 24,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 73,
+              "name": "TMS Entertainment"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "phKPnPXm74c",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 107279,
+            "idMal": 102256,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Aoashi",
+              "english": "Aoashi"
+            },
+            "popularity": 25381,
+            "averageScore": 86,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 134732,
+            "idMal": 49052,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Aoashi",
+              "english": "Aoashi"
+            },
+            "popularity": 90920,
+            "averageScore": 81,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "5ec87dff1ea720599af0ee9d742a46761cbb22bbb47feb9f3c5b8b64aa23533c"
+    },
+    {
+      "mal_id": 52480,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:37.357100+00:00",
+      "retrieved_at": "2026-09-15T14:22:37.357100+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 19651,
+        "favorites": 256,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 152677,
+      "titles": {
+        "romaji": "Tantei wa mou, Shindeiru. Season 2",
+        "english": null,
+        "native": "探偵はもう、死んでいる。Season2"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 832
+        },
+        {
+          "status": "PLANNING",
+          "amount": 18315
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 156
+        },
+        {
+          "status": "DROPPED",
+          "amount": 120
+        },
+        {
+          "status": "PAUSED",
+          "amount": 228
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 7
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6292,
+              "name": "ENGI"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "8AnNxEp733c",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114202,
+            "idMal": 128721,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Tantei wa mou, Shindeiru.",
+              "english": "The Detective is Already Dead"
+            },
+            "popularity": 3180,
+            "averageScore": 72,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 119752,
+            "idMal": 132613,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tantei wa mou, Shindeiru.",
+              "english": "The Detective is Already Dead"
+            },
+            "popularity": 2689,
+            "averageScore": 61,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 128712,
+            "idMal": 46471,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Tantei wa mou, Shindeiru.",
+              "english": "The Detective Is Already Dead"
+            },
+            "popularity": 129177,
+            "averageScore": 61,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "ab1f0c0771ef9ef7a03778fde56690466f8a1130c754ad0d07a4a0442ae34850"
+    },
+    {
+      "mal_id": 57612,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:39.513870+00:00",
+      "retrieved_at": "2026-09-15T14:22:39.513870+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 19375,
+        "favorites": 251,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 172192,
+      "titles": {
+        "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+        "english": "A Returner's Magic Should be Special Season 2",
+        "native": "帰還者の魔法は特別です 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 1435
+        },
+        {
+          "status": "PLANNING",
+          "amount": 17417
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 157
+        },
+        {
+          "status": "DROPPED",
+          "amount": 88
+        },
+        {
+          "status": "PAUSED",
+          "amount": 278
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6239,
+              "name": "Arvo Animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "YBWOrQCB9r0",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 105393,
+            "idMal": 132247,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
+              "english": "A Returner's Magic Should Be Special"
+            },
+            "popularity": 49940,
+            "averageScore": 76,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 163142,
+            "idMal": 54852,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Kikansha no Mahou wa Tokubetsu desu",
+              "english": "A Returner's Magic Should Be Special"
+            },
+            "popularity": 69105,
+            "averageScore": 69,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "c76d323c70c728995c418031a02e76fcc05eae98c8192430057ffce58e655c93"
+    },
+    {
+      "mal_id": 60601,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:41.779410+00:00",
+      "retrieved_at": "2026-09-15T14:22:41.779410+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 13433,
+        "favorites": 142,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 185756,
+      "titles": {
+        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+        "english": null,
+        "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 968
+        },
+        {
+          "status": "PLANNING",
+          "amount": 12164
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 91
+        },
+        {
+          "status": "DROPPED",
+          "amount": 52
+        },
+        {
+          "status": "PAUSED",
+          "amount": 158
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 9,
+          "day": 27
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7857,
+              "name": "GeyeG Pictures"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "8_Lxr7vO9l0",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 178434,
+            "idMal": 59131,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+              "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2"
+            },
+            "popularity": 48282,
+            "averageScore": 73,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 125198,
+            "idMal": 134946,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Tensei Kizoku Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuidanode, Yuushuuna Jinzai wo Fuyashite Itara, Saikyou Ryouchi ni Natteta",
+              "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
+            },
+            "popularity": 889,
+            "averageScore": 61,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "852f6095707ac5c0fa8bff03213e995359367b4f2f4e24a99532c60f87fd347d"
+    },
+    {
+      "mal_id": 64534,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:43.931901+00:00",
+      "retrieved_at": "2026-09-15T14:22:43.931901+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 19056,
+        "favorites": 199,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 213805,
+      "titles": {
+        "romaji": "Koori no Jouheki 2nd Season",
+        "english": "The Ramparts of Ice Season 2",
+        "native": "氷の城壁 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 889
+        },
+        {
+          "status": "PLANNING",
+          "amount": 17918
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 47
+        },
+        {
+          "status": "DROPPED",
+          "amount": 34
+        },
+        {
+          "status": "PAUSED",
+          "amount": 168
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 1
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6312,
+              "name": "Studio KAI"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "7OHlkGNvEAE",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 186497,
+            "idMal": 60852,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Koori no Jouheki",
+              "english": "The Ramparts of Ice"
+            },
+            "popularity": 77706,
+            "averageScore": 83,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 166742,
+            "idMal": 160303,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Koori no Jouheki",
+              "english": "The Ramparts of Ice"
+            },
+            "popularity": 8458,
+            "averageScore": 85,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "cf5d367fbd921f97be87acec5eaef90f2b8488f51ba59d1a5e71e36c597f76f9"
+    },
+    {
+      "mal_id": 63293,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:46.095999+00:00",
+      "retrieved_at": "2026-09-15T14:22:46.095999+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 16820,
+        "favorites": 207,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 205909,
+      "titles": {
+        "romaji": "Hotaru no Yomeiri",
+        "english": "Firefly Wedding",
+        "native": "ホタルの嫁入り"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 613
+        },
+        {
+          "status": "PLANNING",
+          "amount": 15991
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 30
+        },
+        {
+          "status": "DROPPED",
+          "amount": 37
+        },
+        {
+          "status": "PAUSED",
+          "amount": 149
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 287,
+              "name": "david production"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "7GfOA15WDhQ",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 159142,
+            "idMal": 154679,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Hotaru no Yomeiri",
+              "english": "Firefly Wedding"
+            },
+            "popularity": 19461,
+            "averageScore": 78,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "62f5485c6325e72ce69325b19678827b0a55411787ee422314607da6d18e906b"
+    },
+    {
+      "mal_id": 63367,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:48.368859+00:00",
+      "retrieved_at": "2026-09-15T14:22:48.368859+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 9929,
+        "favorites": 169,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 206814,
+      "titles": {
+        "romaji": "Dragon Ball Super: Beerus",
+        "english": null,
+        "native": "ドラゴンボール超 ビルス"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 581
+        },
+        {
+          "status": "PLANNING",
+          "amount": 8952
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 284
+        },
+        {
+          "status": "DROPPED",
+          "amount": 32
+        },
+        {
+          "status": "PAUSED",
+          "amount": 80
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 11
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 18,
+              "name": "Toei Animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "CFgEL7ei8VE",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 14837,
+            "idMal": 14837,
+            "type": "ANIME",
+            "format": "MOVIE",
+            "title": {
+              "romaji": "Dragon Ball Z: Kami to Kami",
+              "english": "Dragon Ball Z: Battle of Gods"
+            },
+            "popularity": 75305,
+            "averageScore": 72,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 21175,
+            "idMal": 30694,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Dragon Ball Super",
+              "english": "Dragon Ball Super"
+            },
+            "popularity": 218077,
+            "averageScore": 73,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 813,
+            "idMal": 813,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Dragon Ball Z",
+              "english": "Dragon Ball Z"
+            },
+            "popularity": 259218,
+            "averageScore": 80,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 20635,
+            "idMal": 22777,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Dragon Ball Kai (2014)",
+              "english": "Dragon Ball Z Kai: The Final Chapters"
+            },
+            "popularity": 54480,
+            "averageScore": 76,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "387f4e7a6141ae97958676aa6762b75c493c5f12f5e16ee2c63180e8ee81ac10"
+    },
+    {
+      "mal_id": 63801,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:50.537069+00:00",
+      "retrieved_at": "2026-09-15T14:22:50.537069+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 9852,
+        "favorites": 73,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209872,
+      "titles": {
+        "romaji": "Ranma 1/2 (2024) 3rd Season",
+        "english": "Ranma1/2 (2024) Season 3",
+        "native": "らんま1/2 (2024) 第3期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 363
+        },
+        {
+          "status": "PLANNING",
+          "amount": 9316
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 51
+        },
+        {
+          "status": "DROPPED",
+          "amount": 40
+        },
+        {
+          "status": "PAUSED",
+          "amount": 82
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 569,
+              "name": "MAPPA"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "dbe8esPSfYI",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30023,
+            "idMal": 23,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Ranma 1/2",
+              "english": "Ranma ½"
+            },
+            "popularity": 15183,
+            "averageScore": 78,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 185731,
+            "idMal": 60564,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Ranma 1/2 (2024) 2nd Season",
+              "english": "Ranma1/2 (2024) Season 2"
+            },
+            "popularity": 32110,
+            "averageScore": 77,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "ada54cbffd98262bcb4013edc68434cf042e7158479703d9ffc908face4f59df"
+    },
+    {
+      "mal_id": 58518,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:52.795220+00:00",
+      "retrieved_at": "2026-09-15T14:22:52.795220+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 8962,
+        "favorites": 86,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 176314,
+      "titles": {
+        "romaji": "Sasaki to Pii-chan Season 2",
+        "english": "Sasaki and Peeps Season 2",
+        "native": "佐々木とピーちゃん シーズン２"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 480
+        },
+        {
+          "status": "PLANNING",
+          "amount": 8321
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 29
+        },
+        {
+          "status": "DROPPED",
+          "amount": 43
+        },
+        {
+          "status": "PAUSED",
+          "amount": 89
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 7
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 300,
+              "name": "SILVER LINK."
+            }
+          ]
+        },
+        "trailer": {
+          "id": "gY0hpk9E7p8",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 152682,
+            "idMal": 52482,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Sasaki to Pii-chan",
+              "english": "Sasaki and Peeps"
+            },
+            "popularity": 42950,
+            "averageScore": 67,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 134500,
+            "idMal": 142012,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Sasaki to Pii-chan",
+              "english": "Sasaki and Peeps"
+            },
+            "popularity": 688,
+            "averageScore": 58,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 134499,
+            "idMal": 134974,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Sasaki to Pii-chan",
+              "english": "Sasaki & Peeps"
+            },
+            "popularity": 1316,
+            "averageScore": 60,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "6bcd5ed1694f3835176c481a875630ee2b9e30db84f4cbf4a77cf948e94cb636"
+    },
+    {
+      "mal_id": 63181,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:55.022497+00:00",
+      "retrieved_at": "2026-09-15T14:22:55.022497+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 9962,
+        "favorites": 120,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 204650,
+      "titles": {
+        "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+        "english": "Tougen Anki: Nikko Kegon Falls Arc",
+        "native": "桃源暗鬼 日光・華厳の滝編"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 455
+        },
+        {
+          "status": "PLANNING",
+          "amount": 9261
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 55
+        },
+        {
+          "status": "DROPPED",
+          "amount": 54
+        },
+        {
+          "status": "PAUSED",
+          "amount": 137
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": []
+        },
+        "trailer": {
+          "id": "DygVpkacKqQ",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 177474,
+            "idMal": 58811,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Tougen Anki",
+              "english": "TOUGEN ANKI"
+            },
+            "popularity": 76359,
+            "averageScore": 68,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 119968,
+            "idMal": 127436,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tougen Anki",
+              "english": "Tougen Anki: Legend of the Cursed Blood"
+            },
+            "popularity": 22210,
+            "averageScore": 70,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "afd783ae0321a42a39b2a656411d1718782821ba1a3b65d38a7351ea19ad45db"
+    },
+    {
+      "mal_id": 62484,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:57.188804+00:00",
+      "retrieved_at": "2026-09-15T14:22:57.188804+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 8633,
+        "favorites": 100,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 198727,
+      "titles": {
+        "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
+        "english": null,
+        "native": "千歳くんはラムネ瓶のなか 2クール"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 422
+        },
+        {
+          "status": "PLANNING",
+          "amount": 8039
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 44
+        },
+        {
+          "status": "DROPPED",
+          "amount": 43
+        },
+        {
+          "status": "PAUSED",
+          "amount": 85
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 13
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 91,
+              "name": "feel."
+            }
+          ]
+        },
+        "trailer": {
+          "id": "8RHh2AyKRfY",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 124700,
+            "idMal": 130461,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Chitose-kun wa Ramune Bin no Naka",
+              "english": "Chitose Is in the Ramune Bottle"
+            },
+            "popularity": 2617,
+            "averageScore": 61,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 180082,
+            "idMal": 59517,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Chitose-kun wa Ramune Bin no Naka",
+              "english": "Chitose Is in the Ramune Bottle"
+            },
+            "popularity": 47798,
+            "averageScore": 73,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 121795,
+            "idMal": 130231,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Chitose-kun wa Ramune Bin no Naka",
+              "english": "Chitose Is in the Ramune Bottle"
+            },
+            "popularity": 2244,
+            "averageScore": 72,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "f03365e68fe054a32cca1525b606c6d412f5d8a4c7901c39ca2fcbe19ac22af0"
+    },
+    {
+      "mal_id": 64254,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:22:59.367361+00:00",
+      "retrieved_at": "2026-09-15T14:22:59.367361+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 8323,
+        "favorites": 95,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 212503,
+      "titles": {
+        "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+        "english": "The Iceblade Sorcerer Shall Rule the World II",
+        "native": "冰剣の魔術師が世界を統べるⅡ"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 494
+        },
+        {
+          "status": "PLANNING",
+          "amount": 7645
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 51
+        },
+        {
+          "status": "DROPPED",
+          "amount": 42
+        },
+        {
+          "status": "PAUSED",
+          "amount": 91
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6117,
+              "name": "Zero-G"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "oxkxyAcKv2g",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 122680,
+            "idMal": 135542,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu: Sekai Saikyou no Majutsushi de Aru Shounen wa, Majutsu Gakuin ni Nyuugaku Suru",
+              "english": null
+            },
+            "popularity": 425,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 148116,
+            "idMal": 51711,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu",
+              "english": "The Iceblade Sorcerer Shall Rule the World"
+            },
+            "popularity": 79691,
+            "averageScore": 63,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "44550d27fccfe706be788c22ea0df63b14ad1054edeef086b16ae0d53c31aba3"
+    },
+    {
+      "mal_id": 61578,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:01.526829+00:00",
+      "retrieved_at": "2026-09-15T14:23:01.526829+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 11215,
+        "favorites": 81,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 191656,
+      "titles": {
+        "romaji": "Seitokai ni mo Ana wa Aru!",
+        "english": null,
+        "native": "生徒会にも穴はある！"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 570
+        },
+        {
+          "status": "PLANNING",
+          "amount": 10536
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 15
+        },
+        {
+          "status": "DROPPED",
+          "amount": 24
+        },
+        {
+          "status": "PAUSED",
+          "amount": 70
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": 12,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 911,
+              "name": "Passione"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "SSePdGrgYLA",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 147863,
+            "idMal": 149973,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Seitokai ni mo Ana wa Aru!",
+              "english": "Even the Student Council Has Its Holes!"
+            },
+            "popularity": 8114,
+            "averageScore": 74,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 179207,
+            "idMal": 59276,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Seitokai ni mo Ana wa Aru! PV",
+              "english": null
+            },
+            "popularity": 2178,
+            "averageScore": 70,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "ac8c71e5cab1611ba7868d6ed041f41414686efafcf9da52bdb976499c55e54f"
+    },
+    {
+      "mal_id": 63140,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:03.770369+00:00",
+      "retrieved_at": "2026-09-15T14:23:03.770369+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 9200,
+        "favorites": 100,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 204389,
+      "titles": {
+        "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season",
+        "english": null,
+        "native": "野生のラスボスが現れた！ 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 452
+        },
+        {
+          "status": "PLANNING",
+          "amount": 8618
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 26
+        },
+        {
+          "status": "DROPPED",
+          "amount": 28
+        },
+        {
+          "status": "PAUSED",
+          "amount": 76
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 318,
+              "name": "WAO World"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "h6NM7IuyxuU",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 101829,
+            "idMal": 109032,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Yasei no Last Boss ga Arawareta!",
+              "english": "A Wild Last Boss Appeared!"
+            },
+            "popularity": 1055,
+            "averageScore": 69,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 180523,
+            "idMal": 59644,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Yasei no Last Boss ga Arawareta!",
+              "english": "A Wild Last Boss Appeared!"
+            },
+            "popularity": 48302,
+            "averageScore": 74,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "170db2c954f4472ebe3737862c06fc8ed5752108259ed1eeeceb169945e497a5"
+    },
+    {
+      "mal_id": 63409,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:05.929499+00:00",
+      "retrieved_at": "2026-09-15T14:23:05.929499+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6385,
+        "favorites": 52,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 207191,
+      "titles": {
+        "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+        "english": null,
+        "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 301
+        },
+        {
+          "status": "PLANNING",
+          "amount": 6005
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 4
+        },
+        {
+          "status": "DROPPED",
+          "amount": 14
+        },
+        {
+          "status": "PAUSED",
+          "amount": 61
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 51,
+              "name": "diomedéa"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "hGRtocAh3iw",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 122068,
+            "idMal": 126172,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+              "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!"
+            },
+            "popularity": 704,
+            "averageScore": 65,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 123545,
+            "idMal": 130498,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+              "english": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion"
+            },
+            "popularity": 4094,
+            "averageScore": 75,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "25328930c4662316c7d473badb8f088965fb543bb78faa9e0abeda289901107c"
+    },
+    {
+      "mal_id": 61153,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:08.135877+00:00",
+      "retrieved_at": "2026-09-15T14:23:08.135877+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6426,
+        "favorites": 49,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 187402,
+      "titles": {
+        "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+        "english": null,
+        "native": "転生した大聖女は、聖女であることをひた隠す"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 545
+        },
+        {
+          "status": "PLANNING",
+          "amount": 5773
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 7
+        },
+        {
+          "status": "DROPPED",
+          "amount": 20
+        },
+        {
+          "status": "PAUSED",
+          "amount": 81
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6126,
+              "name": "Felix Film"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "TQYVI-xvGeA",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128053,
+            "idMal": 133336,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+              "english": "A Tale of the Secret Saint"
+            },
+            "popularity": 429,
+            "averageScore": 59,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 114203,
+            "idMal": 132440,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu: A Tale of The Great Saint",
+              "english": "A Tale of the Secret Saint"
+            },
+            "popularity": 2221,
+            "averageScore": 70,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "cb26bb96d042fa470b13f95dccc35aa42567421f758cd88cbe87b5c15b17b52f"
+    },
+    {
+      "mal_id": 64503,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:10.364394+00:00",
+      "retrieved_at": "2026-09-15T14:23:10.364394+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 4873,
+        "favorites": 43,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 213657,
+      "titles": {
+        "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+        "english": "Mission: Yozakura Family Season 2 Part 2",
+        "native": "夜桜さんちの大作戦 第2期 第2クール"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 328
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4415
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 19
+        },
+        {
+          "status": "DROPPED",
+          "amount": 27
+        },
+        {
+          "status": "PAUSED",
+          "amount": 84
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 300,
+              "name": "SILVER LINK."
+            }
+          ]
+        },
+        "trailer": {
+          "id": "uiDqC5pd028",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 182578,
+            "idMal": 60055,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+              "english": "Mission: Yozakura Family Season 2"
+            },
+            "popularity": 26244,
+            "averageScore": 75,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 111149,
+            "idMal": 121426,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Yozakura-san Chi no Daisakusen",
+              "english": "Mission: Yozakura Family"
+            },
+            "popularity": 24380,
+            "averageScore": 76,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "dbabaabbba8def5fe95ff90cb55cbd8c5b0c309cd708f4c8347287bace3faecc"
+    },
+    {
+      "mal_id": 63098,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:12.619827+00:00",
+      "retrieved_at": "2026-09-15T14:23:12.619827+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6865,
+        "favorites": 70,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 204011,
+      "titles": {
+        "romaji": "PSYЯEN",
+        "english": "PSYREN",
+        "native": "PSYREN -サイレン-"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 296
+        },
+        {
+          "status": "PLANNING",
+          "amount": 6461
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 14
+        },
+        {
+          "status": "DROPPED",
+          "amount": 26
+        },
+        {
+          "status": "PAUSED",
+          "amount": 68
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 41,
+              "name": "Satelight"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "fmUpSXFbSK0",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 33438,
+            "idMal": 3438,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "PSYЯEN",
+              "english": "PSYЯEN"
+            },
+            "popularity": 23352,
+            "averageScore": 75,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "46724605fa0bfdd3590f5617c4226c6ab8bcd28c38c438f95d701abeea1de292"
+    },
+    {
+      "mal_id": 59204,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:14.848505+00:00",
+      "retrieved_at": "2026-09-15T14:23:14.848505+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6094,
+        "favorites": 37,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 178868,
+      "titles": {
+        "romaji": "Magic Knight Rayearth (2026)",
+        "english": null,
+        "native": "魔法騎士レイアース (2026)"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 249
+        },
+        {
+          "status": "PLANNING",
+          "amount": 5764
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 17
+        },
+        {
+          "status": "DROPPED",
+          "amount": 27
+        },
+        {
+          "status": "PAUSED",
+          "amount": 37
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 7
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7229,
+              "name": "E&H Production"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "gISc0dl5R_8",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 435,
+            "idMal": 435,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Magic Knight Rayearth",
+              "english": "Magic Knight Rayearth"
+            },
+            "popularity": 21180,
+            "averageScore": 71,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 30119,
+            "idMal": 119,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Magic Knight Rayearth",
+              "english": "Magic Knight Rayearth"
+            },
+            "popularity": 6258,
+            "averageScore": 72,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "cd76a35e3e71166f772c756caf73ede7ed5f15d052e255a45501522ad350d5cb"
+    },
+    {
+      "mal_id": 63382,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:17.000063+00:00",
+      "retrieved_at": "2026-09-15T14:23:17.000063+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6390,
+        "favorites": 52,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 206949,
+      "titles": {
+        "romaji": "Kyouran Reijou Nia Liston",
+        "english": "Nia Liston: The Merciless Maiden",
+        "native": "凶乱令嬢ニア・リストン"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 354
+        },
+        {
+          "status": "PLANNING",
+          "amount": 5956
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 6
+        },
+        {
+          "status": "DROPPED",
+          "amount": 25
+        },
+        {
+          "status": "PAUSED",
+          "amount": 49
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 6
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7494,
+              "name": "KONAMI animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "gxG4vntLtbk",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 154010,
+            "idMal": 152170,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Kyouran Reijou Nia Liston",
+              "english": "Nia Liston: The Merciless Maiden"
+            },
+            "popularity": 295,
+            "averageScore": 55,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 174279,
+            "idMal": 164869,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Kareinaru Musouroku",
+              "english": "Nia Liston: The Merciless Maiden"
+            },
+            "popularity": 1784,
+            "averageScore": 69,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "cfed6651cba4e4cda0f65c972122fcdf052e8cf601e70f2c2605a5efab75075b"
+    },
+    {
+      "mal_id": 60948,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:19.154123+00:00",
+      "retrieved_at": "2026-09-15T14:23:19.154123+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 6516,
+        "favorites": 92,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 186541,
+      "titles": {
+        "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+        "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+        "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 518
+        },
+        {
+          "status": "PLANNING",
+          "amount": 5883
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 13
+        },
+        {
+          "status": "DROPPED",
+          "amount": 29
+        },
+        {
+          "status": "PAUSED",
+          "amount": 73
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6183,
+              "name": "studio A-CAT"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "tiXRpYimOsQ",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 116552,
+            "idMal": 131650,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+              "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
+            },
+            "popularity": 1030,
+            "averageScore": 67,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 116551,
+            "idMal": 125498,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+              "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
+            },
+            "popularity": 8426,
+            "averageScore": 71,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "40cb84ea0fafcad24cb24b15b27a2108e2145eb75d46970de6fde731676a09c2"
+    },
+    {
+      "mal_id": 61014,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:21.390970+00:00",
+      "retrieved_at": "2026-09-15T14:23:21.390970+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 5275,
+        "favorites": 39,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 186742,
+      "titles": {
+        "romaji": "Toaru Anbu no ITEM",
+        "english": null,
+        "native": "とある暗部の少女共棲"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 226
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4979
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 8
+        },
+        {
+          "status": "DROPPED",
+          "amount": 18
+        },
+        {
+          "status": "PAUSED",
+          "amount": 44
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7,
+              "name": "J.C.STAFF"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "NNHxQJgZdbQ",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 162615,
+            "idMal": 164597,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Toaru Anbu no ITEM",
+              "english": null
+            },
+            "popularity": 455,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 159459,
+            "idMal": 156526,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Toaru Anbu no ITEM",
+              "english": null
+            },
+            "popularity": 479,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 4654,
+            "idMal": 4654,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Toaru Majutsu no Index",
+              "english": "A Certain Magical Index"
+            },
+            "popularity": 190810,
+            "averageScore": 70,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "cbb94c07b2b9417b2a75f76d35a319830af654cd385145850cd33dfb95baa1c2"
+    },
+    {
+      "mal_id": 54344,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:23.547000+00:00",
+      "retrieved_at": "2026-09-15T14:23:23.547000+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 4782,
+        "favorites": 40,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 160803,
+      "titles": {
+        "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+        "english": null,
+        "native": "魔法少女育成計画 restart"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 153
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4573
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 6
+        },
+        {
+          "status": "DROPPED",
+          "amount": 29
+        },
+        {
+          "status": "PAUSED",
+          "amount": 21
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 6
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 118,
+              "name": "SynergySP"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "34ubb-j0kbI",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 146222,
+            "idMal": null,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+              "english": "Magical Girl Raising Project: restart"
+            },
+            "popularity": 372,
+            "averageScore": 69,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 21340,
+            "idMal": 33003,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Mahou Shoujo Ikusei Keikaku",
+              "english": "Magical Girl Raising Project"
+            },
+            "popularity": 48259,
+            "averageScore": 66,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 109279,
+            "idMal": 102373,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+              "english": null
+            },
+            "popularity": 464,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "ccb35c70c6fbc47a61483f77f393c7a79a1f690c6ace4a7f5d2a3e59e3b5f036"
+    },
+    {
+      "mal_id": 56733,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:25.777437+00:00",
+      "retrieved_at": "2026-09-15T14:23:25.777437+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 5345,
+        "favorites": 80,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 169581,
+      "titles": {
+        "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+        "english": null,
+        "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 407
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4828
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 13
+        },
+        {
+          "status": "DROPPED",
+          "amount": 35
+        },
+        {
+          "status": "PAUSED",
+          "amount": 62
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 314,
+              "name": "WHITE FOX"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "XqrBfyUNYZs",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 116031,
+            "idMal": 129305,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+              "english": "Magical☆Explorer"
+            },
+            "popularity": 3806,
+            "averageScore": 65,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114050,
+            "idMal": 137259,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+              "english": "Magical☆Explorer"
+            },
+            "popularity": 547,
+            "averageScore": 60,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "b4fa34c3d41636691463fd4b32d3cab2aebd423a3c85c2b1935663a750959ef0"
+    },
+    {
+      "mal_id": 64340,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:27.942769+00:00",
+      "retrieved_at": "2026-09-15T14:23:27.942769+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 8924,
+        "favorites": 108,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 212888,
+      "titles": {
+        "romaji": "Temppal: Item no Chikara",
+        "english": "Overgeared",
+        "native": "テムパル～アイテムの力～"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 774
+        },
+        {
+          "status": "PLANNING",
+          "amount": 8029
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 8
+        },
+        {
+          "status": "DROPPED",
+          "amount": 28
+        },
+        {
+          "status": "PAUSED",
+          "amount": 85
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "ONA",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 9,
+          "day": 27
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7,
+              "name": "J.C.STAFF"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "QB9TLfhS8Ys",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 117460,
+            "idMal": 147727,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Temppal",
+              "english": "Overgeared"
+            },
+            "popularity": 38115,
+            "averageScore": 77,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 105664,
+            "idMal": 171422,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Temppal",
+              "english": null
+            },
+            "popularity": 2201,
+            "averageScore": 64,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "53dd9b0e48bdcb4680060f90151743f92a6e6ea4f042d12dbc5c27802ce6b81e"
+    },
+    {
+      "mal_id": 63754,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:30.100438+00:00",
+      "retrieved_at": "2026-09-15T14:23:30.100438+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 5605,
+        "favorites": 60,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209502,
+      "titles": {
+        "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+        "english": null,
+        "native": "塩対応の佐藤さんが俺にだけ甘い"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 317
+        },
+        {
+          "status": "PLANNING",
+          "amount": 5201
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 6
+        },
+        {
+          "status": "DROPPED",
+          "amount": 21
+        },
+        {
+          "status": "PAUSED",
+          "amount": 60
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 200,
+              "name": "Tezuka Productions"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "PrLNEbAko1w",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114783,
+            "idMal": 135563,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+              "english": "The Salty Koharu Has a Soft Spot for Me"
+            },
+            "popularity": 706,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 123130,
+            "idMal": 129562,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai @comic",
+              "english": "The Salty Koharu Has a Soft Spot for Me"
+            },
+            "popularity": 8832,
+            "averageScore": 67,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "e29f710a07acdd63dac6884629e09d91ae0aecbe92ac25a478eeea66a8bb4f61"
+    },
+    {
+      "mal_id": 61999,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:32.373763+00:00",
+      "retrieved_at": "2026-09-15T14:23:32.373763+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 4280,
+        "favorites": 32,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 195571,
+      "titles": {
+        "romaji": "Shuiro no Kamen",
+        "english": "The Vermilion Mask",
+        "native": "朱色の仮面"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 262
+        },
+        {
+          "status": "PLANNING",
+          "amount": 3933
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 23
+        },
+        {
+          "status": "PAUSED",
+          "amount": 57
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": null,
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7385,
+              "name": "100studio"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "hEjYt73pYEE",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 130729,
+            "idMal": 158881,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Shuiro no Kamen",
+              "english": "The Vermilion Mask"
+            },
+            "popularity": 419,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "d0b3dfe587055336dfd5ceb0f4fa242fd3adb739ff10190dd048d317b66b4ff7"
+    },
+    {
+      "mal_id": 62753,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:34.594759+00:00",
+      "retrieved_at": "2026-09-15T14:23:34.594759+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 3178,
+        "favorites": 26,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 200455,
+      "titles": {
+        "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+        "english": null,
+        "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 171
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2950
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 23
+        },
+        {
+          "status": "PAUSED",
+          "amount": 29
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 755,
+              "name": "Jumondou"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "e41RGxVwJRs",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 151603,
+            "idMal": 143374,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+              "english": null
+            },
+            "popularity": 1822,
+            "averageScore": 71,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 151602,
+            "idMal": 188793,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+              "english": null
+            },
+            "popularity": 0,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "b07676778f7dffef4381da705cb13c2c62d13182d67250c14a33e7a02a08b3c8"
+    },
+    {
+      "mal_id": 63337,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:36.819121+00:00",
+      "retrieved_at": "2026-09-15T14:23:36.819121+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 4326,
+        "favorites": 31,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 206401,
+      "titles": {
+        "romaji": "FX Senshi Kurumi-chan",
+        "english": "FX Fighter Kurumi-chan",
+        "native": "FX戦士くるみちゃん"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 177
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4119
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 13
+        },
+        {
+          "status": "PAUSED",
+          "amount": 14
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 1
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 911,
+              "name": "Passione"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "7rxIZ3z0S4s",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128364,
+            "idMal": 134679,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "FX Senshi Kurumi-chan",
+              "english": null
+            },
+            "popularity": 1241,
+            "averageScore": 65,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 210896,
+            "idMal": null,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "FX Senshi Kurumi-chan",
+              "english": null
+            },
+            "popularity": 9,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "806c4915eed31618fe81f259c996222cc18cc2ffc82aa5a497470a4e18152d16"
+    },
+    {
+      "mal_id": 59787,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:38.984268+00:00",
+      "retrieved_at": "2026-09-15T14:23:38.984268+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2608,
+        "favorites": 25,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 180894,
+      "titles": {
+        "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+        "english": "Romelia War Chronicle",
+        "native": "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 156
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2406
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 14
+        },
+        {
+          "status": "PAUSED",
+          "amount": 29
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "ONA",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7793,
+              "name": "Atra"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "PxXPcoo8uGM",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 146402,
+            "idMal": 166740,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+              "english": null
+            },
+            "popularity": 85,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 146403,
+            "idMal": 166739,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Romeria Senki: Hakushaku Reijou, Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki Suru",
+              "english": "Romelia War Chronicle: The Count's Daughter Rallies an Army in the Wake of Mankind’s Victory"
+            },
+            "popularity": 515,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "00b84d9d76c29042b46a432fecaf4215f1e6a2cd65e48abbc0b7c76f754ce871"
+    },
+    {
+      "mal_id": 64505,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:41.154488+00:00",
+      "retrieved_at": "2026-09-15T14:23:41.154488+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2262,
+        "favorites": 24,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 213658,
+      "titles": {
+        "romaji": "Diamond no Ace act II: Second Season Part 2",
+        "english": null,
+        "native": "ダイヤのA actⅡ -Second Season- 第2クール"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 141
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2052
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 24
+        },
+        {
+          "status": "DROPPED",
+          "amount": 22
+        },
+        {
+          "status": "PAUSED",
+          "amount": 23
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 11
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 28,
+              "name": "OLM"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "9705sc1udLo",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86569,
+            "idMal": 92559,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Diamond no Ace Act II",
+              "english": "Ace of the Diamond Act II"
+            },
+            "popularity": 7728,
+            "averageScore": 86,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 177634,
+            "idMal": 58877,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Diamond no Ace act II: Second Season",
+              "english": "Ace of the Diamond act II -Second Season-"
+            },
+            "popularity": 9201,
+            "averageScore": 79,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "4b3770db0c9dd93ea2684dc6304a25fb7b22e3c1d24cd22e252dd16ff9fd2811"
+    },
+    {
+      "mal_id": 62524,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:43.390505+00:00",
+      "retrieved_at": "2026-09-15T14:23:43.390505+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 3023,
+        "favorites": 20,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 199007,
+      "titles": {
+        "romaji": "#Zombie Sagashitemasu",
+        "english": null,
+        "native": "#ゾンビさがしてます"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 142
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2833
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 7
+        },
+        {
+          "status": "DROPPED",
+          "amount": 17
+        },
+        {
+          "status": "PAUSED",
+          "amount": 24
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 126,
+              "name": "Studio Comet"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "Q72YGjPWpRc",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 150463,
+            "idMal": 148820,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "#Zombie Sagashitemasu",
+              "english": "#ImLookingForZombies"
+            },
+            "popularity": 1160,
+            "averageScore": 60,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "0207e7e301e82d2c80701017c7f0c9e361e3ef9fcb664d997c240743dc1c9904"
+    },
+    {
+      "mal_id": 64084,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:45.542730+00:00",
+      "retrieved_at": "2026-09-15T14:23:45.542730+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 3511,
+        "favorites": 28,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 211778,
+      "titles": {
+        "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+        "english": null,
+        "native": "世界最強の魔女、始めました"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 224
+        },
+        {
+          "status": "PLANNING",
+          "amount": 3230
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 15
+        },
+        {
+          "status": "PAUSED",
+          "amount": 37
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 7
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 397,
+              "name": "Bridge"
+            },
+            {
+              "id": 7810,
+              "name": "Aisle"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "snJZD9vxfHY",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 187703,
+            "idMal": 180195,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+              "english": "The World’s Strongest Witch"
+            },
+            "popularity": 113,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 176270,
+            "idMal": 162463,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+              "english": null
+            },
+            "popularity": 2306,
+            "averageScore": 69,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "98cb4708ea98c52cb1d798404b951209ac18eb177fbf34b3ad2c839a21c45e39"
+    },
+    {
+      "mal_id": 63292,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:47.776296+00:00",
+      "retrieved_at": "2026-09-15T14:23:47.776296+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2473,
+        "favorites": 31,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 205896,
+      "titles": {
+        "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+        "english": null,
+        "native": "信者ゼロの女神サマと始める異世界攻略"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 190
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2239
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 12
+        },
+        {
+          "status": "PAUSED",
+          "amount": 27
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 11
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6360,
+              "name": "HORNETS"
+            }
+          ]
+        },
+        "trailer": null
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 117945,
+            "idMal": 127502,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+              "english": "Full Clearing Another World under a Goddess with Zero Believers"
+            },
+            "popularity": 864,
+            "averageScore": 69,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 117946,
+            "idMal": 130508,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+              "english": "Full Clearing Another World under a Goddess with Zero Believers"
+            },
+            "popularity": 3279,
+            "averageScore": 62,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "baf60ddcccac900f1786ea9f4327db8b4b02a867a7a03d56f13e3a6078ef9593"
+    },
+    {
+      "mal_id": 63751,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:49.932206+00:00",
+      "retrieved_at": "2026-09-15T14:23:49.932206+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2637,
+        "favorites": 18,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209499,
+      "titles": {
+        "romaji": "TANK CHAIR: Sensha Isu",
+        "english": null,
+        "native": "TANK CHAIR-戦車椅子-"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 133
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2467
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 2
+        },
+        {
+          "status": "DROPPED",
+          "amount": 16
+        },
+        {
+          "status": "PAUSED",
+          "amount": 19
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6067,
+              "name": "POLYGON PICTURES"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "uaW2KLmA47M",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 157808,
+            "idMal": 153168,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Sensha Isu: TANK CHAIR",
+              "english": "Tank Chair"
+            },
+            "popularity": 3305,
+            "averageScore": 68,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "8c0410cd679eca5660133cebfcb48854adf355c8a2c1bb4a47b36092e4f110c4"
+    },
+    {
+      "mal_id": 62922,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:52.196481+00:00",
+      "retrieved_at": "2026-09-15T14:23:52.196481+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 3437,
+        "favorites": 34,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 202250,
+      "titles": {
+        "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+        "english": null,
+        "native": "貸した魔力は【リボ払い】で強制徴収"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 327
+        },
+        {
+          "status": "PLANNING",
+          "amount": 3031
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 2
+        },
+        {
+          "status": "DROPPED",
+          "amount": 21
+        },
+        {
+          "status": "PAUSED",
+          "amount": 56
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 118,
+              "name": "SynergySP"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "RRNBNnCRPqU",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 202228,
+            "idMal": 186231,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu ~Youzumi to Party Tsuihou sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.",
+              "english": "Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!"
+            },
+            "popularity": 255,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "a7462657f5bf8f77a97b172f813869e9db37ce5478412e3c8dd44ed5a2cbbba6"
+    },
+    {
+      "mal_id": 62590,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:54.353002+00:00",
+      "retrieved_at": "2026-09-15T14:23:54.353002+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2011,
+        "favorites": 12,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 199426,
+      "titles": {
+        "romaji": "Hotel Inhumans 2nd Season",
+        "english": null,
+        "native": "ホテル・インヒューマンズ 第2期"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 86
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1867
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 8
+        },
+        {
+          "status": "DROPPED",
+          "amount": 29
+        },
+        {
+          "status": "PAUSED",
+          "amount": 21
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 397,
+              "name": "Bridge"
+            }
+          ]
+        },
+        "trailer": null
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 184034,
+            "idMal": 60260,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Hotel Inhumans",
+              "english": "Hotel Inhumans"
+            },
+            "popularity": 11275,
+            "averageScore": 64,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 135427,
+            "idMal": 139086,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Hotel Inhumans",
+              "english": "Hotel Inhumans"
+            },
+            "popularity": 827,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "15460680da4cc1a38ee21c4903e103d9fdf4f295201a65201c3ad570cabb5ef9"
+    },
+    {
+      "mal_id": 61140,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:56.509574+00:00",
+      "retrieved_at": "2026-09-15T14:23:56.509574+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2281,
+        "favorites": 21,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 187316,
+      "titles": {
+        "romaji": "Gensou Suikoden",
+        "english": null,
+        "native": "幻想水滸伝"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 144
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2092
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 2
+        },
+        {
+          "status": "DROPPED",
+          "amount": 15
+        },
+        {
+          "status": "PAUSED",
+          "amount": 28
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7494,
+              "name": "KONAMI animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "7ZAQGHThWME",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 93946,
+            "idMal": 86357,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Gensou Suikoden IV",
+              "english": null
+            },
+            "popularity": 25,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 49271,
+            "idMal": 19271,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden II: Hiki Sakareshi Shukusei",
+              "english": "Gensou Suikoden II"
+            },
+            "popularity": 115,
+            "averageScore": null,
+            "status": "CANCELLED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 50109,
+            "idMal": 20109,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden V: Reimei no Shiro",
+              "english": null
+            },
+            "popularity": 98,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 56217,
+            "idMal": 26217,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden: Uketsugareshi Monshou",
+              "english": null
+            },
+            "popularity": 119,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 93948,
+            "idMal": 86359,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Gensou Suikoden Tanpenshuu",
+              "english": null
+            },
+            "popularity": 18,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 39397,
+            "idMal": 9397,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden V Anthology",
+              "english": "Suikoden 5 Anthology"
+            },
+            "popularity": 78,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 30536,
+            "idMal": 536,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden III: Unmei no Keishousha",
+              "english": "Genso Suikoden III: The Successor of Fate"
+            },
+            "popularity": 459,
+            "averageScore": 73,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 93947,
+            "idMal": 86358,
+            "type": "MANGA",
+            "format": "NOVEL",
+            "title": {
+              "romaji": "Gensou Suikoden V",
+              "english": null
+            },
+            "popularity": 27,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 189063,
+            "idMal": null,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Gensou Suikoden STAR LEAP ~Hoshiboshi no Kiseki~",
+              "english": "Suikoden STAR LEAP"
+            },
+            "popularity": 21,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "bd2dadd673abfdaf11f95f49e80ce04d4241fac2d19dc1967832a6b3f0a93b85"
+    },
+    {
+      "mal_id": 63509,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:23:58.756862+00:00",
+      "retrieved_at": "2026-09-15T14:23:58.756862+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 5466,
+        "favorites": 72,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 208025,
+      "titles": {
+        "romaji": "Dark Summoner to Dekiteiru",
+        "english": "I'm Dating a Dark Summoner",
+        "native": "ダークサモナーとデキている"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 433
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4935
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 6
+        },
+        {
+          "status": "DROPPED",
+          "amount": 29
+        },
+        {
+          "status": "PAUSED",
+          "amount": 63
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV_SHORT",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7700,
+              "name": "AtoriE"
+            },
+            {
+              "id": 7721,
+              "name": "Nyan Pollution-ω-"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "-YCols5lYow",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 157391,
+            "idMal": 154649,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Dark Summoner to Dekiteiru",
+              "english": null
+            },
+            "popularity": 7542,
+            "averageScore": 67,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "24925d7b068cc34af12f56291837d14e3df1416a298fa8a683d0363e941ab473"
+    },
+    {
+      "mal_id": 63753,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:01.006177+00:00",
+      "retrieved_at": "2026-09-15T14:24:01.006177+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2239,
+        "favorites": 11,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209463,
+      "titles": {
+        "romaji": "Kanata Kara",
+        "english": null,
+        "native": "彼方から"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 88
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2121
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 13
+        },
+        {
+          "status": "PAUSED",
+          "amount": 16
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 37,
+              "name": "Studio DEEN"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "dLRKywRu3iM",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30923,
+            "idMal": 923,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kanata Kara",
+              "english": "From Far Away"
+            },
+            "popularity": 4815,
+            "averageScore": 79,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "44e36ed92f9228a56775db50a2e18c63a06f0fdc4ab62bc4150d52e7472434b9"
+    },
+    {
+      "mal_id": 63712,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:03.167378+00:00",
+      "retrieved_at": "2026-09-15T14:24:03.167378+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2333,
+        "favorites": 18,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209219,
+      "titles": {
+        "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+        "english": null,
+        "native": "転生ゴブリンだけど質問ある？"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 159
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2116
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 7
+        },
+        {
+          "status": "DROPPED",
+          "amount": 19
+        },
+        {
+          "status": "PAUSED",
+          "amount": 32
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": []
+        },
+        "trailer": {
+          "id": "ynr8tFWrK4c",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 120236,
+            "idMal": 126524,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tensei Goblin Dakedo Shitsumon Aru?",
+              "english": "So What's Wrong with Getting Reborn as a Goblin?"
+            },
+            "popularity": 4303,
+            "averageScore": 68,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "3b27707b4a7d915eb8e86c5dad40cb194f996da77fa72bcbcc6d660e36ff98ca"
+    },
+    {
+      "mal_id": 64298,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:05.327716+00:00",
+      "retrieved_at": "2026-09-15T14:24:05.327716+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 3660,
+        "favorites": 67,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 212667,
+      "titles": {
+        "romaji": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+        "english": "The Lonely Snow Widow and the Cursed Ring",
+        "native": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 366
+        },
+        {
+          "status": "PLANNING",
+          "amount": 3233
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 6
+        },
+        {
+          "status": "DROPPED",
+          "amount": 20
+        },
+        {
+          "status": "PAUSED",
+          "amount": 35
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6298,
+              "name": "Studio Houkiboshi"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "NVbg3gNMz8I",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 150436,
+            "idMal": 138874,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+              "english": "The Shy Snow Woman and the Cursed Ring"
+            },
+            "popularity": 1712,
+            "averageScore": 73,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "eff0bb9d0bf32e655dc076611ddd51622cd6f546161719dffd1baba084e527e1"
+    },
+    {
+      "mal_id": 64131,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:07.550716+00:00",
+      "retrieved_at": "2026-09-15T14:24:07.550716+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 4612,
+        "favorites": 67,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 211877,
+      "titles": {
+        "romaji": "Kanojo no Tomodachi",
+        "english": null,
+        "native": "彼女の友達"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 326
+        },
+        {
+          "status": "PLANNING",
+          "amount": 4207
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 33
+        },
+        {
+          "status": "PAUSED",
+          "amount": 43
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV_SHORT",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7002,
+              "name": "Quad"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "E-stx_wwVSs",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 133932,
+            "idMal": 136522,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kanojo no Tomodachi",
+              "english": null
+            },
+            "popularity": 4549,
+            "averageScore": 52,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "a74561dcf07e74a0f74bdf599b6a6a289fd3c477170ce6e65d5b1d29144a6c33"
+    },
+    {
+      "mal_id": 64180,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:09.709968+00:00",
+      "retrieved_at": "2026-09-15T14:24:09.709968+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1023,
+        "favorites": 7,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 212144,
+      "titles": {
+        "romaji": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+        "english": null,
+        "native": "傷だらけ聖女より報復をこめて Season2"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 45
+        },
+        {
+          "status": "PLANNING",
+          "amount": 954
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 13
+        },
+        {
+          "status": "PAUSED",
+          "amount": 10
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV_SHORT",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 2
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7531,
+              "name": "Imageworks Studio"
+            },
+            {
+              "id": 7472,
+              "name": "Imagica Infos"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "wsdW5YP9A_c",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 195209,
+            "idMal": 59961,
+            "type": "ANIME",
+            "format": "TV_SHORT",
+            "title": {
+              "romaji": "Kizu darake Seijo yori Houfuku wo Komete",
+              "english": "With Vengeance, Sincerely, Your Broken Saintess"
+            },
+            "popularity": 6610,
+            "averageScore": 61,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 156486,
+            "idMal": 168633,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kizu Darake Seijo Yori Houfuku wo Komete",
+              "english": "With Vengeance, Sincerely, Your Broken Saintess"
+            },
+            "popularity": 1778,
+            "averageScore": 65,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "a480c4725d8d03077b96637c65b20489eda2898b3ad629694df8972c3b940687"
+    },
+    {
+      "mal_id": 62907,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:11.974817+00:00",
+      "retrieved_at": "2026-09-15T14:24:11.974817+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1760,
+        "favorites": 9,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 202079,
+      "titles": {
+        "romaji": "Oji-san wa Kawaii Mono ga Osuki.",
+        "english": "Uncle's Obsession with Cute Things",
+        "native": "おじさんはカワイイものがお好き。"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 74
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1661
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 4
+        },
+        {
+          "status": "DROPPED",
+          "amount": 13
+        },
+        {
+          "status": "PAUSED",
+          "amount": 8
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 839,
+              "name": "LIDENFILMS"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "YKgjylmYeoA",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 120567,
+            "idMal": 114121,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Oji-san wa Kawaii Mono ga Osuki.",
+              "english": null
+            },
+            "popularity": 1024,
+            "averageScore": 65,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "8e94da1ed75a360708131ef119f360aa15fa4ed9d63a75387a4972934da8950d"
+    },
+    {
+      "mal_id": 62696,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:14.135513+00:00",
+      "retrieved_at": "2026-09-15T14:24:14.135513+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1958,
+        "favorites": 14,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 200294,
+      "titles": {
+        "romaji": "Choujun! Choujou Senpai",
+        "english": null,
+        "native": "超巡！超条先輩"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 103
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1811
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 15
+        },
+        {
+          "status": "PAUSED",
+          "amount": 24
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 6
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6239,
+              "name": "Arvo Animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "fx66nT-2_AA",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 174546,
+            "idMal": 167174,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Choujun! Choujou Senpai",
+              "english": "Super Psychic Policeman Chojo"
+            },
+            "popularity": 1766,
+            "averageScore": 60,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "9a358a0bfd2e53c1041042f9da72498059bd9072b6b4d282520735975e21e4d9"
+    },
+    {
+      "mal_id": 62615,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:16.358307+00:00",
+      "retrieved_at": "2026-09-15T14:24:16.358307+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1547,
+        "favorites": 5,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 199594,
+      "titles": {
+        "romaji": "Tetsuryou! meet with Tetsudou Musume",
+        "english": "TETSURYO! Meet With Tetsudou Musume",
+        "native": "てつりょー！meet with 鉄道むすめ"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 60
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1454
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 18
+        },
+        {
+          "status": "PAUSED",
+          "amount": 12
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6634,
+              "name": "East Fish Studio"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "GixEiC7k9_4",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 44196,
+            "idMal": 14196,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Tetsudou Musume: Terminal Memory",
+              "english": null
+            },
+            "popularity": 83,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "eca601c3ae7f6a416be60958d66fcc86c9c2d05f0a160419ae4b8561df547f13"
+    },
+    {
+      "mal_id": 63764,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:18.619741+00:00",
+      "retrieved_at": "2026-09-15T14:24:18.619741+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1747,
+        "favorites": 11,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209562,
+      "titles": {
+        "romaji": "Vertex Force",
+        "english": null,
+        "native": "バーテックスフォース"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 81
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1638
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 4
+        },
+        {
+          "status": "DROPPED",
+          "amount": 11
+        },
+        {
+          "status": "PAUSED",
+          "amount": 13
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 474,
+              "name": "Shogakukan Music & Digital Entertainment"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "JqjXaJysS5w",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [],
+      "snapshot_id": "7daa97387d9f9ded81b49d9644c8a09efb3ec54f02f2a6def54ec5e97a644dc5"
+    },
+    {
+      "mal_id": 64326,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:20.863149+00:00",
+      "retrieved_at": "2026-09-15T14:24:20.863149+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1845,
+        "favorites": 10,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 212799,
+      "titles": {
+        "romaji": "Marronnier Oukoku no Shichinin no Kishi",
+        "english": "The Seven Knights of the Marronnier Kingdom",
+        "native": "マロニエ王国の七人の騎士"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 77
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1741
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 10
+        },
+        {
+          "status": "PAUSED",
+          "amount": 16
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": 20,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7,
+              "name": "J.C.STAFF"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "K6N27yNdNIg",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 99855,
+            "idMal": 110138,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Marronnier Oukoku no Shichinin no Kishi",
+              "english": null
+            },
+            "popularity": 780,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "a3747f33b596d8214ae75f85ac79cfe4936b1236bfe0b98d510f7301ae80e0cb"
+    },
+    {
+      "mal_id": 63157,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:23.020720+00:00",
+      "retrieved_at": "2026-09-15T14:24:23.020720+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 509,
+        "favorites": 4,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 216557,
+      "titles": {
+        "romaji": "Keroro Gunsou☆",
+        "english": null,
+        "native": "ケロロ軍曹☆"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 20
+        },
+        {
+          "status": "PLANNING",
+          "amount": 477
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 6
+        },
+        {
+          "status": "PAUSED",
+          "amount": 5
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6116,
+              "name": "Bandai Namco Pictures"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "iMyre5xXDzE",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30390,
+            "idMal": 390,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Keroro Gunsou",
+              "english": "Sgt Frog"
+            },
+            "popularity": 2002,
+            "averageScore": 71,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 516,
+            "idMal": 516,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Keroro Gunsou",
+              "english": "Sgt. Frog"
+            },
+            "popularity": 17523,
+            "averageScore": 74,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 20543,
+            "idMal": 21671,
+            "type": "ANIME",
+            "format": "TV_SHORT",
+            "title": {
+              "romaji": "Keroro",
+              "english": null
+            },
+            "popularity": 2788,
+            "averageScore": 63,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "b9a3ef99f7bafce8ca06372915c31a9f06a306e83ed175395236bd8c67e5f32b"
+    },
+    {
+      "mal_id": 62534,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:25.181514+00:00",
+      "retrieved_at": "2026-09-15T14:24:25.181514+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 816,
+        "favorites": 5,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 199068,
+      "titles": {
+        "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+        "english": null,
+        "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 46
+        },
+        {
+          "status": "PLANNING",
+          "amount": 727
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 10
+        },
+        {
+          "status": "DROPPED",
+          "amount": 27
+        },
+        {
+          "status": "PAUSED",
+          "amount": 6
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 1
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": []
+        },
+        "trailer": {
+          "id": "bsNeADDQFD4",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 165810,
+            "idMal": 55570,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
+              "english": "The Prince of Tennis II U-17 World Cup Semifinal"
+            },
+            "popularity": 2856,
+            "averageScore": 63,
+            "status": "FINISHED"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 42965,
+            "idMal": 12965,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Shin Tennis no Ouji-sama",
+              "english": null
+            },
+            "popularity": 2352,
+            "averageScore": 66,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "484bb66076e752996a333c875be8a7d614fc563ec65bf6adfc6ea2b1aa92c790"
+    },
+    {
+      "mal_id": 63053,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:27.361987+00:00",
+      "retrieved_at": "2026-09-15T14:24:27.361987+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 2448,
+        "favorites": 18,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 203473,
+      "titles": {
+        "romaji": "Kyoufu Collector",
+        "english": null,
+        "native": "恐怖コレクター"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 103
+        },
+        {
+          "status": "PLANNING",
+          "amount": 2307
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 4
+        },
+        {
+          "status": "DROPPED",
+          "amount": 12
+        },
+        {
+          "status": "PAUSED",
+          "amount": 22
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": []
+        },
+        "trailer": null
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 146120,
+            "idMal": 159623,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Kyoufu Collector",
+              "english": "Horror Collector"
+            },
+            "popularity": 137,
+            "averageScore": null,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "bbeb2a8bb94b722891a23e0b28fa90eb8ba9a93b4a28caacca8cf2937a3330b1"
+    },
+    {
+      "mal_id": 63381,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:29.595128+00:00",
+      "retrieved_at": "2026-09-15T14:24:29.595128+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 1764,
+        "favorites": 22,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 206774,
+      "titles": {
+        "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
+        "english": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls!",
+        "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 320
+        },
+        {
+          "status": "PLANNING",
+          "amount": 1391
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 5
+        },
+        {
+          "status": "DROPPED",
+          "amount": 20
+        },
+        {
+          "status": "PAUSED",
+          "amount": 28
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6580,
+              "name": "Suiseisha"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "2zhlC9mffas",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 199993,
+            "idMal": null,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
+              "english": "Click Me All Over"
+            },
+            "popularity": 116,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        }
+      ],
+      "snapshot_id": "713652d69a7ed61ccdfa4fd70d4f396782e5c44e4926b08309d50156eddb4a5b"
+    },
+    {
+      "mal_id": 59415,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:31.832622+00:00",
+      "retrieved_at": "2026-09-15T14:24:31.832622+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 861,
+        "favorites": 4,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 179876,
+      "titles": {
+        "romaji": "DARK MACHINE: The Animation",
+        "english": null,
+        "native": "DARK MACHINE -The Animation-"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 69
+        },
+        {
+          "status": "PLANNING",
+          "amount": 769
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 9
+        },
+        {
+          "status": "PAUSED",
+          "amount": 11
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": 11,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 14
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6737,
+              "name": "Production +h"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "P8FfvDLyMrY",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [],
+      "snapshot_id": "9d0514f3a2719ade7c7cecdb9e62ccbe905ca60f3a6f85f2f19e97520554f38b"
+    },
+    {
+      "mal_id": 63667,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:33.986960+00:00",
+      "retrieved_at": "2026-09-15T14:24:33.986960+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 933,
+        "favorites": 7,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209032,
+      "titles": {
+        "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+        "english": null,
+        "native": "魔法の姉妹ルルットリリィ 第2クール"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 35
+        },
+        {
+          "status": "PLANNING",
+          "amount": 871
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 0
+        },
+        {
+          "status": "DROPPED",
+          "amount": 21
+        },
+        {
+          "status": "PAUSED",
+          "amount": 6
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 4
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 1,
+              "name": "Studio Pierrot"
+            }
+          ]
+        },
+        "trailer": null
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 178749,
+            "idMal": 59176,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Mahou no Shimai LuluttoLilly",
+              "english": "Magical Sisters LuluttoLilly"
+            },
+            "popularity": 5349,
+            "averageScore": 67,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "10a7fdcb6f9ad2593c8f09f43a7a5274741c264cf0a6a0257f7b31235bf3b14b"
+    },
+    {
+      "mal_id": 64718,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:38.424179+00:00",
+      "retrieved_at": "2026-09-15T14:24:38.424179+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 560,
+        "favorites": 9,
+        "average_score_100": null,
+        "mean_score_100": 55
+      },
+      "anilist_id": 214703,
+      "titles": {
+        "romaji": "Ghost Meets Gal!",
+        "english": null,
+        "native": "ごーすと・みーつ・ぎゃる！"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 137
+        },
+        {
+          "status": "PLANNING",
+          "amount": 402
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 4
+        },
+        {
+          "status": "DROPPED",
+          "amount": 13
+        },
+        {
+          "status": "PAUSED",
+          "amount": 4
+        }
+      ],
+      "metadata": {
+        "status": "RELEASING",
+        "format": "TV_SHORT",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 9,
+          "day": 5
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 7700,
+              "name": "AtoriE"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "n0na0hTpl1E",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 214728,
+            "idMal": null,
+            "type": "MANGA",
+            "format": "MANGA",
+            "title": {
+              "romaji": "Ghost Meets Gal!",
+              "english": null
+            },
+            "popularity": 22,
+            "averageScore": null,
+            "status": "RELEASING"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 9539,
+            "idMal": 9539,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Cardfight!! Vanguard",
+              "english": "Cardfight Vanguard"
+            },
+            "popularity": 12788,
+            "averageScore": 67,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "d524a3ffb8d55f5d50feab174683c7ffe41969170738dc54f1ac3e6900a36411"
+    },
+    {
+      "mal_id": 64344,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:40.600363+00:00",
+      "retrieved_at": "2026-09-15T14:24:40.600363+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 646,
+        "favorites": 5,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 213068,
+      "titles": {
+        "romaji": "Jyuоu Mujin Dandivine",
+        "english": null,
+        "native": "獣王武神ダンデヴァイン"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 34
+        },
+        {
+          "status": "PLANNING",
+          "amount": 595
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 11
+        },
+        {
+          "status": "PAUSED",
+          "amount": 5
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 8
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 839,
+              "name": "LIDENFILMS"
+            },
+            {
+              "id": 7814,
+              "name": "Kayac Animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "ihJfkOT_0wU",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [],
+      "snapshot_id": "7a76f3df4fafe3e9e48a3be5b64037628969001c850787ce59df56ee79f6fe94"
+    },
+    {
+      "mal_id": 63938,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:42.848403+00:00",
+      "retrieved_at": "2026-09-15T14:24:42.848403+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 249,
+        "favorites": 3,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 214536,
+      "titles": {
+        "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
+        "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
+        "native": "カードファイト!! ヴァンガード Divinez 運命星戦編"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 14
+        },
+        {
+          "status": "PLANNING",
+          "amount": 213
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 3
+        },
+        {
+          "status": "DROPPED",
+          "amount": 14
+        },
+        {
+          "status": "PAUSED",
+          "amount": 5
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": 3,
+        "startDate": {
+          "year": 2026,
+          "month": 11,
+          "day": 7
+        },
+        "endDate": {
+          "year": 2026,
+          "month": 11,
+          "day": 21
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 290,
+              "name": "Kinema Citrus"
+            },
+            {
+              "id": 6712,
+              "name": "Gift-o’-Animation"
+            },
+            {
+              "id": 6589,
+              "name": "Studio JEMI"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "zxgmRfemSMI",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 203296,
+            "idMal": 62649,
+            "type": "ANIME",
+            "format": "TV",
+            "title": {
+              "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
+              "english": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash"
+            },
+            "popularity": 1014,
+            "averageScore": 61,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "9d9263f764e1f0b3ddeef0062d4c38aab320f3a5b260dd7f3f981ce219f0513b"
+    },
+    {
+      "mal_id": 62039,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:45.038213+00:00",
+      "retrieved_at": "2026-09-15T14:24:45.038213+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 220,
+        "favorites": 1,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 194207,
+      "titles": {
+        "romaji": "Pan Dorobou",
+        "english": null,
+        "native": "パンどろぼう"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 16
+        },
+        {
+          "status": "PLANNING",
+          "amount": 180
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 1
+        },
+        {
+          "status": "DROPPED",
+          "amount": 22
+        },
+        {
+          "status": "PAUSED",
+          "amount": 1
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": null
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 247,
+              "name": "Shin-Ei Animation"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "dUSYa-7rKpM",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [],
+      "snapshot_id": "58e3ec33bbfefed75e972ab5cc56440ba2cfa6dacd6fe525381d6c9bba3c2b21"
+    },
+    {
+      "mal_id": 63901,
+      "source": "anilist",
+      "observed_at": "2026-09-15T14:24:47.204154+00:00",
+      "retrieved_at": "2026-09-15T14:24:47.204154+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "eligible_for_growth": true,
+      "quality_flags": [],
+      "metrics": {
+        "popularity": 202,
+        "favorites": 4,
+        "average_score_100": null,
+        "mean_score_100": null
+      },
+      "anilist_id": 209709,
+      "titles": {
+        "romaji": "Sirotan",
+        "english": null,
+        "native": "しろたん"
+      },
+      "status_distribution": [
+        {
+          "status": "CURRENT",
+          "amount": 10
+        },
+        {
+          "status": "PLANNING",
+          "amount": 174
+        },
+        {
+          "status": "COMPLETED",
+          "amount": 0
+        },
+        {
+          "status": "DROPPED",
+          "amount": 17
+        },
+        {
+          "status": "PAUSED",
+          "amount": 1
+        }
+      ],
+      "metadata": {
+        "status": "NOT_YET_RELEASED",
+        "format": "TV",
+        "episodes": null,
+        "startDate": {
+          "year": 2026,
+          "month": 10,
+          "day": 3
+        },
+        "endDate": {
+          "year": null,
+          "month": null,
+          "day": null
+        },
+        "studios": {
+          "nodes": [
+            {
+              "id": 6252,
+              "name": "Lesprit"
+            }
+          ]
+        },
+        "trailer": {
+          "id": "4iOFqQ1E4Mo",
+          "site": "youtube"
+        }
+      },
+      "franchise_relations_current": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 99966,
+            "idMal": 36107,
+            "type": "ANIME",
+            "format": "ONA",
+            "title": {
+              "romaji": "Sirotan: Sirotan ga Ippai!",
+              "english": null
+            },
+            "popularity": 257,
+            "averageScore": 46,
+            "status": "FINISHED"
+          }
+        }
+      ],
+      "snapshot_id": "3aee6be18ef6c405691a16f3c725e3c74e26b2617842a4b2c36542c5d35e553c"
     }
   ],
   "runs": [
@@ -12986,6 +19413,77 @@
       "errors": [],
       "stopped_reason": "not_configured_YOUTUBE_API_KEY",
       "finished_at": "2026-09-14T15:06:43.293550+00:00"
+    },
+    {
+      "source": "anilist",
+      "started_at": "2026-09-15T14:22:28.256076+00:00",
+      "expected": 69,
+      "successes": 63,
+      "errors": [
+        {
+          "target": 63818,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:36.170053+00:00"
+        },
+        {
+          "target": 64028,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:49.463676+00:00"
+        },
+        {
+          "target": 64430,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:51.715469+00:00"
+        },
+        {
+          "target": 64717,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:53.874137+00:00"
+        },
+        {
+          "target": 63823,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:56.039769+00:00"
+        },
+        {
+          "target": 64789,
+          "http_status": 404,
+          "error": "HTTPError",
+          "at": "2026-09-15T14:24:58.263475+00:00"
+        }
+      ],
+      "missing_ids": [
+        63818,
+        64028,
+        64430,
+        64717,
+        63823,
+        64789
+      ],
+      "finished_at": "2026-09-15T14:25:00.283779+00:00"
+    },
+    {
+      "source": "reddit",
+      "started_at": "2026-09-15T14:25:00.303795+00:00",
+      "finished_at": "2026-09-15T14:25:00.303805+00:00",
+      "expected": 0,
+      "successes": 0,
+      "errors": [],
+      "stopped_reason": "paused_after_access_denial"
+    },
+    {
+      "source": "youtube",
+      "started_at": "2026-09-15T14:25:00.324438+00:00",
+      "expected": 0,
+      "successes": 0,
+      "errors": [],
+      "stopped_reason": "not_configured_YOUTUBE_API_KEY",
+      "finished_at": "2026-09-15T14:25:00.324464+00:00"
     }
   ],
   "paused": {
