@@ -1,3 +1,5 @@
+> **Superseded by [Full research — all 69 titles](FULL_RESEARCH.md), September 15, 2026.** This earlier checkpoint is retained as history and is not the full current research coverage.
+
 # External research checkpoint — September 14, 2026
 
 This is a small first research pass, not a representative survey or a measured popularity surge.

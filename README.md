@@ -8,8 +8,12 @@ This project collects evidence for Fantasy Anime League roster decisions. It is 
 - [External-source report](external_report.md): actual collection status and evidence candidates; blocked and unconfigured sources stay visible.
 - [Feature table](tracking_features.csv): latest fields and growth measurements for analysis.
 - [Raw MAL history](tracking_state.json) and [raw independent history](external_state.json): timestamped, append-only observations.
-- [Research checkpoint](RESEARCH_CHECKPOINT.md): sourced schedule checks and qualitative social leads, with uncertainty explicitly recorded.
+- [Full research — all 69 titles](FULL_RESEARCH.md): individual evidence, audience and source/prequel context, schedule risks, research priorities and next-evidence triggers. Research depth and gaps are explicit.
+- [Structured full research](full_research.json): the same 69 assessments with timestamps, exact IDs and source links.
+- [Earlier research checkpoint](RESEARCH_CHECKPOINT.md): retained historical comparison; superseded by the full roster report.
 - [Model specification](MODEL_SPEC.md): what must be resolved and validated before final picks.
+
+Research update (September 15): the full report uses September 14 audience observations. All 69 titles have been screened; this does not establish measured surges or comprehensive social sentiment. The latest Actions run visible during the audit was September 14, so verify the next scheduled run or trigger one manual run if needed.
 
 ## Running automatically
 

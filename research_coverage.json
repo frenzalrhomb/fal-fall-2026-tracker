@@ -1,0 +1,690 @@
+{
+  "as_of": "2026-09-15",
+  "coverage": {
+    "anilist": 63,
+    "discovery": 17,
+    "mal": 69,
+    "measured_multi_day_surges": 0,
+    "primary_detail": 19,
+    "primary_search": 33,
+    "research_notes": 69,
+    "restricted": 4,
+    "roster": 69,
+    "social_lead_titles": 2,
+    "unrestricted": 65
+  },
+  "scope": "All 69 eligible titles screened. Research depth varies explicitly; not a complete social census or trained forecast.",
+  "method": "Individual English/Japanese title discovery; primary schedule checks where retrievable; exact-ID MAL/AniList snapshots and retained prior qualitative leads. Search landing-page-only results are explicitly graded as unresolved evidence.",
+  "limitations": [
+    "No reliable representative social sentiment series",
+    "No measured multi-day momentum in inspected numerical baseline",
+    "Search indexing, cache dates and landing pages can be misleading; discovery is not verification",
+    "Promotional events are not organic engagement counts"
+  ],
+  "automation_audit": {
+    "checked_on": "2026-09-15",
+    "latest_visible_run_id": 34859558942,
+    "latest_visible_run_date": "2026-09-14",
+    "latest_visible_run_conclusion": "success",
+    "september_15_run_visible": false,
+    "configured_daily_utc": "09:17"
+  },
+  "titles": [
+    {
+      "mal_id": 53913,
+      "title": "Tensei shitara Ken deshita II",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://tenken-anime.com/onair.html",
+        "https://tenken-anime.com/news.html"
+      ],
+      "next_evidence": "Confirm FAL's treatment of advance streaming; separate giveaway engagement from organic demand."
+    },
+    {
+      "mal_id": 61323,
+      "title": "Ao no Hako Season 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://aonohako-anime.com/",
+        "https://www.reddit.com/r/BlueBox/comments/1vyl2lu/blue_box_season_2_key_visual/"
+      ],
+      "next_evidence": "Measure PTW conversion and verify streaming availability in major MAL markets."
+    },
+    {
+      "mal_id": 59088,
+      "title": "Tokyo Revengers: Santen Sensou-hen",
+      "research_status": "discovery",
+      "sources": [
+        "https://www.reddit.com/r/TokyoRevengers/comments/1s6p9mm/tokyo_revengers_season_4_new_trailer_is_out/",
+        "https://www.cdjapan.co.jp/feature/autumn-2026-anime"
+      ],
+      "next_evidence": "Verify the official broadcast schedule and regional distribution; obtain retention evidence rather than extrapolate franchise size."
+    },
+    {
+      "mal_id": 61603,
+      "title": "Ao Ashi Season 2",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://aoashi-pr.com/",
+        "https://www.reddit.com/r/anime/comments/1w4stoh/aoashi_season_2_new_pv/"
+      ],
+      "next_evidence": "Track growth and production reception; reconcile cour and MAL-entry boundaries."
+    },
+    {
+      "mal_id": 52480,
+      "title": "Tantei wa Mou, Shindeiru. Season 2",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://tanmoshi-anime.jp/Season2/",
+        "https://www.youtube.com/watch?v=8AnNxEp733c"
+      ],
+      "next_evidence": "Look for credible production-improvement evidence and sustained daily growth."
+    },
+    {
+      "mal_id": 57612,
+      "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "research_status": "primary_search",
+      "sources": [
+        "https://returners-magic.com/news/",
+        "https://www.aniplex.co.jp/lineup/kikansha/news/detail/?id=68829"
+      ],
+      "next_evidence": "Resolve the first airing date and compare sequel growth against Detective/Sasaki."
+    },
+    {
+      "mal_id": 60601,
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://blog.syosetu.com/article/view/article_id/5244/",
+        "https://kanteiskill.com/"
+      ],
+      "next_evidence": "Verify the regular Sunday episode time relative to scoring and watch audience retention."
+    },
+    {
+      "mal_id": 64534,
+      "title": "Koori no Jouheki 2nd Season",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://korinojoheki-pr.com/",
+        "https://x.com/korinojoheki_pr"
+      ],
+      "next_evidence": "Compare growth with the larger but lower-rated sequels; confirm entry/finale timing."
+    },
+    {
+      "mal_id": 63293,
+      "title": "Hotaru no Yomeiri",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://hotaru-anime.com/",
+        "https://www.reddit.com/r/anime/comments/1w8mwen/firefly_wedding_key_visual/"
+      ],
+      "next_evidence": "Assess adaptation reception and distinguish limited advance screenings from broad streaming."
+    },
+    {
+      "mal_id": 63367,
+      "title": "Dragon Ball Super: Beerus",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://dragonball-super.com/",
+        "https://www.fujitv.co.jp/fujitv/news/20260943.html"
+      ],
+      "next_evidence": "Measure actual list growth after trailer promotion; do not inherit original Dragon Ball Super audience totals."
+    },
+    {
+      "mal_id": 63801,
+      "title": "Ranma ½ (2024) 3rd Season",
+      "research_status": "primary_search",
+      "sources": [
+        "https://ranma-pr.com/"
+      ],
+      "next_evidence": "Confirm the season-three tab and worldwide availability; compare steady growth with new adaptations."
+    },
+    {
+      "mal_id": 58518,
+      "title": "Sasaki to Pii-chan Season 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://sasapi-anime.com/",
+        "https://sasapi-anime.com/news/article_041.html"
+      ],
+      "next_evidence": "Check whether screening reactions suggest improved reception and how the premiere is entered on MAL."
+    },
+    {
+      "mal_id": 63181,
+      "title": "Tougen Anki: Nikko Kegon no Taki-hen",
+      "research_status": "primary_search",
+      "sources": [
+        "https://tougenanki-anime.com/",
+        "https://tougenanki-anime.com/special/event_20260919/"
+      ],
+      "next_evidence": "Monitor screening reception and official release updates; compare source demand to actual sequel PTW."
+    },
+    {
+      "mal_id": 62484,
+      "title": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://chiramune.com/",
+        "https://www.crunchyroll.com/pl/news/latest/2026/3/31/chitose-is-in-the-ramune-bottle-anime-cour-2-announced-for-2026"
+      ],
+      "next_evidence": "Check airing reliability, actual entry boundaries and screening reaction before assigning a late-season role."
+    },
+    {
+      "mal_id": 64254,
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "research_status": "primary_search",
+      "sources": [
+        "https://blog.syosetu.com/"
+      ],
+      "next_evidence": "Obtain a title-specific official schedule/PV and evidence of improved reception before elevating it."
+    },
+    {
+      "mal_id": 61578,
+      "title": "Seitokai ni mo Ana wa Aru!",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://www.aniplex.co.jp/lineup/nama-anaru/",
+        "https://nama-anaru.com/?target=movie"
+      ],
+      "next_evidence": "Track trailer-to-PTW conversion and reactions from outside the existing manga fanbase."
+    },
+    {
+      "mal_id": 63140,
+      "title": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://www.lastboss-anime.com/news/index00320000.html"
+      ],
+      "next_evidence": "Observe the September 26 premiere response before locking picks; confirm how FAL recognizes advance streaming."
+    },
+    {
+      "mal_id": 63409,
+      "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+      "research_status": "discovery",
+      "sources": [
+        "https://natalie.mu/"
+      ],
+      "next_evidence": "Verify exact premiere and production; require sustained growth to distinguish a real breakout from small-base noise."
+    },
+    {
+      "mal_id": 61153,
+      "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "research_status": "primary_search",
+      "sources": [
+        "https://s.mxtv.jp/"
+      ],
+      "next_evidence": "Confirm broadcaster detail page and compare manga versus novel reception with sample-size caution."
+    },
+    {
+      "mal_id": 64503,
+      "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://mission-yozakura-family.com/"
+      ],
+      "next_evidence": "Confirm cour-two schedule/entry mapping and whether audience carries over to this separate entry."
+    },
+    {
+      "mal_id": 63098,
+      "title": "Psyren",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://psyren-anime.com/",
+        "https://psyren-anime.com/news"
+      ],
+      "next_evidence": "Monitor growth following the September PV and seek broad first-reaction evidence; no week-one TV audience."
+    },
+    {
+      "mal_id": 59204,
+      "title": "Magic Knight Rayearth (2026)",
+      "research_status": "primary_search",
+      "sources": [
+        "https://rayearth-anime.com/"
+      ],
+      "next_evidence": "Verify October 7 timing and international distribution; look for new viewers beyond existing fans."
+    },
+    {
+      "mal_id": 63382,
+      "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "research_status": "discovery",
+      "sources": [
+        "https://times.abema.tv/"
+      ],
+      "next_evidence": "Obtain exact official page and episode structure; compare growth against competing new fantasy adaptations."
+    },
+    {
+      "mal_id": 60948,
+      "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "research_status": "primary_search",
+      "sources": [
+        "https://kadokawabooks.jp/",
+        "https://www.aniplex.co.jp/"
+      ],
+      "next_evidence": "Check premiere, provider and trailer reception; do not interpret the book promotion itself as anime demand."
+    },
+    {
+      "mal_id": 61014,
+      "title": "Toaru Anbu no Item",
+      "research_status": "primary_search",
+      "sources": [
+        "https://toaru-project.com/item/"
+      ],
+      "next_evidence": "Normalize premiere date and confirm international availability and spin-off accessibility."
+    },
+    {
+      "mal_id": 54344,
+      "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "research_status": "primary_search",
+      "sources": [
+        "https://mahoiku.com/",
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "next_evidence": "Watch returning-fan conversion and verify the complete season's discussion/finale schedule."
+    },
+    {
+      "mal_id": 56733,
+      "title": "Magical★Explorer",
+      "research_status": "discovery",
+      "sources": [
+        "https://t.pia.jp/"
+      ],
+      "next_evidence": "Locate screening reactions and official distribution; verify title aliases so searches do not miss the star-symbol variants."
+    },
+    {
+      "mal_id": 64340,
+      "title": "Tempal: Item no Chikara",
+      "research_status": "discovery",
+      "sources": [
+        "https://natalie.mu/"
+      ],
+      "next_evidence": "Confirm official trailer/provider and MAL-entry format; seek sustained MAL growth before upgrading it."
+    },
+    {
+      "mal_id": 63754,
+      "title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "research_status": "primary_search",
+      "sources": [
+        "https://play.google.com/store/apps/details?hl=ja&id=com.shioama.anime"
+      ],
+      "next_evidence": "Find the official premiere and screening reactions, then compare absolute audience additions with other romances."
+    },
+    {
+      "mal_id": 61999,
+      "title": "Shuiro no Kamen",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://the-vermilion-mask.com/"
+      ],
+      "next_evidence": "Verify split-cour MAL-entry treatment and source reception before estimating score/favorite upside."
+    },
+    {
+      "mal_id": 62753,
+      "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "research_status": "discovery",
+      "sources": [
+        "https://www.tvguide.or.jp/"
+      ],
+      "next_evidence": "Verify official schedule and licensing; investigate source readers' adaptation expectations."
+    },
+    {
+      "mal_id": 63337,
+      "title": "FX Senshi Kurumi-chan",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://fxkurumi-info.com/"
+      ],
+      "next_evidence": "Track specific trailer/post engagement and subsequent MAL additions; confirm international availability."
+    },
+    {
+      "mal_id": 59787,
+      "title": "Romelia Senki",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://romelia-senki.com/onair/"
+      ],
+      "next_evidence": "Confirm how FAL recognizes advance distribution and the MAL-entry/finale boundary; compare early audience conversion."
+    },
+    {
+      "mal_id": 64505,
+      "title": "Diamond no Ace: Act II Second Season Part 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://diaace.com/"
+      ],
+      "next_evidence": "Verify audience migration to the separate cour entry and test whether score/discussion upside compensates for size."
+    },
+    {
+      "mal_id": 62524,
+      "title": "#Zombie Sagashitemasu",
+      "research_status": "discovery",
+      "sources": [
+        "https://dengekionline.com/"
+      ],
+      "next_evidence": "Confirm official release and preview response; compare growth with other small new adaptations."
+    },
+    {
+      "mal_id": 64084,
+      "title": "Sekai Saikyou no Majo, Hajimemashita",
+      "research_status": "primary_search",
+      "sources": [
+        "https://magazine.jp.square-enix.com/"
+      ],
+      "next_evidence": "Verify date and trailer reception; require a clear improvement in growth or quality evidence."
+    },
+    {
+      "mal_id": 63292,
+      "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "research_status": "primary_search",
+      "sources": [
+        "https://zero-believers-anime.com/",
+        "https://over-lap.co.jp/"
+      ],
+      "next_evidence": "Check official distribution page and watch conversion from the source audience."
+    },
+    {
+      "mal_id": 63751,
+      "title": "Tank Chair",
+      "research_status": "discovery",
+      "sources": [
+        "https://tankchair-anime.com/"
+      ],
+      "next_evidence": "Inspect screening reception and track sustained MAL additions; confirm exact October 4 premiere."
+    },
+    {
+      "mal_id": 62922,
+      "title": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000009592.000014827.html",
+        "https://www.youtube.com/watch?v=kXqx3rFSkxc"
+      ],
+      "next_evidence": "Investigate conversion and broad trailer response; confirm domestic/overseas distribution."
+    },
+    {
+      "mal_id": 62590,
+      "title": "Hotel Inhumans 2nd Season",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://www.tv-tokyo.co.jp/anime/hotel-inhumans/",
+        "https://hotel-inhumans.com/"
+      ],
+      "next_evidence": "Track actual retention and look for independently supported quality improvement."
+    },
+    {
+      "mal_id": 61140,
+      "title": "Gensou Suikoden",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://suikoden-anime.com/",
+        "https://www.shochiku.co.jp/cinema/lineup/アニメ「幻想水滸伝」/"
+      ],
+      "next_evidence": "Check game-fan and newcomer response separately, international licensing and exact first broadcast."
+    },
+    {
+      "mal_id": 63509,
+      "title": "Dark Summoner to Dekiteiru",
+      "research_status": "primary_search",
+      "sources": [
+        "https://dengekionline.com/article/202602/66540",
+        "https://x.com/dksummon_anime/status/2095708438206828762"
+      ],
+      "next_evidence": "Verify runtime and distribution; estimate rating/discussion behavior using short-format comparables."
+    },
+    {
+      "mal_id": 63753,
+      "title": "Kanata kara",
+      "research_status": "primary_search",
+      "sources": [
+        "https://www.oricon.co.jp/news/2444658/full/",
+        "https://x.com/kanatakara_anm"
+      ],
+      "next_evidence": "Confirm premiere time and overseas distribution; look for newcomer interest beyond existing source readers."
+    },
+    {
+      "mal_id": 63712,
+      "title": "Tensei Goblin dakedo Shitsumon Aru?",
+      "research_status": "primary_search",
+      "sources": [
+        "https://prtimes.jp/",
+        "https://shonenjumpplus.com/"
+      ],
+      "next_evidence": "Find a title-specific official schedule and trailer before raising its priority."
+    },
+    {
+      "mal_id": 64298,
+      "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "research_status": "primary_search",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000446.000015126.html",
+        "https://anime-yukionna.af-original.com/"
+      ],
+      "next_evidence": "Verify TV version, runtime, first release and exact FAL entry before using early audience counts."
+    },
+    {
+      "mal_id": 64131,
+      "title": "Kanojo no Tomodachi",
+      "research_status": "discovery",
+      "sources": [
+        "https://animeanime.jp/"
+      ],
+      "next_evidence": "Verify title-specific provider/schedule; require a major evidence change to elevate it."
+    },
+    {
+      "mal_id": 64180,
+      "title": "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+      "research_status": "primary_search",
+      "sources": [
+        "https://animationid.com/"
+      ],
+      "next_evidence": "Confirm runtime/entry and monitor unusually strong audience additions."
+    },
+    {
+      "mal_id": 62907,
+      "title": "Ojisan wa Kawaii Mono ga Osuki.",
+      "research_status": "discovery",
+      "sources": [
+        "https://prtimes.jp/"
+      ],
+      "next_evidence": "Verify distribution and actual promotional response outside existing readers."
+    },
+    {
+      "mal_id": 62696,
+      "title": "Choujun! Choujou-senpai",
+      "research_status": "primary_search",
+      "sources": [
+        "https://www.shonenjump.com/"
+      ],
+      "next_evidence": "Obtain primary exact date and preview reactions; monitor absolute growth rather than publicity volume."
+    },
+    {
+      "mal_id": 62615,
+      "title": "Tetsuryou! Meet with Tetsudou Musume",
+      "research_status": "discovery",
+      "sources": [
+        "https://natalie.mu/"
+      ],
+      "next_evidence": "Check international access and whether PV attention converts to MAL lists."
+    },
+    {
+      "mal_id": 63764,
+      "title": "Vertex Force",
+      "research_status": "discovery",
+      "sources": [
+        "https://animeanime.jp/"
+      ],
+      "next_evidence": "Verify official production/PV and use original-anime comparables with broad uncertainty."
+    },
+    {
+      "mal_id": 64326,
+      "title": "Marronnier Oukoku no Shichinin no Kishi",
+      "research_status": "primary_search",
+      "sources": [
+        "https://flowers.shogakukan.co.jp/"
+      ],
+      "next_evidence": "Verify worldwide distribution and source reception; compare with other small but well-supported adaptations."
+    },
+    {
+      "mal_id": 63157,
+      "title": "Keroro Gunsou☆",
+      "research_status": "primary_search",
+      "sources": [
+        "https://www.bn-pictures.co.jp/"
+      ],
+      "next_evidence": "Verify the new entry's format and streaming reach; monitor new rather than recycled announcement attention."
+    },
+    {
+      "mal_id": 62534,
+      "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+      "research_status": "primary_search",
+      "sources": [
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "next_evidence": "Verify civil date and complete runtime/episode schedule before simulating an Ace possibility."
+    },
+    {
+      "mal_id": 63053,
+      "title": "Kyoufu Collector",
+      "research_status": "primary_search",
+      "sources": [
+        "https://tsubasabunko.jp/special/kyokore10th.html",
+        "https://www.nhk-character.com/"
+      ],
+      "next_evidence": "Verify full broadcast schedule and subtitled availability; no quantitative buzz claim."
+    },
+    {
+      "mal_id": 63381,
+      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "research_status": "discovery",
+      "sources": [
+        "https://www.inside-games.jp/",
+        "https://prtimes.jp/"
+      ],
+      "next_evidence": "Verify the precise TV entry/runtime and FAL airing treatment; do not conflate platform views with Watching users."
+    },
+    {
+      "mal_id": 59415,
+      "title": "Dark Machine: The Animation",
+      "research_status": "discovery",
+      "sources": [
+        "https://www.crunchyroll.com/"
+      ],
+      "next_evidence": "Find the official production page and assess trailer response; validate the October 14 roster date before modeling."
+    },
+    {
+      "mal_id": 63667,
+      "title": "Mahou no Shimai Lulutto Lilly Part 2",
+      "research_status": "discovery",
+      "sources": [
+        "https://natalie.mu/"
+      ],
+      "next_evidence": "Verify second-cour entry boundaries and track audience migration."
+    },
+    {
+      "mal_id": 63818,
+      "title": "Battle Spirits [Re]: Zekkai no Kuu",
+      "research_status": "primary_search",
+      "sources": [
+        "https://asia-en.battlespirits.com/news/2026/anime-news.php",
+        "https://www.crunchyroll.com/news/latest/2026/8/25/battle-spirits-re-zekkai-no-ku-anime-main-trailer-visual-additional-cast-premiere-date"
+      ],
+      "next_evidence": "Confirm the official exact schedule and translation/distribution reach."
+    },
+    {
+      "mal_id": 64718,
+      "title": "Ghost Meets Gal!",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://cf-vanguard.com/anime-ghost_meets_gal/",
+        "https://prtimes.jp/main/html/rd/p/000009718.000014827.html"
+      ],
+      "next_evidence": "Track actual retention and confirm episode-thread coverage rather than assuming normal-length anime engagement."
+    },
+    {
+      "mal_id": 64344,
+      "title": "Juuou Mujin Dandivine",
+      "research_status": "discovery",
+      "sources": [
+        "https://hobby.watch.impress.co.jp/"
+      ],
+      "next_evidence": "Obtain exact official schedule/PV and independent reception before any roster promotion."
+    },
+    {
+      "mal_id": 63938,
+      "title": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
+      "research_status": "primary_search",
+      "sources": [
+        "https://anime.cf-vanguard.com/",
+        "https://clamp-net.com/"
+      ],
+      "next_evidence": "Clarify FAL eligibility/airing recognition before selecting; do not assume the advance movie showing rescues it."
+    },
+    {
+      "mal_id": 62039,
+      "title": "Pan Dorobou",
+      "research_status": "primary_search",
+      "sources": [
+        "https://ehon.kadokawa.co.jp/"
+      ],
+      "next_evidence": "Verify runtime and overseas reach; require a substantial MAL audience change to reconsider."
+    },
+    {
+      "mal_id": 63901,
+      "title": "Shirotan",
+      "research_status": "primary_search",
+      "sources": [
+        "https://sirotan.fun/",
+        "https://www.tv-asahi.co.jp/"
+      ],
+      "next_evidence": "Verify exact TV entry; do not count old web-series views or merchandise fans as this season's audience."
+    },
+    {
+      "mal_id": 64028,
+      "title": "Tanuki to Kitsune (TV)",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://www.fwinc.co.jp/news/113625/",
+        "https://www.youtube.com/watch?v=DO_UchIVN9Y"
+      ],
+      "next_evidence": "Track MAL adoption; do not interpret the absent AniList match as no audience."
+    },
+    {
+      "mal_id": 64430,
+      "title": "Yuruyuru Zukan",
+      "research_status": "primary_search",
+      "sources": [
+        "https://content-central.rakuten.net/",
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "next_evidence": "Verify exact series page/runtime and distinguish educational-book sales from FAL demand."
+    },
+    {
+      "mal_id": 64717,
+      "title": "Yuusanchi! from Yuu-hachi",
+      "research_status": "primary_search",
+      "sources": [
+        "https://license.kadokawa.co.jp/",
+        "https://www.fujitv.co.jp/"
+      ],
+      "next_evidence": "Verify exact program date and version; monitor MAL growth rather than creator-wide follower counts."
+    },
+    {
+      "mal_id": 63823,
+      "title": "Punirunes: Puni 4",
+      "research_status": "discovery",
+      "sources": [
+        "https://www.tv-tokyo.co.jp/"
+      ],
+      "next_evidence": "Verify episode/runtime schedule and keep tracking for unexpected audience changes."
+    },
+    {
+      "mal_id": 64789,
+      "title": "Nezumi-kun no Chokki (TV) 2nd Season",
+      "research_status": "primary_detail",
+      "sources": [
+        "https://www.poplar.co.jp/pr/anime-nezumikun/",
+        "https://prtimes.jp/main/html/rd/p/000001279.000031579.html"
+      ],
+      "next_evidence": "Verify broadcast entry and keep source absence explicit; reassess only on substantial new evidence."
+    }
+  ]
+}
