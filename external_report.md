@@ -5,9 +5,9 @@ A source being implemented does not mean it has successfully collected data.
 
 | Source | Last attempt UTC | Collected | Expected | Status |
 |---|---|---:|---:|---|
-| anilist | 2026-09-16T14:14:53.453800+00:00 | 63 | 69 | errors |
-| reddit | 2026-09-16T14:17:21.893495+00:00 | 0 | 0 | paused_after_access_denial |
-| youtube | 2026-09-16T14:17:21.926235+00:00 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
+| anilist | 2026-09-17T14:20:35.187134+00:00 | 63 | 69 | errors |
+| reddit | 2026-09-17T14:23:06.534439+00:00 | 0 | 0 | paused_after_access_denial |
+| youtube | 2026-09-17T14:23:06.564597+00:00 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
 
 AniList returned no mapping (HTTP 404) for MAL IDs: 63818, 64028, 64430, 64717, 63823, 64789. Other titles were still checked.
 
