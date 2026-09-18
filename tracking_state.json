@@ -16652,6 +16652,2274 @@
       "quality_flags": [],
       "eligible_for_growth": true,
       "snapshot_id": "45aeda1caf5230a445f7551f3458aae1599f47ea41e11372f7d534b98aa7b4ea"
+    },
+    {
+      "mal_id": 52480,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:16.361055+00:00",
+      "observed_at": "2026-09-18T13:38:16.361073+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tantei wa Mou, Shindeiru. Season 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-07",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "wednesday",
+          "start_time": "21:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 55977,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 3,
+        "dropped": 0,
+        "plan_to_watch": 55956
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "96ada5e0c98ad45a0c2dfba611d7ca4e322c450633b151a19acd309e292de90b"
+    },
+    {
+      "mal_id": 53913,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:17.482136+00:00",
+      "observed_at": "2026-09-18T13:38:17.482152+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tensei shitara Ken deshita II",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-01",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "00:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 93017,
+        "score": null,
+        "scored_by": 44,
+        "watching": 229,
+        "completed": 0,
+        "on_hold": 71,
+        "dropped": 17,
+        "plan_to_watch": 92700
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "98174d33223e15003b3ef9b2ef5aea36398f06d6e82e74dab88582fc1dda7d52"
+    },
+    {
+      "mal_id": 54344,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:18.697348+00:00",
+      "observed_at": "2026-09-18T13:38:18.697363+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Mahou Shoujo Ikusei Keikaku: Restart",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-06",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "02:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 10222,
+        "score": null,
+        "scored_by": 0,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 10220
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6255642c60b42c2f0731137e0614c021811b164018b3d3ea9559b6641cb3088f"
+    },
+    {
+      "mal_id": 56733,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:19.814447+00:00",
+      "observed_at": "2026-09-18T13:38:19.814463+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Magical★Explorer",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "00:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 10182,
+        "score": null,
+        "scored_by": 0,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 10176
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "badc29b1810b9b523d109a1d16c405ffb9668c3fa19063f54c5804e3bb899210"
+    },
+    {
+      "mal_id": 57612,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:20.925719+00:00",
+      "observed_at": "2026-09-18T13:38:20.925731+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-08",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "00:45"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 44393,
+        "score": null,
+        "scored_by": 61,
+        "watching": 388,
+        "completed": 0,
+        "on_hold": 98,
+        "dropped": 27,
+        "plan_to_watch": 43877
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "5a6a7ad888f9877dccffceab6097f172b6a3fc453dc853bca4abee85ee2c0817"
+    },
+    {
+      "mal_id": 58518,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:22.035385+00:00",
+      "observed_at": "2026-09-18T13:38:22.035400+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Sasaki to Pii-chan Season 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-07",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "wednesday",
+          "start_time": "22:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 23374,
+        "score": null,
+        "scored_by": 0,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 23365
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "d057b654afea805ee44c9c437e97a1f9e294f4920fdc6d423a96053132f05417"
+    },
+    {
+      "mal_id": 59088,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:23.142276+00:00",
+      "observed_at": "2026-09-18T13:38:23.142291+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tokyo Revengers: Santen Sensou-hen",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "01:53"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 59113,
+        "score": null,
+        "scored_by": 0,
+        "watching": 6,
+        "completed": 1,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 59102
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "55d7d158500bdbdf591b625789ca90703e81125baf4a7effbb6d24a60e0dfc99"
+    },
+    {
+      "mal_id": 59204,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:24.253773+00:00",
+      "observed_at": "2026-09-18T13:38:24.253785+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Magic Knight Rayearth (2026)",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-07",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "wednesday",
+          "start_time": "23:45"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 12703,
+        "score": null,
+        "scored_by": 16,
+        "watching": 105,
+        "completed": 0,
+        "on_hold": 21,
+        "dropped": 7,
+        "plan_to_watch": 12565
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "7908fe406a6a5352b4a26720faad0fde41c2edfe5153ddfe8c5773c98c5b61c0"
+    },
+    {
+      "mal_id": 59415,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:25.360490+00:00",
+      "observed_at": "2026-09-18T13:38:25.360503+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Dark Machine: The Animation",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-14",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "wednesday",
+          "start_time": "01:45"
+        },
+        "source": "mixed_media"
+      },
+      "metrics": {
+        "members": 2060,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 2057
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "1bbdc6846612ecaa43ac5f27c1e4671fde215d1bfc4b2220c56fed23349ac756"
+    },
+    {
+      "mal_id": 59787,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:26.478180+00:00",
+      "observed_at": "2026-09-18T13:38:26.478192+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Romelia Senki",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "23:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 7005,
+        "score": null,
+        "scored_by": 2,
+        "watching": 44,
+        "completed": 0,
+        "on_hold": 3,
+        "dropped": 1,
+        "plan_to_watch": 6953
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6b78cfe1c8f47b4766aa2766b85de8e1572aaba9c61b9d83e0edcf00840c7c8f"
+    },
+    {
+      "mal_id": 60601,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:27.594333+00:00",
+      "observed_at": "2026-09-18T13:38:27.594350+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-09-28",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 38172,
+        "score": null,
+        "scored_by": 1,
+        "watching": 5,
+        "completed": 1,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 38164
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "0e693afe3adac007bcf0ccad55c00187f23ee24cc64225e27297a21b29a24526"
+    },
+    {
+      "mal_id": 60948,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:28.926287+00:00",
+      "observed_at": "2026-09-18T13:38:28.926304+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "21:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 11301,
+        "score": null,
+        "scored_by": 40,
+        "watching": 171,
+        "completed": 0,
+        "on_hold": 35,
+        "dropped": 18,
+        "plan_to_watch": 11080
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "582260e9f9bd6196db635c0c8755a38c5f2c3fd99b3ba7520165d5510f5925c1"
+    },
+    {
+      "mal_id": 61014,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:30.049056+00:00",
+      "observed_at": "2026-09-18T13:38:30.049068+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Toaru Anbu no Item",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-09",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "22:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 10892,
+        "score": null,
+        "scored_by": 1,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 10889
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "e97adc475775b4c12cd1c845f56adca9a3166942b8aab979da2e572c44771b41"
+    },
+    {
+      "mal_id": 61140,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:31.158343+00:00",
+      "observed_at": "2026-09-18T13:38:31.158359+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Gensou Suikoden",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "23:30"
+        },
+        "source": "game"
+      },
+      "metrics": {
+        "members": 4750,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 4747
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "4c45fb80f02db0da208c6e1239cf37313658bfb486f377e1305f81013e4ef6d0"
+    },
+    {
+      "mal_id": 61153,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:32.274130+00:00",
+      "observed_at": "2026-09-18T13:38:32.274145+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "22:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 13963,
+        "score": null,
+        "scored_by": 1,
+        "watching": 4,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 13957
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "de69ba9ecebde37b190ac961c8af1c3968366b0f0224ff80ed06d37ea91cdf7d"
+    },
+    {
+      "mal_id": 61323,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:33.381901+00:00",
+      "observed_at": "2026-09-18T13:38:33.381917+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Ao no Hako Season 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "16:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 70893,
+        "score": null,
+        "scored_by": 2,
+        "watching": 8,
+        "completed": 0,
+        "on_hold": 3,
+        "dropped": 1,
+        "plan_to_watch": 70863
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "beb7e0df789d2cc98e3d2d07a66a31558061d6d73f5598bbf70243be7f52574a"
+    },
+    {
+      "mal_id": 61578,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:34.491046+00:00",
+      "observed_at": "2026-09-18T13:38:34.491060+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Seitokai ni mo Ana wa Aru!",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 12,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "00:30"
+        },
+        "source": "4_koma_manga"
+      },
+      "metrics": {
+        "members": 18486,
+        "score": null,
+        "scored_by": 1,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 18455
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "868f5792aefe6d0bc822b0d64e935bdb3b69cbb062fdd8c1f1b7049ac77f2496"
+    },
+    {
+      "mal_id": 61603,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:35.602969+00:00",
+      "observed_at": "2026-09-18T13:38:35.602982+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Ao Ashi Season 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "17:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 31939,
+        "score": null,
+        "scored_by": 1,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 31929
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "daf3f482fc2e3c6a3cb6cb9b2de7d96ac311a6dae81c55263895daa71304c6ed"
+    },
+    {
+      "mal_id": 61999,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:36.712137+00:00",
+      "observed_at": "2026-09-18T13:38:36.712152+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Shuiro no Kamen",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-10",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "17:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 9209,
+        "score": null,
+        "scored_by": 8,
+        "watching": 67,
+        "completed": 0,
+        "on_hold": 12,
+        "dropped": 6,
+        "plan_to_watch": 9123
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "b43a64550d459b70da995aeeb5b4995e5b089fb299bd77500333bd2d1a546957"
+    },
+    {
+      "mal_id": 62039,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:37.826225+00:00",
+      "observed_at": "2026-09-18T13:38:37.826238+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Pan Dorobou",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-02",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "18:40"
+        },
+        "source": "picture_book"
+      },
+      "metrics": {
+        "members": 198,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 198
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "12adb23fe7db3a6cfb3942eaa0cdffc84ca42e12c4e135c8159c51759f26b809"
+    },
+    {
+      "mal_id": 62484,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:38.928032+00:00",
+      "observed_at": "2026-09-18T13:38:38.928060+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-13",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "23:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 19765,
+        "score": null,
+        "scored_by": 0,
+        "watching": 4,
+        "completed": 1,
+        "on_hold": 2,
+        "dropped": 1,
+        "plan_to_watch": 19757
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "f76d876f6050ada2bcd001f5535429546ab29b91d2aa8402356883c4ba2c26e3"
+    },
+    {
+      "mal_id": 62524,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:40.035282+00:00",
+      "observed_at": "2026-09-18T13:38:40.035294+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "#Zombie Sagashitemasu",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "23:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 6624,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 6622
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "fe7558eaa842b9f81a527915e2c491f435cfc8dc23641d65d623b1026a9922e7"
+    },
+    {
+      "mal_id": 62534,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:41.139640+00:00",
+      "observed_at": "2026-09-18T13:38:41.139656+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-01",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "00:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 2177,
+        "score": null,
+        "scored_by": 0,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 2,
+        "plan_to_watch": 2172
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "9ae0386b0a1b1b30536a5fd203093c97b9fb6c06e43bf10d6a2c0605b1464966"
+    },
+    {
+      "mal_id": 62590,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:42.244258+00:00",
+      "observed_at": "2026-09-18T13:38:42.244271+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Hotel Inhumans 2nd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:45"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 5007,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 1,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 5003
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "1b17a60a04859ed97fe5d526bf36aeead7e98475fe09217d9a55b1662b536f11"
+    },
+    {
+      "mal_id": 62615,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:43.360957+00:00",
+      "observed_at": "2026-09-18T13:38:43.360969+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tetsuryou! Meet with Tetsudou Musume",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-09",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "00:00"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 3605,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3602
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "f792ce9d2ed9e30e5b427a1fb591c3c8ff9c3cc76e6a5f8d3da49f15523bc001"
+    },
+    {
+      "mal_id": 62696,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:44.465580+00:00",
+      "observed_at": "2026-09-18T13:38:44.465595+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Choujun! Choujou-senpai",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-06",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "23:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 3789,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3784
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "a29997d0f37a8480a4b036610660c81f991095ba7e773d49e01f8d132e77b403"
+    },
+    {
+      "mal_id": 62753,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:45.572374+00:00",
+      "observed_at": "2026-09-18T13:38:45.572388+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 8962,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 8961
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "e33cfe40998bcb701d976fde2a03cd495f55c10186811ed702d97287b71a3042"
+    },
+    {
+      "mal_id": 62907,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:46.705367+00:00",
+      "observed_at": "2026-09-18T13:38:46.705380+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Ojisan wa Kawaii Mono ga Osuki.",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "22:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 3979,
+        "score": null,
+        "scored_by": 0,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3972
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "e788710cc53469cb7a47fbfabda0b181b4c9ec80070997fafb880b9f62425d3e"
+    },
+    {
+      "mal_id": 62922,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:47.806752+00:00",
+      "observed_at": "2026-09-18T13:38:47.806764+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "01:30"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 6095,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 6082
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "95be0727c81d79fab081b0ed4b8b2bf8f5d1e79a40ae5b234537be7c956d3804"
+    },
+    {
+      "mal_id": 63053,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:48.913044+00:00",
+      "observed_at": "2026-09-18T13:38:48.913056+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kyoufu Collector",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-10",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 12,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "23:45"
+        },
+        "source": "novel"
+      },
+      "metrics": {
+        "members": 2323,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 2322
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "dac934aab126604bce0a81d85cc8d089cb658899d6e3347e515593e9d0bbd48b"
+    },
+    {
+      "mal_id": 63098,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:50.022493+00:00",
+      "observed_at": "2026-09-18T13:38:50.022506+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Psyren",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "23:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 13470,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 13457
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "c87d5f8138964f5a2a2be4671d06c0d0dad0bb75aacdbc298bff60a0c0d9afb4"
+    },
+    {
+      "mal_id": 63140,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:51.142009+00:00",
+      "observed_at": "2026-09-18T13:38:51.142024+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-09-26",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "22:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 15841,
+        "score": null,
+        "scored_by": 2,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 3,
+        "dropped": 0,
+        "plan_to_watch": 15829
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "39548a419b3a648c8184caba81c377ba462ec4a7e028e1ed6d725e7420e9eb21"
+    },
+    {
+      "mal_id": 63157,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:52.358650+00:00",
+      "observed_at": "2026-09-18T13:38:52.358664+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Keroro Gunsou☆",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "09:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 2522,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 2521
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "18187a0b80e1f5ad69487f57541aad59911a45106d78d2b2a7a5404be82422f1"
+    },
+    {
+      "mal_id": 63181,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:53.465284+00:00",
+      "observed_at": "2026-09-18T13:38:53.465296+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tougen Anki: Nikko Kegon no Taki-hen",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": null,
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 20466,
+        "score": null,
+        "scored_by": 2,
+        "watching": 13,
+        "completed": 3,
+        "on_hold": 3,
+        "dropped": 3,
+        "plan_to_watch": 20444
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "57eb78145be0d18564089038340c9641c20badc5e7fe55a024ec281e3972052d"
+    },
+    {
+      "mal_id": 63292,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:54.572938+00:00",
+      "observed_at": "2026-09-18T13:38:54.572951+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-11",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 6522,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 6516
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "7ce11cfeccfdffeabf3a746b71b1d380759292e473f473e68fe0dba556e94560"
+    },
+    {
+      "mal_id": 63293,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:55.676950+00:00",
+      "observed_at": "2026-09-18T13:38:55.676962+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Hotaru no Yomeiri",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-09",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "23:30"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 30927,
+        "score": null,
+        "scored_by": 57,
+        "watching": 292,
+        "completed": 0,
+        "on_hold": 115,
+        "dropped": 19,
+        "plan_to_watch": 30506
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "ed7df6bc063943016db9c55d03226ef363e638890f576f209bb10a5a75ff969d"
+    },
+    {
+      "mal_id": 63337,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:56.791180+00:00",
+      "observed_at": "2026-09-18T13:38:56.791191+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "FX Senshi Kurumi-chan",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-01",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "21:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 8065,
+        "score": null,
+        "scored_by": 10,
+        "watching": 57,
+        "completed": 0,
+        "on_hold": 10,
+        "dropped": 9,
+        "plan_to_watch": 7982
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6c51638b40b0abe1596012eb7c7ab8d994dd4400344a62f5e9f794d12c418a3e"
+    },
+    {
+      "mal_id": 63367,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:57.901707+00:00",
+      "observed_at": "2026-09-18T13:38:57.901720+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Dragon Ball Super: Beerus",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-11",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:15"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 26355,
+        "score": null,
+        "scored_by": 1,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 1,
+        "plan_to_watch": 26340
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "23f2be8b06e583d5d98f0601206524fd86730a2734c9034bd8aa917e773deb77"
+    },
+    {
+      "mal_id": 63381,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:38:59.009869+00:00",
+      "observed_at": "2026-09-18T13:38:59.009883+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "01:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 2368,
+        "score": null,
+        "scored_by": 117,
+        "watching": 389,
+        "completed": 0,
+        "on_hold": 18,
+        "dropped": 15,
+        "plan_to_watch": 1946
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "0db6c7910cdb762f40fd1613c176f33308dcb70c2a7e4e218aeddc9a5a8ade90"
+    },
+    {
+      "mal_id": 63382,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:00.132597+00:00",
+      "observed_at": "2026-09-18T13:39:00.132610+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-06",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "21:25"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 12325,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 12321
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6c218824bf3d22541ed644eca3ba0f79c67c503d3f0c5fa584e782da2f99f833"
+    },
+    {
+      "mal_id": 63409,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:01.249453+00:00",
+      "observed_at": "2026-09-18T13:39:01.249467+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "21:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 16491,
+        "score": null,
+        "scored_by": 1,
+        "watching": 4,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 16473
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "4689b453095aeaa7c60b2d7d0093f69eb72cb295d0735c9d2745bc1fb6ad564b"
+    },
+    {
+      "mal_id": 63509,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:02.354722+00:00",
+      "observed_at": "2026-09-18T13:39:02.354735+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Dark Summoner to Dekiteiru",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "01:20"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 4972,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 4967
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "e0b8ddcd67c55e65007b0937aab210e3248b707978e3a99b4f4c21015719b503"
+    },
+    {
+      "mal_id": 63667,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:03.468624+00:00",
+      "observed_at": "2026-09-18T13:39:03.468636+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Mahou no Shimai Lulutto Lilly Part 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "22:30"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 1457,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 1459
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6c8b85ca9007352448569c8bb1831f209dd9129a4c5bd8f82dd42d865145ca61"
+    },
+    {
+      "mal_id": 63712,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:04.576782+00:00",
+      "observed_at": "2026-09-18T13:39:04.576795+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tensei Goblin dakedo Shitsumon Aru?",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "22:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 4537,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 4534
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "54913bcb294579843885ade2a9852333f067cb787d6ff9cc4c76deea774f9b65"
+    },
+    {
+      "mal_id": 63751,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:05.691501+00:00",
+      "observed_at": "2026-09-18T13:39:05.691560+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tank Chair",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "23:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 6109,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 6104
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "a0dfb38aea74618298ba988794c8e576592d1acf5ff8226fdc5193580a2b593f"
+    },
+    {
+      "mal_id": 63753,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:06.799996+00:00",
+      "observed_at": "2026-09-18T13:39:06.800009+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kanata kara",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "00:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 4642,
+        "score": null,
+        "scored_by": 0,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 4639
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "6f29197ecf3f0e34f57e92931ac8e3181a3402ec31fcd9a109da1c3edbbe1abe"
+    },
+    {
+      "mal_id": 63754,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:07.922285+00:00",
+      "observed_at": "2026-09-18T13:39:07.922298+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-06",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "20:30"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 10275,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 10268
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "3817ddf9cc36e6589366dfaabd3b5f8ebb56a2586b037eaa8c9ea21385a03163"
+    },
+    {
+      "mal_id": 63764,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:09.032320+00:00",
+      "observed_at": "2026-09-18T13:39:09.032333+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Vertex Force",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "23:30"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 3501,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3498
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "49d405b29a61118c66ab77317db80f79968bd4b2af0e339448a7b870132202af"
+    },
+    {
+      "mal_id": 63801,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:10.154683+00:00",
+      "observed_at": "2026-09-18T13:39:10.154694+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Ranma ½ (2024) 3rd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "00:55"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 24126,
+        "score": null,
+        "scored_by": 1,
+        "watching": 7,
+        "completed": 0,
+        "on_hold": 2,
+        "dropped": 1,
+        "plan_to_watch": 24118
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "9d16fd7a66de16ec77df31c31772fdc4ba1f4be88cdec026974dcf1a3293a365"
+    },
+    {
+      "mal_id": 63818,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:11.265389+00:00",
+      "observed_at": "2026-09-18T13:39:11.265401+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Battle Spirits [Re]: Zekkai no Kuu",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-06",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "tuesday",
+          "start_time": "23:00"
+        },
+        "source": "card_game"
+      },
+      "metrics": {
+        "members": 1406,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 1404
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "37f2a4596b544584c40f4eb15ba02d4195437170adee6f8d339370cb40cf86f6"
+    },
+    {
+      "mal_id": 63823,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:12.389329+00:00",
+      "observed_at": "2026-09-18T13:39:12.389341+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Punirunes: Puni 4",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "09:15"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 92,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 92
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "367e656a13c92a6b82f177d9c4aa8bbf349ebb140a220caa932e3d49dc2c25d8"
+    },
+    {
+      "mal_id": 63901,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:13.495592+00:00",
+      "observed_at": "2026-09-18T13:39:13.495604+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Shirotan",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "16:29"
+        },
+        "source": "other"
+      },
+      "metrics": {
+        "members": 188,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 1,
+        "plan_to_watch": 187
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "8ac82bb3a3a8904448d6e9b047f569b5d645ecea1d3b7899de3d86ef99f0b2ec"
+    },
+    {
+      "mal_id": 63938,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:14.604954+00:00",
+      "observed_at": "2026-09-18T13:39:14.604967+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-11-07",
+      "metadata": {
+        "end_date": "2026-11-21",
+        "media_type": "tv",
+        "num_episodes": 3,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "08:00"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 755,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 1,
+        "plan_to_watch": 754
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "69c7c08309c5cc47ab548836e0d13557f81df88756d5b79fa9464f25a7174bcc"
+    },
+    {
+      "mal_id": 64028,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:15.717676+00:00",
+      "observed_at": "2026-09-18T13:39:15.717690+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tanuki to Kitsune (TV)",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "07:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 181,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 1,
+        "plan_to_watch": 180
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "c22d7ea7839f9239f51a32bf10e424599c0719e90210715a5bf0e4b1c02a4c63"
+    },
+    {
+      "mal_id": 64084,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:16.829699+00:00",
+      "observed_at": "2026-09-18T13:39:16.829711+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Sekai Saikyou no Majo, Hajimemashita",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-07",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "wednesday",
+          "start_time": "22:00"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 6473,
+        "score": null,
+        "scored_by": 1,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 6471
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "2600320e83cfb2b7a5bf60090912f2161222263f58752377e9a3d0fbc5f38b5d"
+    },
+    {
+      "mal_id": 64131,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:17.944140+00:00",
+      "observed_at": "2026-09-18T13:39:17.944153+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kanojo no Tomodachi",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "ona",
+        "num_episodes": 0,
+        "broadcast": null,
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 3948,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3946
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "102a8a41859c29cd897ee53354d24363c004c1cda4bd787f101a033bfe62ebb4"
+    },
+    {
+      "mal_id": 64180,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:19.059401+00:00",
+      "observed_at": "2026-09-18T13:39:19.059417+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Kizu darake Seijo yori Houfuku wo Komete Season 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-02",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "00:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 3814,
+        "score": null,
+        "scored_by": 0,
+        "watching": 1,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 3813
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "198be53da43a6e87ec889ca4d2230dc9be5129134203f688f8a1328104da34ea"
+    },
+    {
+      "mal_id": 64254,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:20.174796+00:00",
+      "observed_at": "2026-09-18T13:39:20.174809+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-09",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "01:28"
+        },
+        "source": "light_novel"
+      },
+      "metrics": {
+        "members": 18602,
+        "score": null,
+        "scored_by": 0,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 1,
+        "plan_to_watch": 18586
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "c3ea762aa31b2a2153754e33e5d06117571d2528c984ca78014b9de54af73c84"
+    },
+    {
+      "mal_id": 64298,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:21.284753+00:00",
+      "observed_at": "2026-09-18T13:39:21.284765+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "ona",
+        "num_episodes": 0,
+        "broadcast": null,
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 4253,
+        "score": null,
+        "scored_by": 94,
+        "watching": 251,
+        "completed": 0,
+        "on_hold": 33,
+        "dropped": 6,
+        "plan_to_watch": 3959
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "c0972421448da88af8184551d4416b9b39e7f71e970839e5a4c18613f004f278"
+    },
+    {
+      "mal_id": 64326,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:22.399077+00:00",
+      "observed_at": "2026-09-18T13:39:22.399093+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Marronnier Oukoku no Shichinin no Kishi",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 20,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "18:25"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 3516,
+        "score": null,
+        "scored_by": 0,
+        "watching": 2,
+        "completed": 0,
+        "on_hold": 2,
+        "dropped": 0,
+        "plan_to_watch": 3509
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "0a5551101b65953aa9e8dfe0802676c344bd2b95f49504a9a7d9dd2856a0b18c"
+    },
+    {
+      "mal_id": 64340,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:23.528072+00:00",
+      "observed_at": "2026-09-18T13:39:23.528086+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Tempal: Item no Chikara",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-09-27",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "friday",
+          "start_time": "23:30"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 10760,
+        "score": null,
+        "scored_by": 61,
+        "watching": 243,
+        "completed": 0,
+        "on_hold": 65,
+        "dropped": 15,
+        "plan_to_watch": 10436
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "ef93c82eee6f7f875e9f3aced5ee1c784c9e2947e039134d656ee590505ea81e"
+    },
+    {
+      "mal_id": 64344,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:24.632437+00:00",
+      "observed_at": "2026-09-18T13:39:24.632450+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Juuou Mujin Dandivine",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-08",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "00:30"
+        },
+        "source": "original"
+      },
+      "metrics": {
+        "members": 1330,
+        "score": null,
+        "scored_by": 0,
+        "watching": 3,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 1325
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "a99219b824c6c845f12a5222d8158e10a6b5aa3339a2116d3dd4ad483fff0bc7"
+    },
+    {
+      "mal_id": 64430,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:25.742717+00:00",
+      "observed_at": "2026-09-18T13:39:25.742731+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Yuruyuru Zukan",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-04",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "07:00"
+        },
+        "source": "picture_book"
+      },
+      "metrics": {
+        "members": 142,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 1,
+        "plan_to_watch": 141
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "154de3ed0bc5b9ac2c3faaad390c76bcad191f5cf0ff67a918fa4e472669d8e8"
+    },
+    {
+      "mal_id": 64503,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:26.853007+00:00",
+      "observed_at": "2026-09-18T13:39:26.853018+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-11",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "17:00"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 13171,
+        "score": null,
+        "scored_by": 0,
+        "watching": 4,
+        "completed": 0,
+        "on_hold": 1,
+        "dropped": 0,
+        "plan_to_watch": 13163
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "3309e29cb50f99877b407b26b4ed4ff4223eecf7eb8b182c6893a0579aaa481a"
+    },
+    {
+      "mal_id": 64505,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:27.963917+00:00",
+      "observed_at": "2026-09-18T13:39:27.963929+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Diamond no Ace: Act II Second Season Part 2",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-11",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "sunday",
+          "start_time": "17:30"
+        },
+        "source": "manga"
+      },
+      "metrics": {
+        "members": 6288,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 1,
+        "plan_to_watch": 6287
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "b921ce72ad4ba205baa1378a840a076dd04cb3e3cc27377f1bd3b11e75600df5"
+    },
+    {
+      "mal_id": 64534,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:29.073793+00:00",
+      "observed_at": "2026-09-18T13:39:29.073808+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Koori no Jouheki 2nd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-01",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "thursday",
+          "start_time": "23:56"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 34919,
+        "score": null,
+        "scored_by": 2,
+        "watching": 8,
+        "completed": 2,
+        "on_hold": 2,
+        "dropped": 0,
+        "plan_to_watch": 34907
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "0b1bcccd4eb01b2a8fd2272ca76f559b4eeeb81d9d0475d332cbeca0bdc47291"
+    },
+    {
+      "mal_id": 64717,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:30.202401+00:00",
+      "observed_at": "2026-09-18T13:39:30.202415+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Yuusanchi! from Yuu-hachi",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "monday",
+          "start_time": "11:00"
+        },
+        "source": "web_manga"
+      },
+      "metrics": {
+        "members": 115,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 116
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "da4956f1d643df97fa1f670654f136bb4af8f2cb264339bbe2d344cd2ad328a9"
+    },
+    {
+      "mal_id": 64718,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:31.320806+00:00",
+      "observed_at": "2026-09-18T13:39:31.320821+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Ghost Meets Gal!",
+      "airing_status": "currently_airing",
+      "start_date": "2026-09-05",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "08:00"
+        },
+        "source": "4_koma_manga"
+      },
+      "metrics": {
+        "members": 1565,
+        "score": null,
+        "scored_by": 40,
+        "watching": 305,
+        "completed": 0,
+        "on_hold": 17,
+        "dropped": 25,
+        "plan_to_watch": 1212
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "e2d075bd2d8c12619fb5b30f3c647d8ee8f85fd8b42455542c68b8f1c2cfac48"
+    },
+    {
+      "mal_id": 64789,
+      "source": "mal_official",
+      "retrieved_at": "2026-09-18T13:39:32.429306+00:00",
+      "observed_at": "2026-09-18T13:39:32.429319+00:00",
+      "source_time_quality": "retrieval_time_proxy",
+      "response_title": "Nezumi-kun no Chokki (TV) 2nd Season",
+      "airing_status": "not_yet_aired",
+      "start_date": "2026-10-03",
+      "metadata": {
+        "end_date": null,
+        "media_type": "tv",
+        "num_episodes": 0,
+        "broadcast": {
+          "day_of_the_week": "saturday",
+          "start_time": "09:30"
+        },
+        "source": "picture_book"
+      },
+      "metrics": {
+        "members": 56,
+        "score": null,
+        "scored_by": 0,
+        "watching": 0,
+        "completed": 0,
+        "on_hold": 0,
+        "dropped": 0,
+        "plan_to_watch": 56
+      },
+      "quality_flags": [],
+      "eligible_for_growth": true,
+      "snapshot_id": "376d8ae99bec747bb90fe9e457e19e35e99941f0dbcb010a65a51fdd16d78974"
     }
   ],
   "runs": [
@@ -16723,6 +18991,16 @@
       "errors": [],
       "usable_new_records": 69,
       "finished_at": "2026-09-17T14:20:35.059398+00:00"
+    },
+    {
+      "started_at": "2026-09-18T13:38:16.135400+00:00",
+      "source": "mal",
+      "expected": 69,
+      "attempted": 69,
+      "successes": 69,
+      "errors": [],
+      "usable_new_records": 69,
+      "finished_at": "2026-09-18T13:39:33.445603+00:00"
     }
   ],
   "source_access_checks": [
