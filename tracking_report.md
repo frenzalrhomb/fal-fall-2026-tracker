@@ -1,6 +1,6 @@
 # FAL Fall 2026 — live evidence report
 
-Generated: 2026-09-18T13:42:01.333804+00:00
+Generated: 2026-09-19T13:15:42.280297+00:00
 
 This is an evidence report, not a forecast or recommended team.
 Registration closes September 27 at 22:00 UTC. Only two restricted titles may be selected.
@@ -26,146 +26,146 @@ Raw Watching + Completed before airing is not FAL scoring audience. The rules se
 
 | Title | Restricted | MAL members | PTW | Members/day | %/day | Pace change | Days | Snapshot UTC |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913) | Yes | 93,017 | 92,700 | 242.1 | 0.26 | — | 5 | 2026-09-18T13:38:17.482152+00:00 |
-| [Ao no Hako Season 2](https://myanimelist.net/anime/61323) | Yes | 70,893 | 70,863 | 380.5 | 0.55 | — | 5 | 2026-09-18T13:38:33.381917+00:00 |
-| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088) | Yes | 59,113 | 59,102 | 258.3 | 0.44 | — | 5 | 2026-09-18T13:38:23.142291+00:00 |
-| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480) | No | 55,977 | 55,956 | 176.6 | 0.32 | — | 5 | 2026-09-18T13:38:16.361073+00:00 |
-| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612) | No | 44,393 | 43,877 | 188.7 | 0.43 | — | 5 | 2026-09-18T13:38:20.925731+00:00 |
-| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601) | No | 38,172 | 38,164 | 222.3 | 0.59 | — | 5 | 2026-09-18T13:38:27.594350+00:00 |
-| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534) | No | 34,919 | 34,907 | 432.6 | 1.29 | — | 5 | 2026-09-18T13:39:29.073808+00:00 |
-| [Ao Ashi Season 2](https://myanimelist.net/anime/61603) | Yes | 31,939 | 31,929 | 185.8 | 0.59 | — | 5 | 2026-09-18T13:38:35.602982+00:00 |
-| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293) | No | 30,927 | 30,506 | 543.3 | 1.85 | — | 5 | 2026-09-18T13:38:55.676962+00:00 |
-| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367) | No | 26,355 | 26,340 | 208.5 | 0.81 | — | 5 | 2026-09-18T13:38:57.901720+00:00 |
-| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801) | No | 24,126 | 24,118 | 203.1 | 0.86 | — | 5 | 2026-09-18T13:39:10.154694+00:00 |
-| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518) | No | 23,374 | 23,365 | 119.1 | 0.52 | — | 5 | 2026-09-18T13:38:22.035400+00:00 |
-| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181) | No | 20,466 | 20,444 | 139.5 | 0.70 | — | 5 | 2026-09-18T13:38:53.465296+00:00 |
-| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484) | No | 19,765 | 19,757 | 185.7 | 0.97 | — | 5 | 2026-09-18T13:38:38.928060+00:00 |
-| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254) | No | 18,602 | 18,586 | 205.1 | 1.14 | — | 5 | 2026-09-18T13:39:20.174809+00:00 |
-| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578) | No | 18,486 | 18,455 | 358.3 | 2.06 | — | 5 | 2026-09-18T13:38:34.491060+00:00 |
-| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409) | No | 16,491 | 16,473 | 463.0 | 3.06 | — | 5 | 2026-09-18T13:39:01.249467+00:00 |
-| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140) | No | 15,841 | 15,829 | 248.3 | 1.64 | — | 5 | 2026-09-18T13:38:51.142024+00:00 |
-| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153) | No | 13,963 | 13,957 | 159.5 | 1.18 | — | 5 | 2026-09-18T13:38:32.274145+00:00 |
-| [Psyren](https://myanimelist.net/anime/63098) | No | 13,470 | 13,457 | 254.3 | 2.00 | — | 5 | 2026-09-18T13:38:50.022506+00:00 |
-| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503) | No | 13,171 | 13,163 | 129.5 | 1.01 | — | 5 | 2026-09-18T13:39:26.853018+00:00 |
-| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204) | No | 12,703 | 12,565 | 154.5 | 1.26 | — | 5 | 2026-09-18T13:38:24.253785+00:00 |
-| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382) | No | 12,325 | 12,321 | 208.1 | 1.78 | — | 5 | 2026-09-18T13:39:00.132610+00:00 |
-| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948) | No | 11,301 | 11,080 | 242.8 | 2.30 | — | 5 | 2026-09-18T13:38:28.926304+00:00 |
-| [Toaru Anbu no Item](https://myanimelist.net/anime/61014) | No | 10,892 | 10,889 | 197.9 | 1.92 | — | 5 | 2026-09-18T13:38:30.049068+00:00 |
-| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340) | No | 10,760 | 10,436 | 319.3 | 3.26 | — | 5 | 2026-09-18T13:39:23.528086+00:00 |
-| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754) | No | 10,275 | 10,268 | 216.6 | 2.25 | — | 5 | 2026-09-18T13:39:07.922298+00:00 |
-| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344) | No | 10,222 | 10,220 | 98.6 | 0.99 | — | 5 | 2026-09-18T13:38:18.697363+00:00 |
-| [Magical★Explorer](https://myanimelist.net/anime/56733) | No | 10,182 | 10,176 | 168.4 | 1.74 | — | 5 | 2026-09-18T13:38:19.814463+00:00 |
-| [Shuiro no Kamen](https://myanimelist.net/anime/61999) | No | 9,209 | 9,123 | 197.8 | 2.30 | — | 5 | 2026-09-18T13:38:36.712152+00:00 |
-| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753) | No | 8,962 | 8,961 | 186.8 | 2.22 | — | 5 | 2026-09-18T13:38:45.572388+00:00 |
-| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337) | No | 8,065 | 7,982 | 153.9 | 2.02 | — | 5 | 2026-09-18T13:38:56.791191+00:00 |
-| [Romelia Senki](https://myanimelist.net/anime/59787) | No | 7,005 | 6,953 | 178.2 | 2.75 | — | 5 | 2026-09-18T13:38:26.478192+00:00 |
-| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524) | No | 6,624 | 6,622 | 189.9 | 3.14 | — | 5 | 2026-09-18T13:38:40.035294+00:00 |
-| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292) | No | 6,522 | 6,516 | 177.3 | 2.96 | — | 5 | 2026-09-18T13:38:54.572951+00:00 |
-| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084) | No | 6,473 | 6,471 | 182.9 | 3.09 | — | 5 | 2026-09-18T13:39:16.829711+00:00 |
-| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505) | No | 6,288 | 6,287 | 57.8 | 0.94 | — | 5 | 2026-09-18T13:39:27.963929+00:00 |
-| [Tank Chair](https://myanimelist.net/anime/63751) | No | 6,109 | 6,104 | 95.0 | 1.63 | — | 5 | 2026-09-18T13:39:05.691560+00:00 |
-| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922) | No | 6,095 | 6,082 | 170.9 | 3.06 | — | 5 | 2026-09-18T13:38:47.806764+00:00 |
-| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590) | No | 5,007 | 5,003 | 41.1 | 0.84 | — | 5 | 2026-09-18T13:38:42.244271+00:00 |
-| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509) | No | 4,972 | 4,967 | 112.1 | 2.42 | — | 5 | 2026-09-18T13:39:02.354735+00:00 |
-| [Gensou Suikoden](https://myanimelist.net/anime/61140) | No | 4,750 | 4,747 | 70.9 | 1.56 | — | 5 | 2026-09-18T13:38:31.158359+00:00 |
-| [Kanata kara](https://myanimelist.net/anime/63753) | No | 4,642 | 4,639 | 82.4 | 1.87 | — | 5 | 2026-09-18T13:39:06.800009+00:00 |
-| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712) | No | 4,537 | 4,534 | 168.0 | 4.16 | — | 5 | 2026-09-18T13:39:04.576795+00:00 |
-| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298) | No | 4,253 | 3,959 | 93.3 | 2.35 | — | 5 | 2026-09-18T13:39:21.284765+00:00 |
-| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907) | No | 3,979 | 3,972 | 112.0 | 3.07 | — | 5 | 2026-09-18T13:38:46.705380+00:00 |
-| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131) | No | 3,948 | 3,946 | 59.8 | 1.59 | — | 5 | 2026-09-18T13:39:17.944153+00:00 |
-| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180) | No | 3,814 | 3,813 | 46.0 | 1.25 | — | 5 | 2026-09-18T13:39:19.059417+00:00 |
-| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696) | No | 3,789 | 3,784 | 65.4 | 1.82 | — | 5 | 2026-09-18T13:38:44.465595+00:00 |
-| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615) | No | 3,605 | 3,602 | 79.1 | 2.34 | — | 5 | 2026-09-18T13:38:43.360969+00:00 |
-| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326) | No | 3,516 | 3,509 | 107.3 | 3.36 | — | 5 | 2026-09-18T13:39:22.399093+00:00 |
-| [Vertex Force](https://myanimelist.net/anime/63764) | No | 3,501 | 3,498 | 58.1 | 1.75 | — | 5 | 2026-09-18T13:39:09.032333+00:00 |
-| [Keroro Gunsou☆](https://myanimelist.net/anime/63157) | No | 2,522 | 2,521 | 37.2 | 1.54 | — | 5 | 2026-09-18T13:38:52.358664+00:00 |
-| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381) | No | 2,368 | 1,946 | 65.9 | 3.04 | — | 5 | 2026-09-18T13:38:59.009883+00:00 |
-| [Kyoufu Collector](https://myanimelist.net/anime/63053) | No | 2,323 | 2,322 | 56.3 | 2.62 | — | 5 | 2026-09-18T13:38:48.913056+00:00 |
-| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534) | No | 2,177 | 2,172 | 12.9 | 0.60 | — | 5 | 2026-09-18T13:38:41.139656+00:00 |
-| [Dark Machine: The Animation](https://myanimelist.net/anime/59415) | No | 2,060 | 2,057 | 47.1 | 2.46 | — | 5 | 2026-09-18T13:38:25.360503+00:00 |
-| [Ghost Meets Gal!](https://myanimelist.net/anime/64718) | No | 1,565 | 1,212 | 51.4 | 3.64 | — | 5 | 2026-09-18T13:39:31.320821+00:00 |
-| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667) | No | 1,457 | 1,459 | 14.5 | 1.03 | — | 5 | 2026-09-18T13:39:03.468636+00:00 |
-| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818) | No | 1,406 | 1,404 | 15.4 | 1.13 | — | 5 | 2026-09-18T13:39:11.265401+00:00 |
-| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344) | No | 1,330 | 1,325 | 35.7 | 2.92 | — | 5 | 2026-09-18T13:39:24.632450+00:00 |
-| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938) | No | 755 | 754 | 8.0 | 1.09 | — | 5 | 2026-09-18T13:39:14.604967+00:00 |
-| [Pan Dorobou](https://myanimelist.net/anime/62039) | No | 198 | 198 | 5.3 | 2.92 | — | 5 | 2026-09-18T13:38:37.826238+00:00 |
-| [Shirotan](https://myanimelist.net/anime/63901) | No | 188 | 187 | 3.1 | 1.75 | — | 5 | 2026-09-18T13:39:13.495604+00:00 |
-| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028) | No | 181 | 180 | 3.2 | 1.89 | — | 5 | 2026-09-18T13:39:15.717690+00:00 |
-| [Yuruyuru Zukan](https://myanimelist.net/anime/64430) | No | 142 | 141 | 5.0 | 3.87 | — | 5 | 2026-09-18T13:39:25.742731+00:00 |
-| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717) | No | 115 | 116 | 5.0 | 4.90 | — | 5 | 2026-09-18T13:39:30.202415+00:00 |
-| [Punirunes: Puni 4](https://myanimelist.net/anime/63823) | No | 92 | 92 | 1.2 | 1.36 | — | 5 | 2026-09-18T13:39:12.389341+00:00 |
-| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789) | No | 56 | 56 | 1.5 | 2.92 | — | 5 | 2026-09-18T13:39:32.429319+00:00 |
+| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913) | Yes | 93,354 | 92,984 | 296.6 | 0.32 | 154.5 | 6 | 2026-09-19T13:11:57.494112+00:00 |
+| [Ao no Hako Season 2](https://myanimelist.net/anime/61323) | Yes | 71,401 | 71,390 | 463.1 | 0.66 | 203.6 | 6 | 2026-09-19T13:12:13.907233+00:00 |
+| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088) | Yes | 59,496 | 59,474 | 328.0 | 0.56 | 142.6 | 6 | 2026-09-19T13:12:03.570311+00:00 |
+| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480) | No | 56,209 | 56,198 | 211.1 | 0.38 | 92.6 | 6 | 2026-09-19T13:11:56.361076+00:00 |
+| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612) | No | 44,625 | 44,089 | 213.7 | 0.49 | 3.6 | 6 | 2026-09-19T13:12:01.188962+00:00 |
+| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601) | No | 38,428 | 38,416 | 253.2 | 0.67 | 118.3 | 6 | 2026-09-19T13:12:08.145442+00:00 |
+| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534) | No | 35,428 | 35,415 | 481.2 | 1.41 | 105.3 | 6 | 2026-09-19T13:13:11.264708+00:00 |
+| [Ao Ashi Season 2](https://myanimelist.net/anime/61603) | Yes | 32,181 | 32,180 | 213.1 | 0.68 | 79.2 | 6 | 2026-09-19T13:12:16.284472+00:00 |
+| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293) | No | 31,625 | 31,163 | 621.2 | 2.08 | 258.6 | 6 | 2026-09-19T13:12:37.127370+00:00 |
+| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367) | No | 26,613 | 26,606 | 248.5 | 0.96 | 102.2 | 6 | 2026-09-19T13:12:39.383005+00:00 |
+| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801) | No | 24,371 | 24,358 | 237.8 | 1.00 | 92.6 | 6 | 2026-09-19T13:12:51.941171+00:00 |
+| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518) | No | 23,534 | 23,522 | 138.5 | 0.60 | 72.6 | 6 | 2026-09-19T13:12:02.404735+00:00 |
+| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181) | No | 20,712 | 20,703 | 201.6 | 1.00 | 98.6 | 6 | 2026-09-19T13:12:34.846632+00:00 |
+| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484) | No | 19,996 | 19,990 | 213.5 | 1.10 | 89.9 | 6 | 2026-09-19T13:12:19.755737+00:00 |
+| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578) | No | 19,331 | 19,322 | 517.9 | 2.92 | 211.0 | 6 | 2026-09-19T13:12:15.138803+00:00 |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254) | No | 18,848 | 18,843 | 232.3 | 1.28 | 93.2 | 6 | 2026-09-19T13:13:02.171876+00:00 |
+| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409) | No | 17,013 | 17,006 | 496.0 | 3.19 | 47.0 | 6 | 2026-09-19T13:12:42.823044+00:00 |
+| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140) | No | 16,246 | 16,235 | 303.2 | 1.98 | 139.4 | 6 | 2026-09-19T13:12:32.585102+00:00 |
+| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153) | No | 14,132 | 14,118 | 163.5 | 1.20 | 24.5 | 6 | 2026-09-19T13:12:12.780147+00:00 |
+| [Psyren](https://myanimelist.net/anime/63098) | No | 13,689 | 13,692 | 235.8 | 1.81 | 72.0 | 6 | 2026-09-19T13:12:31.456231+00:00 |
+| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503) | No | 13,354 | 13,342 | 152.6 | 1.18 | 54.8 | 6 | 2026-09-19T13:13:09.007645+00:00 |
+| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204) | No | 12,821 | 12,682 | 133.0 | 1.07 | 61.0 | 6 | 2026-09-19T13:12:04.726939+00:00 |
+| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382) | No | 12,544 | 12,540 | 215.3 | 1.81 | 49.5 | 6 | 2026-09-19T13:12:41.689352+00:00 |
+| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948) | No | 11,554 | 11,317 | 235.2 | 2.17 | 66.3 | 6 | 2026-09-19T13:12:09.346695+00:00 |
+| [Toaru Anbu no Item](https://myanimelist.net/anime/61014) | No | 11,121 | 11,102 | 214.1 | 2.04 | 24.6 | 6 | 2026-09-19T13:12:10.487236+00:00 |
+| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340) | No | 11,054 | 10,718 | 300.6 | 2.96 | 67.9 | 6 | 2026-09-19T13:13:05.599025+00:00 |
+| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754) | No | 10,661 | 10,650 | 289.2 | 2.95 | 187.2 | 6 | 2026-09-19T13:12:49.689021+00:00 |
+| [Magical★Explorer](https://myanimelist.net/anime/56733) | No | 10,356 | 10,347 | 168.1 | 1.70 | 49.6 | 6 | 2026-09-19T13:11:59.775542+00:00 |
+| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344) | No | 10,290 | 10,283 | 94.2 | 0.94 | 1.5 | 6 | 2026-09-19T13:11:58.628237+00:00 |
+| [Shuiro no Kamen](https://myanimelist.net/anime/61999) | No | 9,407 | 9,312 | 193.7 | 2.19 | 65.0 | 6 | 2026-09-19T13:12:17.408071+00:00 |
+| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753) | No | 9,176 | 9,175 | 203.2 | 2.37 | 64.2 | 6 | 2026-09-19T13:12:26.640246+00:00 |
+| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337) | No | 8,208 | 8,122 | 146.0 | 1.88 | 50.2 | 6 | 2026-09-19T13:12:38.254848+00:00 |
+| [Romelia Senki](https://myanimelist.net/anime/59787) | No | 7,190 | 7,138 | 181.3 | 2.73 | 54.7 | 6 | 2026-09-19T13:12:07.016624+00:00 |
+| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524) | No | 6,798 | 6,794 | 175.9 | 2.80 | 28.7 | 6 | 2026-09-19T13:12:20.886502+00:00 |
+| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292) | No | 6,745 | 6,736 | 198.5 | 3.22 | 37.9 | 6 | 2026-09-19T13:12:35.973713+00:00 |
+| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084) | No | 6,653 | 6,650 | 184.9 | 3.03 | 93.2 | 6 | 2026-09-19T13:12:58.765885+00:00 |
+| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505) | No | 6,348 | 6,347 | 59.5 | 0.96 | 28.6 | 6 | 2026-09-19T13:13:10.137999+00:00 |
+| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922) | No | 6,282 | 6,272 | 173.0 | 3.00 | 23.6 | 6 | 2026-09-19T13:12:28.958852+00:00 |
+| [Tank Chair](https://myanimelist.net/anime/63751) | No | 6,188 | 6,184 | 88.1 | 1.49 | 18.1 | 6 | 2026-09-19T13:12:47.441013+00:00 |
+| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590) | No | 5,055 | 5,053 | 45.4 | 0.92 | 22.8 | 6 | 2026-09-19T13:12:23.225031+00:00 |
+| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509) | No | 5,054 | 5,050 | 100.4 | 2.11 | -68.5 | 6 | 2026-09-19T13:12:43.952864+00:00 |
+| [Gensou Suikoden](https://myanimelist.net/anime/61140) | No | 4,884 | 4,874 | 90.7 | 1.97 | 28.9 | 6 | 2026-09-19T13:12:11.617834+00:00 |
+| [Kanata kara](https://myanimelist.net/anime/63753) | No | 4,725 | 4,723 | 82.0 | 1.83 | 22.3 | 6 | 2026-09-19T13:12:48.565426+00:00 |
+| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712) | No | 4,705 | 4,703 | 167.2 | 3.97 | 37.5 | 6 | 2026-09-19T13:12:46.308715+00:00 |
+| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298) | No | 4,322 | 4,011 | 85.3 | 2.09 | -63.0 | 6 | 2026-09-19T13:13:03.307804+00:00 |
+| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907) | No | 4,070 | 4,068 | 101.5 | 2.69 | 28.4 | 6 | 2026-09-19T13:12:27.776213+00:00 |
+| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131) | No | 3,988 | 3,988 | 45.3 | 1.18 | -25.7 | 6 | 2026-09-19T13:12:59.900988+00:00 |
+| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180) | No | 3,864 | 3,861 | 49.8 | 1.34 | 15.8 | 6 | 2026-09-19T13:13:01.031468+00:00 |
+| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696) | No | 3,858 | 3,858 | 67.2 | 1.84 | 15.7 | 6 | 2026-09-19T13:12:25.512774+00:00 |
+| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615) | No | 3,683 | 3,680 | 83.4 | 2.43 | 16.5 | 6 | 2026-09-19T13:12:24.381271+00:00 |
+| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326) | No | 3,626 | 3,623 | 106.1 | 3.20 | 12.4 | 6 | 2026-09-19T13:13:04.463841+00:00 |
+| [Vertex Force](https://myanimelist.net/anime/63764) | No | 3,562 | 3,560 | 55.8 | 1.64 | 16.6 | 6 | 2026-09-19T13:12:50.814964+00:00 |
+| [Keroro Gunsou☆](https://myanimelist.net/anime/63157) | No | 2,555 | 2,552 | 37.7 | 1.54 | -4.5 | 6 | 2026-09-19T13:12:33.710527+00:00 |
+| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381) | No | 2,416 | 1,986 | 63.9 | 2.86 | -45.3 | 6 | 2026-09-19T13:12:40.553838+00:00 |
+| [Kyoufu Collector](https://myanimelist.net/anime/63053) | No | 2,401 | 2,399 | 72.1 | 3.29 | 2.1 | 6 | 2026-09-19T13:12:30.254111+00:00 |
+| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534) | No | 2,193 | 2,191 | 16.5 | 0.77 | 5.1 | 6 | 2026-09-19T13:12:22.014555+00:00 |
+| [Dark Machine: The Animation](https://myanimelist.net/anime/59415) | No | 2,122 | 2,120 | 51.6 | 2.62 | 18.6 | 6 | 2026-09-19T13:12:05.887309+00:00 |
+| [Ghost Meets Gal!](https://myanimelist.net/anime/64718) | No | 1,659 | 1,248 | 65.3 | 4.47 | 2.5 | 6 | 2026-09-19T13:13:13.515878+00:00 |
+| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667) | No | 1,477 | 1,476 | 16.7 | 1.17 | -0.9 | 6 | 2026-09-19T13:12:45.168720+00:00 |
+| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818) | No | 1,428 | 1,427 | 17.8 | 1.29 | 3.4 | 6 | 2026-09-19T13:12:53.076760+00:00 |
+| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344) | No | 1,371 | 1,369 | 36.8 | 2.91 | 15.1 | 6 | 2026-09-19T13:13:06.735463+00:00 |
+| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938) | No | 764 | 763 | 7.5 | 1.02 | 3.4 | 6 | 2026-09-19T13:12:56.488124+00:00 |
+| [Pan Dorobou](https://myanimelist.net/anime/62039) | No | 201 | 200 | 5.0 | 2.68 | 0.9 | 6 | 2026-09-19T13:12:18.618131+00:00 |
+| [Shirotan](https://myanimelist.net/anime/63901) | No | 190 | 190 | 2.6 | 1.45 | -2.5 | 6 | 2026-09-19T13:12:55.357123+00:00 |
+| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028) | No | 184 | 184 | 2.3 | 1.32 | -3.8 | 6 | 2026-09-19T13:12:57.641284+00:00 |
+| [Yuruyuru Zukan](https://myanimelist.net/anime/64430) | No | 143 | 143 | 2.9 | 2.13 | -0.2 | 6 | 2026-09-19T13:13:07.884489+00:00 |
+| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717) | No | 118 | 118 | 3.5 | 3.24 | -3.7 | 6 | 2026-09-19T13:13:12.390507+00:00 |
+| [Punirunes: Puni 4](https://myanimelist.net/anime/63823) | No | 92 | 92 | 0.9 | 1.03 | -0.1 | 6 | 2026-09-19T13:12:54.227253+00:00 |
+| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789) | No | 57 | 57 | 1.2 | 2.31 | 0.2 | 6 | 2026-09-19T13:13:14.663179+00:00 |
 
 ## FAL inputs and schedule
 
 | Title | Watching | Completed | W+C | Dropped | Score | Scorers | Status | Premiere |
 |---|---:|---:|---:|---:|---:|---:|---|---|
-| Tensei shitara Ken deshita II | 229 | 0 | 229 | 17 | — | 44 | not_yet_aired | 2026-10-01 |
-| Ao no Hako Season 2 | 8 | 0 | 8 | 1 | — | 2 | not_yet_aired | 2026-10-04 |
-| Tokyo Revengers: Santen Sensou-hen | 6 | 1 | 7 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
-| Tantei wa Mou, Shindeiru. Season 2 | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-07 |
-| Kikansha no Mahou wa Tokubetsu desu 2nd Season | 388 | 0 | 388 | 27 | — | 61 | not_yet_aired | 2026-10-08 |
-| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | 5 | 1 | 6 | 0 | — | 1 | not_yet_aired | 2026-09-28 |
-| Koori no Jouheki 2nd Season | 8 | 2 | 10 | 0 | — | 2 | not_yet_aired | 2026-10-01 |
-| Ao Ashi Season 2 | 1 | 0 | 1 | 0 | — | 1 | not_yet_aired | 2026-10-04 |
-| Hotaru no Yomeiri | 292 | 0 | 292 | 19 | — | 57 | not_yet_aired | 2026-10-09 |
-| Dragon Ball Super: Beerus | 1 | 0 | 1 | 1 | — | 1 | not_yet_aired | 2026-10-11 |
-| Ranma ½ (2024) 3rd Season | 7 | 0 | 7 | 1 | — | 1 | not_yet_aired | 2026-10-04 |
-| Sasaki to Pii-chan Season 2 | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-07 |
-| Tougen Anki: Nikko Kegon no Taki-hen | 13 | 3 | 16 | 3 | — | 2 | not_yet_aired | 2026-10 |
-| Chitose-kun wa Ramune Bin no Naka Part 2 | 4 | 1 | 5 | 1 | — | 0 | not_yet_aired | 2026-10-13 |
-| Hyouken no Majutsushi ga Sekai wo Suberu II | 3 | 0 | 3 | 1 | — | 0 | not_yet_aired | 2026-10-09 |
-| Seitokai ni mo Ana wa Aru! | 2 | 0 | 2 | 0 | — | 1 | not_yet_aired | 2026-10-04 |
-| Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. | 4 | 0 | 4 | 0 | — | 1 | not_yet_aired | 2026-10-05 |
-| Yasei no Last Boss ga Arawareta! 2nd Season | 3 | 0 | 3 | 0 | — | 2 | not_yet_aired | 2026-09-26 |
-| Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu | 4 | 0 | 4 | 0 | — | 1 | not_yet_aired | 2026-10-03 |
-| Psyren | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
-| Yozakura-san Chi no Daisakusen 2nd Season Part 2 | 4 | 0 | 4 | 0 | — | 0 | not_yet_aired | 2026-10-11 |
-| Magic Knight Rayearth (2026) | 105 | 0 | 105 | 7 | — | 16 | not_yet_aired | 2026-10-07 |
-| Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-06 |
-| Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai | 171 | 0 | 171 | 18 | — | 40 | not_yet_aired | 2026-10-04 |
-| Toaru Anbu no Item | 0 | 0 | 0 | 0 | — | 1 | not_yet_aired | 2026-10-09 |
-| Tempal: Item no Chikara | 243 | 0 | 243 | 15 | — | 61 | not_yet_aired | 2026-09-27 |
-| Shiotaiou no Satou-san ga Ore ni dake Amai | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
-| Mahou Shoujo Ikusei Keikaku: Restart | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
-| Magical★Explorer | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Shuiro no Kamen | 67 | 0 | 67 | 6 | — | 8 | not_yet_aired | 2026-10-10 |
-| Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| FX Senshi Kurumi-chan | 57 | 0 | 57 | 9 | — | 10 | not_yet_aired | 2026-10-01 |
-| Romelia Senki | 44 | 0 | 44 | 1 | — | 2 | not_yet_aired | 2026-10-03 |
-| #Zombie Sagashitemasu | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-03 |
-| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-11 |
-| Sekai Saikyou no Majo, Hajimemashita | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-07 |
-| Diamond no Ace: Act II Second Season Part 2 | 0 | 0 | 0 | 1 | — | 0 | not_yet_aired | 2026-10-11 |
-| Tank Chair | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Hotel Inhumans 2nd Season | 0 | 1 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Dark Summoner to Dekiteiru | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-05 |
-| Gensou Suikoden | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
+| Tensei shitara Ken deshita II | 265 | 0 | 265 | 20 | — | 45 | not_yet_aired | 2026-10-01 |
+| Ao no Hako Season 2 | 9 | 0 | 9 | 0 | — | 2 | not_yet_aired | 2026-10-04 |
+| Tokyo Revengers: Santen Sensou-hen | 5 | 0 | 5 | 2 | — | 4 | not_yet_aired | 2026-10-03 |
+| Tantei wa Mou, Shindeiru. Season 2 | 4 | 0 | 4 | 0 | — | 4 | not_yet_aired | 2026-10-07 |
+| Kikansha no Mahou wa Tokubetsu desu 2nd Season | 401 | 0 | 401 | 27 | — | 64 | not_yet_aired | 2026-10-08 |
+| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | 5 | 1 | 6 | 0 | — | 2 | not_yet_aired | 2026-09-28 |
+| Koori no Jouheki 2nd Season | 6 | 0 | 6 | 0 | — | 1 | not_yet_aired | 2026-10-01 |
+| Ao Ashi Season 2 | 4 | 0 | 4 | 0 | — | 2 | not_yet_aired | 2026-10-04 |
+| Hotaru no Yomeiri | 311 | 0 | 311 | 19 | — | 58 | not_yet_aired | 2026-10-09 |
+| Dragon Ball Super: Beerus | 0 | 1 | 1 | 0 | — | 1 | not_yet_aired | 2026-10-11 |
+| Ranma ½ (2024) 3rd Season | 5 | 0 | 5 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Sasaki to Pii-chan Season 2 | 5 | 0 | 5 | 0 | — | 1 | not_yet_aired | 2026-10-07 |
+| Tougen Anki: Nikko Kegon no Taki-hen | 5 | 0 | 5 | 1 | — | 2 | not_yet_aired | 2026-10-02 |
+| Chitose-kun wa Ramune Bin no Naka Part 2 | 4 | 1 | 5 | 0 | — | 1 | not_yet_aired | 2026-10-13 |
+| Seitokai ni mo Ana wa Aru! | 7 | 1 | 8 | 0 | — | 1 | not_yet_aired | 2026-10-04 |
+| Hyouken no Majutsushi ga Sekai wo Suberu II | 5 | 0 | 5 | 1 | — | 1 | not_yet_aired | 2026-10-09 |
+| Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. | 6 | 0 | 6 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
+| Yasei no Last Boss ga Arawareta! 2nd Season | 6 | 0 | 6 | 0 | — | 2 | not_yet_aired | 2026-09-26 |
+| Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu | 7 | 0 | 7 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
+| Psyren | 1 | 0 | 1 | 0 | — | 1 | not_yet_aired | 2026-10-05 |
+| Yozakura-san Chi no Daisakusen 2nd Season Part 2 | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-11 |
+| Magic Knight Rayearth (2026) | 110 | 0 | 110 | 8 | — | 18 | not_yet_aired | 2026-10-07 |
+| Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
+| Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai | 180 | 0 | 180 | 19 | — | 41 | not_yet_aired | 2026-10-04 |
+| Toaru Anbu no Item | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-09 |
+| Tempal: Item no Chikara | 255 | 0 | 255 | 15 | — | 62 | not_yet_aired | 2026-09-27 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
+| Magical★Explorer | 2 | 0 | 2 | 0 | — | 2 | not_yet_aired | 2026-10-04 |
+| Mahou Shoujo Ikusei Keikaku: Restart | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
+| Shuiro no Kamen | 70 | 0 | 70 | 7 | — | 9 | not_yet_aired | 2026-10-10 |
+| Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| FX Senshi Kurumi-chan | 63 | 0 | 63 | 9 | — | 10 | not_yet_aired | 2026-10-01 |
+| Romelia Senki | 49 | 0 | 49 | 1 | — | 3 | not_yet_aired | 2026-10-03 |
+| #Zombie Sagashitemasu | 2 | 0 | 2 | 0 | — | 1 | not_yet_aired | 2026-10-03 |
+| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-11 |
+| Sekai Saikyou no Majo, Hajimemashita | 4 | 0 | 4 | 0 | — | 0 | not_yet_aired | 2026-10-07 |
+| Diamond no Ace: Act II Second Season Part 2 | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-11 |
+| Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Tank Chair | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Hotel Inhumans 2nd Season | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Dark Summoner to Dekiteiru | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
+| Gensou Suikoden | 2 | 0 | 2 | 0 | — | 1 | not_yet_aired | 2026-10-03 |
 | Kanata kara | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
-| Tensei Goblin dakedo Shitsumon Aru? | 3 | 0 | 3 | 0 | — | 1 | not_yet_aired | 2026-10-05 |
-| Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa | 251 | 0 | 251 | 6 | — | 94 | not_yet_aired | 2026-10-04 |
+| Tensei Goblin dakedo Shitsumon Aru? | 4 | 0 | 4 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
+| Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa | 268 | 0 | 268 | 6 | — | 98 | not_yet_aired | 2026-10-04 |
 | Ojisan wa Kawaii Mono ga Osuki. | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Kanojo no Tomodachi | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
+| Kanojo no Tomodachi | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
 | Kizu darake Seijo yori Houfuku wo Komete Season 2 | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-02 |
 | Choujun! Choujou-senpai | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
-| Tetsuryou! Meet with Tetsudou Musume | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-09 |
+| Tetsuryou! Meet with Tetsudou Musume | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-09 |
 | Marronnier Oukoku no Shichinin no Kishi | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
-| Vertex Force | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
-| Keroro Gunsou☆ | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
-| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu | 389 | 0 | 389 | 15 | — | 117 | not_yet_aired | 2026-10-05 |
-| Kyoufu Collector | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-10 |
-| Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen | 2 | 0 | 2 | 2 | — | 0 | not_yet_aired | 2026-10-01 |
-| Dark Machine: The Animation | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-14 |
-| Ghost Meets Gal! | 305 | 0 | 305 | 25 | — | 40 | currently_airing | 2026-09-05 |
-| Mahou no Shimai Lulutto Lilly Part 2 | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
-| Battle Spirits [Re]: Zekkai no Kuu | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
-| Juuou Mujin Dandivine | 3 | 0 | 3 | 0 | — | 0 | not_yet_aired | 2026-10-08 |
-| Cardfight!! Vanguard: Divinez Unmei Seisen-hen | 0 | 0 | 0 | 1 | — | 0 | not_yet_aired | 2026-11-07 |
+| Vertex Force | 2 | 0 | 2 | 0 | — | 1 | not_yet_aired | 2026-10-03 |
+| Keroro Gunsou☆ | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
+| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu | 395 | 0 | 395 | 15 | — | 118 | not_yet_aired | 2026-10-05 |
+| Kyoufu Collector | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-10 |
+| Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-01 |
+| Dark Machine: The Animation | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-14 |
+| Ghost Meets Gal! | 360 | 0 | 360 | 29 | — | 54 | currently_airing | 2026-09-05 |
+| Mahou no Shimai Lulutto Lilly Part 2 | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Battle Spirits [Re]: Zekkai no Kuu | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-10-06 |
+| Juuou Mujin Dandivine | 2 | 0 | 2 | 0 | — | 0 | not_yet_aired | 2026-10-08 |
+| Cardfight!! Vanguard: Divinez Unmei Seisen-hen | 1 | 0 | 1 | 0 | — | 0 | not_yet_aired | 2026-11-07 |
 | Pan Dorobou | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-02 |
-| Shirotan | 0 | 0 | 0 | 1 | — | 0 | not_yet_aired | 2026-10-03 |
-| Tanuki to Kitsune (TV) | 0 | 0 | 0 | 1 | — | 0 | not_yet_aired | 2026-10-04 |
-| Yuruyuru Zukan | 0 | 0 | 0 | 1 | — | 0 | not_yet_aired | 2026-10-04 |
+| Shirotan | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
+| Tanuki to Kitsune (TV) | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
+| Yuruyuru Zukan | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
 | Yuusanchi! from Yuu-hachi | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-05 |
 | Punirunes: Puni 4 | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-04 |
 | Nezumi-kun no Chokki (TV) 2nd Season | 0 | 0 | 0 | 0 | — | 0 | not_yet_aired | 2026-10-03 |
@@ -176,70 +176,70 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 
 | Title | Popularity | Favorites | Popularity/day | Snapshot UTC |
 |---|---:|---:|---:|---|
-| Tensei shitara Ken deshita II | 37,308 | 590 | 90.0 | 2026-09-18T13:39:33.722716+00:00 |
-| Ao no Hako Season 2 | 33,348 | 474 | 121.0 | 2026-09-18T13:39:35.884154+00:00 |
-| Tokyo Revengers: Santen Sensou-hen | 23,180 | 279 | 89.7 | 2026-09-18T13:39:38.015208+00:00 |
-| Tantei wa Mou, Shindeiru. Season 2 | 19,853 | 255 | 67.8 | 2026-09-18T13:39:42.269240+00:00 |
-| Kikansha no Mahou wa Tokubetsu desu 2nd Season | 19,632 | 253 | 85.7 | 2026-09-18T13:39:44.384872+00:00 |
-| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | 13,670 | 143 | 78.2 | 2026-09-18T13:39:46.509064+00:00 |
-| Koori no Jouheki 2nd Season | 19,489 | 202 | 146.0 | 2026-09-18T13:39:48.634011+00:00 |
-| Ao Ashi Season 2 | 15,540 | 169 | 69.4 | 2026-09-18T13:39:40.148035+00:00 |
-| Hotaru no Yomeiri | 17,409 | 210 | 197.0 | 2026-09-18T13:39:50.752999+00:00 |
-| Dragon Ball Super: Beerus | 10,194 | 173 | 87.9 | 2026-09-18T13:39:52.869148+00:00 |
-| Ranma ½ (2024) 3rd Season | 10,047 | 73 | 64.5 | 2026-09-18T13:39:55.009995+00:00 |
-| Sasaki to Pii-chan Season 2 | 9,089 | 87 | 42.7 | 2026-09-18T13:39:57.139204+00:00 |
-| Tougen Anki: Nikko Kegon no Taki-hen | 10,140 | 124 | 60.8 | 2026-09-18T13:39:59.264366+00:00 |
-| Chitose-kun wa Ramune Bin no Naka Part 2 | 8,832 | 101 | 66.3 | 2026-09-18T13:40:01.384372+00:00 |
-| Hyouken no Majutsushi ga Sekai wo Suberu II | 8,576 | 99 | 84.2 | 2026-09-18T13:40:03.515409+00:00 |
-| Seitokai ni mo Ana wa Aru! | 11,607 | 84 | 129.7 | 2026-09-18T13:40:05.638958+00:00 |
-| Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. | 6,896 | 54 | 171.7 | 2026-09-18T13:40:09.879812+00:00 |
-| Yasei no Last Boss ga Arawareta! 2nd Season | 9,472 | 101 | 90.1 | 2026-09-18T13:40:07.760207+00:00 |
-| Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu | 6,641 | 51 | 72.3 | 2026-09-18T13:40:12.004372+00:00 |
-| Psyren | 7,189 | 74 | 107.8 | 2026-09-18T13:40:16.258871+00:00 |
-| Yozakura-san Chi no Daisakusen 2nd Season Part 2 | 5,002 | 44 | 43.1 | 2026-09-18T13:40:14.133610+00:00 |
-| Magic Knight Rayearth (2026) | 6,294 | 37 | 67.5 | 2026-09-18T13:40:18.396165+00:00 |
-| Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku | 6,623 | 53 | 77.4 | 2026-09-18T13:40:20.518159+00:00 |
-| Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai | 6,919 | 97 | 132.9 | 2026-09-18T13:40:22.631413+00:00 |
-| Toaru Anbu no Item | 5,489 | 39 | 71.0 | 2026-09-18T13:40:24.740053+00:00 |
-| Tempal: Item no Chikara | 9,435 | 114 | 171.4 | 2026-09-18T13:40:31.099863+00:00 |
-| Shiotaiou no Satou-san ga Ore ni dake Amai | 5,837 | 61 | 76.7 | 2026-09-18T13:40:33.585153+00:00 |
-| Mahou Shoujo Ikusei Keikaku: Restart | 4,868 | 41 | 28.5 | 2026-09-18T13:40:26.858997+00:00 |
-| Magical★Explorer | 5,586 | 84 | 80.4 | 2026-09-18T13:40:28.980786+00:00 |
-| Shuiro no Kamen | 4,493 | 33 | 70.6 | 2026-09-18T13:40:35.706799+00:00 |
-| Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | 3,396 | 27 | 72.9 | 2026-09-18T13:40:37.852685+00:00 |
-| FX Senshi Kurumi-chan | 4,541 | 32 | 72.4 | 2026-09-18T13:40:39.980183+00:00 |
-| Romelia Senki | 2,779 | 25 | 56.1 | 2026-09-18T13:40:42.104655+00:00 |
-| #Zombie Sagashitemasu | 3,249 | 20 | 75.4 | 2026-09-18T13:40:46.355335+00:00 |
-| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | 2,645 | 32 | 57.0 | 2026-09-18T13:40:50.601182+00:00 |
-| Sekai Saikyou no Majo, Hajimemashita | 3,772 | 29 | 86.2 | 2026-09-18T13:40:48.482602+00:00 |
-| Diamond no Ace: Act II Second Season Part 2 | 2,326 | 24 | 22.5 | 2026-09-18T13:40:44.232456+00:00 |
-| Tank Chair | 2,725 | 18 | 28.5 | 2026-09-18T13:40:52.724990+00:00 |
-| Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu | 3,664 | 36 | 75.8 | 2026-09-18T13:40:54.847851+00:00 |
-| Hotel Inhumans 2nd Season | 2,047 | 12 | 11.8 | 2026-09-18T13:40:56.967793+00:00 |
-| Dark Summoner to Dekiteiru | 5,781 | 73 | 104.0 | 2026-09-18T13:41:01.239118+00:00 |
-| Gensou Suikoden | 2,373 | 22 | 30.1 | 2026-09-18T13:40:59.100080+00:00 |
-| Kanata kara | 2,319 | 11 | 25.9 | 2026-09-18T13:41:03.360877+00:00 |
-| Tensei Goblin dakedo Shitsumon Aru? | 2,541 | 18 | 68.6 | 2026-09-18T13:41:05.480148+00:00 |
-| Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa | 3,745 | 72 | 28.2 | 2026-09-18T13:41:07.617966+00:00 |
-| Ojisan wa Kawaii Mono ga Osuki. | 1,903 | 9 | 46.6 | 2026-09-18T13:41:13.991747+00:00 |
-| Kanojo no Tomodachi | 4,801 | 68 | 62.7 | 2026-09-18T13:41:09.747264+00:00 |
-| Kizu darake Seijo yori Houfuku wo Komete Season 2 | 1,059 | 7 | 12.1 | 2026-09-18T13:41:11.866107+00:00 |
-| Choujun! Choujou-senpai | 2,056 | 13 | 32.6 | 2026-09-18T13:41:16.105385+00:00 |
-| Tetsuryou! Meet with Tetsudou Musume | 1,628 | 5 | 27.3 | 2026-09-18T13:41:18.221211+00:00 |
-| Marronnier Oukoku no Shichinin no Kishi | 1,972 | 10 | 41.3 | 2026-09-18T13:41:22.463989+00:00 |
-| Vertex Force | 1,834 | 11 | 29.6 | 2026-09-18T13:41:20.348742+00:00 |
-| Keroro Gunsou☆ | 590 | 5 | 26.6 | 2026-09-18T13:41:24.585479+00:00 |
-| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu | 1,944 | 22 | 59.7 | 2026-09-18T13:41:30.993746+00:00 |
-| Kyoufu Collector | 2,563 | 19 | 37.8 | 2026-09-18T13:41:28.874658+00:00 |
-| Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen | 839 | 5 | 7.9 | 2026-09-18T13:41:26.703510+00:00 |
-| Dark Machine: The Animation | 924 | 5 | 21.0 | 2026-09-18T13:41:33.124752+00:00 |
-| Ghost Meets Gal! | 609 | 10 | 16.1 | 2026-09-18T13:41:39.788294+00:00 |
-| Mahou no Shimai Lulutto Lilly Part 2 | 956 | 8 | 8.0 | 2026-09-18T13:41:35.245855+00:00 |
+| Tensei shitara Ken deshita II | 37,426 | 591 | 98.3 | 2026-09-19T13:13:15.919230+00:00 |
+| Ao no Hako Season 2 | 33,478 | 478 | 121.1 | 2026-09-19T13:13:18.030968+00:00 |
+| Tokyo Revengers: Santen Sensou-hen | 23,266 | 279 | 84.6 | 2026-09-19T13:13:20.137701+00:00 |
+| Tantei wa Mou, Shindeiru. Season 2 | 19,921 | 256 | 66.8 | 2026-09-19T13:13:24.412968+00:00 |
+| Kikansha no Mahou wa Tokubetsu desu 2nd Season | 19,707 | 254 | 72.7 | 2026-09-19T13:13:26.528796+00:00 |
+| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | 13,762 | 143 | 80.8 | 2026-09-19T13:13:28.645190+00:00 |
+| Koori no Jouheki 2nd Season | 19,651 | 203 | 147.7 | 2026-09-19T13:13:30.764192+00:00 |
+| Ao Ashi Season 2 | 15,589 | 170 | 59.3 | 2026-09-19T13:13:22.261651+00:00 |
+| Hotaru no Yomeiri | 17,617 | 212 | 194.0 | 2026-09-19T13:13:32.875232+00:00 |
+| Dragon Ball Super: Beerus | 10,281 | 173 | 78.5 | 2026-09-19T13:13:34.995310+00:00 |
+| Ranma ½ (2024) 3rd Season | 10,103 | 73 | 61.9 | 2026-09-19T13:13:37.111095+00:00 |
+| Sasaki to Pii-chan Season 2 | 9,139 | 87 | 44.3 | 2026-09-19T13:13:39.222272+00:00 |
+| Tougen Anki: Nikko Kegon no Taki-hen | 10,188 | 124 | 52.9 | 2026-09-19T13:13:41.342928+00:00 |
+| Chitose-kun wa Ramune Bin no Naka Part 2 | 8,907 | 101 | 65.9 | 2026-09-19T13:13:43.455461+00:00 |
+| Seitokai ni mo Ana wa Aru! | 11,960 | 88 | 190.1 | 2026-09-19T13:13:47.685730+00:00 |
+| Hyouken no Majutsushi ga Sekai wo Suberu II | 8,658 | 99 | 77.8 | 2026-09-19T13:13:45.575485+00:00 |
+| Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. | 7,016 | 54 | 144.6 | 2026-09-19T13:13:51.938314+00:00 |
+| Yasei no Last Boss ga Arawareta! 2nd Season | 9,555 | 101 | 81.7 | 2026-09-19T13:13:49.815786+00:00 |
+| Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu | 6,709 | 51 | 67.5 | 2026-09-19T13:13:54.071509+00:00 |
+| Psyren | 7,271 | 74 | 90.4 | 2026-09-19T13:13:58.298483+00:00 |
+| Yozakura-san Chi no Daisakusen 2nd Season Part 2 | 5,055 | 45 | 45.8 | 2026-09-19T13:13:56.189833+00:00 |
+| Magic Knight Rayearth (2026) | 6,352 | 37 | 60.7 | 2026-09-19T13:14:00.413270+00:00 |
+| Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku | 6,695 | 53 | 68.3 | 2026-09-19T13:14:02.542080+00:00 |
+| Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai | 7,027 | 97 | 108.5 | 2026-09-19T13:14:04.666752+00:00 |
+| Toaru Anbu no Item | 5,546 | 39 | 57.4 | 2026-09-19T13:14:06.771732+00:00 |
+| Tempal: Item no Chikara | 9,560 | 116 | 153.3 | 2026-09-19T13:14:13.131785+00:00 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | 5,990 | 61 | 95.3 | 2026-09-19T13:14:15.240009+00:00 |
+| Magical★Explorer | 5,672 | 84 | 79.6 | 2026-09-19T13:14:11.003054+00:00 |
+| Mahou Shoujo Ikusei Keikaku: Restart | 4,903 | 41 | 29.7 | 2026-09-19T13:14:08.892477+00:00 |
+| Shuiro no Kamen | 4,561 | 33 | 63.3 | 2026-09-19T13:14:17.357994+00:00 |
+| Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | 3,460 | 27 | 67.4 | 2026-09-19T13:14:19.480483+00:00 |
+| FX Senshi Kurumi-chan | 4,609 | 32 | 64.2 | 2026-09-19T13:14:21.587983+00:00 |
+| Romelia Senki | 2,834 | 25 | 51.4 | 2026-09-19T13:14:23.710598+00:00 |
+| #Zombie Sagashitemasu | 3,319 | 20 | 68.8 | 2026-09-19T13:14:27.938333+00:00 |
+| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | 2,694 | 32 | 53.8 | 2026-09-19T13:14:32.162299+00:00 |
+| Sekai Saikyou no Majo, Hajimemashita | 3,860 | 29 | 83.7 | 2026-09-19T13:14:30.048369+00:00 |
+| Diamond no Ace: Act II Second Season Part 2 | 2,340 | 24 | 21.5 | 2026-09-19T13:14:25.827025+00:00 |
+| Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu | 3,733 | 36 | 70.4 | 2026-09-19T13:14:36.389816+00:00 |
+| Tank Chair | 2,766 | 18 | 29.6 | 2026-09-19T13:14:34.273171+00:00 |
+| Hotel Inhumans 2nd Season | 2,061 | 12 | 11.9 | 2026-09-19T13:14:38.521093+00:00 |
+| Dark Summoner to Dekiteiru | 5,904 | 74 | 104.3 | 2026-09-19T13:14:42.770813+00:00 |
+| Gensou Suikoden | 2,420 | 22 | 35.5 | 2026-09-19T13:14:40.657435+00:00 |
+| Kanata kara | 2,341 | 11 | 25.3 | 2026-09-19T13:14:44.875816+00:00 |
+| Tensei Goblin dakedo Shitsumon Aru? | 2,616 | 18 | 69.2 | 2026-09-19T13:14:47.006134+00:00 |
+| Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa | 3,761 | 73 | 20.7 | 2026-09-19T13:14:49.126762+00:00 |
+| Ojisan wa Kawaii Mono ga Osuki. | 1,944 | 9 | 37.6 | 2026-09-19T13:14:55.507810+00:00 |
+| Kanojo no Tomodachi | 4,854 | 68 | 53.3 | 2026-09-19T13:14:51.251941+00:00 |
+| Kizu darake Seijo yori Houfuku wo Komete Season 2 | 1,069 | 7 | 10.8 | 2026-09-19T13:14:53.382315+00:00 |
+| Choujun! Choujou-senpai | 2,089 | 13 | 30.3 | 2026-09-19T13:14:57.635461+00:00 |
+| Tetsuryou! Meet with Tetsudou Musume | 1,662 | 5 | 25.9 | 2026-09-19T13:14:59.739843+00:00 |
+| Marronnier Oukoku no Shichinin no Kishi | 2,004 | 10 | 36.1 | 2026-09-19T13:15:04.007722+00:00 |
+| Vertex Force | 1,862 | 11 | 29.7 | 2026-09-19T13:15:01.884499+00:00 |
+| Keroro Gunsou☆ | 610 | 5 | 22.2 | 2026-09-19T13:15:06.135674+00:00 |
+| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu | 1,999 | 22 | 56.2 | 2026-09-19T13:15:12.484962+00:00 |
+| Kyoufu Collector | 2,631 | 19 | 43.2 | 2026-09-19T13:15:10.379190+00:00 |
+| Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen | 844 | 5 | 5.9 | 2026-09-19T13:15:08.261137+00:00 |
+| Dark Machine: The Animation | 947 | 5 | 21.3 | 2026-09-19T13:15:14.590066+00:00 |
+| Ghost Meets Gal! | 666 | 11 | 27.8 | 2026-09-19T13:15:20.940441+00:00 |
+| Mahou no Shimai Lulutto Lilly Part 2 | 967 | 8 | 9.2 | 2026-09-19T13:15:16.708173+00:00 |
 | Battle Spirits [Re]: Zekkai no Kuu | — | — | — | Missing |
-| Juuou Mujin Dandivine | 712 | 6 | 22.0 | 2026-09-18T13:41:42.024767+00:00 |
-| Cardfight!! Vanguard: Divinez Unmei Seisen-hen | 265 | 3 | 5.3 | 2026-09-18T13:41:44.153151+00:00 |
-| Pan Dorobou | 226 | 1 | 2.0 | 2026-09-18T13:41:46.276132+00:00 |
-| Shirotan | 212 | 4 | 3.6 | 2026-09-18T13:41:48.404906+00:00 |
+| Juuou Mujin Dandivine | 736 | 6 | 21.9 | 2026-09-19T13:15:23.049880+00:00 |
+| Cardfight!! Vanguard: Divinez Unmei Seisen-hen | 271 | 3 | 5.4 | 2026-09-19T13:15:25.168033+00:00 |
+| Pan Dorobou | 231 | 0 | 2.9 | 2026-09-19T13:15:27.280954+00:00 |
+| Shirotan | 218 | 4 | 4.1 | 2026-09-19T13:15:29.406368+00:00 |
 | Tanuki to Kitsune (TV) | — | — | — | Missing |
 | Yuruyuru Zukan | — | — | — | Missing |
 | Yuusanchi! from Yuu-hachi | — | — | — | Missing |
@@ -264,9 +264,7 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | mal | 2026-09-16T14:13:36.214455+00:00 | 69 | 69 | 0 | — |
 | mal | 2026-09-17T14:19:17.041088+00:00 | 69 | 69 | 0 | — |
 | mal | 2026-09-18T13:38:16.135400+00:00 | 69 | 69 | 0 | — |
-| youtube | 2026-09-16T07:34:10.169529+00:00 | 0 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
-| anilist | 2026-09-16T14:14:53.453800+00:00 | 63 | 69 | 6 | — |
-| reddit | 2026-09-16T14:17:21.893495+00:00 | 0 | 0 | 0 | paused_after_access_denial |
+| mal | 2026-09-19T13:11:56.032461+00:00 | 69 | 69 | 0 | — |
 | youtube | 2026-09-16T14:17:21.926235+00:00 | 0 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
 | anilist | 2026-09-17T14:20:35.187134+00:00 | 63 | 69 | 6 | — |
 | reddit | 2026-09-17T14:23:06.534439+00:00 | 0 | 0 | 0 | paused_after_access_denial |
@@ -274,3 +272,6 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | anilist | 2026-09-18T13:39:33.599363+00:00 | 63 | 69 | 6 | — |
 | reddit | 2026-09-18T13:42:01.139710+00:00 | 0 | 0 | 0 | paused_after_access_denial |
 | youtube | 2026-09-18T13:42:01.182472+00:00 | 0 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
+| anilist | 2026-09-19T13:13:15.821300+00:00 | 63 | 69 | 6 | — |
+| reddit | 2026-09-19T13:15:42.056922+00:00 | 0 | 0 | 0 | paused_after_access_denial |
+| youtube | 2026-09-19T13:15:42.106980+00:00 | 0 | 0 | 0 | not_configured_YOUTUBE_API_KEY |
