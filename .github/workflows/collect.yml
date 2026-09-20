@@ -7,6 +7,7 @@ on:
     paths:
       - "*.py"
       - ".github/workflows/collect.yml"
+      - "youtube_registry.json"
   schedule:
     - cron: "17 9 15-27 9 *"
     - cron: "30 14 27 9 *"
@@ -99,3 +100,4 @@ jobs:
             echo "::error::MAL collection incomplete. Successful rows and failure records were preserved."
             exit 1
           fi
+

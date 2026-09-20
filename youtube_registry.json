@@ -1,6 +1,22 @@
 {
   "schema_version": 1,
   "description": "Verified official regional trailer mirrors not discoverable from AniList. Add only confirmed official uploads.",
-  "videos": []
+  "videos": [
+    {
+      "mal_id": 61323,
+      "video_id": "n0ugKku1fzc",
+      "publisher": "Netflix Anime",
+      "channel_market": "english_global",
+      "verified_official": true,
+      "notes": "Official Blue Box Season 2 main trailer on the verified Netflix Anime channel."
+    },
+    {
+      "mal_id": 61323,
+      "video_id": "h4amrgzStvU",
+      "publisher": "Netflix Anime",
+      "channel_market": "english_global",
+      "verified_official": true,
+      "notes": "Official Blue Box Season 2 teaser on the verified Netflix Anime channel."
+    }
+  ]
 }
-
