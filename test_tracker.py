@@ -2,6 +2,7 @@ import copy
 import datetime as dt
 import unittest
 from tracker import append_snapshot, cache_quality, growth_pair, jikan_record
+from external_collect import comment_language_bucket, infer_channel_market
 
 
 class DataQualityTests(unittest.TestCase):
@@ -45,6 +46,18 @@ class DataQualityTests(unittest.TestCase):
         self.assertIsNone(state["snapshots"][0]["metrics"]["score"])
         self.assertEqual(state["snapshots"][0]["metrics"]["dropped"], 0)
 
+    def test_youtube_comment_language_buckets_are_conservative(self):
+        self.assertEqual(comment_language_bucket("This trailer looks amazing and I cannot wait"), "english")
+        self.assertEqual(comment_language_bucket("これは本当に楽しみです！"), "japanese")
+        self.assertEqual(comment_language_bucket("이 작품 정말 기대돼요"), "other")
+        self.assertEqual(comment_language_bucket("🔥🔥"), "ambiguous")
+
+    def test_youtube_channel_market_inference(self):
+        self.assertEqual(infer_channel_market("Crunchyroll Collection"), "english_western")
+        self.assertEqual(infer_channel_market("Netflix Anime"), "english_global")
+        self.assertEqual(infer_channel_market("Unknown", "ja"), "japanese")
+
 
 if __name__ == "__main__":
     unittest.main()
+

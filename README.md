@@ -36,7 +36,7 @@ AniList: separate popularity, favorites, 0–100 scores, status distribution, st
 
 Reddit: bounded sample of the latest 100 r/anime posts from the past seven days. This discovers title-matched evidence candidates; it is not a complete mention count or sentiment estimate. Missing matches do not establish no interest.
 
-YouTube: optional official Data API collector for AniList-linked trailer IDs. Captures views, likes and comments; channel identity needs review. No key means not configured, not zero views.
+YouTube: optional official Data API collector for AniList-linked and registry-listed trailer IDs. Captures views, likes, total comments, channel/title/language metadata, inferred publisher market, region restrictions, and bounded relevant/recent comment-language samples. Only aggregate sample counts are retained. Add verified regional mirrors to `youtube_registry.json`; no key means not configured, not zero views.
 
 X, Google Trends, MAL favorites and unique MAL episode-thread users remain unimplemented. Do not infer coverage from this roadmap.
 
@@ -61,3 +61,4 @@ Python 3.10+, standard library only.
 
 scoring.py provides rule arithmetic only and requires an explicit bonus interpretation.
 No forecast accuracy or winning-team claim has been established.
+

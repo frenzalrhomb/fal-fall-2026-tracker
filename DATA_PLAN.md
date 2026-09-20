@@ -20,7 +20,7 @@ These signals are better researched at defined checkpoints than scraped blindly 
 | Signal | Collection approach | Intended use |
 |---|---|---|
 | Reddit | Seasonal anticipation surveys; title mentions and engagement in relevant pre-season threads; later, unique episode-discussion participation | English-language anticipation and discussion potential |
-| YouTube | Official trailer views, upload age, likes/comments where available; normalize per day and by channel baseline | Trailer reach and acceleration |
+| YouTube | Official trailer views, upload age, likes/comments, publisher market, regional mirrors and bounded aggregate comment-language samples; normalize within the same video/market | Trailer reach, acceleration and Japanese-vs-international audience skew |
 | X and other public social sources | Publicly observable title momentum, repeated independent discussion and major announcements; no paid API assumed | Breakout/announcement signals, used cautiously |
 | Google Trends | Relative search interest for a shortlist, with ambiguity/language checks | Broad awareness outside tracking sites |
 | Source/franchise evidence | Prior-season MAL/AniList audience retention; manga/LN reception and readership proxies | Sequel floor and adaptation ceiling |
@@ -51,3 +51,4 @@ These signals are better researched at defined checkpoints than scraped blindly 
 - Current data for an old title cannot substitute for its historical preseason state.
 - Social signals receive fitted predictive weights only if historical validation shows incremental value. Until then they are labeled qualitative evidence with uncertainty.
 - Popularity, rating, discussions, drops and favorites are forecast separately before applying the FAL scoring rules.
+
