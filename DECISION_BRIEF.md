@@ -21,6 +21,34 @@
 
 Premiere dates are MAL tracker metadata, not a guarantee of FAL scoring timing. A title that has not aired scores zero Watching points under the supplied rules. Only two restricted titles may be chosen; Sword and Blue Box use both slots. Confirm initial active/bench positions against broadcast times before registering. There are only four ordinary swaps and at most one per week: Firefly and Returner cannot both move from bench to active in the same week. Dragon Ball is the least secure of the three bench slots because its entry reworks existing material and starts October 11.
 
+## Points-maximizing game plan
+
+**What is implemented today:** `scoring.py` calculates the user-supplied Fall 2026 component rules; the tracker captures MAL audience states and scores when available. **What is not implemented:** a validated weekly forecast, historical calibration, or an optimizer that proves this eight-title roster has the highest expected score. The current team is a reasoned provisional choice. MAL *members* are largely Plan to Watch, while the recurring points use **Watching + Completed** after airing. Pre-airing Watching entries are treated as zero FAL audience points under the supplied rules.
+
+| Scoring window | Date(s), UTC | What can move the lineup |
+|---|---|---|
+| Every Sunday | October 4–December 27 | Active titles get Watching + Completed points; bench gets zero. If not yet aired, audience points are zero. |
+| Even weeks 2, 4, 6, 8, 10, 12 | October 11 and 25; November 8 and 22; December 6 and 20 | Extra/revised audience coefficient plus episode-discussion participants. Prefer titles with real viewers **and** real MAL forum participation over trailer-only hype. |
+| Score weeks 3, 7, 10, 13 | October 18; November 15; December 6 and 27 | A full MAL score point is 17,500 points at an ordinary score checkpoint and at least 35,000 in week 13. Good-scoring smaller shows can beat higher-audience weak-scoring sequels. |
+| Dropped weeks 4, 8, 11, 13 | October 25; November 22; December 13 and 27 | High drop counts penalize active picks; revisit weak-premiere or remake bets. |
+| Favorites weeks 5, 9, 12, 13 | November 1 and 29; December 20 and 27 | MAL favorites (not AniList favorites) can reward a beloved breakout even without the biggest viewer count. |
+| Week 13 | December 27 | Higher score, discussion, favorites and dropped coefficients make this a major lineup checkpoint, not a week to leave an obsolete initial five unchanged. |
+
+**Scale check:** 10,000 *actual* Watching + Completed users are worth 5,000 points in an ordinary 0.5-point audience week; 100 qualifying episode-thread participants are worth 7,500 points at 75 each; a one-point MAL score difference is worth 17,500 points in a normal score week. These are examples from the supplied rules, not projections of a title's outcome. On the current wording, it is unresolved whether the special even-week and week-13 coefficients **add to** or **replace** the base rates. The scorer has both modes; decisions should be checked under both until official score breakdowns resolve this. Missing score, MAL favorites or episode-thread counts remain unknown, not zero.
+
+**Draft and swaps**
+
+1. **Week 1, October 4:** Start Sword, Blue Box, Ramparts, Appraisal and Seitokai because their listed starts fall before scoring. Firefly (October 9), Returner (October 8) and Dragon Ball (October 11) begin on the bench. Confirm each real release and MAL airing status before deadline; no show gets pre-airing audience points.
+2. **Week 2, October 11:** Consider **Firefly first** for the single available swap, but only if its actual Watching plus discussions, and likely following weeks, beat the weakest active title. Returner and Dragon Ball do **not** automatically enter when they premiere. A bench show that never becomes a profitable swap is still useful as insurance and possibly for the first-place tiebreaker.
+3. **Week 3, October 18:** First score bonus. Compare actual MAL score, rating sample size, Watching growth and drop risk; consider Returner or another already-selected bench title if it now outprojects an active title across coming weeks. Reserve remaining swaps for meaningful later differences, especially weeks 7, 10 and 13. At most one normal swap per week and four across the season; **no new title can join after registration**.
+4. **Swap test:** Project the points from each candidate in every remaining scoring window and choose the legal move with the largest expected *total* gain. Include the opportunity cost of spending one of four swaps; do not swap merely because a show aired or gained Plan to Watch members. If the cutoff changes, compare under both coefficient interpretations.
+
+**Aces:** Award **+75,000** for correctly naming the week's highest-scoring active title, versus **−5,000** if wrong/ineligible; each title can be Aced once, and it becomes ineligible after crossing **60,000 Watching + Completed**, not 60,000 total MAL members. Before each Sunday deadline, calculate *this week's component points for the five active titles* and Ace the eligible one most likely to top them. Sword may be an early Ace candidate if actual viewer conversion dominates week 1, but preseason member count alone is insufficient. Do not defer a high-confidence Ace in the hope of a larger future weekly total: the successful Ace bonus is fixed. Prioritize using multiple distinct reliable Aces through the season.
+
+**Week 10 onward wildcard:** Booster adds **10,000 to our own total**. Extra swap costs **5,000**, so it must add more than **15,000 expected anime points** relative to taking Booster before it improves our own total. Bomber costs us **5,000** and subtracts **20,000** from a rival; use it only for a credible rank-targeting case, as it lowers our raw total. Compare these options at Week 10 or later with actual standings. Available only once.
+
+**Remaining model work:** estimate each selected and challenger title's weekly Watching/Completed, score, drops, favorites and qualifying discussions with uncertainty; compare legal eight-title sets (at most two restricted), active/bench paths, four swaps and eligible Ace choices under both plausible coefficient modes. Current snapshots and a partial Fall 2025 screenshot cannot validate those forecasts. If the evidence stays sparse, label scenario assumptions rather than claiming an optimized winning team.
+
 ## Breakout watchlist
 
 | Title | Position | Evidence and limitation | English dub | What would change the decision |
