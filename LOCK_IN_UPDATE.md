@@ -1,0 +1,34 @@
+# FAL Fall 2026: final distribution adjustment (September 27)
+
+This is the **current lock-in recommendation** and supersedes the roster in [DECISION_BRIEF.md](DECISION_BRIEF.md). The quantitative snapshot is September 26 at 13:46–13:51 UTC. No team has been submitted.
+
+## Revised lineup
+
+| Initial slot | Anime | MAL members | Latest ~23h MAL gain | AniList popularity | US premiere route |
+|---|---|---:|---:|---:|---|
+| Active | Reincarnated as a Sword S2 (restricted) | 96,063 | +410 | 38,567 | HIDIVE exclusive; US included |
+| Active | Blue Box S2 (restricted) | 75,521 | +551 | 34,899 | Netflix, weekly Oct 4 |
+| Active | The Ramparts of Ice S2 | 39,757 | +527 | 21,232 | Netflix worldwide Oct 2 |
+| Active | Appraisal Skill S3 | 40,707 | +356 | 14,773 | Crunchyroll US Sep 27 |
+| Active | Ranma 1/2 (2024) S3 | 26,439 | +256 | 10,824 | Netflix worldwide after Oct 3 24:55 JST TV premiere |
+| Bench | Firefly Wedding | 36,509 | +671 | 19,426 | Crunchyroll US Oct 9 |
+| Bench | A Returner's Magic Should Be Special S2 | 46,431 | +288 | 20,518 | Crunchyroll US Oct 7 |
+| Bench | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | 21,053 | +555 | 8,619 | Crunchyroll US Oct 5 |
+
+Two changes from the earlier roster: **Ranma replaces Seitokai among starters; Love-Potion replaces Dragon Ball on the bench.** Rights announcements do not themselves generate FAL points. They affect our estimate of conversion from Plan to Watch to Watching or Completed across the MAL audience. There is no measured US share of FAL users in this dataset, and these are judgment calls under uncertainty, not a fitted geographical model.
+
+### Why Ranma over Seitokai
+
+Ranma has 26,439 MAL members, 10,824 AniList users, an AniList prior-season reception score of 77/100, and a Netflix announcement explicitly covering worldwide availability. It premieres before Week 1. Seitokai has stronger recent growth (+650 against Ranma +256), 24,083 MAL members, and 14,144 AniList users. Its Japanese publisher confirms Netflix **in Japan** from October 6, but we found no confirmed US release and it is absent from Crunchyroll's published fall lineup. Since an active title has to earn Week 1 points, the US release uncertainty tips this close comparison toward Ranma. Seitokai can still win if an American distributor announces a prompt release; absence of an announcement does not prove no future license.
+
+### Why Love-Potion over Dragon Ball
+
+Dragon Ball has a larger preseason audience (28,868 MAL/11,205 AniList versus Love-Potion's 21,053/8,619), a trailer with substantial English-comment activity, and a higher Anime Corner poll rank. Love-Potion has faster measured growth (+555 MAL versus +320), and Crunchyroll confirms an October 5 launch worldwide outside Japan and China. As of this audit, Dragon Ball Super: Beerus has a confirmed Japan premiere but **no confirmed US stream for this new edition**. The original Dragon Ball Super streaming on Crunchyroll does not settle that question. The US access risk tips the narrow final bench slot to Love-Potion. Both bench candidates miss Week 1, so this change does not alter the initial active five.
+
+### Other rights and risk
+
+Sword S2 is confirmed HIDIVE exclusive in the US, so it has a smaller distribution route than a Netflix or Crunchyroll title. Its very large MAL and AniList audiences still justify a restricted starter slot. Firefly is confirmed Crunchyroll US, despite the service's announced territory list omitting Southeast Asia. Netflix explicitly says Ramparts S2 launches **worldwide**, correcting the earlier Japan-only qualification.
+
+Sources: [Netflix Ramparts worldwide announcement](https://media.netflix.com/en/only-on-netflix/82031882), [Netflix Ranma worldwide announcement](https://about.netflix.com/en/news/netflix-anime-titles-revealed-mappa-15th-anniversary), [Netflix Blue Box](https://media.netflix.com/en/only-on-netflix/81663323), [AMC Sword HIDIVE exclusive](https://www.amcglobalmedia.com/2025/07/07/highly-anticipated-second-season-of-hit-isekai-series-reincarnated-as-a-sword-to-stream-exclusively-on-hidive-in-2026/), [Crunchyroll Fall lineup and regional rights](https://www.crunchyroll.com/news/seasonal-lineup/2026/9/15/fall-anime-2026-crunchyroll), [Aniplex Seitokai domestic streaming](https://www.aniplex.co.jp/lineup/nama-anaru/), [Dragon Ball official premiere](https://dragonball-super.com/en/updates/20260903-1.html). Counting and gain data: [MAL report](tracking_report.md) and [external report](external_report.md).
+
+Registration deadline per the supplied rules: September 27 at 22:00 UTC / September 28 at 05:00 Bangkok. Week 1 scores October 4 at 22:00 UTC. Apply the same Ace-threshold and four-swap strategy detailed in the original brief.
