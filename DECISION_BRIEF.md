@@ -1,4 +1,6 @@
-# Final FAL Fall 2026 lineup recommendation
+# FAL Fall 2026 lineup analysis (original September 27 assessment)
+
+**Current recommendation changed following the US streaming-rights audit: [see the revised lock-in lineup](LOCK_IN_UPDATE.md). The original roster and comparisons below are preserved as the analysis before that correction.**
 
 **Decision prepared September 27, 2026, Bangkok time. Quantitative snapshot: September 26, 13:46–13:51 UTC / 20:46–20:51 Bangkok.**
 
