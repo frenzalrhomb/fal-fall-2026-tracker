@@ -16,14 +16,14 @@ Evidence cutoff: September 27, 2026, approximately 14:43–14:48 UTC / 21:43–2
 | Active | Blue Box Season 2 | [Ao no Hako Season 2](https://myanimelist.net/anime/61323) **(restricted)** | Netflix | Oct 4 |
 | Active | The Ramparts of Ice Season 2 | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534) | Netflix | Oct 2 |
 | Active | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601) | Crunchyroll | Sep 27 |
-| Active | A Wild Last Boss Appeared! Season 2 | [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140) | Crunchyroll | Sep 26 |
+| Bench | A Wild Last Boss Appeared! Season 2 | [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140) | Crunchyroll | Sep 26 |
 | Bench | Firefly Wedding | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293) | Crunchyroll | Oct 9 |
-| Bench | Ranma ½ (2024) Season 3 | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801) | Netflix | Oct 3/4 |
+| Active | Ranma ½ (2024) Season 3 | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801) | Netflix | Oct 3/4 |
 | Bench | A Returner's Magic Should Be Special Season 2 | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612) | Crunchyroll | Oct 7 |
 
 Exactly five active, three bench, eight distinct eligible roster IDs and two restricted titles.
 
-**Change from the previous LOCK_IN_UPDATE:** add A Wild Last Boss Appeared! S2, remove Love-Potion, and move Ranma from active to bench. Seitokai and Dragon Ball remain outside the eight. This is driven by the new premiere evidence; personal preferences are not selection inputs.
+**Correction to the previous LOCK_IN_UPDATE:** add A Wild Last Boss Appeared! S2 to the bench; keep Ranma active. Love-Potion remains out. Seitokai and Dragon Ball remain outside the eight. The premiere snapshot supports Wild Last Boss as a high-upside option, not as a season-long winner over titles measured before broadcast.
 
 Dates can differ by timezone. Ranma's English official site says October 3; its Japanese civil date is October 4. Both are before Week 1. Sword has advance streaming before Week 1 even though regular Japanese TV starts later.
 
@@ -93,7 +93,7 @@ This is a medium-confidence starter, not an untouchable selection. Firefly or Ra
 
 ### A Wild Last Boss Appeared! S2 — Yasei no Last Boss ga Arawareta! 2nd Season
 
-This is the evidence-driven addition:
+This remains in the eight as an upside option, but the post-premiere evidence does not by itself establish a season-long advantage:
 - MAL members: 19,559 → 23,400, **+3,841 / +19.6%** in approximately 25 hours.
 - MAL Watching + Completed: 176 → **6,047**.
 - MAL score: **7.60 from 924 ratings**.
@@ -103,7 +103,7 @@ This is the evidence-driven addition:
 
 Yesterday's snapshot was only about 16 minutes after the scheduled advance premiere. Today's contains about a day of adoption. This changes the information available; it does not mean the show suddenly became five times better than unreleased rivals.
 
-The 7.60 score can fall and earns no score bonus in Week 1. Its immediate advantage is a real Watching audience, a confirmed Crunchyroll US release and an earlier weekly schedule. I start it over Ranma for likely Week 1 audience points while retaining Ranma as quality insurance. I do not extrapolate the release-day gain linearly through the season.
+The 7.60 score can fall and earns no score bonus in Week 1. The 6,047 Watching + Completed users correspond to about 3,024 points at the ordinary Week 1 rate if unchanged at the cutoff. That is a real first-week advantage, but a single early audience snapshot is small relative to 13 weeks of ratings, retention, favorites, discussions and future audience growth. I put it on the bench and start Ranma: Ranma has a larger MAL base (26,786 vs 23,400), a stronger prior-anime AniList score (77 vs 74), and confirmed worldwide access. Both should be released before the Week 1 cutoff. Compare actual post-release data after Wild Last Boss's second episode and the other titles' premieres; promote it only if its continued viewing and reception justify one of the four swaps.
 
 ## Why each bench title is selected
 
@@ -117,9 +117,7 @@ Crunchyroll's October 9 premiere misses Week 1, so bench placement is scheduling
 
 26,786 MAL members, +347, and 10,948 AniList popularity. The previous anime is 77/100 on AniList. Netflix confirms worldwide streaming.
 
-It stays in the eight because established reception and predictable access offer useful insurance for the rating, retention and favorites parts of FAL. It moves to the bench because Wild Last Boss has already converted demand into a live audience and has more accumulation time before Week 1.
-
-This does not mean Ranma is expected to be worse over the whole season. Promotion is justified if its actual scoring outlook overtakes one of the five; do not spend a swap merely to use every bench title.
+I start it because its stronger prior-anime reception and larger MAL base are more robust season-long evidence than one competitor's first-episode snapshot. Netflix confirms worldwide availability. Wild Last Boss remains on the bench as a possible promotion if its audience and score hold up against comparable post-release data.
 
 ### A Returner's Magic S2 — Kikansha no Mahou wa Tokubetsu desu 2nd Season
 
@@ -136,7 +134,7 @@ However, the official publisher's listed streaming platforms are domestic Japane
 MAL is a global community. Every qualifying MAL list status counts, regardless of country or service. We do not know the percentage who would watch via unofficial sources. I therefore do not assign an invented 30%, 50% or other audience haircut.
 
 I leave it outside this roster because:
-- Wild Last Boss now supplies direct post-premiere adoption evidence plus confirmed US access.
+- Wild Last Boss has promising early adoption, but that single post-premiere snapshot is not directly comparable to unreleased titles.
 - Firefly has a much larger MAL audience and substantially stronger anticipation-poll support.
 - Ranma has an established anime reception prior and confirmed worldwide distribution.
 - Returner has nearly twice its MAL audience and a larger AniList audience.
@@ -209,4 +207,4 @@ A strong roster alone cannot guarantee the best 13-week result. Aces and four sw
 - [Anime Corner final poll, 7,601 participants, calculated September 24](https://animecorner.me/polls/vote/anticipated-fall2026/results)
 - [Reported English dub announcements](https://www.fandompost.com/2026/09/15/crunchyroll-confirms-fall-2026-anime-english-dub-projects/)
 
-**The final selected eight are Sword, Blue Box, Ramparts, Appraisal, Wild Last Boss, Firefly, Ranma and Returner.**
+**The final selected eight are Sword, Blue Box, Ramparts, Appraisal, Ranma, Firefly, Returner and Wild Last Boss.**
