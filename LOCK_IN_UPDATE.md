@@ -91,6 +91,14 @@ Its tracked second PV increased from 694,845 to 832,122 views (+137,277); the au
 
 This is a medium-confidence starter, not an untouchable selection. Firefly or Ranma can replace it later if their actual total FAL contribution is better. Its current snapshot predates the announced premiere, so pre-airing status counts are not evidence of failed conversion.
 
+## Why each bench title is selected
+
+### Firefly Wedding — Hotaru no Yomeiri
+
+37,305 MAL members, +796 (largest increase among the still-unreleased titles), 19,714 AniList popularity, source-manga reception 78/100, and poll #6 / 3.3%. It is the strongest new-adaptation inclusion in the eight.
+
+Crunchyroll's October 9 premiere misses Week 1, so bench placement is scheduling, not a lower season-long conviction. It is the first bench title to evaluate for promotion after release. A successful source and trailer campaign still do not guarantee adaptation quality.
+
 ### A Wild Last Boss Appeared! S2 — Yasei no Last Boss ga Arawareta! 2nd Season
 
 This remains in the eight as an upside option, but the post-premiere evidence does not by itself establish a season-long advantage:
@@ -104,14 +112,6 @@ This remains in the eight as an upside option, but the post-premiere evidence do
 Yesterday's snapshot was only about 16 minutes after the scheduled advance premiere. Today's contains about a day of adoption. This changes the information available; it does not mean the show suddenly became five times better than unreleased rivals.
 
 The 7.60 score can fall and earns no score bonus in Week 1. The 6,047 Watching + Completed users correspond to about 3,024 points at the ordinary Week 1 rate if unchanged at the cutoff. That is a real first-week advantage, but a single early audience snapshot is small relative to 13 weeks of ratings, retention, favorites, discussions and future audience growth. I put it on the bench and start Ranma: Ranma has a larger MAL base (26,786 vs 23,400), a stronger prior-anime AniList score (77 vs 74), and confirmed worldwide access. Both should be released before the Week 1 cutoff. Compare actual post-release data after Wild Last Boss's second episode and the other titles' premieres; promote it only if its continued viewing and reception justify one of the four swaps.
-
-## Why each bench title is selected
-
-### Firefly Wedding — Hotaru no Yomeiri
-
-37,305 MAL members, +796 (largest increase among the still-unreleased titles), 19,714 AniList popularity, source-manga reception 78/100, and poll #6 / 3.3%. It is the strongest new-adaptation inclusion in the eight.
-
-Crunchyroll's October 9 premiere misses Week 1, so bench placement is scheduling, not a lower season-long conviction. It is the first bench title to evaluate for promotion after release. A successful source and trailer campaign still do not guarantee adaptation quality.
 
 ### Ranma ½ S3 — Ranma ½ (2024) 3rd Season
 
