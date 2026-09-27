@@ -2,6 +2,10 @@
 
 **This is the current recommendation and supersedes every earlier roster in this repository.**
 
+### Correction to the September 27 first-edition reasoning
+
+The prior version treated Wild Last Boss's post-premiere jump as if it established a season-long advantage over anime that had not yet premiered. That comparison was not like-for-like, and the conclusion was too strong. A 6,047 Watching + Completed count and a 7.60 score after one episode are useful early evidence, but do not show how the other titles will convert when they air or how Wild Last Boss will retain viewers. The update below keeps it in the eight as an upside option, but puts Ranma in the initial active five because its larger pre-season MAL base, favorable prior-anime reception and confirmed worldwide access are more robust over a 13-week season. Reassess Wild Last Boss after comparable post-release data; do not treat its first observed surge as proof of a better season-long pick.
+
 Evidence cutoff: September 27, 2026, approximately 14:43–14:48 UTC / 21:43–21:48 Bangkok. Registration closes September 27 at 22:00 UTC / September 28 at 05:00 Bangkok, according to the supplied rules. No team has been submitted by the assistant.
 
 ## Submit these eight
@@ -167,10 +171,10 @@ Illustrative marginal effects, assuming a title is active at all relevant cutoff
 These are sensitivities, not title forecasts. The live rules page could not be opened; calculations use the user's supplied rules. Its Week 13 wording has not been reconciled against an official worked example, so no exact 13-week projections are asserted. The existing scoring.py also has a global replacement-mode interpretation of the even-week bonus; this report explicitly uses the additive audience reading and does not rely on that alternative as the baseline.
 
 The consequences for this roster:
-1. **Start the five specified above.** They all have scheduled releases before Week 1, October 4 at 22:00 UTC.
+1. **Start Sword, Blue Box, Ramparts, Appraisal and Ranma.** They all have scheduled releases before Week 1, October 4 at 22:00 UTC.
 2. **Do not choose an Ace from preseason total members.** Before the Week 1 cutoff, use actual/forthcoming Watching + Completed and the 60,000 eligibility threshold. Sword and Wild Last Boss warrant attention; neither is declared a guaranteed winner now. One Ace per title, one per week; successful +75,000, failure/ineligibility -5,000.
 3. **Review Firefly after October 9.** It is the first likely challenger for an active slot. Compare total expected upcoming points against all five, especially Appraisal and Wild Last Boss. Do not precommit to removing either.
-4. **Use Ranma for better actual rating/retention contribution if it materializes.** The first score checkpoint is Week 3, October 18. Returner enters only if its audience advantage compensates for its weaker reception outlook.
+4. **Reassess Wild Last Boss after its second episode and at the first score checkpoint, October 18.** Compare its updated Watching + Completed, score and dropped count against Ranma and the other active titles. Promote it only if its projected upcoming points justify a swap. Returner enters only if its audience advantage compensates for its weaker reception outlook.
 5. **Protect the four-swap budget.** Only one regular swap per week. One-way sustained upgrades are preferable to repeatedly rotating for small one-week gains.
 6. **Do not bench a completed anime automatically.** Completed users still contribute to the recurring audience total.
 7. **Week 10 wildcard:** Booster gives +10,000. An extra swap costs 5,000, so it needs more than 15,000 additional title points to beat Booster. Bombers reduce our own points and are only relevant to a specific rank situation.
