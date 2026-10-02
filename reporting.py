@@ -144,7 +144,8 @@ def build_report(state, external=None, generated_at=None):
     for anime in state["roster"]:
         records = [r for r in state["snapshots"] if r["mal_id"] == anime["mal_id"]]
         observed = latest(records, "mal_official")
-        favorites = latest(records, "jikan_detail")
+        favorite_records = [r for r in records if r["source"] == "jikan_detail" and timestamp(r)]
+        favorites = max(favorite_records, key=timestamp) if favorite_records else None
         if favorites and ("stale_cache_metadata" in favorites.get("quality_flags", [])
                           or (generated-stamp(favorites["retrieved_at"])).total_seconds() > 48*3600):
             favorites = None
@@ -196,7 +197,7 @@ def build_report(state, external=None, generated_at=None):
              "| Title | Restricted | MAL members | PTW | Members/day | %/day | Pace change | Days | Snapshot UTC |",
              "|---|---|---:|---:|---:|---:|---:|---:|---|"]
     for r in rows:
-        lines.append("| "+ " | ".join([f"[{safe_title(r['title'])}](https://myanimelist.net/anime/{r['mal_id']})",
+        lines.append("| "+ " | ".join([linked_title(r, english),
                      "Yes" if r["restricted"] else "No", fmt(r["members"]), fmt(r["plan_to_watch"]),
                      fmt(r["members_per_day"],1),fmt(r["percent_per_day"],2),fmt(r["pace_change"],1),
                      str(r["observed_days"]),r["observed_at"] or "Missing"])+" |")
@@ -239,7 +240,7 @@ def build_report(state, external=None, generated_at=None):
               "| Title | Popularity | Favorites | Popularity/day | Snapshot UTC |",
               "|---|---:|---:|---:|---|"]
     for r in rows:
-        lines.append("| "+" | ".join([safe_title(r["title"]),fmt(r["anilist_popularity"]),fmt(r["anilist_favorites"]),
+        lines.append("| "+" | ".join([linked_title(r, english),fmt(r["anilist_popularity"]),fmt(r["anilist_favorites"]),
             fmt(r["anilist_per_day"],1),r["anilist_observed_at"] or "Missing"])+" |")
     lines += ["", "## Schedule checks", ""]
     for r in rows:
