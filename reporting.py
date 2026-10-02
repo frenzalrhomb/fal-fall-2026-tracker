@@ -3,6 +3,8 @@ import csv
 import datetime as dt
 import json
 import statistics
+from pathlib import Path
+from fal_points import cutoff, current_week, weekly_rows, rates, timestamp
 
 UTC = dt.timezone.utc
 
@@ -74,10 +76,70 @@ def safe_title(value):
     return value.replace("|", r"\|").replace("\n", " ")
 
 
+def english_labels():
+    path = Path(__file__).resolve().parent / "english_titles.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
+def linked_title(anime, english):
+    mid = anime["mal_id"]
+    return (f"[{safe_title(anime['title'])}](https://myanimelist.net/anime/{mid}/_/stats)"
+            f"<br>English: {safe_title(english.get(str(mid), anime['title']))}")
+
+
+def points_table(state, week, moment, english, archived=False):
+    weight = rates(week)
+    lines = [
+        f"### Week {week} — cutoff {cutoff(week).strftime('%d %B %Y %H:%M UTC')}",
+        "",
+        ("Archived observation near the cutoff; **not an official locked FAL result**. "
+         "The displayed per-title observations can precede or follow the cutoff."
+         if archived else
+         "Current hypothetical score **if these observed values held at the cutoff**. "
+         "This is a nowcast, not a growth forecast or an official result."),
+        "",
+        (f"Rates: Watching + Completed × {weight['audience']}; "
+         f"discussions × {weight['discussions'] or 'inactive'}; "
+         f"MAL score {('× '+fmt(weight['score'])) if weight['score'] else 'inactive'} on (score − 6); "
+         f"dropped × {weight['dropped'] or 'inactive'}; "
+         f"MAL favorites × {weight['favorites'] or 'inactive'}."),
+        "",
+        "Known subtotal excludes missing inputs, Ace and wildcard. "
+        "An absent score, discussion count or favorite count is **unknown**, not zero. "
+        "Discussion points are not collected yet.",
+        "",
+        "| Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Missing | MAL snapshot UTC |",
+        "|---|---:|---:|---:|---:|---:|---:|---:|---|---|"
+    ]
+    for row in weekly_rows(state, week, moment, archived=archived):
+        m, p, anime = row["metrics"], row["points"], row["anime"]
+        def component(value, pts):
+            return f"{fmt(value)} → {fmt(pts)}" if pts is not None else "— (unknown)"
+        wc = m.get("watching", 0)+m.get("completed", 0) if all(m.get(k) is not None for k in ("watching", "completed")) else None
+        status = row["official"].get("airing_status") if row["official"] else None
+        audience_label = "pre-air: 0" if status == "not_yet_aired" else component(wc, p["audience"])
+        score_label = component(m.get("score"), p["score"]) if weight["score"] else "—"
+        drop_label = component(m.get("dropped"), p["dropped"]) if weight["dropped"] else "—"
+        fav_label = component(m.get("favorites"), p["favorites"]) if weight["favorites"] else "—"
+        discussion_label = "— (unknown)" if weight["discussions"] else "—"
+        observed = row["official"].get("observed_at") if row["official"] else None
+        if archived and observed:
+            minutes = int((timestamp(row["official"])-cutoff(week)).total_seconds()//60)
+            observed += f" ({minutes:+d} min)"
+        lines.append("| "+" | ".join([
+            linked_title(anime, english),
+            f"{fmt(m.get('watching'))} / {fmt(m.get('completed'))}",
+            audience_label, score_label, drop_label, fav_label, discussion_label,
+            fmt(p["known_subtotal"]), ", ".join(p["missing"]) or "none", observed or "Missing"
+        ])+" |")
+    return lines + [""]
+
+
 def build_report(state, external=None, generated_at=None):
     external = external or {"snapshots": [], "runs": []}
     generated_at = generated_at or dt.datetime.now(UTC).isoformat()
     generated = stamp(generated_at)
+    english = english_labels()
     rows = []
     for anime in state["roster"]:
         records = [r for r in state["snapshots"] if r["mal_id"] == anime["mal_id"]]
@@ -116,7 +178,8 @@ def build_report(state, external=None, generated_at=None):
              f"| MAL audience older than 36 hours | {sum(r['age_hours'] is not None and r['age_hours'] > 36 for r in rows)} titles |",
              f"| Available MAL scores | {sum(r['score'] is not None for r in rows)}/{len(rows)} titles |",
              f"| AniList snapshot | {sum(r['anilist_observed_at'] is not None for r in rows)}/{len(rows)} titles |",
-             "| MAL favorites and unique episode-thread participants | Not collected yet |",
+             "| MAL favorites | Jikan cached MAL favorites when available; see current-week table for per-title coverage |",
+             "| Unique episode-thread participants | Not collected; discussion points remain unknown |",
              "| Reddit / YouTube / X / Google Trends | See external_report.md for actual access and evidence; not assumed available |", "",
              "A dash means missing or insufficient history; zero means an observed zero.",
              "Growth uses only one source, one observation per UTC day and a recent ~3-day regression; at least 18 hours of span is required.",
@@ -132,12 +195,39 @@ def build_report(state, external=None, generated_at=None):
                      fmt(r["members_per_day"],1),fmt(r["percent_per_day"],2),fmt(r["pace_change"],1),
                      str(r["observed_days"]),r["observed_at"] or "Missing"])+" |")
     lines += ["", "## FAL inputs and schedule", "",
-              "| Title | Watching | Completed | W+C | Dropped | Score | Scorers | Status | Premiere |",
+              "Every title below links directly to its MAL Stats page. English labels are official where known, otherwise readable renderings; verify ambiguous translations on MAL.", "",
+              "| Title (MAL Stats) | Watching | Completed | W+C | Dropped | Score | Scorers | Status | Premiere |",
               "|---|---:|---:|---:|---:|---:|---:|---|---|"]
     for r in rows:
-        lines.append("| "+" | ".join([safe_title(r["title"]),fmt(r["watching"]),fmt(r["completed"]),
+        lines.append("| "+" | ".join([linked_title(r, english),fmt(r["watching"]),fmt(r["completed"]),
             fmt(r["watching_completed"]),fmt(r["dropped"]),fmt(r["score"],2),fmt(r["scored_by"]),
             r["airing_status"] or "Missing",r["premiere"]])+" |")
+    week = current_week(generated)
+    lines += ["", "## Daily FAL points tracker", "",
+              "For each title, these are hypothetical individual points if that title were active; bench titles do not score while benched. "
+              "The week ends at 22:00 UTC on the listed Sunday. A daily observation is held constant to show today's nowcast; "
+              "it does not predict changes before cutoff. The rules count the anime's MAL mean score, not its number of scorers.", "",
+              "### All 13 cutoffs and scoring weights", "",
+              "| Week | Sunday cutoff (UTC) | W+C | Discussions | Score − 6 | Dropped | Favorites |",
+              "|---:|---|---:|---:|---:|---:|---:|"]
+    for n in range(1,14):
+        w = rates(n)
+        lines.append("| "+" | ".join([str(n), cutoff(n).strftime("%Y-%m-%d 22:00"),
+            str(w["audience"]), str(w["discussions"]) if w["discussions"] else "—",
+            fmt(w["score"]) if w["score"] else "—",
+            str(w["dropped"]) if w["dropped"] else "—",
+            str(w["favorites"]) if w["favorites"] else "—"])+" |")
+    lines += [""]
+    lines += points_table(state, week, generated, english)
+    if generated >= cutoff(1):
+        last_closed = min(13, week-1 if generated <= cutoff(13) else 13)
+        lines += ["## Completed-week observation checkpoints", "",
+                  "Each past week uses the earliest MAL observation within 24 hours after its cutoff, "
+                  "or the latest within 24 hours before it if no post-cutoff observation exists. "
+                  "The observation time and minute offset appear per title. Counts are not exact 22:00 UTC values; "
+                  "unknown components mean the known subtotal is not an official final score.", ""]
+        for past in range(1, last_closed+1):
+            lines += points_table(state, past, generated, english, archived=True)
     lines += ["", "## Independent audience: AniList", "",
               "AniList popularity and favorites are separate features, never MAL points or MAL favorites.", "",
               "| Title | Popularity | Favorites | Popularity/day | Snapshot UTC |",
