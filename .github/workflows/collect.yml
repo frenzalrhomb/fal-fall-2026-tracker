@@ -13,6 +13,7 @@ on:
     - cron: "30 14 27 9 *"
     - cron: "17 9 * 10-12 *"
     - cron: "17 20 * 10-12 0"
+    - cron: "5 22 * 10-12 0"
 
 permissions:
   contents: write
@@ -24,7 +25,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - name: Check collection window
         id: window
@@ -60,6 +61,12 @@ jobs:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
         run: python tracker.py collect --source mal
 
+      - name: Collect MAL favorites via Jikan
+        id: favorites
+        if: always() && steps.tests.outcome == 'success'
+        continue-on-error: true
+        run: python tracker.py collect --source jikan_favorites
+
       - name: Collect independent signals
         id: external
         if: always() && steps.tests.outcome == 'success'
@@ -89,9 +96,11 @@ jobs:
         if: always() && steps.tests.outcome == 'success'
         env:
           MAL_OUTCOME: ${{ steps.mal.outcome }}
+          FAVORITES_OUTCOME: ${{ steps.favorites.outcome }}
           EXTERNAL_OUTCOME: ${{ steps.external.outcome }}
         run: |
           echo "MAL collection: $MAL_OUTCOME" >> "$GITHUB_STEP_SUMMARY"
+          echo "MAL favorites via Jikan: $FAVORITES_OUTCOME (cached; unknown when unavailable)" >> "$GITHUB_STEP_SUMMARY"
           echo "Independent collection: $EXTERNAL_OUTCOME (see external_report.md for source coverage)" >> "$GITHUB_STEP_SUMMARY"
           if [[ "$EXTERNAL_OUTCOME" != "success" ]]; then
             echo "::warning::One or more independent sources is unavailable or incomplete. See external_report.md."
