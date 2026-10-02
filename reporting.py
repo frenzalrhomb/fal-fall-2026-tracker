@@ -177,7 +177,7 @@ def build_report(state, external=None, generated_at=None):
     rows.sort(key=lambda r: (r["members"] is None, -(r["members"] or 0), r["title"]))
     lines = ["# FAL Fall 2026 — live evidence report", "", f"Generated: {generated_at}", "",
              "This is an evidence report, not a forecast or recommended team.",
-             "Registration closes September 27 at 22:00 UTC. Only two restricted titles may be selected.", "",
+             "Registration closed September 27 at 22:00 UTC. Only two restricted titles could be selected.", "",
              "## Source coverage", "",
              "| Source / field | Coverage |",
              "|---|---|",
