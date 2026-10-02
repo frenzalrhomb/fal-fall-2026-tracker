@@ -4,7 +4,7 @@ This project collects evidence for Fantasy Anime League roster decisions. It is 
 
 ## Open the results
 
-- [Live audience and momentum report](tracking_report.md): all 69 titles, latest MAL counts, status breakdown, score availability, freshness, momentum and independent-platform coverage.
+- [Live FAL points and audience report](tracking_report.md): all 69 titles, direct MAL Stats links, English labels, current-week per-title hypothetical points and completed-week observation checkpoints.
 - [External-source report](external_report.md): actual collection status and evidence candidates; blocked and unconfigured sources stay visible.
 - [Feature table](tracking_features.csv): latest fields and growth measurements for analysis.
 - [Raw MAL history](tracking_state.json) and [raw independent history](external_state.json): timestamped, append-only observations.
@@ -18,7 +18,7 @@ Research update (September 15): the full report uses September 14 audience obser
 ## Running automatically
 
 GitHub Actions runs daily September 15–27 at 09:17 UTC and September 27 at 14:30 UTC.
-It then runs daily October–December 27 at 09:17 UTC, with Sunday checkpoints at 20:17 UTC.
+It then runs daily October–December 27 at 09:17 UTC, with Sunday checkpoints at 20:17 UTC and 22:05 UTC. GitHub Actions scheduling and collection are not exact to the FAL 22:00 UTC deadline.
 All automatic execution stops after December 27, 2026. The user does not need to run it manually.
 
 Code changes on main also trigger tests and collection. An Actions green result means core MAL collection succeeded, not that every optional platform is available; check the external-source report.
@@ -38,7 +38,7 @@ Reddit: bounded sample of the latest 100 r/anime posts from the past seven days.
 
 YouTube: optional official Data API collector for AniList-linked and registry-listed trailer IDs. Captures views, likes, total comments, channel/title/language metadata, inferred publisher market, region restrictions, and bounded relevant/recent comment-language samples. Only aggregate sample counts are retained. Add verified regional mirrors to `youtube_registry.json`; no key means not configured, not zero views.
 
-X, Google Trends, MAL favorites and unique MAL episode-thread users remain unimplemented. Do not infer coverage from this roadmap.
+MAL favorites: Jikan's cached MAL title detail, retrieved for all 69 titles on each run where available. This is a separate, rate-limited source; missing or stale counts remain unknown. AniList favorites are not substituted. X, Google Trends and unique MAL episode-thread users remain unimplemented.
 
 Access denials pause the affected independent source until its access setup is deliberately revised. No credential or access-control workaround is attempted.
 
@@ -49,6 +49,7 @@ Recent momentum uses a roughly three-day window. Pace change compares disjoint r
 Sources are never added together. AniList favorites are not MAL favorites. Pre-airing Watching counts are not FAL audience points.
 Current franchise statistics are priors as of retrieval, not reconstructed historic preseason data.
 Scores remain missing when unpublished. Zero drop counts are retained as genuine observations.
+The daily points table uses today's MAL values held constant to the relevant Sunday cutoff. It is a nowcast, not a growth forecast. Audience contributes 0.5 per Watching + Completed user in odd weeks, 0.75 in weeks 2, 4, 6, 8, 10 and 12; score, dropped and favorites use their specified week-specific weights, including the replacement Week 13 weights. Discussion points remain unknown when applicable, and the displayed known subtotal excludes unknown inputs and all team actions. Past weeks use a recorded checkpoint near the cutoff with a displayed minute offset; these estimates are not official locked FAL scores.
 
 ## Development
 
@@ -59,6 +60,6 @@ Python 3.10+, standard library only.
     python external_collect.py
     python tracker.py report
 
-scoring.py provides rule arithmetic only and requires an explicit bonus interpretation.
+scoring.py provides rule arithmetic with `bonus_mode="fal_2026"`; earlier generic bonus modes remain available for comparison.
 No forecast accuracy or winning-team claim has been established.
 
