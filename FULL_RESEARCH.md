@@ -29,6 +29,199 @@ Dates in the summary table are current MAL metadata and are deliberately not ove
 
 Priority labels allocate research attention. Neither their order nor the table is a trained points ranking. There is no defensible final eight or win probability yet.
 
+## Watch-date calendar — all 69 titles
+
+Use this as a daily reminder to check each MAL entry's [Stats page](https://myanimelist.net/anime/1/_/stats). Dates are the earliest release dates currently listed or specifically verified in the research, generally the Japan-local premiere date; they do not guarantee same-day availability in every country or on every streaming service. Where no English release title is established, the line gives a readable English rendering. The source roster and dates can change; compare with current official schedules when timing matters.
+
+### 5 September 2026
+
+- **Ghost Meets Gal!** — [MAL Stats](https://myanimelist.net/anime/64718/_/stats)  
+  English: Ghost Meets Gal!
+
+### 26 September 2026
+
+- **Yasei no Last Boss ga Arawareta! 2nd Season** — [MAL Stats](https://myanimelist.net/anime/63140/_/stats)  
+  English: A Wild Last Boss Appeared! Season 2
+
+### 27 September 2026
+
+- **Tempal: Item no Chikara** — [MAL Stats](https://myanimelist.net/anime/64340/_/stats)  
+  English: Overgeared
+- **Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season** — [MAL Stats](https://myanimelist.net/anime/60601/_/stats)  
+  English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+
+### 1 October 2026
+
+- **Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.** — [MAL Stats](https://myanimelist.net/anime/63409/_/stats)  
+  English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion!
+- **FX Senshi Kurumi-chan** — [MAL Stats](https://myanimelist.net/anime/63337/_/stats)  
+  English: FX Fighter Kurumi-chan
+- **Gensou Suikoden** — [MAL Stats](https://myanimelist.net/anime/61140/_/stats)  
+  English: Suikoden
+- **Kyoufu Collector** — [MAL Stats](https://myanimelist.net/anime/63053/_/stats)  
+  English: Horror Collector
+- **Pan Dorobou** — [MAL Stats](https://myanimelist.net/anime/62039/_/stats)  
+  English: The Bread Thief
+- **Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen** — [MAL Stats](https://myanimelist.net/anime/62534/_/stats)  
+  English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match
+- **Shiotaiou no Satou-san ga Ore ni dake Amai** — [MAL Stats](https://myanimelist.net/anime/63754/_/stats)  
+  English: The Ice-Cold Satou-san Only Acts Sweet to Me
+- **Tensei shitara Ken deshita II** · restricted — [MAL Stats](https://myanimelist.net/anime/53913/_/stats)  
+  English: Reincarnated as a Sword II
+- **Tougen Anki: Nikko Kegon no Taki-hen** — [MAL Stats](https://myanimelist.net/anime/63181/_/stats)  
+  English: Tougen Anki: Nikko Kegon Falls Arc
+
+### 2 October 2026
+
+- **Kizu darake Seijo yori Houfuku wo Komete Season 2** — [MAL Stats](https://myanimelist.net/anime/64180/_/stats)  
+  English: With Vengeance, Sincerely, Your Broken Saintess Season 2
+- **Koori no Jouheki 2nd Season** — [MAL Stats](https://myanimelist.net/anime/64534/_/stats)  
+  English: The Ramparts of Ice Season 2
+
+### 3 October 2026
+
+- **#Zombie Sagashitemasu** — [MAL Stats](https://myanimelist.net/anime/62524/_/stats)  
+  English: #I'm Looking for Zombie
+- **Keroro Gunsou☆** — [MAL Stats](https://myanimelist.net/anime/63157/_/stats)  
+  English: Keroro Gunsou☆
+- **Marronnier Oukoku no Shichinin no Kishi** — [MAL Stats](https://myanimelist.net/anime/64326/_/stats)  
+  English: The Seven Knights of the Marronnier Kingdom
+- **Nezumi-kun no Chokki (TV) 2nd Season** — [MAL Stats](https://myanimelist.net/anime/64789/_/stats)  
+  English: Nezumi-kun and Chokki Season 2
+- **Shirotan** — [MAL Stats](https://myanimelist.net/anime/63901/_/stats)  
+  English: Shirotan
+- **Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu** — [MAL Stats](https://myanimelist.net/anime/61153/_/stats)  
+  English: A Tale of the Secret Saint
+- **Tokyo Revengers: Santen Sensou-hen** · restricted — [MAL Stats](https://myanimelist.net/anime/59088/_/stats)  
+  English: Tokyo Revengers: War of the Three Titans Arc
+- **Vertex Force** — [MAL Stats](https://myanimelist.net/anime/63764/_/stats)  
+  English: Vertex Force
+
+### 4 October 2026
+
+- **Ao Ashi Season 2** · restricted — [MAL Stats](https://myanimelist.net/anime/61603/_/stats)  
+  English: Aoashi Season 2
+- **Ao no Hako Season 2** · restricted — [MAL Stats](https://myanimelist.net/anime/61323/_/stats)  
+  English: Blue Box Season 2
+- **Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa** — [MAL Stats](https://myanimelist.net/anime/64298/_/stats)  
+  English: The Lonely Snow Widow and the Cursed Ring
+- **Hotel Inhumans 2nd Season** — [MAL Stats](https://myanimelist.net/anime/62590/_/stats)  
+  English: Hotel Inhumans Season 2
+- **Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu** — [MAL Stats](https://myanimelist.net/anime/62922/_/stats)  
+  English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment'
+- **Magical★Explorer** — [MAL Stats](https://myanimelist.net/anime/56733/_/stats)  
+  English: Magical★Explorer
+- **Mahou no Shimai Lulutto Lilly Part 2** — [MAL Stats](https://myanimelist.net/anime/63667/_/stats)  
+  English: Magical Sisters Lulutto Lilly Part 2
+- **Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai** — [MAL Stats](https://myanimelist.net/anime/60948/_/stats)  
+  English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+- **Ojisan wa Kawaii Mono ga Osuki.** — [MAL Stats](https://myanimelist.net/anime/62907/_/stats)  
+  English: Uncle Is Into Cute Things
+- **Punirunes: Puni 4** — [MAL Stats](https://myanimelist.net/anime/63823/_/stats)  
+  English: Punirunes Puni 4
+- **Ranma ½ (2024) 3rd Season** — [MAL Stats](https://myanimelist.net/anime/63801/_/stats)  
+  English: Ranma ½ (2024) Season 3
+- **Seitokai ni mo Ana wa Aru!** — [MAL Stats](https://myanimelist.net/anime/61578/_/stats)  
+  English: There Is Also a Hole in the Student Organization!
+- **Tank Chair** — [MAL Stats](https://myanimelist.net/anime/63751/_/stats)  
+  English: Tank Chair
+- **Tanuki to Kitsune (TV)** — [MAL Stats](https://myanimelist.net/anime/64028/_/stats)  
+  English: Tanuki and Fox
+- **Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta** — [MAL Stats](https://myanimelist.net/anime/62753/_/stats)  
+  English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé
+- **Yuruyuru Zukan** — [MAL Stats](https://myanimelist.net/anime/64430/_/stats)  
+  English: Yuruyuru Picture Book
+
+### 5 October 2026
+
+- **Dark Summoner to Dekiteiru** — [MAL Stats](https://myanimelist.net/anime/63509/_/stats)  
+  English: I'm Dating a Dark Summoner!
+- **Kanata kara** — [MAL Stats](https://myanimelist.net/anime/63753/_/stats)  
+  English: From Far Away
+- **Kanojo no Tomodachi** — [MAL Stats](https://myanimelist.net/anime/64131/_/stats)  
+  English: My Girlfriend's Friend
+- **Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu** — [MAL Stats](https://myanimelist.net/anime/63381/_/stats)  
+  English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls
+- **Psyren** — [MAL Stats](https://myanimelist.net/anime/63098/_/stats)  
+  English: Psyren
+- **Romelia Senki** — [MAL Stats](https://myanimelist.net/anime/59787/_/stats)  
+  English: Romelia War Chronicle
+- **Tensei Goblin dakedo Shitsumon Aru?** — [MAL Stats](https://myanimelist.net/anime/63712/_/stats)  
+  English: Reincarnated as a Goblin, What Should I Do?
+- **Yuusanchi! from Yuu-hachi** — [MAL Stats](https://myanimelist.net/anime/64717/_/stats)  
+  English: Yuusanchi! from Yuu-hachi
+
+### 6 October 2026
+
+- **Battle Spirits [Re]: Zekkai no Kuu** — [MAL Stats](https://myanimelist.net/anime/63818/_/stats)  
+  English: Battle Spirits [Re]: Zekkai no Kuu
+- **Choujun! Choujou-senpai** — [MAL Stats](https://myanimelist.net/anime/62696/_/stats)  
+  English: Super Psychic Policeman Chojo!
+- **Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku** — [MAL Stats](https://myanimelist.net/anime/63382/_/stats)  
+  English: Nia Liston: The Merciless Maiden
+- **Mahou Shoujo Ikusei Keikaku: Restart** — [MAL Stats](https://myanimelist.net/anime/54344/_/stats)  
+  English: Magical Girl Raising Project: Restart
+
+### 7 October 2026
+
+- **Kikansha no Mahou wa Tokubetsu desu 2nd Season** — [MAL Stats](https://myanimelist.net/anime/57612/_/stats)  
+  English: A Returner's Magic Should Be Special Season 2
+- **Magic Knight Rayearth (2026)** — [MAL Stats](https://myanimelist.net/anime/59204/_/stats)  
+  English: Magic Knight Rayearth (2026)
+- **Sasaki to Pii-chan Season 2** — [MAL Stats](https://myanimelist.net/anime/58518/_/stats)  
+  English: Sasaki and Peeps Season 2
+- **Sekai Saikyou no Majo, Hajimemashita** — [MAL Stats](https://myanimelist.net/anime/64084/_/stats)  
+  English: The World's Strongest Witch Begins
+- **Tantei wa Mou, Shindeiru. Season 2** — [MAL Stats](https://myanimelist.net/anime/52480/_/stats)  
+  English: The Detective Is Already Dead Season 2
+
+### 8 October 2026
+
+- **Juuou Mujin Dandivine** — [MAL Stats](https://myanimelist.net/anime/64344/_/stats)  
+  English: Juuou Mujin Dandivine
+
+### 9 October 2026
+
+- **Hotaru no Yomeiri** — [MAL Stats](https://myanimelist.net/anime/63293/_/stats)  
+  English: Firefly Wedding
+- **Hyouken no Majutsushi ga Sekai wo Suberu II** — [MAL Stats](https://myanimelist.net/anime/64254/_/stats)  
+  English: The Iceblade Sorcerer Shall Rule the World II
+- **Tetsuryou! Meet with Tetsudou Musume** — [MAL Stats](https://myanimelist.net/anime/62615/_/stats)  
+  English: Tetsuryou! Meet the Railway Girl
+- **Toaru Anbu no Item** — [MAL Stats](https://myanimelist.net/anime/61014/_/stats)  
+  English: A Certain Dark Side's Item
+
+### 10 October 2026
+
+- **Shuiro no Kamen** — [MAL Stats](https://myanimelist.net/anime/61999/_/stats)  
+  English: The Vermilion Mask
+
+### 11 October 2026
+
+- **Diamond no Ace: Act II Second Season Part 2** — [MAL Stats](https://myanimelist.net/anime/64505/_/stats)  
+  English: Ace of Diamond Act II Second Season Part 2
+- **Dragon Ball Super: Beerus** — [MAL Stats](https://myanimelist.net/anime/63367/_/stats)  
+  English: Dragon Ball Super: Beerus
+- **Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku** — [MAL Stats](https://myanimelist.net/anime/63292/_/stats)  
+  English: Isekai Strategy with the Goddess of Zero Believers
+- **Yozakura-san Chi no Daisakusen 2nd Season Part 2** — [MAL Stats](https://myanimelist.net/anime/64503/_/stats)  
+  English: Mission: Yozakura Family Season 2 Part 2
+
+### 13 October 2026
+
+- **Chitose-kun wa Ramune Bin no Naka Part 2** — [MAL Stats](https://myanimelist.net/anime/62484/_/stats)  
+  English: Chitose Is in the Ramune Bottle Part 2
+
+### 14 October 2026
+
+- **Dark Machine: The Animation** — [MAL Stats](https://myanimelist.net/anime/59415/_/stats)  
+  English: Dark Machine: The Animation
+
+### 7 November 2026
+
+- **Cardfight!! Vanguard: Divinez Unmei Seisen-hen** — [MAL Stats](https://myanimelist.net/anime/63938/_/stats)  
+  English: Cardfight!! Vanguard Divinez: Fate Holy War Arc
+
 ## Full roster at a glance
 
 Order follows the supplied roster. “Primary detail” still allows explicitly unresolved fields. “Search lead” and “Discovery” require further checks before their schedule details enter the model.
