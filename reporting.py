@@ -144,6 +144,10 @@ def build_report(state, external=None, generated_at=None):
     for anime in state["roster"]:
         records = [r for r in state["snapshots"] if r["mal_id"] == anime["mal_id"]]
         observed = latest(records, "mal_official")
+        favorites = latest(records, "jikan_detail")
+        if favorites and ("stale_cache_metadata" in favorites.get("quality_flags", [])
+                          or (generated-stamp(favorites["retrieved_at"])).total_seconds() > 48*3600):
+            favorites = None
         m = observed["metrics"] if observed else {}
         baseline = next((r["metrics"].get("members") for r in records if r["source"] == "user_saved_fal_html"), None)
         growth = momentum(records)
@@ -155,6 +159,8 @@ def build_report(state, external=None, generated_at=None):
                    uploaded_members=baseline, members=m.get("members"),
                    plan_to_watch=m.get("plan_to_watch"), watching=m.get("watching"),
                    completed=m.get("completed"), watching_completed=wc, dropped=m.get("dropped"),
+                   mal_favorites=favorites["metrics"].get("favorites") if favorites else None,
+                   favorites_observed_at=favorites.get("observed_at") if favorites else None,
                    on_hold=m.get("on_hold"), score=m.get("score"), scored_by=m.get("scored_by"),
                    observed_at=observed["observed_at"] if observed else None,
                    age_hours=(generated-stamp(observed["observed_at"])).total_seconds()/3600 if observed else None,
@@ -178,7 +184,7 @@ def build_report(state, external=None, generated_at=None):
              f"| MAL audience older than 36 hours | {sum(r['age_hours'] is not None and r['age_hours'] > 36 for r in rows)} titles |",
              f"| Available MAL scores | {sum(r['score'] is not None for r in rows)}/{len(rows)} titles |",
              f"| AniList snapshot | {sum(r['anilist_observed_at'] is not None for r in rows)}/{len(rows)} titles |",
-             "| MAL favorites | Jikan cached MAL favorites when available; see current-week table for per-title coverage |",
+             f"| MAL favorites via Jikan cache | {sum(r['mal_favorites'] is not None for r in rows)}/{len(rows)} titles with recent retrieval; see per-title scoring table |",
              "| Unique episode-thread participants | Not collected; discussion points remain unknown |",
              "| Reddit / YouTube / X / Google Trends | See external_report.md for actual access and evidence; not assumed available |", "",
              "A dash means missing or insufficient history; zero means an observed zero.",
