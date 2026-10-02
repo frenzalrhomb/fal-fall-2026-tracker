@@ -140,11 +140,13 @@ def collect(state, source, limit=None):
     client_id = os.environ.get("MAL_CLIENT_ID")
     if source == "mal" and not client_id:
         raise ValueError("Set MAL_CLIENT_ID in the execution environment. Do not put secrets in the project.")
-    run = {"started_at": now(), "source": source, "expected": len(roster) * (1 if source == "mal" else 2), "attempted": 0, "successes": 0, "errors": [], "usable_new_records": 0}
+    run = {"started_at": now(), "source": source, "expected": len(roster) * (2 if source == "jikan" else 1), "attempted": 0, "successes": 0, "errors": [], "usable_new_records": 0}
     consecutive_errors = 0
     for anime in roster:
         mid = anime["mal_id"]
         endpoints = [("detail", f"https://api.jikan.moe/v4/anime/{mid}"), ("statistics", f"https://api.jikan.moe/v4/anime/{mid}/statistics")]
+        if source == "jikan_favorites":
+            endpoints = endpoints[:1]
         if source == "mal":
             fields = "id,title,start_date,end_date,mean,num_list_users,num_scoring_users,status,media_type,num_episodes,statistics,broadcast,source"
             endpoints = [("detail", f"https://api.myanimelist.net/v2/anime/{mid}?" + urllib.parse.urlencode({"fields": fields}))]
@@ -236,7 +238,7 @@ def main():
     imp = sub.add_parser("import-html")
     imp.add_argument("path"); imp.add_argument("--captured-at"); imp.add_argument("--captured-date")
     col = sub.add_parser("collect")
-    col.add_argument("--source", choices=("jikan", "mal"), default="jikan")
+    col.add_argument("--source", choices=("jikan", "jikan_favorites", "mal"), default="jikan")
     col.add_argument("--limit", type=int)
     sub.add_parser("report")
     args = p.parse_args()
