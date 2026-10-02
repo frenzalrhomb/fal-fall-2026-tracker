@@ -31,7 +31,7 @@ Priority labels allocate research attention. Neither their order nor the table i
 
 ## Watch-date calendar — all 69 titles
 
-Use this as a daily reminder to check each MAL entry's [Stats page](https://myanimelist.net/anime/1/_/stats). Dates are the earliest release dates currently listed or specifically verified in the research, generally the Japan-local premiere date; they do not guarantee same-day availability in every country or on every streaming service. Where no English release title is established, the line gives a readable English rendering. The source roster and dates can change; compare with current official schedules when timing matters.
+Use this as a daily reminder to check the linked MAL Stats pages. Dates are the earliest release dates currently listed or specifically verified in the research, generally the Japan-local premiere date; they do not guarantee same-day availability in every country or on every streaming service. Where no English release title is established, the line gives a readable English rendering. The source roster and dates can change; compare with current official schedules when timing matters.
 
 ### 5 September 2026
 
@@ -67,7 +67,7 @@ Use this as a daily reminder to check each MAL entry's [Stats page](https://myan
 - **Shiotaiou no Satou-san ga Ore ni dake Amai** — [MAL Stats](https://myanimelist.net/anime/63754/_/stats)  
   English: The Ice-Cold Satou-san Only Acts Sweet to Me
 - **Tensei shitara Ken deshita II** · restricted — [MAL Stats](https://myanimelist.net/anime/53913/_/stats)  
-  English: Reincarnated as a Sword II
+  English: Reincarnated as a Sword II (advance ABEMA Japan release; HIDIVE US Episode 1 was delayed at the latest check)
 - **Tougen Anki: Nikko Kegon no Taki-hen** — [MAL Stats](https://myanimelist.net/anime/63181/_/stats)  
   English: Tougen Anki: Nikko Kegon Falls Arc
 
