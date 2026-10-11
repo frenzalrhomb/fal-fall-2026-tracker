@@ -130,7 +130,9 @@ def points_table(state, week, moment, english, archived=False, discussion_state=
             discussion_label = component(m.get("episode_participants"), p["discussions"])
             if d and not d.get("usable"):
                 lower = window.get("participants", 0)
-                discussion_label = f"≥{fmt(lower)} → ≥{fmt(lower*weight['discussions'])} (partial; excluded)"
+                discussion_label = f"{fmt(lower)} found (partial; excluded)"
+            if d and window.get('unlinked_participants', 0):
+                discussion_label = f"{fmt(window.get('participants'))} found → {fmt(window.get('participants', 0)*weight['discussions'])} if all count (FAL link unconfirmed; excluded)"
         observed = row["official"].get("observed_at") if row["official"] else None
         if archived and observed:
             minutes = int((timestamp(row["official"])-cutoff(week)).total_seconds()//60)
@@ -152,9 +154,10 @@ def team_points_table(state, week, moment, english, discussion_state):
              "These estimates use separately timestamped observations, excluding Ace and wildcard. "
              "The 60,000 check uses Watching + Completed, not total members. "
              "A title must also be unused as an Ace and finish highest among the five active titles. "
-             "An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal.", "",
-             "| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | Missing | Below Ace threshold? |",
-             "|---|---|---:|---:|---:|---:|---|---|"]
+             "An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal. "
+             "The discussion scenario includes all counted posters, assuming FAL recognizes every discovered thread; it is not a prediction.", "",
+             "| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | If all counted discussions count | Missing | Below Ace threshold? |",
+             "|---|---|---:|---:|---:|---:|---:|---|---|"]
     config_path = Path(__file__).resolve().parent / 'team_config.json'
     config = json.loads(config_path.read_text()) if config_path.exists() else {'active': TEAM_IDS[:5], 'bench': TEAM_IDS[5:], 'ace_used': None}
     for position in ('active', 'bench'):
@@ -168,8 +171,11 @@ def team_points_table(state, week, moment, english, discussion_state):
             if config.get('ace_used') is not None and mid in config['ace_used']:
                 threshold += '; Ace already used'
             total = fmt(p['total'], 2) if p['total'] is not None else f"≥{fmt(p['known_subtotal'], 2)} (incomplete)" if all(p[k] is not None for k in ('score','dropped','favorites')) else f"{fmt(p['known_subtotal'], 2)} known only"
+            d = row['discussion']
+            counted = d.get('weeks', {}).get(str(week), {}).get('participants') if d else None
+            scenario = fmt(p['known_subtotal']-(p['discussions'] or 0)+counted*rates(week)['discussions'], 2) if counted is not None and d.get('usable') and all(p[k] is not None for k in ('audience','score','dropped','favorites')) else '—'
             lines.append('| '+' | '.join([position.title(), linked_title(row['anime'], english), fmt(wc), fmt(p['audience'], 2),
-                         fmt(p['discussions']), total, ', '.join(p['missing']) or 'none', threshold])+' |')
+                         fmt(p['discussions']), total, scenario, ', '.join(p['missing']) or 'none', threshold])+' |')
     if config.get('ace_used') is None:
         lines += ['', 'Ace-use history has not been recorded in this tracker; threshold eligibility alone does not establish that an Ace can be used.']
     return lines + ['']
@@ -183,6 +189,7 @@ def discussion_audit(state, week, moment, english, discussion_state):
              'Later even weeks use the previous two weeks; Week 13 uses one week. '
              'Discovery uses the anime forum independently of its Episodes list, with exact-title official forum search for your roster and missing lists. '
              '“Usable” means all discovered threads were paginated; it is not proof that MAL/FAL has registered every thread. '
+             'Forum-search-only threads have an unconfirmed anime/FAL association; their points are excluded from the main total and shown as a separate scenario. '
              'Cached discovery can miss a newly created Sunday thread. Recheck near cutoff and inspect links where coverage is uncertain.', '',
              '| Title | Coverage | Participants across threads | Observed UTC | Episode threads and counts | Gaps |',
              '|---|---|---:|---|---|---|']
@@ -190,7 +197,7 @@ def discussion_audit(state, week, moment, english, discussion_state):
     for anime in ordered:
         d = latest_discussion(discussion_state, anime['mal_id'], week, moment)
         w = d.get('weeks', {}).get(str(week), {}) if d else {}
-        links = '<br>'.join(f"[Ep {t['episode']}](https://myanimelist.net/forum/?topicid={t['topic_id']}): {fmt(t['participants'])}" + ('' if t['posts_complete'] else ' (partial)') for t in w.get('threads', []))
+        links = '<br>'.join(f"[Ep {t['episode']}](https://myanimelist.net/forum/?topicid={t['topic_id']}): {fmt(t['participants'])}" + ('' if t['posts_complete'] else ' (partial)') + ('' if t.get('anime_link_confirmed', True) else ' (anime/FAL link unconfirmed)') for t in w.get('threads', []))
         gaps = []
         if d:
             gaps += d.get('discovery_flags', [])
