@@ -1150,6 +1150,1164 @@
           "threads": []
         }
       }
+    },
+    {
+      "mal_id": 53913,
+      "observed_at": "2026-10-11T13:24:41.376485+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:24:41.376485+00:00",
+          "participants": 122,
+          "unlinked_participants": 122,
+          "threads": [
+            {
+              "topic_id": 2281908,
+              "title": "Tensei shitara Ken deshita II Episode 2 Discussion",
+              "episode": 2,
+              "participants": 45,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2276457,
+              "title": "Tensei shitara Ken deshita II Episode 1 Discussion",
+              "episode": 1,
+              "participants": 77,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61323,
+      "observed_at": "2026-10-11T13:24:57.660477+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:24:57.660477+00:00",
+          "participants": 137,
+          "unlinked_participants": 137,
+          "threads": [
+            {
+              "topic_id": 2282388,
+              "title": "Ao no Hako Season 2 Episode 2 Discussion",
+              "episode": 2,
+              "participants": 18,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281478,
+              "title": "Ao no Hako Season 2 Episode 1 Discussion",
+              "episode": 1,
+              "participants": 119,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 60601,
+      "observed_at": "2026-10-11T13:25:12.709376+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:25:12.709376+00:00",
+          "participants": 47,
+          "unlinked_participants": 47,
+          "threads": [
+            {
+              "topic_id": 2281530,
+              "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Episode 2 Discussion",
+              "episode": 2,
+              "participants": 18,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2280703,
+              "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Episode 1 Discussion",
+              "episode": 1,
+              "participants": 29,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 64534,
+      "observed_at": "2026-10-11T13:25:31.062202+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:25:31.062202+00:00",
+          "participants": 272,
+          "unlinked_participants": 272,
+          "threads": [
+            {
+              "topic_id": 2282019,
+              "title": "Koori no Jouheki 2nd Season Episode 2 Discussion",
+              "episode": 2,
+              "participants": 161,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281175,
+              "title": "Koori no Jouheki 2nd Season Episode 1 Discussion",
+              "episode": 1,
+              "participants": 111,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 63801,
+      "observed_at": "2026-10-11T13:25:46.275595+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:25:46.275595+00:00",
+          "participants": 94,
+          "unlinked_participants": 94,
+          "threads": [
+            {
+              "topic_id": 2282321,
+              "title": "Ranma ½ (2024) 3rd Season Episode 2 Discussion",
+              "episode": 2,
+              "participants": 38,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281406,
+              "title": "Ranma ½ (2024) 3rd Season Episode 1 Discussion",
+              "episode": 1,
+              "participants": 56,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 52480,
+      "observed_at": "2026-10-11T13:26:00.335222+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:26:00.335222+00:00",
+          "participants": 33,
+          "unlinked_participants": 33,
+          "threads": [
+            {
+              "topic_id": 2281886,
+              "title": "Tantei wa Mou, Shindeiru. Season 2 Episode 1 Discussion",
+              "episode": 1,
+              "participants": 33,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 57612,
+      "observed_at": "2026-10-11T13:26:14.458962+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:26:14.458962+00:00",
+          "participants": 44,
+          "unlinked_participants": 44,
+          "threads": [
+            {
+              "topic_id": 2281911,
+              "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season Episode 1 Discussion",
+              "episode": 1,
+              "participants": 44,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 63293,
+      "observed_at": "2026-10-11T13:26:28.571404+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:26:28.571404+00:00",
+          "participants": 87,
+          "unlinked_participants": 87,
+          "threads": [
+            {
+              "topic_id": 2282204,
+              "title": "Hotaru no Yomeiri Episode 1 Discussion",
+              "episode": 1,
+              "participants": 87,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 54344,
+      "observed_at": "2026-10-11T13:26:42.664915+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:26:42.664915+00:00",
+          "participants": 35,
+          "unlinked_participants": 35,
+          "threads": [
+            {
+              "topic_id": 2281684,
+              "title": "Mahou Shoujo Ikusei Keikaku: Restart Episode 1 Discussion",
+              "episode": 1,
+              "participants": 35,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 56733,
+      "observed_at": "2026-10-11T13:26:58.971967+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:26:58.971967+00:00",
+          "participants": 139,
+          "unlinked_participants": 139,
+          "threads": [
+            {
+              "topic_id": 2281407,
+              "title": "Magical★Explorer Episode 2 Discussion",
+              "episode": 2,
+              "participants": 65,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2282309,
+              "title": "Magical★Explorer Episode 3 Discussion",
+              "episode": 3,
+              "participants": 34,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2280541,
+              "title": "Magical★Explorer Episode 1 Discussion",
+              "episode": 1,
+              "participants": 40,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 58518,
+      "observed_at": "2026-10-11T13:27:13.059070+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:27:13.059070+00:00",
+          "participants": 57,
+          "unlinked_participants": 57,
+          "threads": [
+            {
+              "topic_id": 2281891,
+              "title": "Sasaki to Pii-chan Season 2 Episode 1 Discussion",
+              "episode": 1,
+              "participants": 57,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 59088,
+      "observed_at": "2026-10-11T13:27:28.268240+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:27:28.268240+00:00",
+          "participants": 79,
+          "unlinked_participants": 79,
+          "threads": [
+            {
+              "topic_id": 2282173,
+              "title": "Tokyo Revengers: Santen Sensou-hen Episode 2 Discussion",
+              "episode": 2,
+              "participants": 24,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281255,
+              "title": "Tokyo Revengers: Santen Sensou-hen Episode 1 Discussion",
+              "episode": 1,
+              "participants": 55,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 59204,
+      "observed_at": "2026-10-11T13:27:43.411219+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:27:43.411219+00:00",
+          "participants": 96,
+          "unlinked_participants": 96,
+          "threads": [
+            {
+              "topic_id": 2281819,
+              "title": "Magic Knight Rayearth (2026) Episode 1 Discussion",
+              "episode": 1,
+              "participants": 96,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 59415,
+      "observed_at": "2026-10-11T13:27:56.591009+00:00",
+      "usable": false,
+      "coverage": "incomplete_or_unconfirmed",
+      "discovery_flags": [
+        "no_episode_threads_found_not_proof_of_zero"
+      ],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:27:56.591009+00:00",
+          "participants": 0,
+          "unlinked_participants": 0,
+          "threads": []
+        }
+      }
+    },
+    {
+      "mal_id": 59787,
+      "observed_at": "2026-10-11T13:28:11.687859+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:28:11.687859+00:00",
+          "participants": 106,
+          "unlinked_participants": 106,
+          "threads": [
+            {
+              "topic_id": 2282293,
+              "title": "Romelia Senki Episode 2 Discussion",
+              "episode": 2,
+              "participants": 38,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281370,
+              "title": "Romelia Senki Episode 1 Discussion",
+              "episode": 1,
+              "participants": 68,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 60948,
+      "observed_at": "2026-10-11T13:28:26.767773+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:28:26.767773+00:00",
+          "participants": 78,
+          "unlinked_participants": 78,
+          "threads": [
+            {
+              "topic_id": 2281511,
+              "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Episode 1 Discussion",
+              "episode": 1,
+              "participants": 78,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2282410,
+              "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Episode 2 Discussion",
+              "episode": 2,
+              "participants": 0,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61014,
+      "observed_at": "2026-10-11T13:28:40.977375+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:28:40.977375+00:00",
+          "participants": 59,
+          "unlinked_participants": 59,
+          "threads": [
+            {
+              "topic_id": 2282194,
+              "title": "Toaru Anbu no Item Episode 1 Discussion",
+              "episode": 1,
+              "participants": 59,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61140,
+      "observed_at": "2026-10-11T13:28:55.027016+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:28:55.027016+00:00",
+          "participants": 41,
+          "unlinked_participants": 41,
+          "threads": [
+            {
+              "topic_id": 2281367,
+              "title": "Gensou Suikoden Episode 1 Discussion",
+              "episode": 1,
+              "participants": 41,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61153,
+      "observed_at": "2026-10-11T13:29:11.295276+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:29:11.295276+00:00",
+          "participants": 103,
+          "unlinked_participants": 103,
+          "threads": [
+            {
+              "topic_id": 2282297,
+              "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu Episode 3 Discussion",
+              "episode": 3,
+              "participants": 29,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281384,
+              "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu Episode 2 Discussion",
+              "episode": 2,
+              "participants": 38,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281377,
+              "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu Episode 1 Discussion",
+              "episode": 1,
+              "participants": 36,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61578,
+      "observed_at": "2026-10-11T13:29:33.820042+00:00",
+      "usable": false,
+      "coverage": "incomplete_or_unconfirmed",
+      "discovery_flags": [
+        "no_episode_threads_found_not_proof_of_zero"
+      ],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        },
+        {
+          "stage": "forum_search",
+          "error": "ValueError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:29:33.820042+00:00",
+          "participants": 0,
+          "unlinked_participants": 0,
+          "threads": []
+        }
+      }
+    },
+    {
+      "mal_id": 61603,
+      "observed_at": "2026-10-11T13:29:51.044609+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:29:51.044609+00:00",
+          "participants": 58,
+          "unlinked_participants": 58,
+          "threads": [
+            {
+              "topic_id": 2282396,
+              "title": "Ao Ashi Season 2 Episode 2 Discussion",
+              "episode": 2,
+              "participants": 9,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281482,
+              "title": "Ao Ashi Season 2 Episode 1 Discussion",
+              "episode": 1,
+              "participants": 49,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 61999,
+      "observed_at": "2026-10-11T13:30:05.105489+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:30:05.105489+00:00",
+          "participants": 32,
+          "unlinked_participants": 32,
+          "threads": [
+            {
+              "topic_id": 2274268,
+              "title": "Shuiro no Kamen Episode 1 Discussion",
+              "episode": 1,
+              "participants": 32,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62039,
+      "observed_at": "2026-10-11T13:30:19.222280+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:30:19.222280+00:00",
+          "participants": 7,
+          "unlinked_participants": 7,
+          "threads": [
+            {
+              "topic_id": 2281321,
+              "title": "Pan Dorobou Episode 1 Discussion",
+              "episode": 1,
+              "participants": 7,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62484,
+      "observed_at": "2026-10-11T13:30:32.312465+00:00",
+      "usable": false,
+      "coverage": "incomplete_or_unconfirmed",
+      "discovery_flags": [
+        "no_episode_threads_found_not_proof_of_zero"
+      ],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:30:32.312465+00:00",
+          "participants": 0,
+          "unlinked_participants": 0,
+          "threads": []
+        }
+      }
+    },
+    {
+      "mal_id": 62524,
+      "observed_at": "2026-10-11T13:30:47.456040+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:30:47.456040+00:00",
+          "participants": 92,
+          "unlinked_participants": 92,
+          "threads": [
+            {
+              "topic_id": 2282315,
+              "title": "#Zombie Sagashitemasu Episode 2 Discussion",
+              "episode": 2,
+              "participants": 24,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281399,
+              "title": "#Zombie Sagashitemasu Episode 1 Discussion",
+              "episode": 1,
+              "participants": 68,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62534,
+      "observed_at": "2026-10-11T13:31:02.606567+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:31:02.606567+00:00",
+          "participants": 7,
+          "unlinked_participants": 7,
+          "threads": [
+            {
+              "topic_id": 2281924,
+              "title": "Shin Tennis no Oujisama: U-17 World Cup - Kesshou Member Ketteisen Episode 2 Discussion",
+              "episode": 2,
+              "participants": 1,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            },
+            {
+              "topic_id": 2281067,
+              "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen Episode 1 Discussion",
+              "episode": 1,
+              "participants": 6,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62590,
+      "observed_at": "2026-10-11T13:31:16.727311+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:31:16.727311+00:00",
+          "participants": 13,
+          "unlinked_participants": 13,
+          "threads": [
+            {
+              "topic_id": 2281535,
+              "title": "Hotel Inhumans 2nd Season Episode 1 Discussion",
+              "episode": 1,
+              "participants": 13,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62615,
+      "observed_at": "2026-10-11T13:31:30.875241+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:31:30.875241+00:00",
+          "participants": 30,
+          "unlinked_participants": 30,
+          "threads": [
+            {
+              "topic_id": 2282023,
+              "title": "Tetsuryou! Meet with Tetsudou Musume Episode 1 Discussion",
+              "episode": 1,
+              "participants": 30,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62696,
+      "observed_at": "2026-10-11T13:31:45.162848+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:31:45.162848+00:00",
+          "participants": 41,
+          "unlinked_participants": 41,
+          "threads": [
+            {
+              "topic_id": 2281764,
+              "title": "Choujun! Choujou-senpai Episode 1 Discussion",
+              "episode": 1,
+              "participants": 41,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62753,
+      "observed_at": "2026-10-11T13:31:59.082993+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:31:59.082993+00:00",
+          "participants": 40,
+          "unlinked_participants": 40,
+          "threads": [
+            {
+              "topic_id": 2281526,
+              "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta Episode 1 Discussion",
+              "episode": 1,
+              "participants": 40,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62907,
+      "observed_at": "2026-10-11T13:32:13.205740+00:00",
+      "usable": true,
+      "coverage": "all_discovered_threads_paginated",
+      "discovery_flags": [],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:32:13.205740+00:00",
+          "participants": 42,
+          "unlinked_participants": 42,
+          "threads": [
+            {
+              "topic_id": 2281517,
+              "title": "Ojisan wa Kawaii Mono ga Osuki. Episode 1 Discussion",
+              "episode": 1,
+              "participants": 42,
+              "anime_link_confirmed": false,
+              "posts_complete": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "mal_id": 62922,
+      "observed_at": "2026-10-11T13:32:26.116765+00:00",
+      "usable": false,
+      "coverage": "incomplete_or_unconfirmed",
+      "discovery_flags": [
+        "no_episode_threads_found_not_proof_of_zero"
+      ],
+      "errors": [
+        {
+          "stage": "anime_forum_discovery",
+          "error": "URLError",
+          "http_status": null
+        },
+        {
+          "stage": "forum_search",
+          "error": "TimeoutError",
+          "http_status": null
+        }
+      ],
+      "thread_errors": [],
+      "weeks": {
+        "2": {
+          "window_start": null,
+          "window_end": "2026-10-11T13:32:26.116765+00:00",
+          "participants": 0,
+          "unlinked_participants": 0,
+          "threads": []
+        }
+      }
     }
   ],
   "topics": {
@@ -1325,6 +2483,12 @@
         "topic_id": 2281511,
         "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Episode 1 Discussion",
         "episode": 1,
+        "discovered_by": "exact_title_forum_search"
+      },
+      {
+        "topic_id": 2282410,
+        "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai Episode 2 Discussion",
+        "episode": 2,
         "discovered_by": "exact_title_forum_search"
       }
     ],
@@ -1542,6 +2706,82 @@
       ],
       "stopped_reason": "collection_budget_reached",
       "finished_at": "2026-10-11T12:51:40.645875+00:00"
+    },
+    {
+      "source": "mal_episode_discussions",
+      "started_at": "2026-10-11T13:24:25.792491+00:00",
+      "expected": 69,
+      "successes": 28,
+      "errors": [
+        {
+          "mal_id": 59415,
+          "discovery_errors": [
+            {
+              "stage": "anime_forum_discovery",
+              "error": "URLError",
+              "http_status": null
+            }
+          ],
+          "flags": [
+            "no_episode_threads_found_not_proof_of_zero"
+          ],
+          "thread_errors": []
+        },
+        {
+          "mal_id": 61578,
+          "discovery_errors": [
+            {
+              "stage": "anime_forum_discovery",
+              "error": "URLError",
+              "http_status": null
+            },
+            {
+              "stage": "forum_search",
+              "error": "ValueError",
+              "http_status": null
+            }
+          ],
+          "flags": [
+            "no_episode_threads_found_not_proof_of_zero"
+          ],
+          "thread_errors": []
+        },
+        {
+          "mal_id": 62484,
+          "discovery_errors": [
+            {
+              "stage": "anime_forum_discovery",
+              "error": "URLError",
+              "http_status": null
+            }
+          ],
+          "flags": [
+            "no_episode_threads_found_not_proof_of_zero"
+          ],
+          "thread_errors": []
+        },
+        {
+          "mal_id": 62922,
+          "discovery_errors": [
+            {
+              "stage": "anime_forum_discovery",
+              "error": "URLError",
+              "http_status": null
+            },
+            {
+              "stage": "forum_search",
+              "error": "TimeoutError",
+              "http_status": null
+            }
+          ],
+          "flags": [
+            "no_episode_threads_found_not_proof_of_zero"
+          ],
+          "thread_errors": []
+        }
+      ],
+      "stopped_reason": "collection_budget_reached",
+      "finished_at": "2026-10-11T13:32:26.119827+00:00"
     }
   ]
 }
