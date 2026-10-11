@@ -69,9 +69,11 @@ def week_counts(threads, week, moment):
                  if (start is None or stamp(p["created_at"]) > start) and stamp(p["created_at"]) <= end}
         per_thread.append({"topic_id": thread["topic_id"], "title": thread["title"],
                            "episode": thread["episode"], "participants": len(users),
+                           "anime_link_confirmed": thread.get("discovered_by") == "anime_forum_link",
                            "posts_complete": thread.get("complete", False)})
     return {"window_start": start.isoformat() if start else None,
             "window_end": end.isoformat(), "participants": sum(t["participants"] for t in per_thread),
+            "unlinked_participants": sum(t['participants'] for t in per_thread if not t['anime_link_confirmed']),
             "threads": per_thread}
 
 
@@ -196,8 +198,9 @@ def discover(client, anime, english, config, prior_topics):
                 ep = episode_number(topic.get("title", ""), aliases)
                 if ep is not None:
                     tid = int(topic["id"])
-                    topics[tid] = {"topic_id": tid, "title": topic["title"], "episode": ep,
-                                   "discovered_by": "exact_title_forum_search"}
+                    if tid not in topics or topics[tid].get('discovered_by') != 'anime_forum_link':
+                        topics[tid] = {"topic_id": tid, "title": topic["title"], "episode": ep,
+                                       "discovered_by": "exact_title_forum_search"}
         except (urllib.error.URLError, TimeoutError, ValueError, KeyError, TypeError) as error:
             errors.append({"stage": "forum_search", "error": type(error).__name__, "http_status": getattr(error, "code", None)})
     # Explicit mappings allow a missing/unlinked episode thread to be checked.
