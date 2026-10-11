@@ -108,10 +108,12 @@ def points_table(state, week, moment, english, archived=False, discussion_state=
         "Known subtotal excludes missing inputs, Ace and wildcard. "
         "An absent score, discussion count or favorite count is **unknown**, not zero. "
         "Discussion counts deduplicate posters within each episode thread, then sum across threads. "
-        "Partial counts are lower bounds and are excluded from the known subtotal. Poll votes are excluded.",
+        "Partial counts are excluded from the known subtotal. Poll votes are excluded. "
+        "The discussion-inclusive estimate uses complete counted threads even when their FAL association is unconfirmed; "
+        "it is a conditional estimate, not an official score. Missing/unconfirmed can describe attribution rather than absent counts.",
         "",
-        "| Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Missing | MAL snapshot UTC |",
-        "|---|---:|---:|---:|---:|---:|---:|---:|---|---|"
+        "| Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Discussion-inclusive estimate | Missing / unconfirmed | MAL snapshot UTC |",
+        "|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|"
     ]
     for row in weekly_rows(state, week, moment, archived=archived, discussion_state=discussion_state):
         m, p, anime = row["metrics"], row["points"], row["anime"]
@@ -124,6 +126,7 @@ def points_table(state, week, moment, english, archived=False, discussion_state=
         drop_label = component(m.get("dropped"), p["dropped"]) if weight["dropped"] else "—"
         fav_label = component(m.get("favorites"), p["favorites"]) if weight["favorites"] else "—"
         discussion_label = "—"
+        discussion_estimate = fmt(p['total'])
         if weight["discussions"]:
             d = row["discussion"]
             window = d.get("weeks", {}).get(str(week), {}) if d else {}
@@ -133,6 +136,8 @@ def points_table(state, week, moment, english, archived=False, discussion_state=
                 discussion_label = f"{fmt(lower)} found (partial; excluded)"
             if d and window.get('unlinked_participants', 0):
                 discussion_label = f"{fmt(window.get('participants'))} found → {fmt(window.get('participants', 0)*weight['discussions'])} if all count (FAL link unconfirmed; excluded)"
+            if d and d.get('usable') and window.get('participants') is not None and all(p[k] is not None for k in ('audience','score','dropped','favorites')):
+                discussion_estimate = fmt(p['known_subtotal']-(p['discussions'] or 0)+window['participants']*weight['discussions'], 2)
         observed = row["official"].get("observed_at") if row["official"] else None
         if archived and observed:
             minutes = int((timestamp(row["official"])-cutoff(week)).total_seconds()//60)
@@ -141,7 +146,7 @@ def points_table(state, week, moment, english, archived=False, discussion_state=
             linked_title(anime, english),
             f"{fmt(m.get('watching'))} / {fmt(m.get('completed'))}",
             audience_label, score_label, drop_label, fav_label, discussion_label,
-            fmt(p["known_subtotal"]), ", ".join(p["missing"]) or "none", observed or "Missing"
+            fmt(p["known_subtotal"]), discussion_estimate, ", ".join(p["missing"]) or "none", observed or "Missing"
         ])+" |")
     return lines + [""]
 
@@ -174,8 +179,11 @@ def team_points_table(state, week, moment, english, discussion_state):
             d = row['discussion']
             counted = d.get('weeks', {}).get(str(week), {}).get('participants') if d else None
             scenario = fmt(p['known_subtotal']-(p['discussions'] or 0)+counted*rates(week)['discussions'], 2) if counted is not None and d.get('usable') and all(p[k] is not None for k in ('audience','score','dropped','favorites')) else '—'
+            discussion_label = fmt(p['discussions'])
+            if p['discussions'] is None and counted is not None and d.get('usable'):
+                discussion_label = f"{fmt(counted)} posters → {fmt(counted*rates(week)['discussions'])} pts (association unconfirmed)"
             lines.append('| '+' | '.join([position.title(), linked_title(row['anime'], english), fmt(wc), fmt(p['audience'], 2),
-                         fmt(p['discussions']), total, scenario, ', '.join(p['missing']) or 'none', threshold])+' |')
+                         discussion_label, total, scenario, ', '.join(p['missing']) or 'none', threshold])+' |')
     if config.get('ace_used') is None:
         lines += ['', 'Ace-use history has not been recorded in this tracker; threshold eligibility alone does not establish that an Ace can be used.']
     return lines + ['']
