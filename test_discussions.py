@@ -2,7 +2,8 @@ import datetime as dt
 import unittest
 from unittest.mock import patch
 from discussions import (episode_number, minimal_post, week_counts, read_topic,
-                         discover, latest_discussion, paginated)
+                         discover, latest_discussion, paginated, Client)
+import urllib.error
 from fal_points import cutoff, score_row, weekly_rows
 from reporting import build_report
 
@@ -33,6 +34,17 @@ class FakeClient:
 
 
 class DiscussionTests(unittest.TestCase):
+    def test_unavailable_jikan_is_not_retried_for_every_title(self):
+        client = Client('test-only', interval=0)
+        with patch('discussions.urllib.request.urlopen', side_effect=urllib.error.URLError('DNS unavailable')) as request:
+            for mid in (1, 2, 3):
+                with self.assertRaises(urllib.error.URLError):
+                    client.get(f'https://api.jikan.moe/v4/anime/{mid}/forum?filter=episode')
+            self.assertEqual(request.call_count, 1)
+            with self.assertRaises(urllib.error.URLError):
+                client.get('https://api.myanimelist.net/v2/forum/topics?q=A')
+            self.assertEqual(request.call_count, 2)
+
     def test_per_thread_dedup_and_week2_all_posts(self):
         ts = [thread(1, 1, [post(1, 7, '2026-09-01T12:00:00Z'), post(2, 7, '2026-10-10T12:00:00Z')]),
               thread(2, 2, [post(3, 7, '2026-10-11T12:00:00Z'), post(4, 8, '2026-10-11T22:01:00Z')])]
@@ -136,6 +148,17 @@ class DiscussionTests(unittest.TestCase):
         t['discovered_by'] = 'anime_forum_link'
         d['weeks']['2'] = week_counts([t], 2, moment)
         self.assertEqual(score_row({'mal_id': 1}, {'metrics': {'watching': 100, 'completed': 0}, 'airing_status': 'currently_airing'}, None, 2, d)['points']['total'], 150)
+
+    def test_full_field_shows_conditional_estimate_for_non_roster_title(self):
+        moment = cutoff(2)-dt.timedelta(hours=1)
+        anime = {'mal_id': 1, 'title': 'Outside roster', 'restricted': False, 'premiere_date_jst': '2026-10-01'}
+        official = {'mal_id': 1, 'source': 'mal_official', 'observed_at': moment.isoformat(),
+                    'airing_status': 'currently_airing', 'metrics': {'watching': 100, 'completed': 0}}
+        d = {'mal_id': 1, 'observed_at': moment.isoformat(), 'usable': True,
+             'weeks': {'2': {'participants': 2, 'unlinked_participants': 2, 'threads': []}}}
+        report,_ = build_report({'roster': [anime], 'snapshots': [official]}, generated_at=moment.isoformat(), discussion_state={'snapshots': [d]})
+        self.assertIn('Discussion-inclusive estimate', report)
+        self.assertIn('| 75 | 225.00 | discussions |', report)
 
 
 if __name__ == '__main__':
