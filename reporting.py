@@ -5,6 +5,7 @@ import json
 import statistics
 from pathlib import Path
 from fal_points import cutoff, current_week, weekly_rows, rates, timestamp
+from discussions import latest_discussion, TEAM_IDS
 
 UTC = dt.timezone.utc
 
@@ -87,7 +88,7 @@ def linked_title(anime, english):
             f"<br>English: {safe_title(english.get(str(mid), anime['title']))}")
 
 
-def points_table(state, week, moment, english, archived=False):
+def points_table(state, week, moment, english, archived=False, discussion_state=None):
     weight = rates(week)
     lines = [
         f"### Week {week} — cutoff {cutoff(week).strftime('%d %B %Y %H:%M UTC')}",
@@ -106,12 +107,13 @@ def points_table(state, week, moment, english, archived=False):
         "",
         "Known subtotal excludes missing inputs, Ace and wildcard. "
         "An absent score, discussion count or favorite count is **unknown**, not zero. "
-        "Discussion points are not collected yet.",
+        "Discussion counts deduplicate posters within each episode thread, then sum across threads. "
+        "Partial counts are lower bounds and are excluded from the known subtotal. Poll votes are excluded.",
         "",
         "| Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Missing | MAL snapshot UTC |",
         "|---|---:|---:|---:|---:|---:|---:|---:|---|---|"
     ]
-    for row in weekly_rows(state, week, moment, archived=archived):
+    for row in weekly_rows(state, week, moment, archived=archived, discussion_state=discussion_state):
         m, p, anime = row["metrics"], row["points"], row["anime"]
         def component(value, pts):
             return f"{fmt(value)} → {fmt(pts)}" if pts is not None else "— (unknown)"
@@ -121,7 +123,14 @@ def points_table(state, week, moment, english, archived=False):
         score_label = component(m.get("score"), p["score"]) if weight["score"] else "—"
         drop_label = component(m.get("dropped"), p["dropped"]) if weight["dropped"] else "—"
         fav_label = component(m.get("favorites"), p["favorites"]) if weight["favorites"] else "—"
-        discussion_label = "— (unknown)" if weight["discussions"] else "—"
+        discussion_label = "—"
+        if weight["discussions"]:
+            d = row["discussion"]
+            window = d.get("weeks", {}).get(str(week), {}) if d else {}
+            discussion_label = component(m.get("episode_participants"), p["discussions"])
+            if d and not d.get("usable"):
+                lower = window.get("participants", 0)
+                discussion_label = f"≥{fmt(lower)} → ≥{fmt(lower*weight['discussions'])} (partial; excluded)"
         observed = row["official"].get("observed_at") if row["official"] else None
         if archived and observed:
             minutes = int((timestamp(row["official"])-cutoff(week)).total_seconds()//60)
@@ -135,11 +144,72 @@ def points_table(state, week, moment, english, archived=False):
     return lines + [""]
 
 
-def build_report(state, external=None, generated_at=None):
+def team_points_table(state, week, moment, english, discussion_state):
+    rows = weekly_rows(state, week, moment, discussion_state=discussion_state)
+    selected = {r['anime']['mal_id']: r for r in rows if r['anime']['mal_id'] in TEAM_IDS}
+    lines = ["### Your roster — weekly comparison", "",
+             "Roster positions are from your October 11 screenshot; update team_config.json after a swap or Ace attempt. "
+             "These estimates use separately timestamped observations, excluding Ace and wildcard. "
+             "The 60,000 check uses Watching + Completed, not total members. "
+             "A title must also be unused as an Ace and finish highest among the five active titles. "
+             "An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal.", "",
+             "| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | Missing | Below Ace threshold? |",
+             "|---|---|---:|---:|---:|---:|---|---|"]
+    config_path = Path(__file__).resolve().parent / 'team_config.json'
+    config = json.loads(config_path.read_text()) if config_path.exists() else {'active': TEAM_IDS[:5], 'bench': TEAM_IDS[5:], 'ace_used': None}
+    for position in ('active', 'bench'):
+        for mid in config[position]:
+            row = selected.get(mid)
+            if not row:
+                continue
+            m, p = row['metrics'], row['points']
+            wc = m['watching']+m['completed'] if all(m.get(k) is not None for k in ('watching', 'completed')) else None
+            threshold = 'Unknown' if wc is None else 'Yes' if wc <= 60000 else 'No'
+            if config.get('ace_used') is not None and mid in config['ace_used']:
+                threshold += '; Ace already used'
+            total = fmt(p['total'], 2) if p['total'] is not None else f"≥{fmt(p['known_subtotal'], 2)} (incomplete)" if all(p[k] is not None for k in ('score','dropped','favorites')) else f"{fmt(p['known_subtotal'], 2)} known only"
+            lines.append('| '+' | '.join([position.title(), linked_title(row['anime'], english), fmt(wc), fmt(p['audience'], 2),
+                         fmt(p['discussions']), total, ', '.join(p['missing']) or 'none', threshold])+' |')
+    if config.get('ace_used') is None:
+        lines += ['', 'Ace-use history has not been recorded in this tracker; threshold eligibility alone does not establish that an Ace can be used.']
+    return lines + ['']
+
+
+def discussion_audit(state, week, moment, english, discussion_state):
+    if not rates(week)['discussions']:
+        return []
+    lines = ['### Episode discussion audit', '',
+             'Counts are observed so far, not a forecast of posts still to come. Week 2 includes all posts up to the observation/cutoff. '
+             'Later even weeks use the previous two weeks; Week 13 uses one week. '
+             'Discovery uses the anime forum independently of its Episodes list, with exact-title official forum search for your roster and missing lists. '
+             '“Usable” means all discovered threads were paginated; it is not proof that MAL/FAL has registered every thread. '
+             'Cached discovery can miss a newly created Sunday thread. Recheck near cutoff and inspect links where coverage is uncertain.', '',
+             '| Title | Coverage | Participants across threads | Observed UTC | Episode threads and counts | Gaps |',
+             '|---|---|---:|---|---|---|']
+    ordered = sorted(state['roster'], key=lambda a:(a['mal_id'] not in TEAM_IDS, a['title']))
+    for anime in ordered:
+        d = latest_discussion(discussion_state, anime['mal_id'], week, moment)
+        w = d.get('weeks', {}).get(str(week), {}) if d else {}
+        links = '<br>'.join(f"[Ep {t['episode']}](https://myanimelist.net/forum/?topicid={t['topic_id']}): {fmt(t['participants'])}" + ('' if t['posts_complete'] else ' (partial)') for t in w.get('threads', []))
+        gaps = []
+        if d:
+            gaps += d.get('discovery_flags', [])
+            gaps += [f"{e['stage']}: {e['error']}" for e in d.get('errors', [])]
+            gaps += [f"topic {t['topic_id']}: incomplete posts" for t in d.get('thread_errors', [])]
+        lines.append('| '+' | '.join([linked_title(anime, english), 'Usable discovered threads' if d and d.get('usable') else 'Unknown / incomplete',
+                     fmt(w.get('participants')), d['observed_at'] if d else 'Not collected / stale', links or 'None discovered',
+                     '; '.join(gaps) if gaps else '—'])+' |')
+    return lines + ['']
+
+
+def build_report(state, external=None, generated_at=None, discussion_state=None):
     external = external or {"snapshots": [], "runs": []}
     generated_at = generated_at or dt.datetime.now(UTC).isoformat()
     generated = stamp(generated_at)
     english = english_labels()
+    discussion_state = discussion_state or {"snapshots": [], "runs": []}
+    active_week = current_week(generated)
+    discussion_coverage = sum(bool((d := latest_discussion(discussion_state, a['mal_id'], active_week, generated)) and d.get('usable')) for a in state['roster'])
     rows = []
     for anime in state["roster"]:
         records = [r for r in state["snapshots"] if r["mal_id"] == anime["mal_id"]]
@@ -186,7 +256,7 @@ def build_report(state, external=None, generated_at=None):
              f"| Available MAL scores | {sum(r['score'] is not None for r in rows)}/{len(rows)} titles |",
              f"| AniList snapshot | {sum(r['anilist_observed_at'] is not None for r in rows)}/{len(rows)} titles |",
              f"| MAL favorites via Jikan cache | {sum(r['mal_favorites'] is not None for r in rows)}/{len(rows)} titles with recent retrieval; see per-title scoring table |",
-             "| Unique episode-thread participants | Not collected; discussion points remain unknown |",
+             f"| Unique episode-thread participants | {discussion_coverage}/{len(rows)} titles with recent usable counts for Week {active_week}; see discussion audit below |",
              "| Reddit / YouTube / X / Google Trends | See external_report.md for actual access and evidence; not assumed available |", "",
              "A dash means missing or insufficient history; zero means an observed zero.",
              "Growth uses only one source, one observation per UTC day and a recent ~3-day regression; at least 18 hours of span is required.",
@@ -225,7 +295,9 @@ def build_report(state, external=None, generated_at=None):
             str(w["dropped"]) if w["dropped"] else "—",
             str(w["favorites"]) if w["favorites"] else "—"])+" |")
     lines += [""]
-    lines += points_table(state, week, generated, english)
+    lines += team_points_table(state, week, generated, english, discussion_state)
+    lines += points_table(state, week, generated, english, discussion_state=discussion_state)
+    lines += discussion_audit(state, week, generated, english, discussion_state)
     if generated >= cutoff(1):
         last_closed = min(13, week-1 if generated <= cutoff(13) else 13)
         lines += ["## Completed-week observation checkpoints", "",
@@ -234,7 +306,7 @@ def build_report(state, external=None, generated_at=None):
                   "The observation time and minute offset appear per title. Counts are not exact 22:00 UTC values; "
                   "unknown components mean the known subtotal is not an official final score.", ""]
         for past in range(1, last_closed+1):
-            lines += points_table(state, past, generated, english, archived=True)
+            lines += points_table(state, past, generated, english, archived=True, discussion_state=discussion_state)
     lines += ["", "## Independent audience: AniList", "",
               "AniList popularity and favorites are separate features, never MAL points or MAL favorites.", "",
               "| Title | Popularity | Favorites | Popularity/day | Snapshot UTC |",
@@ -250,7 +322,7 @@ def build_report(state, external=None, generated_at=None):
             lines.append(f"- {r['title']}: listed premiere {r['premiere']} is before registration closes; verify broadcast circumstances.")
     lines += ["", "## Collection health", "", "| Source | Started UTC | Successes | Expected | Errors | Stop reason |",
               "|---|---|---:|---:|---:|---|"]
-    for run in state.get("runs", [])[-10:] + external.get("runs", [])[-10:]:
+    for run in state.get("runs", [])[-10:] + external.get("runs", [])[-10:] + discussion_state.get("runs", [])[-5:]:
         lines.append("| "+" | ".join([run.get("source","?"),run["started_at"],str(run.get("successes",0)),
             str(run.get("expected","unknown")),str(len(run.get("errors",[]))),run.get("stopped_reason","—")])+" |")
     return "\n".join(lines)+"\n", rows
@@ -259,9 +331,12 @@ def build_report(state, external=None, generated_at=None):
 def write_reports(state, root):
     path = root / "external_state.json"
     external = json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
-    report, rows = build_report(state, external)
+    discussion_path = root / "discussion_state.json"
+    discussion_state = json.loads(discussion_path.read_text(encoding="utf-8")) if discussion_path.exists() else None
+    report, rows = build_report(state, external, discussion_state=discussion_state)
     (root / "tracking_report.md").write_text(report, encoding="utf-8")
     with (root / "tracking_features.csv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=list(rows[0]) if rows else ["mal_id"])
         writer.writeheader()
         writer.writerows(rows)
+
