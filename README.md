@@ -25,6 +25,12 @@ Unknown or partial discovery/pagination stays unknown in the scoring total;
 partial participant counts are shown separately as lower bounds. A usable count
 means all *discovered* threads were read, not an official FAL-certified count.
 Discovery may be cached and new Sunday threads can be absent until a later run.
+Threads found only through exact-title forum search can be real discussions but
+not linked to MAL's anime entry. Their FAL attribution is unconfirmed, so their
+points are excluded from the main total. The roster table separately shows the
+scenario if all counted discussions are recognized by FAL. This is especially
+relevant to Aristocrat's missing episode list; the tracker cannot establish MAL's
+internal FAL thread association from a forum search alone.
 The run has an eight-minute discussion budget; unattempted/stale titles stay unknown.
 
 `team_config.json` records the lineup shown on October 11. Update it after a swap.
