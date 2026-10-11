@@ -31,7 +31,11 @@ points are excluded from the main total. The roster table separately shows the
 scenario if all counted discussions are recognized by FAL. This is especially
 relevant to Aristocrat's missing episode list; the tracker cannot establish MAL's
 internal FAL thread association from a forum search alone.
-The run has an eight-minute discussion budget; unattempted/stale titles stay unknown.
+The run has a fifteen-minute discussion budget; unattempted/stale titles stay unknown.
+If Jikan discovery cannot connect, later titles use MAL forum search immediately
+instead of repeatedly waiting for the failed service. All 69 titles are attempted
+unless the budget is exhausted or MAL denies access. An absent thread remains
+unknown, not an observed zero.
 
 `team_config.json` records the lineup shown on October 11. Update it after a swap.
 `ace_used: null` means Ace history is unknown. Set it to a list of MAL IDs of titles
