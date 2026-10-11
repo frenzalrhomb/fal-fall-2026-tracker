@@ -125,6 +125,18 @@ class DiscussionTests(unittest.TestCase):
         b = {'mal_id': 1, 'observed_at': (cutoff(2)+dt.timedelta(minutes=15)).isoformat(), 'weeks': {'2': {}}}
         self.assertIs(latest_discussion({'snapshots': [a,b]}, 1, 2, cutoff(2)+dt.timedelta(hours=1), archived=True), b)
 
+    def test_unlinked_forum_search_does_not_become_confirmed_fal_points(self):
+        moment = cutoff(2)-dt.timedelta(hours=1)
+        t = thread(1, 1, [post(1, 1, moment.isoformat())])
+        w = week_counts([t], 2, moment)
+        self.assertEqual(w['unlinked_participants'], 1)
+        d = {'usable': True, 'weeks': {'2': w}}
+        r = score_row({'mal_id': 1}, {'metrics': {'watching': 100, 'completed': 0}, 'airing_status': 'currently_airing'}, None, 2, d)
+        self.assertIsNone(r['points']['total'])
+        t['discovered_by'] = 'anime_forum_link'
+        d['weeks']['2'] = week_counts([t], 2, moment)
+        self.assertEqual(score_row({'mal_id': 1}, {'metrics': {'watching': 100, 'completed': 0}, 'airing_status': 'currently_airing'}, None, 2, d)['points']['total'], 150)
+
 
 if __name__ == '__main__':
     unittest.main()
