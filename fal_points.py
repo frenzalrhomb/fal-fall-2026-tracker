@@ -56,7 +56,7 @@ def score_row(anime, official, favorite, week, discussion=None):
     metrics = dict(official.get("metrics", {})) if official else {}
     metrics["favorites"] = favorite["metrics"]["favorites"] if favorite else None
     window = discussion.get("weeks", {}).get(str(week), {}) if discussion else {}
-    metrics["episode_participants"] = window.get("participants") if discussion and discussion.get("usable") else None
+    metrics["episode_participants"] = window.get("participants") if discussion and discussion.get("usable") and not window.get('unlinked_participants', 0) else None
     # MAL labels the pre-air state explicitly; missing observations remain unknown.
     aired = official.get("airing_status") != "not_yet_aired" if official else True
     points = weekly_components(week, metrics, aired=aired, bonus_mode="fal_2026")
