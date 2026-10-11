@@ -8,6 +8,8 @@ on:
       - "*.py"
       - ".github/workflows/collect.yml"
       - "youtube_registry.json"
+      - "discussion_registry.json"
+      - "team_config.json"
   schedule:
     - cron: "17 9 15-27 9 *"
     - cron: "30 14 27 9 *"
@@ -75,6 +77,14 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python external_collect.py
 
+      - name: Collect unique episode discussion participants
+        id: discussions
+        if: always() && steps.tests.outcome == 'success'
+        continue-on-error: true
+        env:
+          MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
+        run: python discussions.py --budget-seconds 480
+
       - name: Rebuild reports
         if: always() && steps.tests.outcome == 'success'
         run: python tracker.py report
@@ -85,7 +95,7 @@ jobs:
         run: |
           git config user.name "FAL data collector"
           git config user.email "actions@users.noreply.github.com"
-          for file in tracking_state.json tracking_report.md tracking_features.csv external_state.json external_report.md; do
+          for file in tracking_state.json tracking_report.md tracking_features.csv external_state.json external_report.md discussion_state.json; do
             if [[ -f "$file" ]]; then git add -- "$file"; fi
           done
           if git diff --cached --quiet; then exit 0; fi
@@ -98,10 +108,15 @@ jobs:
           MAL_OUTCOME: ${{ steps.mal.outcome }}
           FAVORITES_OUTCOME: ${{ steps.favorites.outcome }}
           EXTERNAL_OUTCOME: ${{ steps.external.outcome }}
+          DISCUSSIONS_OUTCOME: ${{ steps.discussions.outcome }}
         run: |
           echo "MAL collection: $MAL_OUTCOME" >> "$GITHUB_STEP_SUMMARY"
           echo "MAL favorites via Jikan: $FAVORITES_OUTCOME (cached; unknown when unavailable)" >> "$GITHUB_STEP_SUMMARY"
           echo "Independent collection: $EXTERNAL_OUTCOME (see external_report.md for source coverage)" >> "$GITHUB_STEP_SUMMARY"
+          echo "Episode discussion collection: $DISCUSSIONS_OUTCOME (see discussion audit in tracking_report.md)" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$DISCUSSIONS_OUTCOME" != "success" ]]; then
+            echo "::warning::Discussion coverage is incomplete. Missing threads/posts remain unknown; partial counts are not zero."
+          fi
           if [[ "$EXTERNAL_OUTCOME" != "success" ]]; then
             echo "::warning::One or more independent sources is unavailable or incomplete. See external_report.md."
           fi
@@ -109,4 +124,5 @@ jobs:
             echo "::error::MAL collection incomplete. Successful rows and failure records were preserved."
             exit 1
           fi
+
 
