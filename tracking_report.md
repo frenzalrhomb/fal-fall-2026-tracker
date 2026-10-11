@@ -1,6 +1,8 @@
 # FAL Fall 2026 — live evidence report
 
-Generated: 2026-10-10T15:32:09.529092+00:00
+Layout and scoring tables rebuilt: 2026-10-11T12:30:26.260134+00:00
+
+Saved MAL and external observations remain from October 10. No new live collection was performed during this setup.
 
 This is an evidence report, not a forecast or recommended team.
 Registration closed September 27 at 22:00 UTC. Only two restricted titles could be selected.
@@ -14,7 +16,7 @@ Registration closed September 27 at 22:00 UTC. Only two restricted titles could 
 | Available MAL scores | 53/69 titles |
 | AniList snapshot | 66/69 titles |
 | MAL favorites via Jikan cache | 0/69 titles with recent retrieval; see per-title scoring table |
-| Unique episode-thread participants | Not collected; discussion points remain unknown |
+| Unique episode-thread participants | Collector configured; awaiting first live GitHub run. Missing counts remain unknown. |
 | Reddit / YouTube / X / Google Trends | See external_report.md for actual access and evidence; not assumed available |
 
 A dash means missing or insufficient history; zero means an observed zero.
@@ -195,13 +197,30 @@ For each title, these are hypothetical individual points if that title were acti
 | 12 | 2026-12-20 22:00 | 0.75 | 75 | — | — | 15 |
 | 13 | 2026-12-27 22:00 | 0.5 | 150 | 35,000 | -8 | 30 |
 
+### Your roster — weekly comparison
+
+Roster positions are from your October 11 screenshot; update team_config.json after a swap or Ace attempt. These estimates use separately timestamped observations, excluding Ace and wildcard. The 60,000 check uses Watching + Completed, not total members. A title must also be unused as an Ace and finish highest among the five active titles. An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal. The discussion scenario includes all counted posters, assuming FAL recognizes every discovered thread; it is not a prediction.
+
+| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | If all counted discussions count | Missing | Below Ace threshold? |
+|---|---|---:|---:|---:|---:|---:|---|---|
+| Active | [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 22,864 | 17,148.00 | — | ≥17,148.00 (incomplete) | — | discussions | Yes |
+| Active | [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 27,854 | 20,890.50 | — | ≥20,890.50 (incomplete) | — | discussions | Yes |
+| Active | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 17,477 | 13,107.75 | — | ≥13,107.75 (incomplete) | — | discussions | Yes |
+| Active | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 28,983 | 21,737.25 | — | ≥21,737.25 (incomplete) | — | discussions | Yes |
+| Active | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 14,288 | 10,716.00 | — | ≥10,716.00 (incomplete) | — | discussions | Yes |
+| Bench | [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 6,460 | 4,845.00 | — | ≥4,845.00 (incomplete) | — | discussions | Yes |
+| Bench | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 10,666 | 7,999.50 | — | ≥7,999.50 (incomplete) | — | discussions | Yes |
+| Bench | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 12,174 | 9,130.50 | — | ≥9,130.50 (incomplete) | — | discussions | Yes |
+
+Ace-use history has not been recorded in this tracker; threshold eligibility alone does not establish that an Ace can be used.
+
 ### Week 2 — cutoff 11 October 2026 22:00 UTC
 
 Current hypothetical score **if these observed values held at the cutoff**. This is a nowcast, not a growth forecast or an official result.
 
 Rates: Watching + Completed × 0.75; discussions × 75; MAL score inactive on (score − 6); dropped × inactive; MAL favorites × inactive.
 
-Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discussion count or favorite count is **unknown**, not zero. Discussion points are not collected yet.
+Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discussion count or favorite count is **unknown**, not zero. Discussion counts deduplicate posters within each episode thread, then sum across threads. Partial counts are lower bounds and are excluded from the known subtotal. Poll votes are excluded.
 
 | Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Missing | MAL snapshot UTC |
 |---|---:|---:|---:|---:|---:|---:|---:|---|---|
@@ -275,6 +294,82 @@ Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discu
 | [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | 20 / 0 | pre-air: 0 | — | — | — | — (unknown) | 0 | discussions | 2026-10-10T15:25:47.060669+00:00 |
 | [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | 17 / 0 | pre-air: 0 | — | — | — | — (unknown) | 0 | discussions | 2026-10-10T15:26:22.770288+00:00 |
 
+### Episode discussion audit
+
+Counts are observed so far, not a forecast of posts still to come. Week 2 includes all posts up to the observation/cutoff. Later even weeks use the previous two weeks; Week 13 uses one week. Discovery uses the anime forum independently of its Episodes list, with exact-title official forum search for your roster and missing lists. “Usable” means all discovered threads were paginated; it is not proof that MAL/FAL has registered every thread. Forum-search-only threads have an unconfirmed anime/FAL association; their points are excluded from the main total and shown as a separate scenario. Cached discovery can miss a newly created Sunday thread. Recheck near cutoff and inspect links where coverage is uncertain.
+
+| Title | Coverage | Participants across threads | Observed UTC | Episode threads and counts | Gaps |
+|---|---|---:|---|---|---|
+| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | Unknown / incomplete | — | Not collected / stale | None discovered | — |
+
 ## Completed-week observation checkpoints
 
 Each past week uses the earliest MAL observation within 24 hours after its cutoff, or the latest within 24 hours before it if no post-cutoff observation exists. The observation time and minute offset appear per title. Counts are not exact 22:00 UTC values; unknown components mean the known subtotal is not an official final score.
@@ -285,7 +380,7 @@ Archived observation near the cutoff; **not an official locked FAL result**. The
 
 Rates: Watching + Completed × 0.5; discussions × inactive; MAL score inactive on (score − 6); dropped × inactive; MAL favorites × inactive.
 
-Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discussion count or favorite count is **unknown**, not zero. Discussion points are not collected yet.
+Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discussion count or favorite count is **unknown**, not zero. Discussion counts deduplicate posters within each episode thread, then sum across threads. Partial counts are lower bounds and are excluded from the known subtotal. Poll votes are excluded.
 
 | Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Missing | MAL snapshot UTC |
 |---|---:|---:|---:|---:|---:|---:|---:|---|---|
@@ -465,3 +560,4 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | anilist | 2026-10-10T15:27:33.126167+00:00 | 66 | 69 | 3 | — |
 | reddit | 2026-10-10T15:30:18.417886+00:00 | 0 | 0 | 0 | paused_after_access_denial |
 | youtube | 2026-10-10T15:30:18.718610+00:00 | 90 | 90 | 0 | — |
+

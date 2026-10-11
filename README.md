@@ -1,5 +1,49 @@
 # FAL Fall 2026 tracker — version 0.2
 
+## Episode discussion collection and weekly roster comparison
+
+`Collect FAL data` now also runs `python discussions.py` using the existing
+`MAL_CLIENT_ID` Actions secret. No account password or new API key is needed.
+Open `tracking_report.md` → **Your roster — weekly comparison** and
+**Episode discussion audit**. A manual Actions run refreshes all sources.
+
+The collector tries all 69 eligible titles, prioritizing your eight roster titles.
+It discovers episode threads from each anime's forum (independent of the Episodes
+list), and uses official MAL forum search for your roster and missing lists.
+Aristocrat has an explicit search query and season-specific aliases in
+`discussion_registry.json`. Verified missing thread IDs can be added there.
+It reads every page of each discovered topic through MAL's forum API, counts
+distinct authors within each thread, and sums those counts across threads.
+Repeated posts in one thread count once; posting in two threads counts twice.
+Poll votes, reply totals and social-media comments do not count.
+
+Week 2 counts all qualifying posts up to the observation/cutoff. Later even weeks
+use a two-week window, and Week 13 a one-week window, with correct 75/150 weights.
+Post bodies are discarded; only aggregate counts, thread links, timing and access
+diagnostics persist in `discussion_state.json`. Observations are append-only.
+Unknown or partial discovery/pagination stays unknown in the scoring total;
+partial participant counts are shown separately as lower bounds. A usable count
+means all *discovered* threads were read, not an official FAL-certified count.
+Discovery may be cached and new Sunday threads can be absent until a later run.
+Threads found only through exact-title forum search can be real discussions but
+not linked to MAL's anime entry. Their FAL attribution is unconfirmed, so their
+points are excluded from the main total. The roster table separately shows the
+scenario if all counted discussions are recognized by FAL. This is especially
+relevant to Aristocrat's missing episode list; the tracker cannot establish MAL's
+internal FAL thread association from a forum search alone.
+The run has an eight-minute discussion budget; unattempted/stale titles stay unknown.
+
+`team_config.json` records the lineup shown on October 11. Update it after a swap.
+`ace_used: null` means Ace history is unknown. Set it to a list of MAL IDs of titles
+already attempted (or an empty list only if none have been attempted). The roster
+table shows the Watching + Completed threshold but does not recommend an Ace
+without complete weekly components and confirmed unused status.
+
+The existing daily and Sunday 20:17/22:05 UTC schedules apply. The pre-cutoff run
+provides a nowcast; the post-cutoff run provides an approximate checkpoint, not
+the official score. GitHub scheduled start times can be delayed. Near a cutoff,
+use **Actions → Collect FAL data → Run workflow** and check the per-source times.
+
 This project collects evidence for Fantasy Anime League roster decisions. It is not yet a trained prediction model and has not submitted a team.
 
 ## Open the results
@@ -62,4 +106,5 @@ Python 3.10+, standard library only.
 
 scoring.py provides rule arithmetic with `bonus_mode="fal_2026"`; earlier generic bonus modes remain available for comparison.
 No forecast accuracy or winning-team claim has been established.
+
 

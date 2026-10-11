@@ -1,6 +1,7 @@
 """Per-title FAL nowcast and observed cutoff checkpoints (UTC)."""
 import datetime as dt
 from scoring import weekly_components, EVEN, SCORE, DROPS, FAVORITES, DISCUSSION
+from discussions import latest_discussion
 
 UTC = dt.timezone.utc
 FIRST_CUTOFF = dt.datetime(2026, 10, 4, 22, tzinfo=UTC)
@@ -51,9 +52,11 @@ def favorite_observation(records, moment, max_hours=48):
     return max(candidates, key=timestamp) if candidates else None
 
 
-def score_row(anime, official, favorite, week):
+def score_row(anime, official, favorite, week, discussion=None):
     metrics = dict(official.get("metrics", {})) if official else {}
     metrics["favorites"] = favorite["metrics"]["favorites"] if favorite else None
+    window = discussion.get("weeks", {}).get(str(week), {}) if discussion else {}
+    metrics["episode_participants"] = window.get("participants") if discussion and discussion.get("usable") and not window.get('unlinked_participants', 0) else None
     # MAL labels the pre-air state explicitly; missing observations remain unknown.
     aired = official.get("airing_status") != "not_yet_aired" if official else True
     points = weekly_components(week, metrics, aired=aired, bonus_mode="fal_2026")
@@ -62,11 +65,11 @@ def score_row(anime, official, favorite, week):
         points["known_subtotal"] = sum(points[k] for k in ("audience","discussions","score","dropped","favorites") if points[k] is not None)
         points["total"] = None
         points["missing"] = [k for k in ("audience","discussions","score","dropped","favorites") if points[k] is None]
-    return {"anime": anime, "official": official, "favorite": favorite, "metrics": metrics,
+    return {"anime": anime, "official": official, "favorite": favorite, "discussion": discussion, "metrics": metrics,
             "aired": aired, "points": points}
 
 
-def weekly_rows(state, week, moment, archived=False):
+def weekly_rows(state, week, moment, archived=False, discussion_state=None):
     result = []
     by_id = {}
     for record in state.get("snapshots", []):
@@ -76,7 +79,8 @@ def weekly_rows(state, week, moment, archived=False):
         official = nearest_cutoff(records, cutoff(week)) if archived else latest_official(records, moment)
         # The Jikan count has its own cache timestamp and can be from another day.
         favorite = favorite_observation(records, timestamp(official)) if official else None
-        result.append(score_row(anime, official, favorite, week))
+        discussion = latest_discussion(discussion_state or {}, anime["mal_id"], week, moment, archived=archived) if week in DISCUSSION else None
+        result.append(score_row(anime, official, favorite, week, discussion))
     result.sort(key=lambda r: (-r["points"]["known_subtotal"], r["anime"]["title"]))
     return result
 
@@ -87,3 +91,4 @@ def rates(week):
             "score": 35000 if week == 13 else 17500 if week in SCORE else 0,
             "dropped": -8 if week == 13 else -4 if week in DROPS else 0,
             "favorites": 30 if week == 13 else 15 if week in FAVORITES else 0}
+
