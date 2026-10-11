@@ -199,18 +199,18 @@ For each title, these are hypothetical individual points if that title were acti
 
 ### Your roster — weekly comparison
 
-Roster positions are from your October 11 screenshot; update team_config.json after a swap or Ace attempt. These estimates use separately timestamped observations, excluding Ace and wildcard. The 60,000 check uses Watching + Completed, not total members. A title must also be unused as an Ace and finish highest among the five active titles. An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal.
+Roster positions are from your October 11 screenshot; update team_config.json after a swap or Ace attempt. These estimates use separately timestamped observations, excluding Ace and wildcard. The 60,000 check uses Watching + Completed, not total members. A title must also be unused as an Ace and finish highest among the five active titles. An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal. The discussion scenario includes all counted posters, assuming FAL recognizes every discovered thread; it is not a prediction.
 
-| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | Missing | Below Ace threshold? |
-|---|---|---:|---:|---:|---:|---|---|
-| Active | [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 22,864 | 17,148.00 | — | ≥17,148.00 (incomplete) | discussions | Yes |
-| Active | [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 27,854 | 20,890.50 | — | ≥20,890.50 (incomplete) | discussions | Yes |
-| Active | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 17,477 | 13,107.75 | — | ≥13,107.75 (incomplete) | discussions | Yes |
-| Active | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 28,983 | 21,737.25 | — | ≥21,737.25 (incomplete) | discussions | Yes |
-| Active | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 14,288 | 10,716.00 | — | ≥10,716.00 (incomplete) | discussions | Yes |
-| Bench | [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 6,460 | 4,845.00 | — | ≥4,845.00 (incomplete) | discussions | Yes |
-| Bench | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 10,666 | 7,999.50 | — | ≥7,999.50 (incomplete) | discussions | Yes |
-| Bench | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 12,174 | 9,130.50 | — | ≥9,130.50 (incomplete) | discussions | Yes |
+| Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | If all counted discussions count | Missing | Below Ace threshold? |
+|---|---|---:|---:|---:|---:|---:|---|---|
+| Active | [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 22,864 | 17,148.00 | — | ≥17,148.00 (incomplete) | — | discussions | Yes |
+| Active | [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 27,854 | 20,890.50 | — | ≥20,890.50 (incomplete) | — | discussions | Yes |
+| Active | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 17,477 | 13,107.75 | — | ≥13,107.75 (incomplete) | — | discussions | Yes |
+| Active | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 28,983 | 21,737.25 | — | ≥21,737.25 (incomplete) | — | discussions | Yes |
+| Active | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 14,288 | 10,716.00 | — | ≥10,716.00 (incomplete) | — | discussions | Yes |
+| Bench | [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 6,460 | 4,845.00 | — | ≥4,845.00 (incomplete) | — | discussions | Yes |
+| Bench | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 10,666 | 7,999.50 | — | ≥7,999.50 (incomplete) | — | discussions | Yes |
+| Bench | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 12,174 | 9,130.50 | — | ≥9,130.50 (incomplete) | — | discussions | Yes |
 
 Ace-use history has not been recorded in this tracker; threshold eligibility alone does not establish that an Ace can be used.
 
@@ -296,7 +296,7 @@ Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discu
 
 ### Episode discussion audit
 
-Counts are observed so far, not a forecast of posts still to come. Week 2 includes all posts up to the observation/cutoff. Later even weeks use the previous two weeks; Week 13 uses one week. Discovery uses the anime forum independently of its Episodes list, with exact-title official forum search for your roster and missing lists. “Usable” means all discovered threads were paginated; it is not proof that MAL/FAL has registered every thread. Cached discovery can miss a newly created Sunday thread. Recheck near cutoff and inspect links where coverage is uncertain.
+Counts are observed so far, not a forecast of posts still to come. Week 2 includes all posts up to the observation/cutoff. Later even weeks use the previous two weeks; Week 13 uses one week. Discovery uses the anime forum independently of its Episodes list, with exact-title official forum search for your roster and missing lists. “Usable” means all discovered threads were paginated; it is not proof that MAL/FAL has registered every thread. Forum-search-only threads have an unconfirmed anime/FAL association; their points are excluded from the main total and shown as a separate scenario. Cached discovery can miss a newly created Sunday thread. Recheck near cutoff and inspect links where coverage is uncertain.
 
 | Title | Coverage | Participants across threads | Observed UTC | Episode threads and counts | Gaps |
 |---|---|---:|---|---|---|
