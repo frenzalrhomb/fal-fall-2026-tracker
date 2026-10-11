@@ -78,11 +78,12 @@ def week_counts(threads, week, moment):
 
 
 class Client:
-    def __init__(self, client_id, interval=1.05, budget_seconds=480):
+    def __init__(self, client_id, interval=1.05, budget_seconds=900):
         self.client_id = client_id
         self.interval = interval
         self.deadline = time.monotonic() + budget_seconds
         self.last_call = 0
+        self.jikan_available = True
 
     def get(self, url):
         parsed = urllib.parse.urlparse(url)
@@ -90,6 +91,8 @@ class Client:
             raise ValueError("Untrusted pagination URL")
         if parsed.netloc == "api.myanimelist.net" and not parsed.path.startswith("/v2/forum/"):
             raise ValueError("Unexpected forum pagination path")
+        if parsed.netloc == 'api.jikan.moe' and not self.jikan_available:
+            raise urllib.error.URLError('Jikan discovery unavailable earlier in this run; use MAL forum search')
         for attempt in range(3):
             if time.monotonic() >= self.deadline:
                 raise TimeoutError("Discussion collection budget reached")
@@ -102,10 +105,16 @@ class Client:
                 with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=12) as response:
                     return json.load(response), dict(response.headers)
             except urllib.error.HTTPError as error:
+                if parsed.netloc == 'api.jikan.moe' and error.code in (401, 403):
+                    self.jikan_available = False
                 if error.code not in (429, 500, 502, 503, 504) or attempt == 2:
                     raise
                 retry = error.headers.get("Retry-After", "2")
                 time.sleep(min(8, float(retry) if retry.isdigit() else 2 * (attempt+1)))
+            except (urllib.error.URLError, TimeoutError):
+                if parsed.netloc == 'api.jikan.moe':
+                    self.jikan_available = False
+                raise
         raise RuntimeError("No response")
 
 
@@ -231,7 +240,7 @@ def save(state, path):
     temporary.replace(path)
 
 
-def collect(root=ROOT, *, limit=None, budget=480):
+def collect(root=ROOT, *, limit=None, budget=900):
     from fal_points import current_week
     client_id = os.environ.get("MAL_CLIENT_ID")
     if not client_id:
@@ -284,7 +293,8 @@ def collect(root=ROOT, *, limit=None, budget=480):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--limit", type=int)
-    parser.add_argument("--budget-seconds", type=int, default=480)
+    parser.add_argument("--budget-seconds", type=int, default=900)
     args = parser.parse_args()
     result = collect(limit=args.limit, budget=args.budget_seconds)
     raise SystemExit(0 if result["successes"] == result["expected"] else 1)
+
