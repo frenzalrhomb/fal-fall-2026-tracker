@@ -27,7 +27,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - name: Check collection window
         id: window
@@ -83,7 +83,7 @@ jobs:
         continue-on-error: true
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
-        run: python discussions.py --budget-seconds 480
+        run: python discussions.py --budget-seconds 900
 
       - name: Rebuild reports
         if: always() && steps.tests.outcome == 'success'
@@ -124,5 +124,6 @@ jobs:
             echo "::error::MAL collection incomplete. Successful rows and failure records were preserved."
             exit 1
           fi
+
 
 
