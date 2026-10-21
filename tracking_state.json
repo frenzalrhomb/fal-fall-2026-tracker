@@ -120217,6 +120217,72 @@
       "usable_new_records": 0,
       "stopped_reason": "consecutive_failures",
       "finished_at": "2026-10-20T14:23:13.811955+00:00"
+    },
+    {
+      "started_at": "2026-10-21T14:31:14.913914+00:00",
+      "source": "mal",
+      "expected": 69,
+      "attempted": 3,
+      "successes": 0,
+      "errors": [
+        {
+          "mal_id": 52480,
+          "endpoint": "detail",
+          "http_status": 503,
+          "error": "HTTPError",
+          "at": "2026-10-21T14:31:15.232635+00:00"
+        },
+        {
+          "mal_id": 53913,
+          "endpoint": "detail",
+          "http_status": 503,
+          "error": "HTTPError",
+          "at": "2026-10-21T14:31:16.476732+00:00"
+        },
+        {
+          "mal_id": 54344,
+          "endpoint": "detail",
+          "http_status": 503,
+          "error": "HTTPError",
+          "at": "2026-10-21T14:31:17.772866+00:00"
+        }
+      ],
+      "usable_new_records": 0,
+      "stopped_reason": "consecutive_failures",
+      "finished_at": "2026-10-21T14:31:17.772920+00:00"
+    },
+    {
+      "started_at": "2026-10-21T14:31:18.338756+00:00",
+      "source": "jikan_favorites",
+      "expected": 69,
+      "attempted": 3,
+      "successes": 0,
+      "errors": [
+        {
+          "mal_id": 52480,
+          "endpoint": "detail",
+          "http_status": null,
+          "error": "URLError",
+          "at": "2026-10-21T14:31:38.415600+00:00"
+        },
+        {
+          "mal_id": 53913,
+          "endpoint": "detail",
+          "http_status": null,
+          "error": "URLError",
+          "at": "2026-10-21T14:31:59.500308+00:00"
+        },
+        {
+          "mal_id": 54344,
+          "endpoint": "detail",
+          "http_status": null,
+          "error": "URLError",
+          "at": "2026-10-21T14:32:20.604574+00:00"
+        }
+      ],
+      "usable_new_records": 0,
+      "stopped_reason": "consecutive_failures",
+      "finished_at": "2026-10-21T14:32:20.604645+00:00"
     }
   ],
   "source_access_checks": [
