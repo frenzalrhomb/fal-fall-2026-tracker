@@ -337097,6 +337097,32 @@
       "successes": 90,
       "errors": [],
       "finished_at": "2026-10-27T15:28:42.029454+00:00"
+    },
+    {
+      "source": "anilist",
+      "started_at": "2026-10-28T16:09:34.873303+00:00",
+      "finished_at": "2026-10-28T16:09:34.873329+00:00",
+      "expected": 0,
+      "successes": 0,
+      "errors": [],
+      "stopped_reason": "paused_after_access_denial"
+    },
+    {
+      "source": "reddit",
+      "started_at": "2026-10-28T16:09:35.449361+00:00",
+      "finished_at": "2026-10-28T16:09:35.449391+00:00",
+      "expected": 0,
+      "successes": 0,
+      "errors": [],
+      "stopped_reason": "paused_after_access_denial"
+    },
+    {
+      "source": "youtube",
+      "started_at": "2026-10-28T16:09:35.960340+00:00",
+      "expected": 90,
+      "successes": 90,
+      "errors": [],
+      "finished_at": "2026-10-28T16:11:44.502535+00:00"
     }
   ],
   "paused": {
@@ -616332,6 +616358,5881 @@
       "view_count": 651451,
       "like_count": 24929,
       "comment_count": 1788,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 90,
+            "japanese": 0,
+            "other": 10,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 71,
+            "japanese": 0,
+            "other": 24,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "verified_registry"
+      ],
+      "verified_official": true,
+      "registry_notes": "Official Blue Box Season 2 teaser on the verified Netflix Anime channel.",
+      "identity_status": "verified registry entry"
+    },
+    {
+      "video_id": "kbtRqqa2GyA",
+      "mal_ids": [
+        53913
+      ],
+      "observed_at": "2026-10-28T16:09:36.584563+00:00",
+      "url": "https://www.youtube.com/watch?v=kbtRqqa2GyA",
+      "video_title": "TVアニメ「転生したら剣でしたII」PV第2弾｜ 2026年10月7日(水)放送開始",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-16T06:00:14Z",
+      "region_restriction": null,
+      "view_count": 673219,
+      "like_count": 5324,
+      "comment_count": 388,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 1,
+            "japanese": 99,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 11,
+            "japanese": 71,
+            "other": 15,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "hJ6Y8PAOUk8",
+      "mal_ids": [
+        61323
+      ],
+      "observed_at": "2026-10-28T16:09:38.082651+00:00",
+      "url": "https://www.youtube.com/watch?v=hJ6Y8PAOUk8",
+      "video_title": "TVアニメ『アオのハコ』Season2 メインPV│Blue Box Season 2 | Main Trailer (2026)",
+      "channel_id": "UCkVvAm5jb62IMIJQj4wPVGA",
+      "channel_title": "TMSアニメ公式チャンネル",
+      "publisher": "TMSアニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-26T03:00:17Z",
+      "region_restriction": {
+        "blocked": [
+          "BY",
+          "RU"
+        ]
+      },
+      "view_count": 1085342,
+      "like_count": 20357,
+      "comment_count": 768,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 4,
+            "japanese": 93,
+            "other": 2,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 28,
+            "japanese": 52,
+            "other": 17,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "Nm21TTXUkf4",
+      "mal_ids": [
+        59088
+      ],
+      "observed_at": "2026-10-28T16:09:39.741653+00:00",
+      "url": "https://www.youtube.com/watch?v=Nm21TTXUkf4",
+      "video_title": "TVアニメ『東京リベンジャーズ』“三天戦争編”第4弾PV | 2026年10月2日（金）放送開始！",
+      "channel_id": "UCnrudQZNXphuOk0QB8Yz6oQ",
+      "channel_title": "TVアニメ『東京リベンジャーズ』チャンネル",
+      "publisher": "TVアニメ『東京リベンジャーズ』チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-24T09:00:36Z",
+      "region_restriction": null,
+      "view_count": 2096756,
+      "like_count": 50138,
+      "comment_count": 2138,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 0,
+            "japanese": 100,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 5,
+            "japanese": 78,
+            "other": 10,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "phKPnPXm74c",
+      "mal_ids": [
+        61603
+      ],
+      "observed_at": "2026-10-28T16:09:41.384593+00:00",
+      "url": "https://www.youtube.com/watch?v=phKPnPXm74c",
+      "video_title": "TVアニメ『アオアシ Season2』ティザーPV ❘ NHK Eテレにて2026年10月4日(日)から放送開始予定！",
+      "channel_id": "UC-cXutYzvqARF5wNKx1KCNA",
+      "channel_title": "ShoProアニメチャンネル",
+      "publisher": "ShoProアニメチャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-03-12T03:00:53Z",
+      "region_restriction": null,
+      "view_count": 834714,
+      "like_count": 18610,
+      "comment_count": 1542,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 43,
+            "japanese": 54,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 50,
+            "japanese": 24,
+            "other": 22,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "8AnNxEp733c",
+      "mal_ids": [
+        52480
+      ],
+      "observed_at": "2026-10-28T16:09:42.807499+00:00",
+      "url": "https://www.youtube.com/watch?v=8AnNxEp733c",
+      "video_title": "TVアニメ『探偵はもう、死んでいる。Season2』第3弾PV | 2026.10.7 ONAIR",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T10:00:11Z",
+      "region_restriction": null,
+      "view_count": 280719,
+      "like_count": 4002,
+      "comment_count": 196,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 17,
+            "japanese": 72,
+            "other": 7,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 20,
+            "japanese": 58,
+            "other": 17,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "YBWOrQCB9r0",
+      "mal_ids": [
+        57612
+      ],
+      "observed_at": "2026-10-28T16:09:44.106471+00:00",
+      "url": "https://www.youtube.com/watch?v=YBWOrQCB9r0",
+      "video_title": "TVアニメ「帰還者の魔法は特別です」第二期 第1弾PV | 2026年10月より放送開始",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-21T09:00:29Z",
+      "region_restriction": null,
+      "view_count": 91546,
+      "like_count": 1286,
+      "comment_count": 54,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 45,
+          "unique_commenters": 45,
+          "language_counts": {
+            "english": 12,
+            "japanese": 23,
+            "other": 7,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 45,
+          "unique_commenters": 45,
+          "language_counts": {
+            "english": 12,
+            "japanese": 23,
+            "other": 7,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "8_Lxr7vO9l0",
+      "mal_ids": [
+        60601
+      ],
+      "observed_at": "2026-10-28T16:09:45.585847+00:00",
+      "url": "https://www.youtube.com/watch?v=8_Lxr7vO9l0",
+      "video_title": "『転生貴族、鑑定スキルで成り上がる 第3期』PV第2弾【2026年9月27日より放送開始！】",
+      "channel_id": "UCeagNi3-wLiok3MWPIHAScw",
+      "channel_title": "isekai channel @バンダイナムコフィルムワークス",
+      "publisher": "isekai channel @バンダイナムコフィルムワークス",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T03:00:05Z",
+      "region_restriction": null,
+      "view_count": 51780,
+      "like_count": 869,
+      "comment_count": 54,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 41,
+          "unique_commenters": 39,
+          "language_counts": {
+            "english": 16,
+            "japanese": 19,
+            "other": 2,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 44,
+          "unique_commenters": 41,
+          "language_counts": {
+            "english": 16,
+            "japanese": 21,
+            "other": 3,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "7OHlkGNvEAE",
+      "mal_ids": [
+        64534
+      ],
+      "observed_at": "2026-10-28T16:09:47.049556+00:00",
+      "url": "https://www.youtube.com/watch?v=7OHlkGNvEAE",
+      "video_title": "TVアニメ『氷の城壁』第2期決定PV｜26年10月1日から毎週木曜よる11時56分～TBS系28局にて全国同時放送",
+      "channel_id": "UCqmVOBOLzaLEOb6Tpb4zPYQ",
+      "channel_title": "TBSアニメ",
+      "publisher": "TBSアニメ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-03T20:45:30Z",
+      "region_restriction": null,
+      "view_count": 342079,
+      "like_count": null,
+      "comment_count": 214,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 5,
+            "japanese": 95,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 2,
+            "japanese": 85,
+            "other": 11,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "7GfOA15WDhQ",
+      "mal_ids": [
+        63293
+      ],
+      "observed_at": "2026-10-28T16:09:48.562749+00:00",
+      "url": "https://www.youtube.com/watch?v=7GfOA15WDhQ",
+      "video_title": "TVアニメ「ホタルの嫁入り」ティザーPV2",
+      "channel_id": "UCO8okJvgXmbmyJTkUMWvURg",
+      "channel_title": "【フジテレビ】アニメ公式チャンネル",
+      "publisher": "【フジテレビ】アニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "en",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-02T09:00:28Z",
+      "region_restriction": null,
+      "view_count": 1243373,
+      "like_count": 38924,
+      "comment_count": 728,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 20,
+            "japanese": 77,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 28,
+            "japanese": 47,
+            "other": 21,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "CFgEL7ei8VE",
+      "mal_ids": [
+        63367
+      ],
+      "observed_at": "2026-10-28T16:09:50.067935+00:00",
+      "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE",
+      "video_title": "Anime “Dragon Ball Super: Beerus” | Super Surge Trailer",
+      "channel_id": "UCLhgIX2L5ZCaWdlaxR_oTAg",
+      "channel_title": "東映アニメーション公式YouTubeチャンネル",
+      "publisher": "東映アニメーション公式YouTubeチャンネル",
+      "channel_market": "japanese",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-02T22:00:14Z",
+      "region_restriction": null,
+      "view_count": 6035400,
+      "like_count": 147319,
+      "comment_count": 10507,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 86,
+            "japanese": 1,
+            "other": 12,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 54,
+            "japanese": 3,
+            "other": 34,
+            "ambiguous": 9
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "dbe8esPSfYI",
+      "mal_ids": [
+        63801
+      ],
+      "observed_at": "2026-10-28T16:09:51.668349+00:00",
+      "url": "https://www.youtube.com/watch?v=dbe8esPSfYI",
+      "video_title": "TVアニメ「らんま1/2」第3期 第2弾PV ／ \"Ranma1/2\" Season3 Trailer 2",
+      "channel_id": "UCjfAEJZdfbIjVHdo5yODfyQ",
+      "channel_title": "MAPPA CHANNEL",
+      "publisher": "MAPPA CHANNEL",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-19T12:11:10Z",
+      "region_restriction": null,
+      "view_count": 358446,
+      "like_count": 10532,
+      "comment_count": 598,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 25,
+            "japanese": 67,
+            "other": 7,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 90,
+          "language_counts": {
+            "english": 15,
+            "japanese": 62,
+            "other": 20,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "gY0hpk9E7p8",
+      "mal_ids": [
+        58518
+      ],
+      "observed_at": "2026-10-28T16:09:53.037934+00:00",
+      "url": "https://www.youtube.com/watch?v=gY0hpk9E7p8",
+      "video_title": "【10月7日23:00から初回1時間SP】TVアニメ「佐々木とピーちゃん」Season2メインPV",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-11T01:00:25Z",
+      "region_restriction": null,
+      "view_count": 371044,
+      "like_count": 3034,
+      "comment_count": 197,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 6,
+            "japanese": 87,
+            "other": 6,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 7,
+            "japanese": 75,
+            "other": 14,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "DygVpkacKqQ",
+      "mal_ids": [
+        63181
+      ],
+      "observed_at": "2026-10-28T16:09:54.619397+00:00",
+      "url": "https://www.youtube.com/watch?v=DygVpkacKqQ",
+      "video_title": "アニメ『桃源暗鬼』続編〜日光・華厳の滝編〜制作決定記念PV",
+      "channel_id": "UC0_nVlKNoqL66enXvauW_kA",
+      "channel_title": "『桃源暗鬼』プロジェクト公式チャンネル",
+      "publisher": "『桃源暗鬼』プロジェクト公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2025-12-26T15:00:23Z",
+      "region_restriction": null,
+      "view_count": 313530,
+      "like_count": 10476,
+      "comment_count": 510,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 4,
+            "japanese": 95,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 5,
+            "japanese": 87,
+            "other": 3,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "8RHh2AyKRfY",
+      "mal_ids": [
+        62484
+      ],
+      "observed_at": "2026-10-28T16:09:56.068218+00:00",
+      "url": "https://www.youtube.com/watch?v=8RHh2AyKRfY",
+      "video_title": "TVアニメ『千歳くんはラムネ瓶のなか』第2クール 第2弾PV／2026年10月より放送開始",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-11T10:00:39Z",
+      "region_restriction": null,
+      "view_count": 327186,
+      "like_count": 4085,
+      "comment_count": 394,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 20,
+            "japanese": 64,
+            "other": 13,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 11,
+            "japanese": 76,
+            "other": 9,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "oxkxyAcKv2g",
+      "mal_ids": [
+        64254
+      ],
+      "observed_at": "2026-10-28T16:09:57.431499+00:00",
+      "url": "https://www.youtube.com/watch?v=oxkxyAcKv2g",
+      "video_title": "TVアニメ『冰剣の魔術師が世界を統べるⅡ』メインPV｜2026年10月からTBS、BS11にて放送開始",
+      "channel_id": "UCqmVOBOLzaLEOb6Tpb4zPYQ",
+      "channel_title": "TBSアニメ",
+      "publisher": "TBSアニメ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-10T09:04:15Z",
+      "region_restriction": null,
+      "view_count": 598226,
+      "like_count": null,
+      "comment_count": 154,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 17,
+            "japanese": 76,
+            "other": 5,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 13,
+            "japanese": 77,
+            "other": 6,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "SSePdGrgYLA",
+      "mal_ids": [
+        61578
+      ],
+      "observed_at": "2026-10-28T16:09:58.978223+00:00",
+      "url": "https://www.youtube.com/watch?v=SSePdGrgYLA",
+      "video_title": "TVアニメ「生徒会にも穴はある！」メインPV第１弾｜2026年10月3日(土)24:30～放送開始！",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-22T08:00:39Z",
+      "region_restriction": null,
+      "view_count": 1409212,
+      "like_count": 28258,
+      "comment_count": 742,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 13,
+            "japanese": 87,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 20,
+            "japanese": 67,
+            "other": 8,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "h6NM7IuyxuU",
+      "mal_ids": [
+        63140
+      ],
+      "observed_at": "2026-10-28T16:10:00.305783+00:00",
+      "url": "https://www.youtube.com/watch?v=h6NM7IuyxuU",
+      "video_title": "#アニメ野生のラスボスが現れた！ 第2期PV第1弾│2026年10月よりTOKYO MX、ＢＳ朝日、関西テレビにて放送開始！ABEMA、U-NEXTにて地上波1週間先行配信決定！",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-04T09:08:05Z",
+      "region_restriction": {
+        "blocked": [
+          "BY",
+          "RU"
+        ]
+      },
+      "view_count": 214671,
+      "like_count": 3764,
+      "comment_count": 177,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 32,
+            "japanese": 51,
+            "other": 14,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 30,
+            "japanese": 46,
+            "other": 17,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "XplGl4tL_8w",
+      "mal_ids": [
+        63409
+      ],
+      "observed_at": "2026-10-28T16:10:01.813725+00:00",
+      "url": "https://www.youtube.com/watch?v=XplGl4tL_8w",
+      "video_title": "TVアニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』ティザーPV｜2026年10月放送開始",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-20T02:11:40Z",
+      "region_restriction": null,
+      "view_count": 707714,
+      "like_count": 16548,
+      "comment_count": 396,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 18,
+            "japanese": 79,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 42,
+            "japanese": 35,
+            "other": 18,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "TQYVI-xvGeA",
+      "mal_ids": [
+        61153
+      ],
+      "observed_at": "2026-10-28T16:10:03.709301+00:00",
+      "url": "https://www.youtube.com/watch?v=TQYVI-xvGeA",
+      "video_title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」ティザーPV/2026年放送開始",
+      "channel_id": "UC6klcAmXIQmfAiRVyqPO--Q",
+      "channel_title": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "publisher": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2025-07-19T08:00:29Z",
+      "region_restriction": null,
+      "view_count": 554327,
+      "like_count": 9647,
+      "comment_count": 232,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 94,
+          "language_counts": {
+            "english": 33,
+            "japanese": 57,
+            "other": 9,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 27,
+            "japanese": 61,
+            "other": 8,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "uiDqC5pd028",
+      "mal_ids": [
+        64503
+      ],
+      "observed_at": "2026-10-28T16:10:05.118940+00:00",
+      "url": "https://www.youtube.com/watch?v=uiDqC5pd028",
+      "video_title": "【特報】TVアニメ『夜桜さんちの大作戦』第2期 第2クール放送決定！｜2026年10月～放送",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-28T08:30:19Z",
+      "region_restriction": null,
+      "view_count": 107955,
+      "like_count": 2274,
+      "comment_count": 144,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 9,
+            "japanese": 85,
+            "other": 4,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 9,
+            "japanese": 82,
+            "other": 7,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "fmUpSXFbSK0",
+      "mal_ids": [
+        63098
+      ],
+      "observed_at": "2026-10-28T16:10:06.650801+00:00",
+      "url": "https://www.youtube.com/watch?v=fmUpSXFbSK0",
+      "video_title": "アニメ『PSYREN -サイレン-』本PV",
+      "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+      "channel_title": "It's Anime powered by REMOW",
+      "publisher": "It's Anime powered by REMOW",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-11T09:00:32Z",
+      "region_restriction": {
+        "blocked": [
+          "RU"
+        ]
+      },
+      "view_count": 1349069,
+      "like_count": 6502,
+      "comment_count": 845,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 6,
+            "japanese": 94,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 5,
+            "japanese": 93,
+            "other": 0,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "gISc0dl5R_8",
+      "mal_ids": [
+        59204
+      ],
+      "observed_at": "2026-10-28T16:10:08.334448+00:00",
+      "url": "https://www.youtube.com/watch?v=gISc0dl5R_8",
+      "video_title": "TVアニメ『魔法騎士レイアース』メインPV｜10月7日(水)よる11時45分～放送開始！",
+      "channel_id": "UCkVvAm5jb62IMIJQj4wPVGA",
+      "channel_title": "TMSアニメ公式チャンネル",
+      "publisher": "TMSアニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-04T20:30:32Z",
+      "region_restriction": {
+        "blocked": [
+          "BY",
+          "RU"
+        ]
+      },
+      "view_count": 1059197,
+      "like_count": 18083,
+      "comment_count": 1936,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 9,
+            "japanese": 91,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 4,
+            "japanese": 88,
+            "other": 3,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "gxG4vntLtbk",
+      "mal_ids": [
+        63382
+      ],
+      "observed_at": "2026-10-28T16:10:09.836214+00:00",
+      "url": "https://www.youtube.com/watch?v=gxG4vntLtbk",
+      "video_title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2弾PV",
+      "channel_id": "UC8yS5dCzbiPGf1HnAwwcnhQ",
+      "channel_title": "MBS animation 公式チャンネル",
+      "publisher": "MBS animation 公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-08T09:05:27Z",
+      "region_restriction": null,
+      "view_count": 1584946,
+      "like_count": 8915,
+      "comment_count": 579,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 0,
+            "japanese": 99,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 4,
+            "japanese": 85,
+            "other": 4,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "tiXRpYimOsQ",
+      "mal_ids": [
+        60948
+      ],
+      "observed_at": "2026-10-28T16:10:11.419086+00:00",
+      "url": "https://www.youtube.com/watch?v=tiXRpYimOsQ",
+      "video_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | Official Trailer",
+      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+      "channel_title": "Crunchyroll",
+      "publisher": "Crunchyroll",
+      "channel_market": "english_western",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-04-25T19:00:45Z",
+      "region_restriction": {
+        "allowed": [
+          "AD",
+          "AE",
+          "AF",
+          "AG",
+          "AI",
+          "AL",
+          "AM",
+          "AO",
+          "AQ",
+          "AR",
+          "AS",
+          "AT",
+          "AU",
+          "AW",
+          "AX",
+          "AZ",
+          "BA",
+          "BB",
+          "BD",
+          "BE",
+          "BF",
+          "BG",
+          "BH",
+          "BI",
+          "BJ",
+          "BL",
+          "BM",
+          "BN",
+          "BO",
+          "BR",
+          "BS",
+          "BT",
+          "BV",
+          "BW",
+          "BY",
+          "BZ",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CG",
+          "CH",
+          "CI",
+          "CK",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "EH",
+          "ER",
+          "ES",
+          "ET",
+          "FI",
+          "FJ",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GA",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GH",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GT",
+          "GU",
+          "GW",
+          "GY",
+          "HK",
+          "HM",
+          "HN",
+          "HR",
+          "HT",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IM",
+          "IN",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JM",
+          "JO",
+          "KE",
+          "KG",
+          "KH",
+          "KI",
+          "KM",
+          "KN",
+          "KW",
+          "KY",
+          "KZ",
+          "LB",
+          "LC",
+          "LI",
+          "LK",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MA",
+          "MC",
+          "MD",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "MK",
+          "ML",
+          "MM",
+          "MO",
+          "MP",
+          "MQ",
+          "MR",
+          "MS",
+          "MT",
+          "MU",
+          "MV",
+          "MW",
+          "MX",
+          "MY",
+          "MZ",
+          "NA",
+          "NC",
+          "NE",
+          "NF",
+          "NG",
+          "NI",
+          "NL",
+          "NO",
+          "NP",
+          "NR",
+          "NU",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PF",
+          "PG",
+          "PH",
+          "PK",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PW",
+          "PY",
+          "QA",
+          "RE",
+          "RO",
+          "RS",
+          "RU",
+          "RW",
+          "SA",
+          "SB",
+          "SC",
+          "SD",
+          "SE",
+          "SG",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SN",
+          "SO",
+          "SR",
+          "SS",
+          "ST",
+          "SV",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TG",
+          "TH",
+          "TJ",
+          "TK",
+          "TL",
+          "TM",
+          "TN",
+          "TO",
+          "TR",
+          "TT",
+          "TV",
+          "TW",
+          "TZ",
+          "UA",
+          "UG",
+          "UM",
+          "US",
+          "UY",
+          "UZ",
+          "VA",
+          "VC",
+          "VE",
+          "VG",
+          "VI",
+          "VN",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZA",
+          "ZM",
+          "ZW"
+        ]
+      },
+      "view_count": 255755,
+      "like_count": 7637,
+      "comment_count": 754,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 95,
+            "japanese": 0,
+            "other": 5,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 87,
+            "japanese": 0,
+            "other": 13,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "NNHxQJgZdbQ",
+      "mal_ids": [
+        61014
+      ],
+      "observed_at": "2026-10-28T16:10:12.427883+00:00",
+      "url": "https://www.youtube.com/watch?v=NNHxQJgZdbQ",
+      "video_title": "TVアニメ『とある暗部の少女共棲』メインPV｜2026年10月9日より放送開始！",
+      "channel_id": "UCCE2LCn3VsbIMdO17baUVxg",
+      "channel_title": "とあるプロジェクト公式toaru.project",
+      "publisher": "とあるプロジェクト公式toaru.project",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-03T10:00:00Z",
+      "region_restriction": null,
+      "view_count": 2049751,
+      "like_count": null,
+      "comment_count": null,
+      "comment_samples": {
+        "relevance": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        },
+        "time": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "34ubb-j0kbI",
+      "mal_ids": [
+        54344
+      ],
+      "observed_at": "2026-10-28T16:10:13.840986+00:00",
+      "url": "https://www.youtube.com/watch?v=34ubb-j0kbI",
+      "video_title": "TVアニメ「魔法少女育成計画restart」PV第1弾／2026年放送予定",
+      "channel_id": "UCWTGlJGgN7bg7At6U_e52EQ",
+      "channel_title": "TVアニメ「魔法少女育成計画restart」公式チャンネル",
+      "publisher": "TVアニメ「魔法少女育成計画restart」公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": null,
+      "video_text_language_bucket": "japanese",
+      "published_at": "2025-10-20T13:45:48Z",
+      "region_restriction": null,
+      "view_count": 87622,
+      "like_count": 2900,
+      "comment_count": 208,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 94,
+          "language_counts": {
+            "english": 23,
+            "japanese": 68,
+            "other": 9,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 15,
+            "japanese": 68,
+            "other": 12,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "XqrBfyUNYZs",
+      "mal_ids": [
+        56733
+      ],
+      "observed_at": "2026-10-28T16:10:15.135387+00:00",
+      "url": "https://www.youtube.com/watch?v=XqrBfyUNYZs",
+      "video_title": "TVアニメ「マジカル★エクスプローラー」第2弾PV | 2026年10月3日(土)24:00より放送開始！！",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-28T11:38:26Z",
+      "region_restriction": null,
+      "view_count": 320196,
+      "like_count": 2607,
+      "comment_count": 68,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 59,
+          "unique_commenters": 58,
+          "language_counts": {
+            "english": 17,
+            "japanese": 36,
+            "other": 4,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 60,
+          "unique_commenters": 58,
+          "language_counts": {
+            "english": 17,
+            "japanese": 37,
+            "other": 4,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "QB9TLfhS8Ys",
+      "mal_ids": [
+        64340
+      ],
+      "observed_at": "2026-10-28T16:10:16.606024+00:00",
+      "url": "https://www.youtube.com/watch?v=QB9TLfhS8Ys",
+      "video_title": "TVアニメ『テムパル～アイテムの力～』第2弾PV｜2026.10.2 ON AIR",
+      "channel_id": "UCb-ekPowbBlQhyt7ZXPiu5Q",
+      "channel_title": "ぽにきゃん-Anime PONY CANYON",
+      "publisher": "ぽにきゃん-Anime PONY CANYON",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-19T09:00:19Z",
+      "region_restriction": null,
+      "view_count": 1040035,
+      "like_count": 8994,
+      "comment_count": 900,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 77,
+            "japanese": 12,
+            "other": 10,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 60,
+            "japanese": 9,
+            "other": 29,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "PrLNEbAko1w",
+      "mal_ids": [
+        63754
+      ],
+      "observed_at": "2026-10-28T16:10:18.247970+00:00",
+      "url": "https://www.youtube.com/watch?v=PrLNEbAko1w",
+      "video_title": "TVアニメ『塩対応の佐藤さんが俺にだけ甘い』キャラクターPV",
+      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
+      "channel_title": "SHOCHIKU animeチャンネル【公式】",
+      "publisher": "SHOCHIKU animeチャンネル【公式】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-26T11:00:21Z",
+      "region_restriction": null,
+      "view_count": 123022,
+      "like_count": 3205,
+      "comment_count": 76,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 70,
+          "unique_commenters": 68,
+          "language_counts": {
+            "english": 12,
+            "japanese": 53,
+            "other": 2,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 75,
+          "unique_commenters": 73,
+          "language_counts": {
+            "english": 12,
+            "japanese": 58,
+            "other": 2,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "hEjYt73pYEE",
+      "mal_ids": [
+        61999
+      ],
+      "observed_at": "2026-10-28T16:10:19.363163+00:00",
+      "url": "https://www.youtube.com/watch?v=hEjYt73pYEE",
+      "video_title": "【First Main PV】TV Anime The Vermilion Mask | Streaming on Crunchyroll in October",
+      "channel_id": "UCi3c8HJxjiidVUYn4L4zQJw",
+      "channel_title": "【ytv animation】読売テレビ アニメ公式",
+      "publisher": "【ytv animation】読売テレビ アニメ公式",
+      "channel_market": "japanese",
+      "default_language": "en",
+      "default_audio_language": "en",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-07-04T00:55:55Z",
+      "region_restriction": null,
+      "view_count": 6666,
+      "like_count": 102,
+      "comment_count": 2,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 2,
+          "unique_commenters": 2,
+          "language_counts": {
+            "english": 2,
+            "japanese": 0,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 2,
+          "unique_commenters": 2,
+          "language_counts": {
+            "english": 2,
+            "japanese": 0,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "e41RGxVwJRs",
+      "mal_ids": [
+        62753
+      ],
+      "observed_at": "2026-10-28T16:10:20.915414+00:00",
+      "url": "https://www.youtube.com/watch?v=e41RGxVwJRs",
+      "video_title": "TVアニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』PV第1弾｜2026年10月放送開始！",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-05-30T10:45:10Z",
+      "region_restriction": null,
+      "view_count": 390500,
+      "like_count": 8753,
+      "comment_count": 166,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 32,
+            "japanese": 52,
+            "other": 14,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 32,
+            "japanese": 50,
+            "other": 11,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "7rxIZ3z0S4s",
+      "mal_ids": [
+        63337
+      ],
+      "observed_at": "2026-10-28T16:10:22.382224+00:00",
+      "url": "https://www.youtube.com/watch?v=7rxIZ3z0S4s",
+      "video_title": "TVアニメ「FX戦士くるみちゃん」メインPV【2026年10月1日放送開始!】FX Fighter Kurumi-chan Main Trailer",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-31T11:00:29Z",
+      "region_restriction": null,
+      "view_count": 2003327,
+      "like_count": 18134,
+      "comment_count": 2285,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 9,
+            "japanese": 91,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 15,
+            "japanese": 76,
+            "other": 4,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "PxXPcoo8uGM",
+      "mal_ids": [
+        59787
+      ],
+      "observed_at": "2026-10-28T16:10:23.781987+00:00",
+      "url": "https://www.youtube.com/watch?v=PxXPcoo8uGM",
+      "video_title": "【2026年10月5日よりTOKYO MXほかにてⅡクールで放送】TVアニメ「ロメリア戦記」OFFICIAL TRAILER",
+      "channel_id": "UCaMIOK9FiH6GPq7PzP6CBig",
+      "channel_title": "TVアニメ「ロメリア戦記」Official Channel",
+      "publisher": "TVアニメ「ロメリア戦記」Official Channel",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "en-US",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-12T06:00:36Z",
+      "region_restriction": null,
+      "view_count": 1439775,
+      "like_count": 2560,
+      "comment_count": 98,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 63,
+          "unique_commenters": 63,
+          "language_counts": {
+            "english": 15,
+            "japanese": 40,
+            "other": 2,
+            "ambiguous": 6
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 67,
+          "unique_commenters": 67,
+          "language_counts": {
+            "english": 16,
+            "japanese": 42,
+            "other": 3,
+            "ambiguous": 6
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "9705sc1udLo",
+      "mal_ids": [
+        64505
+      ],
+      "observed_at": "2026-10-28T16:10:25.038778+00:00",
+      "url": "https://www.youtube.com/watch?v=9705sc1udLo",
+      "video_title": "TVアニメ『ダイヤのA actⅡ -Second Season-』第2クールティザーPV",
+      "channel_id": "UCjtqqF1VTisBqf6JAFw87AQ",
+      "channel_title": "TVアニメ「ダイヤのA」シリーズ",
+      "publisher": "TVアニメ「ダイヤのA」シリーズ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": null,
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-15T09:00:17Z",
+      "region_restriction": null,
+      "view_count": 114882,
+      "like_count": 1735,
+      "comment_count": 110,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 98,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 11,
+            "japanese": 80,
+            "other": 7,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 99,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 11,
+            "japanese": 81,
+            "other": 7,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "Q72YGjPWpRc",
+      "mal_ids": [
+        62524
+      ],
+      "observed_at": "2026-10-28T16:10:26.360370+00:00",
+      "url": "https://www.youtube.com/watch?v=Q72YGjPWpRc",
+      "video_title": "TVアニメ『#ゾンビさがしてます』メインPV｜10月3日(土)放送開始🧟",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-13T11:36:34Z",
+      "region_restriction": null,
+      "view_count": 1237484,
+      "like_count": 2535,
+      "comment_count": 170,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 22,
+            "japanese": 64,
+            "other": 11,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 19,
+            "japanese": 65,
+            "other": 13,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "snJZD9vxfHY",
+      "mal_ids": [
+        64084
+      ],
+      "observed_at": "2026-10-28T16:10:27.729652+00:00",
+      "url": "https://www.youtube.com/watch?v=snJZD9vxfHY",
+      "video_title": "【速報】TVアニメ「世界最強の魔女、始めました」本PV公開｜10月7日(水)より放送開始！",
+      "channel_id": "UCb-ekPowbBlQhyt7ZXPiu5Q",
+      "channel_title": "ぽにきゃん-Anime PONY CANYON",
+      "publisher": "ぽにきゃん-Anime PONY CANYON",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-27T03:00:29Z",
+      "region_restriction": null,
+      "view_count": 365690,
+      "like_count": 3163,
+      "comment_count": 248,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 12,
+            "japanese": 83,
+            "other": 4,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 10,
+            "japanese": 80,
+            "other": 5,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "uaW2KLmA47M",
+      "mal_ids": [
+        63751
+      ],
+      "observed_at": "2026-10-28T16:10:29.197054+00:00",
+      "url": "https://www.youtube.com/watch?v=uaW2KLmA47M",
+      "video_title": "TVアニメ『TANK CHAIR-戦車椅子-』メインPV ｜ 2026年10月4日より放送開始！",
+      "channel_id": "UCQ5URCSs1f5Cz9rh-cDGxNQ",
+      "channel_title": "バンダイナムコフィルムワークス チャンネル",
+      "publisher": "バンダイナムコフィルムワークス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-12T03:00:06Z",
+      "region_restriction": null,
+      "view_count": 445540,
+      "like_count": 2634,
+      "comment_count": 150,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 35,
+            "japanese": 40,
+            "other": 19,
+            "ambiguous": 6
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 34,
+            "japanese": 38,
+            "other": 20,
+            "ambiguous": 8
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "RRNBNnCRPqU",
+      "mal_ids": [
+        62922
+      ],
+      "observed_at": "2026-10-28T16:10:30.699296+00:00",
+      "url": "https://www.youtube.com/watch?v=RRNBNnCRPqU",
+      "video_title": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』PV第1弾 | 2026年10月放送",
+      "channel_id": "UC14n_UnoAG2woIvYlk1p_8A",
+      "channel_title": "tv asahi  animation YouTubeチャンネル",
+      "publisher": "tv asahi  animation YouTubeチャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-17T03:00:30Z",
+      "region_restriction": null,
+      "view_count": 174511,
+      "like_count": 2240,
+      "comment_count": 382,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 12,
+            "japanese": 84,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 6,
+            "japanese": 89,
+            "other": 3,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "7ZAQGHThWME",
+      "mal_ids": [
+        61140
+      ],
+      "observed_at": "2026-10-28T16:10:32.417945+00:00",
+      "url": "https://www.youtube.com/watch?v=7ZAQGHThWME",
+      "video_title": "アニメ「#幻想水滸伝」第２弾PV ｜10⽉よりTOKYO MX、関⻄テレビ、BS朝⽇ほか全国32局にて順次放送開始！",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-05T03:00:01Z",
+      "region_restriction": {
+        "blocked": [
+          "RU"
+        ]
+      },
+      "view_count": 241331,
+      "like_count": 3031,
+      "comment_count": 329,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 21,
+            "japanese": 76,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 14,
+            "japanese": 81,
+            "other": 3,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "-YCols5lYow",
+      "mal_ids": [
+        63509
+      ],
+      "observed_at": "2026-10-28T16:10:33.550935+00:00",
+      "url": "https://www.youtube.com/watch?v=-YCols5lYow",
+      "video_title": "TVアニメ「ダークサモナーとデキている」【公式メインPV】",
+      "channel_id": "UCPELKwzNBXZoeq-FXNV01ig",
+      "channel_title": "デレギュラ【新アニメレーベル】",
+      "publisher": "デレギュラ【新アニメレーベル】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T03:00:37Z",
+      "region_restriction": null,
+      "view_count": 64870,
+      "like_count": 767,
+      "comment_count": 39,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 25,
+          "unique_commenters": 25,
+          "language_counts": {
+            "english": 8,
+            "japanese": 13,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 27,
+          "unique_commenters": 27,
+          "language_counts": {
+            "english": 9,
+            "japanese": 14,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "dLRKywRu3iM",
+      "mal_ids": [
+        63753
+      ],
+      "observed_at": "2026-10-28T16:10:34.902186+00:00",
+      "url": "https://www.youtube.com/watch?v=dLRKywRu3iM",
+      "video_title": "TVアニメ『彼方から』MAIN PV&主題歌解禁 | 2026.10.4～ON AIR!!",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-02T08:00:01Z",
+      "region_restriction": null,
+      "view_count": 486208,
+      "like_count": 4087,
+      "comment_count": 449,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 9,
+            "japanese": 90,
+            "other": 1,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 18,
+            "japanese": 74,
+            "other": 7,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "ynr8tFWrK4c",
+      "mal_ids": [
+        63712
+      ],
+      "observed_at": "2026-10-28T16:10:36.195245+00:00",
+      "url": "https://www.youtube.com/watch?v=ynr8tFWrK4c",
+      "video_title": "TVアニメ『転生ゴブリンだけど質問ある？』メインPV/2026年10月5日（月）より放送・配信開始！",
+      "channel_id": "UC6klcAmXIQmfAiRVyqPO--Q",
+      "channel_title": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "publisher": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-09T10:00:17Z",
+      "region_restriction": null,
+      "view_count": 158603,
+      "like_count": 1400,
+      "comment_count": 152,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 32,
+            "japanese": 49,
+            "other": 16,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 31,
+            "japanese": 55,
+            "other": 12,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "NVbg3gNMz8I",
+      "mal_ids": [
+        64298
+      ],
+      "observed_at": "2026-10-28T16:10:37.506724+00:00",
+      "url": "https://www.youtube.com/watch?v=NVbg3gNMz8I",
+      "video_title": "TVアニメ『人付き合いが苦手な未亡人の雪女さんと呪いの指輪』PV",
+      "channel_id": "UCZQS4nqeT-7WcMfSoYhqOMg",
+      "channel_title": "AnimeFestaオリジナル公式Channel",
+      "publisher": "AnimeFestaオリジナル公式Channel",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T03:01:16Z",
+      "region_restriction": null,
+      "view_count": 149777,
+      "like_count": 3129,
+      "comment_count": 135,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 85,
+          "unique_commenters": 82,
+          "language_counts": {
+            "english": 34,
+            "japanese": 20,
+            "other": 19,
+            "ambiguous": 12
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 95,
+          "unique_commenters": 92,
+          "language_counts": {
+            "english": 39,
+            "japanese": 23,
+            "other": 21,
+            "ambiguous": 12
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "E-stx_wwVSs",
+      "mal_ids": [
+        64131
+      ],
+      "observed_at": "2026-10-28T16:10:38.843575+00:00",
+      "url": "https://www.youtube.com/watch?v=E-stx_wwVSs",
+      "video_title": "TVアニメ『彼女の友達』メインPV｜2026年10月放送開始",
+      "channel_id": "UCPELKwzNBXZoeq-FXNV01ig",
+      "channel_title": "デレギュラ【新アニメレーベル】",
+      "publisher": "デレギュラ【新アニメレーベル】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T09:00:38Z",
+      "region_restriction": null,
+      "view_count": 187199,
+      "like_count": 2659,
+      "comment_count": 120,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 76,
+          "unique_commenters": 76,
+          "language_counts": {
+            "english": 28,
+            "japanese": 27,
+            "other": 17,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 92,
+          "unique_commenters": 92,
+          "language_counts": {
+            "english": 31,
+            "japanese": 35,
+            "other": 22,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "wsdW5YP9A_c",
+      "mal_ids": [
+        64180
+      ],
+      "observed_at": "2026-10-28T16:10:40.241187+00:00",
+      "url": "https://www.youtube.com/watch?v=wsdW5YP9A_c",
+      "video_title": "TVアニメ『傷だらけ聖女より報復をこめて Season2』特報 | 2026年10月放送開始",
+      "channel_id": "UCIfWGlHgKEMZLZtjWvpGySQ",
+      "channel_title": "AnimationID ",
+      "publisher": "AnimationID ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "en-GB",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-05-12T03:01:00Z",
+      "region_restriction": null,
+      "view_count": 19130,
+      "like_count": 261,
+      "comment_count": 14,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 13,
+          "unique_commenters": 13,
+          "language_counts": {
+            "english": 2,
+            "japanese": 11,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 14,
+          "unique_commenters": 14,
+          "language_counts": {
+            "english": 2,
+            "japanese": 12,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "YKgjylmYeoA",
+      "mal_ids": [
+        62907
+      ],
+      "observed_at": "2026-10-28T16:10:41.546013+00:00",
+      "url": "https://www.youtube.com/watch?v=YKgjylmYeoA",
+      "video_title": "2026年10月4日より放送開始！TVアニメ「おじさんはカワイイものがお好き。」",
+      "channel_id": "UCpZ1GqZghD8P177uuFNWZMg",
+      "channel_title": "メテオ・ポラリス公式チャンネル",
+      "publisher": "メテオ・ポラリス公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-18T06:00:09Z",
+      "region_restriction": null,
+      "view_count": 51937,
+      "like_count": 1082,
+      "comment_count": 49,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 43,
+          "unique_commenters": 43,
+          "language_counts": {
+            "english": 6,
+            "japanese": 34,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 46,
+          "unique_commenters": 46,
+          "language_counts": {
+            "english": 6,
+            "japanese": 36,
+            "other": 4,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "fx66nT-2_AA",
+      "mal_ids": [
+        62696
+      ],
+      "observed_at": "2026-10-28T16:10:43.146547+00:00",
+      "url": "https://www.youtube.com/watch?v=fx66nT-2_AA",
+      "video_title": "【第１弾メインPV】TVアニメ『超巡！超条先輩』2026年10月放送開始！",
+      "channel_id": "UCt_XdtyWNVenULI5DylX8-A",
+      "channel_title": "GOOD SMILE CHANNEL",
+      "publisher": "GOOD SMILE CHANNEL",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-18T03:00:19Z",
+      "region_restriction": null,
+      "view_count": 207418,
+      "like_count": 5993,
+      "comment_count": 457,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 0,
+            "japanese": 100,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 3,
+            "japanese": 96,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "GixEiC7k9_4",
+      "mal_ids": [
+        62615
+      ],
+      "observed_at": "2026-10-28T16:10:44.459958+00:00",
+      "url": "https://www.youtube.com/watch?v=GixEiC7k9_4",
+      "video_title": "【てつりょー！】TVアニメ『てつりょー！meet with 鉄道むすめ』PV第2弾",
+      "channel_id": "UCb-ekPowbBlQhyt7ZXPiu5Q",
+      "channel_title": "ぽにきゃん-Anime PONY CANYON",
+      "publisher": "ぽにきゃん-Anime PONY CANYON",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-13T13:00:18Z",
+      "region_restriction": null,
+      "view_count": 58907,
+      "like_count": 1209,
+      "comment_count": 107,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 86,
+          "unique_commenters": 84,
+          "language_counts": {
+            "english": 3,
+            "japanese": 75,
+            "other": 5,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 87,
+          "unique_commenters": 85,
+          "language_counts": {
+            "english": 3,
+            "japanese": 76,
+            "other": 5,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "JqjXaJysS5w",
+      "mal_ids": [
+        63764
+      ],
+      "observed_at": "2026-10-28T16:10:45.831642+00:00",
+      "url": "https://www.youtube.com/watch?v=JqjXaJysS5w",
+      "video_title": "オリジナルTVアニメ『バーテックスフォース』メインPV第2弾｜2026年10月3日（土）23:30より各局にて放送開始！",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-12T10:10:40Z",
+      "region_restriction": null,
+      "view_count": 1025655,
+      "like_count": 6182,
+      "comment_count": 389,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 16,
+            "japanese": 81,
+            "other": 2,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 34,
+            "japanese": 35,
+            "other": 25,
+            "ambiguous": 6
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "K6N27yNdNIg",
+      "mal_ids": [
+        64326
+      ],
+      "observed_at": "2026-10-28T16:10:46.866637+00:00",
+      "url": "https://www.youtube.com/watch?v=K6N27yNdNIg",
+      "video_title": "アニメ「マロニエ王国の七人の騎士」PV第1弾 | The Seven Knights of the Marronnier Kingdom | Official Trailer 1",
+      "channel_id": "UCUhZuFH7DFAyz2BUI38PbNQ",
+      "channel_title": "NHK ENTERPRISES Animation",
+      "publisher": "NHK ENTERPRISES Animation",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-10T08:00:29Z",
+      "region_restriction": null,
+      "view_count": 144715,
+      "like_count": 1462,
+      "comment_count": null,
+      "comment_samples": {
+        "relevance": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        },
+        "time": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "iMyre5xXDzE",
+      "mal_ids": [
+        63157
+      ],
+      "observed_at": "2026-10-28T16:10:48.421095+00:00",
+      "url": "https://www.youtube.com/watch?v=iMyre5xXDzE",
+      "video_title": "TVアニメ『ケロロ軍曹☆』本PV第2弾│10月3日(土)より放送開始！",
+      "channel_id": "UCPKVAsHJPUd8vslgQJMPvjg",
+      "channel_title": "【公式】ケロロチャンネル",
+      "publisher": "【公式】ケロロチャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": null,
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-14T08:00:40Z",
+      "region_restriction": null,
+      "view_count": 893022,
+      "like_count": 10725,
+      "comment_count": 1997,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 0,
+            "japanese": 100,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 94,
+          "language_counts": {
+            "english": 1,
+            "japanese": 85,
+            "other": 14,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "bsNeADDQFD4",
+      "mal_ids": [
+        62534
+      ],
+      "observed_at": "2026-10-28T16:10:49.690966+00:00",
+      "url": "https://www.youtube.com/watch?v=bsNeADDQFD4",
+      "video_title": "『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』ティザー映像第2弾",
+      "channel_id": "UC-vUwrVrPN7gNawfzYaXS_w",
+      "channel_title": "アニメ 新テニスの王子様 オフィシャルチャンネル",
+      "publisher": "アニメ 新テニスの王子様 オフィシャルチャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-19T08:40:03Z",
+      "region_restriction": null,
+      "view_count": 139890,
+      "like_count": 2306,
+      "comment_count": 85,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 66,
+          "unique_commenters": 64,
+          "language_counts": {
+            "english": 2,
+            "japanese": 63,
+            "other": 1,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 67,
+          "unique_commenters": 65,
+          "language_counts": {
+            "english": 2,
+            "japanese": 64,
+            "other": 1,
+            "ambiguous": 0
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "2zhlC9mffas",
+      "mal_ids": [
+        63381
+      ],
+      "observed_at": "2026-10-28T16:10:50.931728+00:00",
+      "url": "https://www.youtube.com/watch?v=2zhlC9mffas",
+      "video_title": "TVアニメ『マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす 』PV",
+      "channel_id": "UCZQS4nqeT-7WcMfSoYhqOMg",
+      "channel_title": "AnimeFestaオリジナル公式Channel",
+      "publisher": "AnimeFestaオリジナル公式Channel",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-28T03:00:35Z",
+      "region_restriction": null,
+      "view_count": 109584,
+      "like_count": 1230,
+      "comment_count": 50,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 37,
+          "unique_commenters": 37,
+          "language_counts": {
+            "english": 6,
+            "japanese": 15,
+            "other": 10,
+            "ambiguous": 6
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 39,
+          "unique_commenters": 39,
+          "language_counts": {
+            "english": 6,
+            "japanese": 16,
+            "other": 11,
+            "ambiguous": 6
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "P8FfvDLyMrY",
+      "mal_ids": [
+        59415
+      ],
+      "observed_at": "2026-10-28T16:10:52.430611+00:00",
+      "url": "https://www.youtube.com/watch?v=P8FfvDLyMrY",
+      "video_title": "『DARK MACHINE THE ANIMATION』第2弾PV【2026年10月フジテレビほかにて放送決定！】",
+      "channel_id": "UCO8okJvgXmbmyJTkUMWvURg",
+      "channel_title": "【フジテレビ】アニメ公式チャンネル",
+      "publisher": "【フジテレビ】アニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-19T03:00:33Z",
+      "region_restriction": null,
+      "view_count": 211880,
+      "like_count": 3123,
+      "comment_count": 177,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 8,
+            "japanese": 85,
+            "other": 4,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 11,
+            "japanese": 79,
+            "other": 8,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "n0na0hTpl1E",
+      "mal_ids": [
+        64718
+      ],
+      "observed_at": "2026-10-28T16:10:53.793079+00:00",
+      "url": "https://www.youtube.com/watch?v=n0na0hTpl1E",
+      "video_title": "ごーすと・みーつ・ぎゃる！#01「出会いの季節」",
+      "channel_id": "UC1Wp3qfvlq1GybWL6C85jSw",
+      "channel_title": "ヴァンガードチャンネル【アニメ「Divinez 運命星戦編」劇場先行上映公開中!】",
+      "publisher": "ヴァンガードチャンネル【アニメ「Divinez 運命星戦編」劇場先行上映公開中!】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T23:30:08Z",
+      "region_restriction": null,
+      "view_count": 133709,
+      "like_count": 2675,
+      "comment_count": 85,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 72,
+          "unique_commenters": 72,
+          "language_counts": {
+            "english": 19,
+            "japanese": 39,
+            "other": 11,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 74,
+          "unique_commenters": 74,
+          "language_counts": {
+            "english": 19,
+            "japanese": 41,
+            "other": 11,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "ihJfkOT_0wU",
+      "mal_ids": [
+        64344
+      ],
+      "observed_at": "2026-10-28T16:10:55.171361+00:00",
+      "url": "https://www.youtube.com/watch?v=ihJfkOT_0wU",
+      "video_title": "【メインPV】TVアニメ『獣王武神ダンデヴァイン』",
+      "channel_id": "UCt_XdtyWNVenULI5DylX8-A",
+      "channel_title": "GOOD SMILE CHANNEL",
+      "publisher": "GOOD SMILE CHANNEL",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-12T10:20:18Z",
+      "region_restriction": {
+        "blocked": [
+          "RU"
+        ]
+      },
+      "view_count": 347664,
+      "like_count": 3109,
+      "comment_count": 320,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 3,
+            "japanese": 96,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 4,
+            "japanese": 87,
+            "other": 5,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "zxgmRfemSMI",
+      "mal_ids": [
+        63938
+      ],
+      "observed_at": "2026-10-28T16:10:56.817155+00:00",
+      "url": "https://www.youtube.com/watch?v=zxgmRfemSMI",
+      "video_title": "【PV】アニメ「カードファイト!! ヴァンガード Divinez 運命星戦編」【シリーズ完結編】",
+      "channel_id": "UC1Wp3qfvlq1GybWL6C85jSw",
+      "channel_title": "ヴァンガードチャンネル【アニメ「Divinez 運命星戦編」劇場先行上映公開中!】",
+      "publisher": "ヴァンガードチャンネル【アニメ「Divinez 運命星戦編」劇場先行上映公開中!】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-22T12:50:17Z",
+      "region_restriction": null,
+      "view_count": 104285,
+      "like_count": 1895,
+      "comment_count": 93,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 88,
+          "unique_commenters": 81,
+          "language_counts": {
+            "english": 27,
+            "japanese": 47,
+            "other": 11,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 89,
+          "unique_commenters": 82,
+          "language_counts": {
+            "english": 28,
+            "japanese": 47,
+            "other": 11,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "dUSYa-7rKpM",
+      "mal_ids": [
+        62039
+      ],
+      "observed_at": "2026-10-28T16:10:57.822847+00:00",
+      "url": "https://www.youtube.com/watch?v=dUSYa-7rKpM",
+      "video_title": "アニメ『パンどろぼう』メインPV第1弾｜2026年10月より放送開始！",
+      "channel_id": "UC_8oRpdwdS8yE_AOXA9FeZQ",
+      "channel_title": "パンどろぼう / PANDOROBO【公式】",
+      "publisher": "パンどろぼう / PANDOROBO【公式】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-04T01:00:16Z",
+      "region_restriction": null,
+      "view_count": 1322248,
+      "like_count": 9622,
+      "comment_count": 0,
+      "comment_samples": {
+        "relevance": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        },
+        "time": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "4iOFqQ1E4Mo",
+      "mal_ids": [
+        63901
+      ],
+      "observed_at": "2026-10-28T16:10:59.183244+00:00",
+      "url": "https://www.youtube.com/watch?v=4iOFqQ1E4Mo",
+      "video_title": "TVアニメ『しろたん』本PV｜2026年10月より毎週土曜ごご４時29分放送開始！",
+      "channel_id": "UCvJc2CvF7KIIXXNRnBtZ6fw",
+      "channel_title": "TVアニメ『しろたん』",
+      "publisher": "TVアニメ『しろたん』",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-06-29T13:25:30Z",
+      "region_restriction": null,
+      "view_count": 120876,
+      "like_count": 3823,
+      "comment_count": 153,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 1,
+            "japanese": 97,
+            "other": 1,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 1,
+            "japanese": 95,
+            "other": 2,
+            "ambiguous": 2
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "hGRtocAh3iw",
+      "mal_ids": [
+        63409
+      ],
+      "observed_at": "2026-10-28T16:11:00.592065+00:00",
+      "url": "https://www.youtube.com/watch?v=hGRtocAh3iw",
+      "video_title": "TVアニメ『どうも、好きな人に惚れ薬を依頼された魔女です。』メインPV｜2026年10月5日より放送開始",
+      "channel_id": "UCY5fcqgSrQItPAX_Z5Frmwg",
+      "channel_title": "KADOKAWAanime",
+      "publisher": "KADOKAWAanime",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-14T09:00:37Z",
+      "region_restriction": null,
+      "view_count": 1237097,
+      "like_count": 12450,
+      "comment_count": 278,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 17,
+            "japanese": 80,
+            "other": 3,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 30,
+            "japanese": 52,
+            "other": 14,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "LyDMSUR6_Q8",
+      "mal_ids": [
+        63140
+      ],
+      "observed_at": "2026-10-28T16:11:01.782617+00:00",
+      "url": "https://www.youtube.com/watch?v=LyDMSUR6_Q8",
+      "video_title": "A Wild Last Boss Appeared! Season 2 | Official Trailer | Crunchyroll",
+      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+      "channel_title": "Crunchyroll",
+      "publisher": "Crunchyroll",
+      "channel_market": "english_western",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-15T15:59:51Z",
+      "region_restriction": {
+        "allowed": [
+          "AD",
+          "AE",
+          "AG",
+          "AI",
+          "AL",
+          "AM",
+          "AO",
+          "AQ",
+          "AR",
+          "AS",
+          "AT",
+          "AU",
+          "AW",
+          "AX",
+          "AZ",
+          "BA",
+          "BB",
+          "BD",
+          "BE",
+          "BF",
+          "BG",
+          "BH",
+          "BI",
+          "BJ",
+          "BL",
+          "BM",
+          "BN",
+          "BO",
+          "BR",
+          "BS",
+          "BT",
+          "BV",
+          "BW",
+          "BY",
+          "BZ",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CG",
+          "CH",
+          "CI",
+          "CK",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "EH",
+          "ER",
+          "ES",
+          "ET",
+          "FI",
+          "FJ",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GA",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GH",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GT",
+          "GU",
+          "GW",
+          "GY",
+          "HK",
+          "HM",
+          "HN",
+          "HR",
+          "HT",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IM",
+          "IN",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JM",
+          "JO",
+          "KE",
+          "KH",
+          "KI",
+          "KM",
+          "KN",
+          "KW",
+          "KY",
+          "LB",
+          "LC",
+          "LI",
+          "LK",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MA",
+          "MC",
+          "MD",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "MK",
+          "ML",
+          "MM",
+          "MO",
+          "MP",
+          "MQ",
+          "MR",
+          "MS",
+          "MT",
+          "MV",
+          "MW",
+          "MX",
+          "MY",
+          "MZ",
+          "NA",
+          "NC",
+          "NE",
+          "NF",
+          "NG",
+          "NI",
+          "NL",
+          "NO",
+          "NP",
+          "NR",
+          "NU",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PF",
+          "PG",
+          "PH",
+          "PK",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PW",
+          "PY",
+          "QA",
+          "RE",
+          "RO",
+          "RS",
+          "RU",
+          "RW",
+          "SA",
+          "SB",
+          "SC",
+          "SD",
+          "SE",
+          "SG",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SN",
+          "SO",
+          "SR",
+          "SS",
+          "ST",
+          "SV",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TG",
+          "TH",
+          "TJ",
+          "TK",
+          "TM",
+          "TN",
+          "TO",
+          "TR",
+          "TT",
+          "TV",
+          "TW",
+          "TZ",
+          "UA",
+          "UG",
+          "UM",
+          "US",
+          "UY",
+          "UZ",
+          "VA",
+          "VC",
+          "VE",
+          "VG",
+          "VI",
+          "VN",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZA",
+          "ZM",
+          "ZW"
+        ]
+      },
+      "view_count": 70531,
+      "like_count": 1001,
+      "comment_count": 64,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 55,
+          "unique_commenters": 55,
+          "language_counts": {
+            "english": 42,
+            "japanese": 0,
+            "other": 12,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 55,
+          "unique_commenters": 55,
+          "language_counts": {
+            "english": 42,
+            "japanese": 0,
+            "other": 12,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "HmK-W6VEAdg",
+      "mal_ids": [
+        59204
+      ],
+      "observed_at": "2026-10-28T16:11:03.332511+00:00",
+      "url": "https://www.youtube.com/watch?v=HmK-W6VEAdg",
+      "video_title": "Magic Knight Rayearth | Official Trailer | Crunchyroll",
+      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+      "channel_title": "Crunchyroll",
+      "publisher": "Crunchyroll",
+      "channel_market": "english_western",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-15T16:00:07Z",
+      "region_restriction": {
+        "allowed": [
+          "AD",
+          "AE",
+          "AF",
+          "AG",
+          "AI",
+          "AL",
+          "AM",
+          "AO",
+          "AQ",
+          "AR",
+          "AS",
+          "AT",
+          "AU",
+          "AW",
+          "AX",
+          "AZ",
+          "BA",
+          "BB",
+          "BE",
+          "BF",
+          "BG",
+          "BH",
+          "BI",
+          "BJ",
+          "BL",
+          "BM",
+          "BN",
+          "BO",
+          "BR",
+          "BS",
+          "BV",
+          "BW",
+          "BZ",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CG",
+          "CH",
+          "CI",
+          "CK",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "EH",
+          "ER",
+          "ES",
+          "ET",
+          "FI",
+          "FJ",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GA",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GH",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GT",
+          "GU",
+          "GW",
+          "GY",
+          "HK",
+          "HM",
+          "HN",
+          "HR",
+          "HT",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IM",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JM",
+          "JO",
+          "KE",
+          "KG",
+          "KH",
+          "KI",
+          "KM",
+          "KN",
+          "KR",
+          "KW",
+          "KY",
+          "KZ",
+          "LB",
+          "LC",
+          "LI",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MA",
+          "MC",
+          "MD",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "MK",
+          "ML",
+          "MM",
+          "MO",
+          "MP",
+          "MQ",
+          "MR",
+          "MS",
+          "MT",
+          "MU",
+          "MW",
+          "MX",
+          "MY",
+          "MZ",
+          "NA",
+          "NC",
+          "NE",
+          "NF",
+          "NG",
+          "NI",
+          "NL",
+          "NO",
+          "NR",
+          "NU",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PF",
+          "PG",
+          "PH",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PW",
+          "PY",
+          "QA",
+          "RE",
+          "RO",
+          "RS",
+          "RW",
+          "SA",
+          "SB",
+          "SC",
+          "SD",
+          "SE",
+          "SG",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SN",
+          "SO",
+          "SR",
+          "SS",
+          "ST",
+          "SV",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TG",
+          "TH",
+          "TJ",
+          "TK",
+          "TM",
+          "TN",
+          "TO",
+          "TR",
+          "TT",
+          "TV",
+          "TW",
+          "TZ",
+          "UA",
+          "UG",
+          "UM",
+          "US",
+          "UY",
+          "UZ",
+          "VA",
+          "VC",
+          "VE",
+          "VG",
+          "VI",
+          "VN",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZA",
+          "ZM",
+          "ZW"
+        ]
+      },
+      "view_count": 643412,
+      "like_count": 12570,
+      "comment_count": 1234,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 94,
+            "japanese": 0,
+            "other": 6,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 79,
+          "language_counts": {
+            "english": 66,
+            "japanese": 0,
+            "other": 14,
+            "ambiguous": 20
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "kLbI4teuPTc",
+      "mal_ids": [
+        64505
+      ],
+      "observed_at": "2026-10-28T16:11:04.703154+00:00",
+      "url": "https://www.youtube.com/watch?v=kLbI4teuPTc",
+      "video_title": "TVアニメ『ダイヤのA actⅡ -Second Season-』第2クールメインPV｜10月11日より放送開始！",
+      "channel_id": "UCjtqqF1VTisBqf6JAFw87AQ",
+      "channel_title": "TVアニメ「ダイヤのA」シリーズ",
+      "publisher": "TVアニメ「ダイヤのA」シリーズ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": null,
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-15T08:00:20Z",
+      "region_restriction": null,
+      "view_count": 739889,
+      "like_count": 3111,
+      "comment_count": 188,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 10,
+            "japanese": 81,
+            "other": 5,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 12,
+            "japanese": 78,
+            "other": 5,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "_0kVb8-uRSI",
+      "mal_ids": [
+        62524
+      ],
+      "observed_at": "2026-10-28T16:11:06.113408+00:00",
+      "url": "https://www.youtube.com/watch?v=_0kVb8-uRSI",
+      "video_title": "# I'm Looking For a Zombie | Official Trailer | Crunchyroll",
+      "channel_id": "UC6pGDc4bFGD1_36IKv3FnYg",
+      "channel_title": "Crunchyroll",
+      "publisher": "Crunchyroll",
+      "channel_market": "english_western",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-15T15:59:50Z",
+      "region_restriction": {
+        "allowed": [
+          "AD",
+          "AE",
+          "AG",
+          "AI",
+          "AL",
+          "AM",
+          "AO",
+          "AQ",
+          "AR",
+          "AS",
+          "AT",
+          "AU",
+          "AW",
+          "AX",
+          "AZ",
+          "BA",
+          "BB",
+          "BD",
+          "BE",
+          "BF",
+          "BG",
+          "BH",
+          "BI",
+          "BJ",
+          "BL",
+          "BM",
+          "BO",
+          "BR",
+          "BS",
+          "BT",
+          "BV",
+          "BW",
+          "BY",
+          "BZ",
+          "CA",
+          "CC",
+          "CD",
+          "CF",
+          "CG",
+          "CH",
+          "CI",
+          "CK",
+          "CL",
+          "CM",
+          "CO",
+          "CR",
+          "CU",
+          "CV",
+          "CW",
+          "CX",
+          "CY",
+          "CZ",
+          "DE",
+          "DJ",
+          "DK",
+          "DM",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "EH",
+          "ER",
+          "ES",
+          "ET",
+          "FI",
+          "FJ",
+          "FK",
+          "FM",
+          "FO",
+          "FR",
+          "GA",
+          "GB",
+          "GD",
+          "GE",
+          "GF",
+          "GG",
+          "GH",
+          "GI",
+          "GL",
+          "GM",
+          "GN",
+          "GP",
+          "GQ",
+          "GR",
+          "GS",
+          "GT",
+          "GU",
+          "GW",
+          "GY",
+          "HM",
+          "HN",
+          "HR",
+          "HT",
+          "HU",
+          "IE",
+          "IL",
+          "IM",
+          "IN",
+          "IO",
+          "IQ",
+          "IR",
+          "IS",
+          "IT",
+          "JE",
+          "JM",
+          "JO",
+          "KE",
+          "KI",
+          "KM",
+          "KN",
+          "KW",
+          "KY",
+          "LB",
+          "LC",
+          "LI",
+          "LK",
+          "LR",
+          "LS",
+          "LT",
+          "LU",
+          "LV",
+          "LY",
+          "MA",
+          "MC",
+          "MD",
+          "ME",
+          "MF",
+          "MG",
+          "MH",
+          "MK",
+          "ML",
+          "MP",
+          "MQ",
+          "MR",
+          "MS",
+          "MT",
+          "MU",
+          "MV",
+          "MW",
+          "MX",
+          "MZ",
+          "NA",
+          "NC",
+          "NE",
+          "NF",
+          "NG",
+          "NI",
+          "NL",
+          "NO",
+          "NP",
+          "NU",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PF",
+          "PK",
+          "PL",
+          "PM",
+          "PN",
+          "PR",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RE",
+          "RO",
+          "RS",
+          "RU",
+          "RW",
+          "SA",
+          "SC",
+          "SD",
+          "SE",
+          "SI",
+          "SJ",
+          "SK",
+          "SL",
+          "SM",
+          "SN",
+          "SO",
+          "SR",
+          "SS",
+          "ST",
+          "SV",
+          "SX",
+          "SY",
+          "SZ",
+          "TC",
+          "TD",
+          "TF",
+          "TG",
+          "TJ",
+          "TK",
+          "TM",
+          "TN",
+          "TO",
+          "TR",
+          "TT",
+          "TZ",
+          "UA",
+          "UG",
+          "UM",
+          "US",
+          "UY",
+          "UZ",
+          "VA",
+          "VC",
+          "VE",
+          "VG",
+          "VI",
+          "VU",
+          "WF",
+          "WS",
+          "YE",
+          "YT",
+          "ZA",
+          "ZM",
+          "ZW"
+        ]
+      },
+      "view_count": 196396,
+      "like_count": 2382,
+      "comment_count": 126,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 71,
+          "unique_commenters": 69,
+          "language_counts": {
+            "english": 53,
+            "japanese": 1,
+            "other": 13,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 75,
+          "unique_commenters": 73,
+          "language_counts": {
+            "english": 57,
+            "japanese": 1,
+            "other": 13,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "m4T9VcBD0vo",
+      "mal_ids": [
+        61140
+      ],
+      "observed_at": "2026-10-28T16:11:07.510752+00:00",
+      "url": "https://www.youtube.com/watch?v=m4T9VcBD0vo",
+      "video_title": "アニメ「#幻想水滸伝」第３弾PV｜10⽉3日よりTOKYO MX、関⻄テレビ、BS朝⽇ほか全国32局にて順次放送開始！",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-18T03:03:59Z",
+      "region_restriction": {
+        "blocked": [
+          "RU"
+        ]
+      },
+      "view_count": 186247,
+      "like_count": 1689,
+      "comment_count": 148,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 94,
+          "language_counts": {
+            "english": 26,
+            "japanese": 62,
+            "other": 7,
+            "ambiguous": 5
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 93,
+          "language_counts": {
+            "english": 25,
+            "japanese": 64,
+            "other": 7,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "Ex9LrBK-7hk",
+      "mal_ids": [
+        63293
+      ],
+      "observed_at": "2026-10-28T16:11:08.941235+00:00",
+      "url": "https://www.youtube.com/watch?v=Ex9LrBK-7hk",
+      "video_title": "TVアニメ「ホタルの嫁入り」本PV",
+      "channel_id": "UCO8okJvgXmbmyJTkUMWvURg",
+      "channel_title": "【フジテレビ】アニメ公式チャンネル",
+      "publisher": "【フジテレビ】アニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "en",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-18T00:00:02Z",
+      "region_restriction": null,
+      "view_count": 1350643,
+      "like_count": 19251,
+      "comment_count": 306,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 21,
+            "japanese": 77,
+            "other": 0,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 19,
+            "japanese": 62,
+            "other": 16,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "nHiaLaCVxmg",
+      "mal_ids": [
+        61578
+      ],
+      "observed_at": "2026-10-28T16:11:10.626819+00:00",
+      "url": "https://www.youtube.com/watch?v=nHiaLaCVxmg",
+      "video_title": "TVアニメ「生徒会にも穴はある！」メインPV第２弾｜2026年10月3日(土)24:30～放送・配信開始！",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-18T11:00:29Z",
+      "region_restriction": null,
+      "view_count": 1414614,
+      "like_count": 23574,
+      "comment_count": 501,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 23,
+            "japanese": 71,
+            "other": 5,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 29,
+            "japanese": 42,
+            "other": 22,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "Z9ofT53sz2U",
+      "mal_ids": [
+        60948
+      ],
+      "observed_at": "2026-10-28T16:11:12.032180+00:00",
+      "url": "https://www.youtube.com/watch?v=Z9ofT53sz2U",
+      "video_title": "【めざめざ】TVアニメ『目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい』メインPV",
+      "channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
+      "channel_title": "アニプレックス チャンネル",
+      "publisher": "アニプレックス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-15T11:00:13Z",
+      "region_restriction": null,
+      "view_count": 183727,
+      "like_count": 1461,
+      "comment_count": 207,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 16,
+            "japanese": 79,
+            "other": 3,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 10,
+            "japanese": 86,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "8XgKVzuLmJw",
+      "mal_ids": [
+        63754
+      ],
+      "observed_at": "2026-10-28T16:11:13.333124+00:00",
+      "url": "https://www.youtube.com/watch?v=8XgKVzuLmJw",
+      "video_title": "【10月6日放送開始】TVアニメ「塩対応の佐藤さんが俺にだけ甘い」メインPV",
+      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
+      "channel_title": "SHOCHIKU animeチャンネル【公式】",
+      "publisher": "SHOCHIKU animeチャンネル【公式】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-18T09:00:38Z",
+      "region_restriction": null,
+      "view_count": 552293,
+      "like_count": 7876,
+      "comment_count": 189,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 8,
+            "japanese": 88,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 9,
+            "japanese": 72,
+            "other": 12,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "Tvvs_SlUYgA",
+      "mal_ids": [
+        59415
+      ],
+      "observed_at": "2026-10-28T16:11:14.648358+00:00",
+      "url": "https://www.youtube.com/watch?v=Tvvs_SlUYgA",
+      "video_title": "『DARK MACHINE THE ANIMATION』第3弾PV【2026年10月13日(火)より放送スタート！】",
+      "channel_id": "UCO8okJvgXmbmyJTkUMWvURg",
+      "channel_title": "【フジテレビ】アニメ公式チャンネル",
+      "publisher": "【フジテレビ】アニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-18T03:30:25Z",
+      "region_restriction": null,
+      "view_count": 74366,
+      "like_count": 991,
+      "comment_count": 44,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 37,
+          "unique_commenters": 34,
+          "language_counts": {
+            "english": 5,
+            "japanese": 29,
+            "other": 0,
+            "ambiguous": 3
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 38,
+          "unique_commenters": 35,
+          "language_counts": {
+            "english": 5,
+            "japanese": 30,
+            "other": 0,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "VvzeL7UMCE8",
+      "mal_ids": [
+        64534
+      ],
+      "observed_at": "2026-10-28T16:11:16.791425+00:00",
+      "url": "https://www.youtube.com/watch?v=VvzeL7UMCE8",
+      "video_title": "TVアニメ『氷の城壁』第2期 第2弾PV｜26年10月1日から毎週木曜よる11時56分～TBS系28局にて全国同時放送",
+      "channel_id": "UCqmVOBOLzaLEOb6Tpb4zPYQ",
+      "channel_title": "TBSアニメ",
+      "publisher": "TBSアニメ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-14T08:00:07Z",
+      "region_restriction": null,
+      "view_count": 1962473,
+      "like_count": null,
+      "comment_count": 239,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 10,
+            "japanese": 90,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 23,
+            "japanese": 62,
+            "other": 12,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "upBWYExYoYc",
+      "mal_ids": [
+        63181
+      ],
+      "observed_at": "2026-10-28T16:11:18.417534+00:00",
+      "url": "https://www.youtube.com/watch?v=upBWYExYoYc",
+      "video_title": "TOUGEN ANKI: Nikko Kegon Falls Arc - Official Trailer | MULTI-SUB",
+      "channel_id": "UCsj_CYajUSQ2ca8bYCMan9g",
+      "channel_title": "It's Anime powered by REMOW",
+      "publisher": "It's Anime powered by REMOW",
+      "channel_market": "english_or_global",
+      "default_language": "en",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-19T07:00:38Z",
+      "region_restriction": {
+        "blocked": [
+          "JP"
+        ]
+      },
+      "view_count": 767585,
+      "like_count": 7074,
+      "comment_count": 355,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 65,
+            "japanese": 1,
+            "other": 32,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 68,
+            "japanese": 0,
+            "other": 28,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "9oBywQ403ZA",
+      "mal_ids": [
+        61153
+      ],
+      "observed_at": "2026-10-28T16:11:19.809885+00:00",
+      "url": "https://www.youtube.com/watch?v=9oBywQ403ZA",
+      "video_title": "TVアニメ『転生した大聖女は、聖女であることをひた隠す』メインPV/2026年10月3日（土）22時より放送・配信開始！",
+      "channel_id": "UC6klcAmXIQmfAiRVyqPO--Q",
+      "channel_title": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "publisher": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-07T10:00:37Z",
+      "region_restriction": null,
+      "view_count": 724465,
+      "like_count": 3471,
+      "comment_count": 178,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 12,
+            "japanese": 83,
+            "other": 3,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 12,
+            "japanese": 83,
+            "other": 2,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "059cJjeY19Y",
+      "mal_ids": [
+        64503
+      ],
+      "observed_at": "2026-10-28T16:11:21.244658+00:00",
+      "url": "https://www.youtube.com/watch?v=059cJjeY19Y",
+      "video_title": "TVアニメ『夜桜さんちの大作戦』第2期 第2クールPV｜2026年10月11日放送スタート！",
+      "channel_id": "UCeOMz8AiNhsDhEovu5_3ujQ",
+      "channel_title": "NBCUniversal Anime/Music",
+      "publisher": "NBCUniversal Anime/Music",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T03:00:11Z",
+      "region_restriction": null,
+      "view_count": 462475,
+      "like_count": 5686,
+      "comment_count": 225,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 2,
+            "japanese": 97,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 7,
+            "japanese": 84,
+            "other": 5,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "67GqhfLw3ys",
+      "mal_ids": [
+        59204
+      ],
+      "observed_at": "2026-10-28T16:11:22.967177+00:00",
+      "url": "https://www.youtube.com/watch?v=67GqhfLw3ys",
+      "video_title": "TVアニメ『魔法騎士レイアース』メインPV第2弾/10月7日(水)より連続2クールで放送！",
+      "channel_id": "UCkVvAm5jb62IMIJQj4wPVGA",
+      "channel_title": "TMSアニメ公式チャンネル",
+      "publisher": "TMSアニメ公式チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-20T04:30:28Z",
+      "region_restriction": {
+        "blocked": [
+          "BY",
+          "RU"
+        ]
+      },
+      "view_count": 2176602,
+      "like_count": 9652,
+      "comment_count": 1429,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 3,
+            "japanese": 97,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 10,
+            "japanese": 80,
+            "other": 7,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "e1Km0FqUZl0",
+      "mal_ids": [
+        64340
+      ],
+      "observed_at": "2026-10-28T16:11:24.290738+00:00",
+      "url": "https://www.youtube.com/watch?v=e1Km0FqUZl0",
+      "video_title": "TVアニメ『テムパル～アイテムの力～』第3弾PV｜2026.10.2 ON AIR",
+      "channel_id": "UCb-ekPowbBlQhyt7ZXPiu5Q",
+      "channel_title": "ぽにきゃん-Anime PONY CANYON",
+      "publisher": "ぽにきゃん-Anime PONY CANYON",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-13T06:00:04Z",
+      "region_restriction": null,
+      "view_count": 190842,
+      "like_count": 1816,
+      "comment_count": 196,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 95,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 45,
+            "japanese": 27,
+            "other": 18,
+            "ambiguous": 5
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 95,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 45,
+            "japanese": 27,
+            "other": 18,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "iX4N-Z5Hbxw",
+      "mal_ids": [
+        61999
+      ],
+      "observed_at": "2026-10-28T16:11:25.428867+00:00",
+      "url": "https://www.youtube.com/watch?v=iX4N-Z5Hbxw",
+      "video_title": "【Second Main PV】TV Anime The Vermilion Mask | Streaming on Crunchyroll in October",
+      "channel_id": "UCi3c8HJxjiidVUYn4L4zQJw",
+      "channel_title": "【ytv animation】読売テレビ アニメ公式",
+      "publisher": "【ytv animation】読売テレビ アニメ公式",
+      "channel_market": "japanese",
+      "default_language": "en",
+      "default_audio_language": "en",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-10T19:00:12Z",
+      "region_restriction": null,
+      "view_count": 38659,
+      "like_count": 316,
+      "comment_count": 11,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 11,
+          "unique_commenters": 11,
+          "language_counts": {
+            "english": 8,
+            "japanese": 0,
+            "other": 2,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 11,
+          "unique_commenters": 11,
+          "language_counts": {
+            "english": 8,
+            "japanese": 0,
+            "other": 2,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "ihAvU833DHA",
+      "mal_ids": [
+        63751
+      ],
+      "observed_at": "2026-10-28T16:11:26.745172+00:00",
+      "url": "https://www.youtube.com/watch?v=ihAvU833DHA",
+      "video_title": "TVアニメ『TANK CHAIR-戦車椅子-』メインPV 第2弾 ｜ 2026年10月4日より放送開始！",
+      "channel_id": "UCQ5URCSs1f5Cz9rh-cDGxNQ",
+      "channel_title": "バンダイナムコフィルムワークス チャンネル",
+      "publisher": "バンダイナムコフィルムワークス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-17T03:00:00Z",
+      "region_restriction": null,
+      "view_count": 283141,
+      "like_count": 1042,
+      "comment_count": 54,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 45,
+          "unique_commenters": 42,
+          "language_counts": {
+            "english": 5,
+            "japanese": 34,
+            "other": 2,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 47,
+          "unique_commenters": 44,
+          "language_counts": {
+            "english": 5,
+            "japanese": 36,
+            "other": 2,
+            "ambiguous": 4
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "kXqx3rFSkxc",
+      "mal_ids": [
+        62922
+      ],
+      "observed_at": "2026-10-28T16:11:28.173323+00:00",
+      "url": "https://www.youtube.com/watch?v=kXqx3rFSkxc",
+      "video_title": "TVアニメ『貸した魔力は【リボ払い】で強制徴収』PV第2弾 | 2026年10月3日（土）放送開始！",
+      "channel_id": "UC14n_UnoAG2woIvYlk1p_8A",
+      "channel_title": "tv asahi  animation YouTubeチャンネル",
+      "publisher": "tv asahi  animation YouTubeチャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-08T10:00:37Z",
+      "region_restriction": null,
+      "view_count": 220384,
+      "like_count": 1891,
+      "comment_count": 166,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 8,
+            "japanese": 87,
+            "other": 1,
+            "ambiguous": 4
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 9,
+            "japanese": 85,
+            "other": 3,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "vnOrtJ4vRmw",
+      "mal_ids": [
+        64180
+      ],
+      "observed_at": "2026-10-28T16:11:29.681858+00:00",
+      "url": "https://www.youtube.com/watch?v=vnOrtJ4vRmw",
+      "video_title": "【主題歌解禁】TVアニメ『傷だらけ聖女より報復をこめて Season2』ティザーPV | 2026年10月1日放送開始 | Juice=Juice「華麗なるリベンジャー」",
+      "channel_id": "UCIfWGlHgKEMZLZtjWvpGySQ",
+      "channel_title": "AnimationID ",
+      "publisher": "AnimationID ",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "en-GB",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-19T04:30:08Z",
+      "region_restriction": null,
+      "view_count": 81179,
+      "like_count": 2009,
+      "comment_count": 191,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 96,
+          "language_counts": {
+            "english": 1,
+            "japanese": 97,
+            "other": 2,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 2,
+            "japanese": 96,
+            "other": 1,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "wk26nTxUzPY",
+      "mal_ids": [
+        64326
+      ],
+      "observed_at": "2026-10-28T16:11:30.744084+00:00",
+      "url": "https://www.youtube.com/watch?v=wk26nTxUzPY",
+      "video_title": "アニメ「マロニエ王国の七人の騎士」PV第2弾 | The Seven Knights of the Marronnier Kingdom | Official Trailer 2",
+      "channel_id": "UCUhZuFH7DFAyz2BUI38PbNQ",
+      "channel_title": "NHK ENTERPRISES Animation",
+      "publisher": "NHK ENTERPRISES Animation",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-07T08:00:09Z",
+      "region_restriction": null,
+      "view_count": 216193,
+      "like_count": 1403,
+      "comment_count": null,
+      "comment_samples": {
+        "relevance": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        },
+        "time": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "rYpXoCdTNQI",
+      "mal_ids": [
+        62696
+      ],
+      "observed_at": "2026-10-28T16:11:32.305279+00:00",
+      "url": "https://www.youtube.com/watch?v=rYpXoCdTNQI",
+      "video_title": "【第2弾メインPV】TVアニメ『超巡！超条先輩』2026年10月6日放送開始！",
+      "channel_id": "UCt_XdtyWNVenULI5DylX8-A",
+      "channel_title": "GOOD SMILE CHANNEL",
+      "publisher": "GOOD SMILE CHANNEL",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-22T15:57:06Z",
+      "region_restriction": null,
+      "view_count": 430270,
+      "like_count": 8003,
+      "comment_count": 410,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 0,
+            "japanese": 100,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 2,
+            "japanese": 97,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "rwUPmzMpECo",
+      "mal_ids": [
+        63667
+      ],
+      "observed_at": "2026-10-28T16:11:33.617179+00:00",
+      "url": "https://www.youtube.com/watch?v=rwUPmzMpECo",
+      "video_title": "TVアニメ『魔法の姉妹ルルットリリィ』第2クールメインPV  ｜ 10月4日(日)より第2クール放送開始",
+      "channel_id": "UCQ5URCSs1f5Cz9rh-cDGxNQ",
+      "channel_title": "バンダイナムコフィルムワークス チャンネル",
+      "publisher": "バンダイナムコフィルムワークス チャンネル",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-24T10:00:30Z",
+      "region_restriction": null,
+      "view_count": 134390,
+      "like_count": 1331,
+      "comment_count": 131,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 99,
+          "unique_commenters": 93,
+          "language_counts": {
+            "english": 9,
+            "japanese": 86,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 94,
+          "language_counts": {
+            "english": 9,
+            "japanese": 87,
+            "other": 3,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "VTRVLnzhl90",
+      "mal_ids": [
+        61578
+      ],
+      "observed_at": "2026-10-28T16:11:34.885747+00:00",
+      "url": "https://www.youtube.com/watch?v=VTRVLnzhl90",
+      "video_title": "Anime “Even the Student Council Has Its Holes!” Main Trailer | Premieres 10.3.26!",
+      "channel_id": "UCDb0peSmF5rLX7BvuTcJfCw",
+      "channel_title": "Aniplex USA",
+      "publisher": "Aniplex USA",
+      "channel_market": "english_western",
+      "default_language": "en",
+      "default_audio_language": "en-US",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-29T01:00:12Z",
+      "region_restriction": {
+        "blocked": [
+          "JP"
+        ]
+      },
+      "view_count": 472251,
+      "like_count": 6540,
+      "comment_count": 408,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 83,
+            "japanese": 0,
+            "other": 16,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 73,
+            "japanese": 0,
+            "other": 24,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "qlMB8vSpLzc",
+      "mal_ids": [
+        63292
+      ],
+      "observed_at": "2026-10-28T16:11:36.257242+00:00",
+      "url": "https://www.youtube.com/watch?v=qlMB8vSpLzc",
+      "video_title": "TVアニメ「信者ゼロの女神サマと始める異世界攻略」第1弾PV｜2026年10月11日（日）23時30分より放送・配信開始！",
+      "channel_id": "UC6klcAmXIQmfAiRVyqPO--Q",
+      "channel_title": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "publisher": "博報堂DY ミュージック&ピクチャーズ【Showgate】ch",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-30T03:00:13Z",
+      "region_restriction": null,
+      "view_count": 415357,
+      "like_count": 3185,
+      "comment_count": 175,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 30,
+            "japanese": 57,
+            "other": 7,
+            "ambiguous": 6
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 32,
+            "japanese": 51,
+            "other": 10,
+            "ambiguous": 7
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "cH7enqqATwE",
+      "mal_ids": [
+        64430
+      ],
+      "observed_at": "2026-10-28T16:11:37.317956+00:00",
+      "url": "https://www.youtube.com/watch?v=cH7enqqATwE",
+      "video_title": "TVアニメ『ゆるゆる図鑑』ティザーPV|2026年10月よりテレ東系列6局ネット「アニもり！」内にて放送開始！",
+      "channel_id": "UCuhWqrSSm2WgXaq5cs6o0LA",
+      "channel_title": "テレ東アニメKids",
+      "publisher": "テレ東アニメKids",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-07-15T01:01:48Z",
+      "region_restriction": null,
+      "view_count": 5993,
+      "like_count": 71,
+      "comment_count": null,
+      "comment_samples": {
+        "relevance": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        },
+        "time": {
+          "status": "unavailable",
+          "http_status": 403,
+          "sample_size": 0,
+          "unique_commenters": 0,
+          "language_counts": {}
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "cXd4pKTx2pI",
+      "mal_ids": [
+        63818
+      ],
+      "observed_at": "2026-10-28T16:11:38.832382+00:00",
+      "url": "https://www.youtube.com/watch?v=cXd4pKTx2pI",
+      "video_title": "【完全新作】TVアニメ『Battle Spirits [Re] 絶界の空』Main Trailer",
+      "channel_id": "UCwWsJ1jH1fRUm55-jY0XS2w",
+      "channel_title": "BattleSpirits",
+      "publisher": "BattleSpirits",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": "ja",
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-08-25T08:00:15Z",
+      "region_restriction": null,
+      "view_count": 154781,
+      "like_count": 1502,
+      "comment_count": 197,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 97,
+          "language_counts": {
+            "english": 14,
+            "japanese": 81,
+            "other": 3,
+            "ambiguous": 2
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 95,
+          "language_counts": {
+            "english": 13,
+            "japanese": 79,
+            "other": 5,
+            "ambiguous": 3
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "DO_UchIVN9Y",
+      "mal_ids": [
+        64028
+      ],
+      "observed_at": "2026-10-28T16:11:40.176922+00:00",
+      "url": "https://www.youtube.com/watch?v=DO_UchIVN9Y",
+      "video_title": "【公式】TVアニメ「タヌキとキツネ」★本編映像初公開！10月4日（日）から毎週日曜あさ７時よりテレ東系6局ネット「アニもり！」内にて放送スタート！",
+      "channel_id": "UC3wEaRK3h93UehXbg9YRcmQ",
+      "channel_title": "タヌキとキツネ【公式】",
+      "publisher": "タヌキとキツネ【公式】",
+      "channel_market": "japanese",
+      "default_language": "ja",
+      "default_audio_language": null,
+      "video_text_language_bucket": "japanese",
+      "published_at": "2026-09-04T01:00:17Z",
+      "region_restriction": null,
+      "view_count": 231628,
+      "like_count": 5991,
+      "comment_count": 178,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 98,
+          "language_counts": {
+            "english": 0,
+            "japanese": 100,
+            "other": 0,
+            "ambiguous": 0
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 99,
+          "language_counts": {
+            "english": 1,
+            "japanese": 98,
+            "other": 0,
+            "ambiguous": 1
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "anilist"
+      ],
+      "verified_official": null,
+      "registry_notes": null,
+      "identity_status": "AniList-linked trailer; channel market inferred"
+    },
+    {
+      "video_id": "n0ugKku1fzc",
+      "mal_ids": [
+        61323
+      ],
+      "observed_at": "2026-10-28T16:11:41.732504+00:00",
+      "url": "https://www.youtube.com/watch?v=n0ugKku1fzc",
+      "video_title": "Blue Box Season 2 | Official Trailer | Netflix",
+      "channel_id": "UCBSs9x2KzSLhyyA9IKyt4YA",
+      "channel_title": "Netflix Anime",
+      "publisher": "Netflix Anime",
+      "channel_market": "english_global",
+      "default_language": "en",
+      "default_audio_language": "en-US",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-09-01T00:00:01Z",
+      "region_restriction": null,
+      "view_count": 856855,
+      "like_count": 14114,
+      "comment_count": 915,
+      "comment_samples": {
+        "relevance": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 100,
+          "language_counts": {
+            "english": 89,
+            "japanese": 0,
+            "other": 10,
+            "ambiguous": 1
+          },
+          "order": "relevance",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        },
+        "time": {
+          "status": "success",
+          "sample_size": 100,
+          "unique_commenters": 93,
+          "language_counts": {
+            "english": 62,
+            "japanese": 4,
+            "other": 29,
+            "ambiguous": 5
+          },
+          "order": "time",
+          "scope": "top_level_comment_threads_first_page_max_100"
+        }
+      },
+      "discovery_sources": [
+        "verified_registry"
+      ],
+      "verified_official": true,
+      "registry_notes": "Official Blue Box Season 2 main trailer on the verified Netflix Anime channel.",
+      "identity_status": "verified registry entry"
+    },
+    {
+      "video_id": "h4amrgzStvU",
+      "mal_ids": [
+        61323
+      ],
+      "observed_at": "2026-10-28T16:11:43.597811+00:00",
+      "url": "https://www.youtube.com/watch?v=h4amrgzStvU",
+      "video_title": "Blue Box Season 2 | Official Teaser | Netflix",
+      "channel_id": "UCBSs9x2KzSLhyyA9IKyt4YA",
+      "channel_title": "Netflix Anime",
+      "publisher": "Netflix Anime",
+      "channel_market": "english_global",
+      "default_language": "en",
+      "default_audio_language": "en-US",
+      "video_text_language_bucket": "english",
+      "published_at": "2026-03-28T01:45:01Z",
+      "region_restriction": null,
+      "view_count": 651665,
+      "like_count": 24924,
+      "comment_count": 1787,
       "comment_samples": {
         "relevance": {
           "status": "success",
