@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-10-11 screenshot",
-  "active": [53913, 61323, 60601, 64534, 63801],
-  "bench": [52480, 57612, 63293],
-  "ace_used": null
+  "as_of": "2026-10-31 user-provided screenshot and Ace history",
+  "active": [53913, 61323, 60601, 63293, 63801],
+  "bench": [52480, 57612, 64534],
+  "ace_used": [64534, 61323, 63293]
 }
