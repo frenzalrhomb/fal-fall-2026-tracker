@@ -2,12 +2,25 @@ import datetime as dt
 import unittest
 from fal_points import cutoff, current_week, nearest_cutoff, score_row, weekly_rows
 from scoring import weekly_components
-from reporting import build_report
+from reporting import build_report, team_points_table
 
 UTC = dt.timezone.utc
 
 
 class WeekPointsTests(unittest.TestCase):
+    def test_live_50000_ace_threshold_includes_completed(self):
+        anime = {'mal_id': 53913, 'title': 'Sword', 'restricted': True, 'premiere_date_jst': '2026-10-01'}
+        moment = cutoff(1)-dt.timedelta(hours=1)
+        snap = {'mal_id': 53913, 'source': 'mal_official', 'observed_at': moment.isoformat(),
+                'airing_status': 'currently_airing', 'metrics': {'watching': 49999, 'completed': 1}}
+        state = {'roster': [anime], 'snapshots': [snap]}
+        table = '\n'.join(team_points_table(state, 1, moment, {}, {}))
+        self.assertIn('50,000 check', table)
+        self.assertIn('| Yes |', table)
+        snap['metrics']['completed'] = 2
+        table = '\n'.join(team_points_table(state, 1, moment, {}, {}))
+        self.assertIn('| No |', table)
+
     def test_calendar_and_mixed_bonus_rules(self):
         self.assertEqual(cutoff(1).isoformat(), "2026-10-04T22:00:00+00:00")
         self.assertEqual(cutoff(13).isoformat(), "2026-12-27T22:00:00+00:00")
@@ -55,3 +68,4 @@ class WeekPointsTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
