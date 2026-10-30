@@ -5,6 +5,8 @@ from discussions import latest_discussion
 
 UTC = dt.timezone.utc
 FIRST_CUTOFF = dt.datetime(2026, 10, 4, 22, tzinfo=UTC)
+# Verified against the live Fall 2026 rules on October 31.
+ACE_THRESHOLD = 50000
 
 
 def timestamp(record):

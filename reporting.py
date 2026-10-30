@@ -4,7 +4,7 @@ import datetime as dt
 import json
 import statistics
 from pathlib import Path
-from fal_points import cutoff, current_week, weekly_rows, rates, timestamp
+from fal_points import cutoff, current_week, weekly_rows, rates, timestamp, ACE_THRESHOLD
 from discussions import latest_discussion, TEAM_IDS
 
 UTC = dt.timezone.utc
@@ -155,9 +155,9 @@ def team_points_table(state, week, moment, english, discussion_state):
     rows = weekly_rows(state, week, moment, discussion_state=discussion_state)
     selected = {r['anime']['mal_id']: r for r in rows if r['anime']['mal_id'] in TEAM_IDS}
     lines = ["### Your roster — weekly comparison", "",
-             "Roster positions are from your October 11 screenshot; update team_config.json after a swap or Ace attempt. "
+             "Roster positions and Ace history are recorded in team_config.json; update it after a swap or Ace attempt. "
              "These estimates use separately timestamped observations, excluding Ace and wildcard. "
-             "The 60,000 check uses Watching + Completed, not total members. "
+             f"The {ACE_THRESHOLD:,} check uses Watching + Completed, not total members. "
              "A title must also be unused as an Ace and finish highest among the five active titles. "
              "An unknown component prevents a complete point comparison; do not infer an Ace winner from a partial subtotal. "
              "The discussion scenario includes all counted posters, assuming FAL recognizes every discovered thread; it is not a prediction.", "",
@@ -172,7 +172,7 @@ def team_points_table(state, week, moment, english, discussion_state):
                 continue
             m, p = row['metrics'], row['points']
             wc = m['watching']+m['completed'] if all(m.get(k) is not None for k in ('watching', 'completed')) else None
-            threshold = 'Unknown' if wc is None else 'Yes' if wc <= 60000 else 'No'
+            threshold = 'Unknown' if wc is None else 'Yes' if wc <= ACE_THRESHOLD else 'No'
             if config.get('ace_used') is not None and mid in config['ace_used']:
                 threshold += '; Ace already used'
             total = fmt(p['total'], 2) if p['total'] is not None else f"≥{fmt(p['known_subtotal'], 2)} (incomplete)" if all(p[k] is not None for k in ('score','dropped','favorites')) else f"{fmt(p['known_subtotal'], 2)} known only"
