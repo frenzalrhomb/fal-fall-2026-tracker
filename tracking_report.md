@@ -1,6 +1,6 @@
 # FAL Fall 2026 — live evidence report
 
-Generated: 2026-11-11T17:29:37.945833+00:00
+Generated: 2026-11-12T17:53:26.520244+00:00
 
 This is an evidence report, not a forecast or recommended team.
 Registration closed September 27 at 22:00 UTC. Only two restricted titles could be selected.
@@ -27,75 +27,75 @@ Raw Watching + Completed before airing is not FAL scoring audience. The rules se
 
 | Title | Restricted | MAL members | PTW | Members/day | %/day | Pace change | Days | Snapshot UTC |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | Yes | 117,808 | 82,672 | 182.5 | 0.16 | -33.4 | 55 | 2026-11-11T17:13:06.510892+00:00 |
-| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | Yes | 106,550 | 60,788 | 330.8 | 0.31 | 97.3 | 55 | 2026-11-11T17:13:25.073347+00:00 |
-| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | No | 93,763 | 43,489 | 659.0 | 0.72 | -75.9 | 55 | 2026-11-11T17:13:51.628657+00:00 |
-| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | Yes | 86,372 | 52,370 | 231.6 | 0.27 | -3.8 | 55 | 2026-11-11T17:13:13.146449+00:00 |
-| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | No | 82,815 | 34,887 | 927.5 | 1.16 | 486.9 | 55 | 2026-11-11T17:13:26.401300+00:00 |
-| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | No | 75,043 | 29,061 | 336.7 | 0.45 | -34.9 | 55 | 2026-11-11T17:14:31.123699+00:00 |
-| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | No | 68,543 | 19,161 | 736.0 | 1.11 | 174.9 | 55 | 2026-11-11T17:14:24.590484+00:00 |
-| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | No | 67,853 | 55,170 | 63.1 | 0.09 | -10.6 | 55 | 2026-11-11T17:13:05.144920+00:00 |
-| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | No | 61,914 | 40,319 | 122.0 | 0.20 | -33.7 | 55 | 2026-11-11T17:13:10.505834+00:00 |
-| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | No | 60,234 | 33,049 | 183.2 | 0.31 | 30.1 | 55 | 2026-11-11T17:13:18.392736+00:00 |
-| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | No | 58,474 | 25,508 | 706.3 | 1.25 | 338.3 | 55 | 2026-11-11T17:13:58.400923+00:00 |
-| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | No | 54,232 | 23,549 | 218.8 | 0.41 | 45.9 | 55 | 2026-11-11T17:13:54.400062+00:00 |
-| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | Yes | 52,471 | 27,098 | 188.7 | 0.36 | 47.1 | 55 | 2026-11-11T17:13:27.759513+00:00 |
-| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | No | 44,214 | 18,378 | 306.7 | 0.71 | 92.4 | 55 | 2026-11-11T17:13:57.065885+00:00 |
-| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | No | 42,789 | 16,885 | 147.0 | 0.35 | 9.5 | 55 | 2026-11-11T17:13:46.384970+00:00 |
-| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | No | 41,918 | 19,048 | 124.5 | 0.30 | 19.7 | 55 | 2026-11-11T17:14:08.868208+00:00 |
-| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | No | 38,893 | 14,520 | 304.6 | 0.80 | 107.4 | 55 | 2026-11-11T17:13:19.696912+00:00 |
-| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | No | 36,546 | 19,998 | 121.6 | 0.34 | -21.0 | 55 | 2026-11-11T17:13:49.024545+00:00 |
-| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | No | 35,649 | 14,130 | 218.5 | 0.62 | 62.3 | 55 | 2026-11-11T17:13:09.162097+00:00 |
-| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | No | 34,762 | 18,649 | 113.7 | 0.33 | -64.4 | 55 | 2026-11-11T17:14:20.632845+00:00 |
-| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | No | 34,747 | 15,280 | 178.1 | 0.52 | 94.0 | 55 | 2026-11-11T17:13:45.084884+00:00 |
-| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | No | 34,745 | 21,116 | 72.0 | 0.21 | -16.3 | 55 | 2026-11-11T17:13:11.818045+00:00 |
-| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | No | 34,316 | 14,806 | 189.5 | 0.56 | 21.8 | 55 | 2026-11-11T17:14:06.240422+00:00 |
-| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | No | 33,964 | 11,746 | 231.4 | 0.69 | 57.0 | 55 | 2026-11-11T17:13:17.099528+00:00 |
-| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | No | 33,753 | 14,722 | 150.4 | 0.45 | 14.5 | 55 | 2026-11-11T17:13:23.702497+00:00 |
-| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | No | 33,119 | 10,414 | 216.0 | 0.66 | 50.9 | 55 | 2026-11-11T17:13:42.469979+00:00 |
-| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | No | 32,959 | 12,197 | 132.7 | 0.41 | -17.8 | 55 | 2026-11-11T17:13:52.936847+00:00 |
-| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | No | 32,167 | 20,034 | 111.1 | 0.35 | 20.3 | 55 | 2026-11-11T17:13:31.804551+00:00 |
-| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | No | 31,803 | 16,429 | 171.0 | 0.55 | -68.5 | 55 | 2026-11-11T17:13:20.991533+00:00 |
-| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | No | 30,027 | 8,963 | 154.8 | 0.52 | -7.1 | 55 | 2026-11-11T17:14:02.284238+00:00 |
-| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | No | 29,171 | 11,021 | 343.3 | 1.22 | 145.6 | 55 | 2026-11-11T17:13:50.328676+00:00 |
-| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | No | 28,529 | 9,734 | 215.7 | 0.77 | -62.0 | 55 | 2026-11-11T17:14:16.706357+00:00 |
-| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | No | 27,790 | 13,346 | 157.2 | 0.57 | 4.1 | 55 | 2026-11-11T17:13:29.141291+00:00 |
-| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | No | 25,801 | 10,804 | 140.7 | 0.55 | 31.2 | 55 | 2026-11-11T17:13:39.789718+00:00 |
-| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | No | 22,926 | 12,093 | 50.1 | 0.22 | -10.1 | 55 | 2026-11-11T17:13:14.448515+00:00 |
-| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | No | 21,509 | 13,680 | 67.2 | 0.32 | 10.6 | 55 | 2026-11-11T17:14:28.505548+00:00 |
-| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | No | 21,404 | 8,022 | 156.6 | 0.75 | 48.7 | 55 | 2026-11-11T17:13:59.692522+00:00 |
-| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | No | 19,768 | 8,316 | 93.2 | 0.48 | 20.7 | 55 | 2026-11-11T17:13:33.155489+00:00 |
-| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | No | 14,675 | 10,198 | 37.1 | 0.25 | 17.9 | 55 | 2026-11-11T17:13:07.801827+00:00 |
-| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | No | 14,524 | 6,992 | 56.0 | 0.39 | 10.8 | 55 | 2026-11-11T17:14:03.598558+00:00 |
-| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | No | 12,238 | 5,083 | 100.6 | 0.84 | -2.2 | 55 | 2026-11-11T17:13:41.099244+00:00 |
-| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | No | 12,148 | 6,555 | 34.2 | 0.28 | 7.7 | 55 | 2026-11-11T17:13:22.346554+00:00 |
-| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | No | 11,844 | 4,620 | 52.8 | 0.45 | 15.4 | 55 | 2026-11-11T17:13:38.482702+00:00 |
-| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | No | 10,938 | 5,102 | 36.1 | 0.33 | 10.1 | 55 | 2026-11-11T17:14:04.939129+00:00 |
-| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | No | 10,720 | 4,934 | 37.6 | 0.35 | 7.5 | 55 | 2026-11-11T17:14:23.242609+00:00 |
-| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | No | 10,713 | 5,877 | 40.2 | 0.38 | -4.4 | 55 | 2026-11-11T17:14:29.820597+00:00 |
-| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | No | 10,106 | 4,637 | 59.8 | 0.60 | 27.1 | 55 | 2026-11-11T17:14:18.024046+00:00 |
-| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | No | 8,681 | 4,406 | 24.6 | 0.29 | -14.3 | 55 | 2026-11-11T17:13:37.145772+00:00 |
-| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | No | 7,893 | 4,448 | 18.2 | 0.23 | 4.2 | 55 | 2026-11-11T17:13:35.844286+00:00 |
-| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | No | 7,818 | 3,554 | 25.3 | 0.33 | -3.8 | 55 | 2026-11-11T17:13:43.775708+00:00 |
-| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | No | 7,693 | 3,517 | 14.9 | 0.19 | 2.4 | 55 | 2026-11-11T17:14:07.538682+00:00 |
-| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | No | 7,300 | 4,309 | 37.6 | 0.52 | 8.5 | 55 | 2026-11-11T17:14:21.941805+00:00 |
-| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | No | 6,553 | 4,416 | 19.5 | 0.30 | -4.9 | 55 | 2026-11-11T17:14:19.328917+00:00 |
-| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | No | 6,115 | 2,630 | 25.0 | 0.41 | 2.6 | 55 | 2026-11-11T17:13:55.752443+00:00 |
-| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | No | 5,594 | 2,952 | 29.8 | 0.54 | 6.4 | 55 | 2026-11-11T17:13:15.802688+00:00 |
-| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | No | 5,031 | 2,562 | 9.5 | 0.19 | 6.9 | 55 | 2026-11-11T17:13:47.730793+00:00 |
-| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | No | 4,782 | 2,074 | 14.3 | 0.30 | -5.5 | 55 | 2026-11-11T17:14:25.889606+00:00 |
-| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | No | 4,045 | 2,306 | 10.8 | 0.27 | -5.3 | 55 | 2026-11-11T17:14:33.730313+00:00 |
-| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | No | 3,472 | 2,033 | 5.0 | 0.14 | -4.9 | 55 | 2026-11-11T17:13:34.458026+00:00 |
-| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | No | 3,314 | 1,740 | 9.5 | 0.29 | 1.8 | 55 | 2026-11-11T17:14:10.199779+00:00 |
-| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | No | 2,409 | 1,320 | 8.9 | 0.37 | 1.7 | 55 | 2026-11-11T17:14:00.990451+00:00 |
-| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | No | 1,151 | 827 | 7.1 | 0.62 | -8.5 | 55 | 2026-11-11T17:14:14.108254+00:00 |
-| [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | No | 577 | 218 | 3.0 | 0.52 | 1.9 | 55 | 2026-11-11T17:13:30.501523+00:00 |
-| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | No | 384 | 210 | 2.0 | 0.53 | 1.0 | 55 | 2026-11-11T17:14:15.406212+00:00 |
-| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | No | 384 | 176 | 3.3 | 0.89 | 0.7 | 55 | 2026-11-11T17:14:32.426265+00:00 |
-| [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | No | 359 | 220 | 2.0 | 0.56 | 1.0 | 55 | 2026-11-11T17:14:12.797606+00:00 |
-| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | No | 272 | 180 | 1.2 | 0.45 | 0.7 | 55 | 2026-11-11T17:14:27.195081+00:00 |
-| [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | No | 158 | 86 | 0.4 | 0.28 | -0.6 | 55 | 2026-11-11T17:14:11.501063+00:00 |
-| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | No | 136 | 63 | 0.4 | 0.32 | -0.1 | 55 | 2026-11-11T17:14:35.033212+00:00 |
+| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | Yes | 118,056 | 82,670 | 201.1 | 0.17 | -17.9 | 56 | 2026-11-12T17:37:47.633295+00:00 |
+| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | Yes | 106,804 | 60,781 | 286.9 | 0.27 | -6.0 | 56 | 2026-11-12T17:38:05.710967+00:00 |
+| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | No | 94,298 | 43,613 | 595.8 | 0.64 | -340.8 | 56 | 2026-11-12T17:38:31.144854+00:00 |
+| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | Yes | 86,541 | 52,354 | 208.8 | 0.24 | -89.9 | 56 | 2026-11-12T17:37:54.181814+00:00 |
+| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | No | 83,595 | 35,179 | 829.2 | 1.02 | -123.5 | 56 | 2026-11-12T17:38:07.007362+00:00 |
+| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | No | 75,347 | 29,101 | 318.5 | 0.43 | -67.0 | 56 | 2026-11-12T17:39:09.586688+00:00 |
+| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | No | 69,149 | 19,267 | 658.7 | 0.98 | -3.2 | 56 | 2026-11-12T17:39:02.985693+00:00 |
+| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | No | 67,924 | 55,180 | 62.4 | 0.09 | -14.6 | 56 | 2026-11-12T17:37:46.293809+00:00 |
+| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | No | 62,129 | 40,307 | 147.2 | 0.24 | -28.1 | 56 | 2026-11-12T17:37:51.606902+00:00 |
+| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | No | 60,380 | 33,041 | 156.8 | 0.26 | -21.8 | 56 | 2026-11-12T17:37:59.347188+00:00 |
+| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | No | 59,020 | 25,667 | 682.6 | 1.20 | 262.3 | 56 | 2026-11-12T17:38:37.455718+00:00 |
+| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | No | 54,380 | 23,524 | 172.5 | 0.32 | -56.6 | 56 | 2026-11-12T17:38:33.672462+00:00 |
+| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | Yes | 52,622 | 27,078 | 175.1 | 0.34 | -16.3 | 56 | 2026-11-12T17:38:08.270438+00:00 |
+| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | No | 44,507 | 18,475 | 336.8 | 0.77 | 89.5 | 56 | 2026-11-12T17:38:36.191413+00:00 |
+| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | No | 42,942 | 16,921 | 150.6 | 0.35 | -66.6 | 56 | 2026-11-12T17:38:26.038744+00:00 |
+| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | No | 42,021 | 19,037 | 114.6 | 0.27 | -37.2 | 56 | 2026-11-12T17:38:47.620945+00:00 |
+| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | No | 39,139 | 14,594 | 271.8 | 0.71 | 18.1 | 56 | 2026-11-12T17:38:00.667201+00:00 |
+| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | No | 36,682 | 20,012 | 121.3 | 0.33 | -46.9 | 56 | 2026-11-12T17:38:28.599495+00:00 |
+| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | No | 35,800 | 14,165 | 187.7 | 0.53 | -107.6 | 56 | 2026-11-12T17:37:50.345079+00:00 |
+| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | No | 34,882 | 15,301 | 168.8 | 0.49 | 75.3 | 56 | 2026-11-12T17:38:24.776206+00:00 |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | No | 34,866 | 18,656 | 114.0 | 0.33 | -33.1 | 56 | 2026-11-12T17:38:59.036732+00:00 |
+| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | No | 34,843 | 21,108 | 80.4 | 0.23 | 4.4 | 56 | 2026-11-12T17:37:52.916860+00:00 |
+| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | No | 34,531 | 14,879 | 214.3 | 0.63 | 51.1 | 56 | 2026-11-12T17:38:45.074486+00:00 |
+| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | No | 34,177 | 11,791 | 226.6 | 0.68 | -50.3 | 56 | 2026-11-12T17:37:58.030607+00:00 |
+| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | No | 33,860 | 14,723 | 129.5 | 0.39 | -72.3 | 56 | 2026-11-12T17:38:04.448832+00:00 |
+| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | No | 33,299 | 10,445 | 197.4 | 0.60 | -94.3 | 56 | 2026-11-12T17:38:22.243767+00:00 |
+| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | No | 33,126 | 12,253 | 143.1 | 0.44 | -14.8 | 56 | 2026-11-12T17:38:32.409447+00:00 |
+| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | No | 32,292 | 20,026 | 120.7 | 0.38 | 13.2 | 56 | 2026-11-12T17:38:12.125731+00:00 |
+| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | No | 31,966 | 16,493 | 161.3 | 0.51 | -147.6 | 56 | 2026-11-12T17:38:01.924520+00:00 |
+| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | No | 30,155 | 8,983 | 138.9 | 0.47 | -50.0 | 56 | 2026-11-12T17:38:41.260939+00:00 |
+| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | No | 29,410 | 11,058 | 284.9 | 1.00 | 28.0 | 56 | 2026-11-12T17:38:29.884978+00:00 |
+| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | No | 28,943 | 9,832 | 283.9 | 1.01 | 8.9 | 56 | 2026-11-12T17:38:55.239482+00:00 |
+| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | No | 27,916 | 13,388 | 142.6 | 0.52 | -58.3 | 56 | 2026-11-12T17:38:09.527900+00:00 |
+| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | No | 25,921 | 10,834 | 126.1 | 0.49 | -14.6 | 56 | 2026-11-12T17:38:19.709783+00:00 |
+| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | No | 22,980 | 12,104 | 52.1 | 0.23 | -5.1 | 56 | 2026-11-12T17:37:55.451254+00:00 |
+| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | No | 21,561 | 13,690 | 57.1 | 0.27 | -22.5 | 56 | 2026-11-12T17:39:06.944416+00:00 |
+| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | No | 21,495 | 8,039 | 114.7 | 0.54 | -18.0 | 56 | 2026-11-12T17:38:38.716826+00:00 |
+| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | No | 19,831 | 8,336 | 75.2 | 0.38 | -48.6 | 56 | 2026-11-12T17:38:13.392474+00:00 |
+| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | No | 14,712 | 10,209 | 40.3 | 0.28 | 9.2 | 56 | 2026-11-12T17:37:48.929176+00:00 |
+| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | No | 14,566 | 6,994 | 45.7 | 0.32 | -4.9 | 56 | 2026-11-12T17:38:42.524723+00:00 |
+| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | No | 12,311 | 5,111 | 88.5 | 0.73 | -0.1 | 56 | 2026-11-12T17:38:20.979896+00:00 |
+| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | No | 12,198 | 6,569 | 42.8 | 0.35 | 11.1 | 56 | 2026-11-12T17:38:03.185810+00:00 |
+| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | No | 11,893 | 4,642 | 57.0 | 0.49 | 10.6 | 56 | 2026-11-12T17:38:18.454966+00:00 |
+| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | No | 10,965 | 5,110 | 33.7 | 0.31 | -0.9 | 56 | 2026-11-12T17:38:43.795459+00:00 |
+| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | No | 10,759 | 4,943 | 38.4 | 0.36 | -11.4 | 56 | 2026-11-12T17:39:01.640753+00:00 |
+| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | No | 10,739 | 5,883 | 32.4 | 0.30 | -18.6 | 56 | 2026-11-12T17:39:08.277330+00:00 |
+| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | No | 10,128 | 4,648 | 42.0 | 0.42 | -1.9 | 56 | 2026-11-12T17:38:56.498186+00:00 |
+| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | No | 8,701 | 4,412 | 21.7 | 0.25 | -7.9 | 56 | 2026-11-12T17:38:17.181223+00:00 |
+| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | No | 7,905 | 4,447 | 14.8 | 0.19 | -7.3 | 56 | 2026-11-12T17:38:15.921469+00:00 |
+| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | No | 7,836 | 3,557 | 23.8 | 0.31 | -28.6 | 56 | 2026-11-12T17:38:23.509422+00:00 |
+| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | No | 7,708 | 3,519 | 12.4 | 0.16 | -11.2 | 56 | 2026-11-12T17:38:46.331600+00:00 |
+| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | No | 7,335 | 4,316 | 31.1 | 0.43 | -2.0 | 56 | 2026-11-12T17:39:00.313554+00:00 |
+| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | No | 6,577 | 4,428 | 18.2 | 0.28 | -7.0 | 56 | 2026-11-12T17:38:57.777166+00:00 |
+| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | No | 6,134 | 2,636 | 17.0 | 0.28 | -6.4 | 56 | 2026-11-12T17:38:34.932466+00:00 |
+| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | No | 5,608 | 2,956 | 29.4 | 0.53 | 10.8 | 56 | 2026-11-12T17:37:56.736096+00:00 |
+| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | No | 5,035 | 2,560 | 7.8 | 0.16 | -0.9 | 56 | 2026-11-12T17:38:27.339450+00:00 |
+| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | No | 4,807 | 2,082 | 14.0 | 0.29 | -9.6 | 56 | 2026-11-12T17:39:04.293576+00:00 |
+| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | No | 4,059 | 2,316 | 10.4 | 0.26 | -9.9 | 56 | 2026-11-12T17:39:12.225917+00:00 |
+| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | No | 3,484 | 2,036 | 7.5 | 0.22 | -2.2 | 56 | 2026-11-12T17:38:14.654960+00:00 |
+| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | No | 3,322 | 1,743 | 9.7 | 0.30 | 1.0 | 56 | 2026-11-12T17:38:48.895662+00:00 |
+| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | No | 2,418 | 1,321 | 9.2 | 0.39 | 2.4 | 56 | 2026-11-12T17:38:39.999204+00:00 |
+| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | No | 1,154 | 819 | 3.8 | 0.33 | -19.6 | 56 | 2026-11-12T17:38:52.683214+00:00 |
+| [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | No | 579 | 220 | 2.4 | 0.41 | 1.5 | 56 | 2026-11-12T17:38:10.864473+00:00 |
+| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | No | 383 | 210 | 1.4 | 0.37 | 1.0 | 56 | 2026-11-12T17:38:53.967094+00:00 |
+| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | No | 383 | 175 | 2.7 | 0.71 | 0.4 | 56 | 2026-11-12T17:39:10.848637+00:00 |
+| [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | No | 359 | 220 | 1.7 | 0.49 | 0.9 | 56 | 2026-11-12T17:38:51.420580+00:00 |
+| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | No | 271 | 179 | 0.3 | 0.11 | 0.3 | 56 | 2026-11-12T17:39:05.681256+00:00 |
+| [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | No | 158 | 86 | 0.3 | 0.19 | -0.6 | 56 | 2026-11-12T17:38:50.156473+00:00 |
+| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | No | 136 | 63 | 0.3 | 0.22 | 0.3 | 56 | 2026-11-12T17:39:13.488311+00:00 |
 
 ## FAL inputs and schedule
 
@@ -103,73 +103,73 @@ Every title below links directly to its MAL Stats page. English labels are offic
 
 | Title (MAL Stats) | Watching | Completed | W+C | Dropped | Score | Scorers | Status | Premiere |
 |---|---:|---:|---:|---:|---:|---:|---|---|
-| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,508 | 5 | 33,513 | 838 | 7.51 | 6,265 | currently_airing | 2026-10-08 |
-| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,417 | 6 | 44,423 | 490 | 8.15 | 8,648 | currently_airing | 2026-10-04 |
-| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 47,918 | 8 | 47,926 | 1,436 | 7.74 | 9,514 | currently_airing | 2026-10-09 |
-| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | 32,723 | 17 | 32,740 | 494 | 7.81 | 6,217 | currently_airing | 2026-10-03 |
-| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | 45,535 | 4 | 45,539 | 1,549 | 7.71 | 10,140 | currently_airing | 2026-10-04 |
-| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 44,990 | 5 | 44,995 | 307 | 8.33 | 9,742 | currently_airing | 2026-10-02 |
-| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | 47,643 | 3 | 47,646 | 989 | 7.51 | 10,409 | currently_airing | 2026-10-02 |
-| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,434 | 2 | 11,436 | 798 | 6.92 | 2,315 | currently_airing | 2026-10-07 |
-| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,330 | 3 | 20,333 | 672 | 7.02 | 3,394 | currently_airing | 2026-10-08 |
-| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,129 | 7 | 26,136 | 487 | 7.37 | 4,806 | currently_airing | 2026-09-28 |
-| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | 31,574 | 4 | 31,578 | 835 | 7.57 | 6,538 | currently_airing | 2026-10-05 |
-| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | 29,801 | 6 | 29,807 | 408 | 8.20 | 7,148 | currently_airing | 2026-10-11 |
-| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | 24,706 | 2 | 24,708 | 205 | 8.26 | 4,877 | currently_airing | 2026-10-04 |
-| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | 24,336 | 0 | 24,336 | 1,015 | 7.43 | 5,334 | currently_airing | 2026-10-06 |
-| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | 25,043 | 4 | 25,047 | 410 | 7.50 | 4,741 | currently_airing | 2026-10-03 |
-| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,216 | 2 | 22,218 | 246 | 7.89 | 4,340 | currently_airing | 2026-10-04 |
-| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | 22,765 | 1 | 22,766 | 1,112 | 6.84 | 4,968 | currently_airing | 2026-10-04 |
-| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | 15,778 | 2 | 15,780 | 340 | 7.30 | 2,890 | currently_airing | 2026-10-02 |
-| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | 20,089 | 3 | 20,092 | 1,004 | 6.86 | 4,593 | currently_airing | 2026-10-04 |
-| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 14,864 | 8 | 14,872 | 799 | 6.45 | 2,728 | currently_airing | 2026-10-09 |
-| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | 17,630 | 1 | 17,631 | 1,416 | 6.88 | 4,001 | currently_airing | 2026-10-05 |
-| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | 12,990 | 2 | 12,992 | 369 | 7.22 | 2,583 | currently_airing | 2026-10-07 |
-| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | 17,537 | 4 | 17,541 | 1,532 | 6.69 | 4,222 | currently_airing | 2026-10-06 |
-| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | 21,111 | 1 | 21,112 | 720 | 7.28 | 4,471 | currently_airing | 2026-10-05 |
-| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | 17,885 | 3 | 17,888 | 815 | 7.07 | 3,935 | currently_airing | 2026-10-03 |
-| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | 21,420 | 2 | 21,422 | 905 | 6.26 | 4,369 | currently_airing | 2026-10-04 |
-| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | 18,549 | 3 | 18,552 | 1,754 | 7.00 | 4,460 | currently_airing | 2026-10-01 |
-| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | 11,588 | 2 | 11,590 | 261 | 7.61 | 2,386 | currently_airing | 2026-10-13 |
-| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | 14,327 | 2 | 14,329 | 578 | 7.42 | 2,794 | currently_airing | 2026-10-09 |
-| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | 19,564 | 1 | 19,565 | 1,145 | 6.60 | 4,388 | currently_airing | 2026-10-05 |
-| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | 17,181 | 3 | 17,184 | 628 | 6.57 | 3,175 | currently_airing | 2026-10-11 |
-| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | 17,801 | 2 | 17,803 | 688 | 7.04 | 3,791 | currently_airing | 2026-10-07 |
-| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | 13,139 | 2 | 13,141 | 919 | 6.92 | 2,746 | currently_airing | 2026-10-10 |
-| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | 13,916 | 2 | 13,918 | 796 | 6.86 | 2,979 | currently_airing | 2026-10-04 |
-| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | 9,953 | 2 | 9,955 | 621 | 7.21 | 2,104 | currently_airing | 2026-10-07 |
-| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | 7,369 | 3 | 7,372 | 157 | 7.44 | 1,368 | currently_airing | 2026-10-11 |
-| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | 12,445 | 1 | 12,446 | 567 | 6.87 | 2,625 | currently_airing | 2026-10-05 |
-| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | 9,987 | 2 | 9,989 | 1,191 | 6.63 | 2,398 | currently_airing | 2026-10-03 |
-| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | 3,904 | 0 | 3,904 | 398 | 6.61 | 891 | currently_airing | 2026-10-06 |
-| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | 6,193 | 2 | 6,195 | 1,123 | 6.26 | 1,646 | currently_airing | 2026-10-04 |
-| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | 6,197 | 0 | 6,197 | 792 | 6.54 | 1,485 | currently_airing | 2026-10-04 |
-| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | 4,511 | 1 | 4,512 | 859 | 6.41 | 1,259 | currently_airing | 2026-10-03 |
-| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | 6,203 | 1 | 6,204 | 840 | 6.73 | 1,640 | currently_airing | 2026-10-06 |
-| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | 4,935 | 1 | 4,936 | 740 | 6.41 | 1,244 | currently_airing | 2026-10-05 |
-| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | 4,749 | 0 | 4,749 | 844 | 6.40 | 1,228 | currently_airing | 2026-10-03 |
-| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | 4,631 | 0 | 4,631 | 115 | 7.88 | 834 | currently_airing | 2026-10-11 |
-| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | 4,813 | 1 | 4,814 | 470 | 5.55 | 1,181 | currently_airing | 2026-10-05 |
-| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | 3,572 | 0 | 3,572 | 590 | 6.55 | 972 | currently_airing | 2026-10-09 |
-| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | 3,143 | 0 | 3,143 | 192 | 6.87 | 632 | currently_airing | 2026-10-04 |
-| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | 3,265 | 0 | 3,265 | 864 | 5.60 | 981 | currently_airing | 2026-10-10 |
-| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | 3,061 | 1 | 3,062 | 977 | 5.67 | 1,028 | currently_airing | 2026-10-03 |
-| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | 2,587 | 1 | 2,588 | 172 | 6.80 | 690 | currently_airing | 2026-10-04 |
-| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | 1,868 | 0 | 1,868 | 170 | 6.59 | 384 | currently_airing | 2026-10-02 |
-| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | 3,007 | 0 | 3,007 | 289 | 5.68 | 731 | currently_airing | 2026-10-05 |
-| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | 1,936 | 1 | 1,937 | 638 | 5.61 | 622 | currently_airing | 2026-10-14 |
-| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | 1,958 | 2 | 1,960 | 418 | 6.43 | 516 | currently_airing | 2026-10-03 |
-| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | 1,931 | 1 | 1,932 | 675 | 5.40 | 659 | currently_airing | 2026-10-08 |
-| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | 1,423 | 1 | 1,424 | 231 | 5.95 | 303 | currently_airing | 2026-09-05 |
-| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | 1,242 | 0 | 1,242 | 129 | 6.64 | 265 | currently_airing | 2026-10-01 |
-| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | 1,022 | 1 | 1,023 | 478 | 5.55 | 361 | currently_airing | 2026-10-06 |
-| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | 951 | 1 | 952 | 103 | 6.77 | 229 | currently_airing | 2026-10-04 |
-| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | 249 | 1 | 250 | 61 | — | 50 | currently_airing | 2026-11-07 |
+| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,723 | 6 | 33,729 | 857 | 7.51 | 6,349 | currently_airing | 2026-10-08 |
+| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,655 | 8 | 44,663 | 499 | 8.15 | 8,735 | currently_airing | 2026-10-04 |
+| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 48,282 | 5 | 48,287 | 1,465 | 7.74 | 9,641 | currently_airing | 2026-10-09 |
+| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | 32,904 | 9 | 32,913 | 498 | 7.82 | 6,263 | currently_airing | 2026-10-03 |
+| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | 45,970 | 5 | 45,975 | 1,562 | 7.71 | 10,283 | currently_airing | 2026-10-04 |
+| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 45,236 | 2 | 45,238 | 313 | 8.33 | 9,835 | currently_airing | 2026-10-02 |
+| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | 48,107 | 8 | 48,115 | 1,000 | 7.51 | 10,554 | currently_airing | 2026-10-02 |
+| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,468 | 3 | 11,471 | 820 | 6.91 | 2,330 | currently_airing | 2026-10-07 |
+| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,518 | 2 | 20,520 | 696 | 7.01 | 3,476 | currently_airing | 2026-10-08 |
+| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,266 | 5 | 26,271 | 492 | 7.37 | 4,852 | currently_airing | 2026-09-28 |
+| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | 31,921 | 3 | 31,924 | 848 | 7.58 | 6,665 | currently_airing | 2026-10-05 |
+| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | 29,960 | 4 | 29,964 | 416 | 8.19 | 7,206 | currently_airing | 2026-10-11 |
+| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | 24,878 | 2 | 24,880 | 210 | 8.26 | 4,932 | currently_airing | 2026-10-04 |
+| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | 24,485 | 0 | 24,485 | 1,049 | 7.42 | 5,391 | currently_airing | 2026-10-06 |
+| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | 25,146 | 2 | 25,148 | 414 | 7.49 | 4,773 | currently_airing | 2026-10-03 |
+| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,318 | 4 | 22,322 | 250 | 7.89 | 4,373 | currently_airing | 2026-10-04 |
+| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | 22,905 | 2 | 22,907 | 1,130 | 6.84 | 5,014 | currently_airing | 2026-10-04 |
+| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | 15,891 | 3 | 15,894 | 341 | 7.29 | 2,915 | currently_airing | 2026-10-02 |
+| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | 20,185 | 2 | 20,187 | 1,023 | 6.86 | 4,635 | currently_airing | 2026-10-04 |
+| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | 17,712 | 1 | 17,713 | 1,444 | 6.87 | 4,040 | currently_airing | 2026-10-05 |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 14,944 | 4 | 14,948 | 811 | 6.44 | 2,746 | currently_airing | 2026-10-09 |
+| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | 13,082 | 2 | 13,084 | 376 | 7.22 | 2,613 | currently_airing | 2026-10-07 |
+| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | 17,643 | 1 | 17,644 | 1,561 | 6.68 | 4,272 | currently_airing | 2026-10-06 |
+| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | 21,261 | 2 | 21,263 | 731 | 7.28 | 4,526 | currently_airing | 2026-10-05 |
+| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | 17,984 | 1 | 17,985 | 825 | 7.07 | 3,961 | currently_airing | 2026-10-03 |
+| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | 21,557 | 2 | 21,559 | 911 | 6.26 | 4,403 | currently_airing | 2026-10-04 |
+| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | 18,622 | 1 | 18,623 | 1,780 | 7.00 | 4,501 | currently_airing | 2026-10-01 |
+| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | 11,708 | 1 | 11,709 | 266 | 7.61 | 2,423 | currently_airing | 2026-10-13 |
+| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | 14,419 | 1 | 14,420 | 587 | 7.42 | 2,820 | currently_airing | 2026-10-09 |
+| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | 19,654 | 1 | 19,655 | 1,160 | 6.60 | 4,423 | currently_airing | 2026-10-05 |
+| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | 17,354 | 1 | 17,355 | 647 | 6.56 | 3,229 | currently_airing | 2026-10-11 |
+| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | 18,075 | 5 | 18,080 | 703 | 7.05 | 3,900 | currently_airing | 2026-10-07 |
+| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | 13,206 | 2 | 13,208 | 932 | 6.91 | 2,766 | currently_airing | 2026-10-10 |
+| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | 13,995 | 1 | 13,996 | 807 | 6.86 | 3,005 | currently_airing | 2026-10-04 |
+| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | 9,972 | 1 | 9,973 | 642 | 7.20 | 2,134 | currently_airing | 2026-10-07 |
+| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | 7,405 | 2 | 7,407 | 158 | 7.45 | 1,379 | currently_airing | 2026-10-11 |
+| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | 12,506 | 2 | 12,508 | 571 | 6.87 | 2,643 | currently_airing | 2026-10-05 |
+| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | 10,022 | 2 | 10,024 | 1,197 | 6.63 | 2,411 | currently_airing | 2026-10-03 |
+| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | 3,925 | 0 | 3,925 | 400 | 6.60 | 897 | currently_airing | 2026-10-06 |
+| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | 6,224 | 0 | 6,224 | 1,131 | 6.26 | 1,654 | currently_airing | 2026-10-04 |
+| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | 6,237 | 0 | 6,237 | 800 | 6.55 | 1,499 | currently_airing | 2026-10-04 |
+| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | 4,536 | 1 | 4,537 | 869 | 6.41 | 1,272 | currently_airing | 2026-10-03 |
+| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | 6,222 | 1 | 6,223 | 844 | 6.74 | 1,654 | currently_airing | 2026-10-06 |
+| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | 4,943 | 1 | 4,944 | 750 | 6.41 | 1,257 | currently_airing | 2026-10-05 |
+| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | 4,770 | 0 | 4,770 | 849 | 6.40 | 1,232 | currently_airing | 2026-10-03 |
+| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | 4,650 | 0 | 4,650 | 115 | 7.89 | 843 | currently_airing | 2026-10-11 |
+| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | 4,818 | 0 | 4,818 | 475 | 5.55 | 1,186 | currently_airing | 2026-10-05 |
+| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | 3,575 | 0 | 3,575 | 597 | 6.54 | 981 | currently_airing | 2026-10-09 |
+| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | 3,153 | 0 | 3,153 | 192 | 6.87 | 636 | currently_airing | 2026-10-04 |
+| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | 3,271 | 0 | 3,271 | 870 | 5.60 | 988 | currently_airing | 2026-10-10 |
+| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | 3,067 | 1 | 3,068 | 981 | 5.66 | 1,033 | currently_airing | 2026-10-03 |
+| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | 2,610 | 0 | 2,610 | 173 | 6.80 | 697 | currently_airing | 2026-10-04 |
+| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | 1,877 | 0 | 1,877 | 172 | 6.59 | 385 | currently_airing | 2026-10-02 |
+| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | 3,015 | 1 | 3,016 | 290 | 5.68 | 734 | currently_airing | 2026-10-05 |
+| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | 1,940 | 1 | 1,941 | 641 | 5.58 | 629 | currently_airing | 2026-10-14 |
+| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | 1,962 | 1 | 1,963 | 421 | 6.43 | 520 | currently_airing | 2026-10-03 |
+| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | 1,941 | 1 | 1,942 | 679 | 5.39 | 665 | currently_airing | 2026-10-08 |
+| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | 1,421 | 2 | 1,423 | 234 | 5.95 | 304 | currently_airing | 2026-09-05 |
+| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | 1,248 | 0 | 1,248 | 129 | 6.64 | 268 | currently_airing | 2026-10-01 |
+| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | 1,027 | 1 | 1,028 | 477 | 5.55 | 365 | currently_airing | 2026-10-06 |
+| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | 958 | 1 | 959 | 104 | 6.77 | 233 | currently_airing | 2026-10-04 |
+| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | 259 | 1 | 260 | 61 | — | 52 | currently_airing | 2026-11-07 |
 | [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | 261 | 0 | 261 | 84 | — | 85 | currently_airing | 2026-10-02 |
-| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | 103 | 0 | 103 | 54 | — | 35 | currently_airing | 2026-10-04 |
+| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | 102 | 0 | 102 | 54 | — | 35 | currently_airing | 2026-10-04 |
 | [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | 113 | 0 | 113 | 86 | — | 40 | currently_airing | 2026-10-05 |
 | [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | 87 | 0 | 87 | 48 | — | 27 | currently_airing | 2026-10-03 |
-| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | 40 | 0 | 40 | 45 | — | 18 | currently_airing | 2026-10-04 |
+| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | 41 | 0 | 41 | 45 | — | 18 | currently_airing | 2026-10-04 |
 | [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | 24 | 0 | 24 | 42 | — | 10 | currently_airing | 2026-10-04 |
 | [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | 24 | 0 | 24 | 44 | — | 7 | currently_airing | 2026-10-03 |
 
@@ -201,14 +201,14 @@ Roster positions and Ace history are recorded in team_config.json; update it aft
 
 | Slot | Title | W+C | Audience pts | Discussion pts | Total nowcast | If all counted discussions count | Missing | Below Ace threshold? |
 |---|---|---:|---:|---:|---:|---:|---|---|
-| Active | [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,513 | 16,756.50 | 0 | 43,181.50 | — | none | Yes |
-| Active | [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,423 | 22,211.50 | 0 | 59,836.50 | — | none | Yes; Ace already used |
-| Active | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,136 | 13,068.00 | 0 | 37,043.00 | — | none | Yes |
-| Active | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 47,926 | 23,963.00 | 0 | 54,413.00 | — | none | Yes; Ace already used |
-| Active | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,218 | 11,109.00 | 0 | 44,184.00 | — | none | Yes |
-| Bench | [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,436 | 5,718.00 | 0 | 21,818.00 | — | none | Yes |
-| Bench | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,333 | 10,166.50 | 0 | 28,016.50 | — | none | Yes |
-| Bench | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 44,995 | 22,497.50 | 0 | 63,272.50 | — | none | Yes; Ace already used |
+| Active | [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,729 | 16,864.50 | 0 | 43,289.50 | — | none | Yes |
+| Active | [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,663 | 22,331.50 | 0 | 59,956.50 | — | none | Yes; Ace already used |
+| Active | [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,271 | 13,135.50 | 0 | 37,110.50 | — | none | Yes |
+| Active | [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 48,287 | 24,143.50 | 0 | 54,593.50 | — | none | Yes; Ace already used |
+| Active | [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,322 | 11,161.00 | 0 | 44,236.00 | — | none | Yes |
+| Bench | [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,471 | 5,735.50 | 0 | 21,660.50 | — | none | Yes |
+| Bench | [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,520 | 10,260.00 | 0 | 27,935.00 | — | none | Yes |
+| Bench | [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 45,238 | 22,619.00 | 0 | 63,394.00 | — | none | Yes; Ace already used |
 
 ### Week 7 — cutoff 15 November 2026 22:00 UTC
 
@@ -220,75 +220,75 @@ Known subtotal excludes missing inputs, Ace and wildcard. An absent score, discu
 
 | Title (MAL Stats) | Watching / Completed | W+C → pts | MAL score → pts | Dropped → pts | MAL favorites → pts | Discussions | Known subtotal | Discussion-inclusive estimate | Missing / unconfirmed | MAL snapshot UTC |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|
-| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 44,990 / 5 | 44,995 → 22,498 | 8 → 40,775 | — | — | — | 63,272 | 63,272 | none | 2026-11-11T17:14:31.123699+00:00 |
-| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,417 / 6 | 44,423 → 22,212 | 8 → 37,625 | — | — | — | 59,837 | 59,837 | none | 2026-11-11T17:13:25.073347+00:00 |
-| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 47,918 / 8 | 47,926 → 23,963 | 8 → 30,450 | — | — | — | 54,413 | 54,413 | none | 2026-11-11T17:13:51.628657+00:00 |
-| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | 29,801 / 6 | 29,807 → 14,904 | 8 → 38,500 | — | — | — | 53,403 | 53,403 | none | 2026-11-11T17:13:54.400062+00:00 |
-| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | 45,535 / 4 | 45,539 → 22,770 | 8 → 29,925 | — | — | — | 52,694 | 52,694 | none | 2026-11-11T17:13:26.401300+00:00 |
-| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | 24,706 / 2 | 24,708 → 12,354 | 8 → 39,550 | — | — | — | 51,904 | 51,904 | none | 2026-11-11T17:13:27.759513+00:00 |
-| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | 47,643 / 3 | 47,646 → 23,823 | 8 → 26,425 | — | — | — | 50,248 | 50,248 | none | 2026-11-11T17:14:24.590484+00:00 |
-| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | 32,723 / 17 | 32,740 → 16,370 | 8 → 31,675 | — | — | — | 48,045 | 48,045 | none | 2026-11-11T17:13:13.146449+00:00 |
-| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,216 / 2 | 22,218 → 11,109 | 8 → 33,075 | — | — | — | 44,184 | 44,184 | none | 2026-11-11T17:14:08.868208+00:00 |
-| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | 31,574 / 4 | 31,578 → 15,789 | 8 → 27,475 | — | — | — | 43,264 | 43,264 | none | 2026-11-11T17:13:58.400923+00:00 |
-| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,508 / 5 | 33,513 → 16,756 | 8 → 26,425 | — | — | — | 43,182 | 43,182 | none | 2026-11-11T17:13:06.510892+00:00 |
-| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | 25,043 / 4 | 25,047 → 12,524 | 8 → 26,250 | — | — | — | 38,774 | 38,774 | none | 2026-11-11T17:13:46.384970+00:00 |
-| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | 24,336 / 0 | 24,336 → 12,168 | 7 → 25,025 | — | — | — | 37,193 | 37,193 | none | 2026-11-11T17:13:57.065885+00:00 |
-| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,129 / 7 | 26,136 → 13,068 | 7 → 23,975 | — | — | — | 37,043 | 37,043 | none | 2026-11-11T17:13:18.392736+00:00 |
-| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | 4,631 / 0 | 4,631 → 2,316 | 8 → 32,900 | — | — | — | 35,216 | 35,216 | none | 2026-11-11T17:14:29.820597+00:00 |
-| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | 11,588 / 2 | 11,590 → 5,795 | 8 → 28,175 | — | — | — | 33,970 | 33,970 | none | 2026-11-11T17:13:31.804551+00:00 |
-| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | 21,111 / 1 | 21,112 → 10,556 | 7 → 22,400 | — | — | — | 32,956 | 32,956 | none | 2026-11-11T17:13:17.099528+00:00 |
-| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | 14,327 / 2 | 14,329 → 7,164 | 7 → 24,850 | — | — | — | 32,014 | 32,014 | none | 2026-11-11T17:13:20.991533+00:00 |
-| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | 15,778 / 2 | 15,780 → 7,890 | 7 → 22,750 | — | — | — | 30,640 | 30,640 | none | 2026-11-11T17:13:49.024545+00:00 |
-| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | 7,369 / 3 | 7,372 → 3,686 | 7 → 25,200 | — | — | — | 28,886 | 28,886 | none | 2026-11-11T17:14:28.505548+00:00 |
-| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,330 / 3 | 20,333 → 10,166 | 7 → 17,850 | — | — | — | 28,016 | 28,016 | none | 2026-11-11T17:13:10.505834+00:00 |
-| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | 12,990 / 2 | 12,992 → 6,496 | 7 → 21,350 | — | — | — | 27,846 | 27,846 | none | 2026-11-11T17:13:11.818045+00:00 |
-| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | 17,885 / 3 | 17,888 → 8,944 | 7 → 18,725 | — | — | — | 27,669 | 27,669 | none | 2026-11-11T17:13:23.702497+00:00 |
-| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | 17,801 / 2 | 17,803 → 8,902 | 7 → 18,200 | — | — | — | 27,102 | 27,102 | none | 2026-11-11T17:14:16.706357+00:00 |
-| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | 18,549 / 3 | 18,552 → 9,276 | 7 → 17,500 | — | — | — | 26,776 | 26,776 | none | 2026-11-11T17:13:52.936847+00:00 |
-| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | 9,953 / 2 | 9,955 → 4,978 | 7 → 21,175 | — | — | — | 26,152 | 26,152 | none | 2026-11-11T17:13:14.448515+00:00 |
-| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | 22,765 / 1 | 22,766 → 11,383 | 7 → 14,700 | — | — | — | 26,083 | 26,083 | none | 2026-11-11T17:13:19.696912+00:00 |
-| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | 20,089 / 3 | 20,092 → 10,046 | 7 → 15,050 | — | — | — | 25,096 | 25,096 | none | 2026-11-11T17:13:09.162097+00:00 |
-| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | 17,630 / 1 | 17,631 → 8,816 | 7 → 15,400 | — | — | — | 24,216 | 24,216 | none | 2026-11-11T17:13:45.084884+00:00 |
-| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | 13,139 / 2 | 13,141 → 6,570 | 7 → 16,100 | — | — | — | 22,670 | 22,670 | none | 2026-11-11T17:13:29.141291+00:00 |
-| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | 13,916 / 2 | 13,918 → 6,959 | 7 → 15,050 | — | — | — | 22,009 | 22,009 | none | 2026-11-11T17:13:39.789718+00:00 |
-| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,434 / 2 | 11,436 → 5,718 | 7 → 16,100 | — | — | — | 21,818 | 21,818 | none | 2026-11-11T17:13:05.144920+00:00 |
-| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | 12,445 / 1 | 12,446 → 6,223 | 7 → 15,225 | — | — | — | 21,448 | 21,448 | none | 2026-11-11T17:13:59.692522+00:00 |
-| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | 17,537 / 4 | 17,541 → 8,770 | 7 → 12,075 | — | — | — | 20,846 | 20,846 | none | 2026-11-11T17:14:06.240422+00:00 |
-| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | 19,564 / 1 | 19,565 → 9,782 | 7 → 10,500 | — | — | — | 20,282 | 20,282 | none | 2026-11-11T17:14:02.284238+00:00 |
-| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | 17,181 / 3 | 17,184 → 8,592 | 7 → 9,975 | — | — | — | 18,567 | 18,567 | none | 2026-11-11T17:13:50.328676+00:00 |
-| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | 3,143 / 0 | 3,143 → 1,572 | 7 → 15,225 | — | — | — | 16,796 | 16,796 | none | 2026-11-11T17:13:35.844286+00:00 |
-| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | 9,987 / 2 | 9,989 → 4,994 | 7 → 11,025 | — | — | — | 16,019 | 16,019 | none | 2026-11-11T17:13:33.155489+00:00 |
-| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | 6,203 / 1 | 6,204 → 3,102 | 7 → 12,775 | — | — | — | 15,877 | 15,877 | none | 2026-11-11T17:13:38.482702+00:00 |
-| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 14,864 / 8 | 14,872 → 7,436 | 6 → 7,875 | — | — | — | 15,311 | 15,311 | none | 2026-11-11T17:14:20.632845+00:00 |
-| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | 2,587 / 1 | 2,588 → 1,294 | 7 → 14,000 | — | — | — | 15,294 | 15,294 | none | 2026-11-11T17:14:21.941805+00:00 |
-| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | 21,420 / 2 | 21,422 → 10,711 | 6 → 4,550 | — | — | — | 15,261 | 15,261 | none | 2026-11-11T17:13:42.469979+00:00 |
-| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | 951 / 1 | 952 → 476 | 7 → 13,475 | — | — | — | 13,951 | 13,951 | none | 2026-11-11T17:14:00.990451+00:00 |
-| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | 3,904 / 0 | 3,904 → 1,952 | 7 → 10,675 | — | — | — | 12,627 | 12,627 | none | 2026-11-11T17:13:07.801827+00:00 |
-| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | 6,197 / 0 | 6,197 → 3,098 | 7 → 9,450 | — | — | — | 12,548 | 12,548 | none | 2026-11-11T17:13:41.099244+00:00 |
-| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | 1,242 / 0 | 1,242 → 621 | 7 → 11,200 | — | — | — | 11,821 | 11,821 | none | 2026-11-11T17:13:34.458026+00:00 |
-| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | 3,572 / 0 | 3,572 → 1,786 | 7 → 9,625 | — | — | — | 11,411 | 11,411 | none | 2026-11-11T17:13:37.145772+00:00 |
-| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | 1,868 / 0 | 1,868 → 934 | 7 → 10,325 | — | — | — | 11,259 | 11,259 | none | 2026-11-11T17:14:19.328917+00:00 |
-| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | 4,935 / 1 | 4,936 → 2,468 | 6 → 7,175 | — | — | — | 9,643 | 9,643 | none | 2026-11-11T17:14:04.939129+00:00 |
-| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | 4,511 / 1 | 4,512 → 2,256 | 6 → 7,175 | — | — | — | 9,431 | 9,431 | none | 2026-11-11T17:13:22.346554+00:00 |
-| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | 4,749 / 0 | 4,749 → 2,374 | 6 → 7,000 | — | — | — | 9,375 | 9,375 | none | 2026-11-11T17:14:23.242609+00:00 |
-| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | 1,958 / 2 | 1,960 → 980 | 6 → 7,525 | — | — | — | 8,505 | 8,505 | none | 2026-11-11T17:13:47.730793+00:00 |
-| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | 6,193 / 2 | 6,195 → 3,098 | 6 → 4,550 | — | — | — | 7,647 | 7,647 | none | 2026-11-11T17:14:03.598558+00:00 |
-| [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | 261 / 0 | 261 → 130 | — (unknown) | — | — | — | 130 | — | score | 2026-11-11T17:13:30.501523+00:00 |
-| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | 249 / 1 | 250 → 125 | — (unknown) | — | — | — | 125 | — | score | 2026-11-11T17:14:14.108254+00:00 |
-| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | 113 / 0 | 113 → 56 | — (unknown) | — | — | — | 56 | — | score | 2026-11-11T17:14:32.426265+00:00 |
-| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | 103 / 0 | 103 → 52 | — (unknown) | — | — | — | 52 | — | score | 2026-11-11T17:14:15.406212+00:00 |
-| [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | 87 / 0 | 87 → 44 | — (unknown) | — | — | — | 44 | — | score | 2026-11-11T17:14:12.797606+00:00 |
-| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | 40 / 0 | 40 → 20 | — (unknown) | — | — | — | 20 | — | score | 2026-11-11T17:14:27.195081+00:00 |
-| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | 24 / 0 | 24 → 12 | — (unknown) | — | — | — | 12 | — | score | 2026-11-11T17:14:35.033212+00:00 |
-| [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | 24 / 0 | 24 → 12 | — (unknown) | — | — | — | 12 | — | score | 2026-11-11T17:14:11.501063+00:00 |
-| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | 1,423 / 1 | 1,424 → 712 | 6 → -875 | — | — | — | -163 | -163 | none | 2026-11-11T17:14:33.730313+00:00 |
-| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | 3,007 / 0 | 3,007 → 1,504 | 6 → -5,600 | — | — | — | -4,097 | -4,097 | none | 2026-11-11T17:13:55.752443+00:00 |
-| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | 3,061 / 1 | 3,062 → 1,531 | 6 → -5,775 | — | — | — | -4,244 | -4,244 | none | 2026-11-11T17:14:07.538682+00:00 |
-| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | 3,265 / 0 | 3,265 → 1,632 | 6 → -7,000 | — | — | — | -5,368 | -5,368 | none | 2026-11-11T17:13:43.775708+00:00 |
-| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | 4,813 / 1 | 4,814 → 2,407 | 6 → -7,875 | — | — | — | -5,468 | -5,468 | none | 2026-11-11T17:14:18.024046+00:00 |
-| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | 1,936 / 1 | 1,937 → 968 | 6 → -6,825 | — | — | — | -5,856 | -5,856 | none | 2026-11-11T17:13:15.802688+00:00 |
-| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | 1,022 / 1 | 1,023 → 512 | 6 → -7,875 | — | — | — | -7,364 | -7,364 | none | 2026-11-11T17:14:10.199779+00:00 |
-| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | 1,931 / 1 | 1,932 → 966 | 5 → -10,500 | — | — | — | -9,534 | -9,534 | none | 2026-11-11T17:14:25.889606+00:00 |
+| [Koori no Jouheki 2nd Season](https://myanimelist.net/anime/64534/_/stats)<br>English: The Ramparts of Ice Season 2 | 45,236 / 2 | 45,238 → 22,619 | 8 → 40,775 | — | — | — | 63,394 | 63,394 | none | 2026-11-12T17:39:09.586688+00:00 |
+| [Ao no Hako Season 2](https://myanimelist.net/anime/61323/_/stats)<br>English: Blue Box Season 2 | 44,655 / 8 | 44,663 → 22,332 | 8 → 37,625 | — | — | — | 59,957 | 59,957 | none | 2026-11-12T17:38:05.710967+00:00 |
+| [Hotaru no Yomeiri](https://myanimelist.net/anime/63293/_/stats)<br>English: Firefly Wedding | 48,282 / 5 | 48,287 → 24,144 | 8 → 30,450 | — | — | — | 54,594 | 54,594 | none | 2026-11-12T17:38:31.144854+00:00 |
+| [Dragon Ball Super: Beerus](https://myanimelist.net/anime/63367/_/stats)<br>English: Dragon Ball Super: Beerus | 29,960 / 4 | 29,964 → 14,982 | 8 → 38,325 | — | — | — | 53,307 | 53,307 | none | 2026-11-12T17:38:33.672462+00:00 |
+| [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/_/stats)<br>English: There Is Also a Hole in the Student Organization! | 45,970 / 5 | 45,975 → 22,988 | 8 → 29,925 | — | — | — | 52,912 | 52,912 | none | 2026-11-12T17:38:07.007362+00:00 |
+| [Ao Ashi Season 2](https://myanimelist.net/anime/61603/_/stats)<br>English: Aoashi Season 2 | 24,878 / 2 | 24,880 → 12,440 | 8 → 39,550 | — | — | — | 51,990 | 51,990 | none | 2026-11-12T17:38:08.270438+00:00 |
+| [Tempal: Item no Chikara](https://myanimelist.net/anime/64340/_/stats)<br>English: Overgeared | 48,107 / 8 | 48,115 → 24,058 | 8 → 26,425 | — | — | — | 50,482 | 50,482 | none | 2026-11-12T17:39:02.985693+00:00 |
+| [Tokyo Revengers: Santen Sensou-hen](https://myanimelist.net/anime/59088/_/stats)<br>English: Tokyo Revengers: War of the Three Titans Arc | 32,904 / 9 | 32,913 → 16,456 | 8 → 31,850 | — | — | — | 48,306 | 48,306 | none | 2026-11-12T17:37:54.181814+00:00 |
+| [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/_/stats)<br>English: Ranma ½ (2024) Season 3 | 22,318 / 4 | 22,322 → 11,161 | 8 → 33,075 | — | — | — | 44,236 | 44,236 | none | 2026-11-12T17:38:47.620945+00:00 |
+| [Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.](https://myanimelist.net/anime/63409/_/stats)<br>English: Hello, I Am a Witch, and My Crush Wants Me to Make a Love Potion! | 31,921 / 3 | 31,924 → 15,962 | 8 → 27,650 | — | — | — | 43,612 | 43,612 | none | 2026-11-12T17:38:37.455718+00:00 |
+| [Tensei shitara Ken deshita II](https://myanimelist.net/anime/53913/_/stats)<br>English: Reincarnated as a Sword II | 33,723 / 6 | 33,729 → 16,864 | 8 → 26,425 | — | — | — | 43,290 | 43,290 | none | 2026-11-12T17:37:47.633295+00:00 |
+| [Yasei no Last Boss ga Arawareta! 2nd Season](https://myanimelist.net/anime/63140/_/stats)<br>English: A Wild Last Boss Appeared! Season 2 | 25,146 / 2 | 25,148 → 12,574 | 7 → 26,075 | — | — | — | 38,649 | 38,649 | none | 2026-11-12T17:38:26.038744+00:00 |
+| [Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season](https://myanimelist.net/anime/60601/_/stats)<br>English: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | 26,266 / 5 | 26,271 → 13,136 | 7 → 23,975 | — | — | — | 37,110 | 37,110 | none | 2026-11-12T17:37:59.347188+00:00 |
+| [Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku](https://myanimelist.net/anime/63382/_/stats)<br>English: Nia Liston: The Merciless Maiden | 24,485 / 0 | 24,485 → 12,242 | 7 → 24,850 | — | — | — | 37,092 | 37,092 | none | 2026-11-12T17:38:36.191413+00:00 |
+| [Diamond no Ace: Act II Second Season Part 2](https://myanimelist.net/anime/64505/_/stats)<br>English: Ace of Diamond Act II Second Season Part 2 | 4,650 / 0 | 4,650 → 2,325 | 8 → 33,075 | — | — | — | 35,400 | 35,400 | none | 2026-11-12T17:39:08.277330+00:00 |
+| [Chitose-kun wa Ramune Bin no Naka Part 2](https://myanimelist.net/anime/62484/_/stats)<br>English: Chitose Is in the Ramune Bottle Part 2 | 11,708 / 1 | 11,709 → 5,854 | 8 → 28,175 | — | — | — | 34,030 | 34,030 | none | 2026-11-12T17:38:12.125731+00:00 |
+| [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | 21,261 / 2 | 21,263 → 10,632 | 7 → 22,400 | — | — | — | 33,032 | 33,032 | none | 2026-11-12T17:37:58.030607+00:00 |
+| [Toaru Anbu no Item](https://myanimelist.net/anime/61014/_/stats)<br>English: A Certain Dark Side's Item | 14,419 / 1 | 14,420 → 7,210 | 7 → 24,850 | — | — | — | 32,060 | 32,060 | none | 2026-11-12T17:38:01.924520+00:00 |
+| [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | 15,891 / 3 | 15,894 → 7,947 | 7 → 22,575 | — | — | — | 30,522 | 30,522 | none | 2026-11-12T17:38:28.599495+00:00 |
+| [Yozakura-san Chi no Daisakusen 2nd Season Part 2](https://myanimelist.net/anime/64503/_/stats)<br>English: Mission: Yozakura Family Season 2 Part 2 | 7,405 / 2 | 7,407 → 3,704 | 7 → 25,375 | — | — | — | 29,079 | 29,079 | none | 2026-11-12T17:39:06.944416+00:00 |
+| [Kikansha no Mahou wa Tokubetsu desu 2nd Season](https://myanimelist.net/anime/57612/_/stats)<br>English: A Returner's Magic Should Be Special Season 2 | 20,518 / 2 | 20,520 → 10,260 | 7 → 17,675 | — | — | — | 27,935 | 27,935 | none | 2026-11-12T17:37:51.606902+00:00 |
+| [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | 13,082 / 2 | 13,084 → 6,542 | 7 → 21,350 | — | — | — | 27,892 | 27,892 | none | 2026-11-12T17:37:52.916860+00:00 |
+| [Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu](https://myanimelist.net/anime/61153/_/stats)<br>English: A Tale of the Secret Saint | 17,984 / 1 | 17,985 → 8,992 | 7 → 18,725 | — | — | — | 27,718 | 27,718 | none | 2026-11-12T17:38:04.448832+00:00 |
+| [Sekai Saikyou no Majo, Hajimemashita](https://myanimelist.net/anime/64084/_/stats)<br>English: The World's Strongest Witch Begins | 18,075 / 5 | 18,080 → 9,040 | 7 → 18,375 | — | — | — | 27,415 | 27,415 | none | 2026-11-12T17:38:55.239482+00:00 |
+| [FX Senshi Kurumi-chan](https://myanimelist.net/anime/63337/_/stats)<br>English: FX Fighter Kurumi-chan | 18,622 / 1 | 18,623 → 9,312 | 7 → 17,500 | — | — | — | 26,812 | 26,812 | none | 2026-11-12T17:38:32.409447+00:00 |
+| [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | 22,905 / 2 | 22,907 → 11,454 | 7 → 14,700 | — | — | — | 26,154 | 26,154 | none | 2026-11-12T17:38:00.667201+00:00 |
+| [Magic Knight Rayearth (2026)](https://myanimelist.net/anime/59204/_/stats)<br>English: Magic Knight Rayearth (2026) | 9,972 / 1 | 9,973 → 4,986 | 7 → 21,000 | — | — | — | 25,987 | 25,987 | none | 2026-11-12T17:37:55.451254+00:00 |
+| [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | 20,185 / 2 | 20,187 → 10,094 | 7 → 15,050 | — | — | — | 25,144 | 25,144 | none | 2026-11-12T17:37:50.345079+00:00 |
+| [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | 17,712 / 1 | 17,713 → 8,856 | 7 → 15,225 | — | — | — | 24,082 | 24,082 | none | 2026-11-12T17:38:24.776206+00:00 |
+| [Shuiro no Kamen](https://myanimelist.net/anime/61999/_/stats)<br>English: The Vermilion Mask | 13,206 / 2 | 13,208 → 6,604 | 7 → 15,925 | — | — | — | 22,529 | 22,529 | none | 2026-11-12T17:38:09.527900+00:00 |
+| [Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta](https://myanimelist.net/anime/62753/_/stats)<br>English: Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | 13,995 / 1 | 13,996 → 6,998 | 7 → 15,050 | — | — | — | 22,048 | 22,048 | none | 2026-11-12T17:38:19.709783+00:00 |
+| [Tantei wa Mou, Shindeiru. Season 2](https://myanimelist.net/anime/52480/_/stats)<br>English: The Detective Is Already Dead Season 2 | 11,468 / 3 | 11,471 → 5,736 | 7 → 15,925 | — | — | — | 21,660 | 21,660 | none | 2026-11-12T17:37:46.293809+00:00 |
+| [Dark Summoner to Dekiteiru](https://myanimelist.net/anime/63509/_/stats)<br>English: I'm Dating a Dark Summoner! | 12,506 / 2 | 12,508 → 6,254 | 7 → 15,225 | — | — | — | 21,479 | 21,479 | none | 2026-11-12T17:38:38.716826+00:00 |
+| [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | 17,643 / 1 | 17,644 → 8,822 | 7 → 11,900 | — | — | — | 20,722 | 20,722 | none | 2026-11-12T17:38:45.074486+00:00 |
+| [Tensei Goblin dakedo Shitsumon Aru?](https://myanimelist.net/anime/63712/_/stats)<br>English: Reincarnated as a Goblin, What Should I Do? | 19,654 / 1 | 19,655 → 9,828 | 7 → 10,500 | — | — | — | 20,327 | 20,327 | none | 2026-11-12T17:38:41.260939+00:00 |
+| [Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku](https://myanimelist.net/anime/63292/_/stats)<br>English: Isekai Strategy with the Goddess of Zero Believers | 17,354 / 1 | 17,355 → 8,678 | 7 → 9,800 | — | — | — | 18,477 | 18,477 | none | 2026-11-12T17:38:29.884978+00:00 |
+| [Hotel Inhumans 2nd Season](https://myanimelist.net/anime/62590/_/stats)<br>English: Hotel Inhumans Season 2 | 3,153 / 0 | 3,153 → 1,576 | 7 → 15,225 | — | — | — | 16,802 | 16,802 | none | 2026-11-12T17:38:15.921469+00:00 |
+| [Choujun! Choujou-senpai](https://myanimelist.net/anime/62696/_/stats)<br>English: Super Psychic Policeman Chojo! | 6,222 / 1 | 6,223 → 3,112 | 7 → 12,950 | — | — | — | 16,062 | 16,062 | none | 2026-11-12T17:38:18.454966+00:00 |
+| [#Zombie Sagashitemasu](https://myanimelist.net/anime/62524/_/stats)<br>English: #I'm Looking for Zombie | 10,022 / 2 | 10,024 → 5,012 | 7 → 11,025 | — | — | — | 16,037 | 16,037 | none | 2026-11-12T17:38:13.392474+00:00 |
+| [Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu](https://myanimelist.net/anime/62922/_/stats)<br>English: The Magic Power I Lent Is Being Forcibly Collected Through 'Revo Payment' | 21,557 / 2 | 21,559 → 10,780 | 6 → 4,550 | — | — | — | 15,329 | 15,329 | none | 2026-11-12T17:38:22.243767+00:00 |
+| [Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa](https://myanimelist.net/anime/64298/_/stats)<br>English: The Lonely Snow Widow and the Cursed Ring | 2,610 / 0 | 2,610 → 1,305 | 7 → 14,000 | — | — | — | 15,305 | 15,305 | none | 2026-11-12T17:39:00.313554+00:00 |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 14,944 / 4 | 14,948 → 7,474 | 6 → 7,700 | — | — | — | 15,174 | 15,174 | none | 2026-11-12T17:38:59.036732+00:00 |
+| [Mahou no Shimai Lulutto Lilly Part 2](https://myanimelist.net/anime/63667/_/stats)<br>English: Magical Sisters Lulutto Lilly Part 2 | 958 / 1 | 959 → 480 | 7 → 13,475 | — | — | — | 13,954 | 13,954 | none | 2026-11-12T17:38:39.999204+00:00 |
+| [Ojisan wa Kawaii Mono ga Osuki.](https://myanimelist.net/anime/62907/_/stats)<br>English: Uncle Is Into Cute Things | 6,237 / 0 | 6,237 → 3,118 | 7 → 9,625 | — | — | — | 12,743 | 12,743 | none | 2026-11-12T17:38:20.979896+00:00 |
+| [Mahou Shoujo Ikusei Keikaku: Restart](https://myanimelist.net/anime/54344/_/stats)<br>English: Magical Girl Raising Project: Restart | 3,925 / 0 | 3,925 → 1,962 | 7 → 10,500 | — | — | — | 12,462 | 12,462 | none | 2026-11-12T17:37:48.929176+00:00 |
+| [Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen](https://myanimelist.net/anime/62534/_/stats)<br>English: The Prince of Tennis II: U-17 World Cup Final Member Selection Match | 1,248 / 0 | 1,248 → 624 | 7 → 11,200 | — | — | — | 11,824 | 11,824 | none | 2026-11-12T17:38:14.654960+00:00 |
+| [Kizu darake Seijo yori Houfuku wo Komete Season 2](https://myanimelist.net/anime/64180/_/stats)<br>English: With Vengeance, Sincerely, Your Broken Saintess Season 2 | 1,877 / 0 | 1,877 → 938 | 7 → 10,325 | — | — | — | 11,263 | 11,263 | none | 2026-11-12T17:38:57.777166+00:00 |
+| [Tetsuryou! Meet with Tetsudou Musume](https://myanimelist.net/anime/62615/_/stats)<br>English: Tetsuryou! Meet the Railway Girl | 3,575 / 0 | 3,575 → 1,788 | 7 → 9,450 | — | — | — | 11,238 | 11,238 | none | 2026-11-12T17:38:17.181223+00:00 |
+| [Kanata kara](https://myanimelist.net/anime/63753/_/stats)<br>English: From Far Away | 4,943 / 1 | 4,944 → 2,472 | 6 → 7,175 | — | — | — | 9,647 | 9,647 | none | 2026-11-12T17:38:43.795459+00:00 |
+| [Gensou Suikoden](https://myanimelist.net/anime/61140/_/stats)<br>English: Suikoden | 4,536 / 1 | 4,537 → 2,268 | 6 → 7,175 | — | — | — | 9,444 | 9,444 | none | 2026-11-12T17:38:03.185810+00:00 |
+| [Marronnier Oukoku no Shichinin no Kishi](https://myanimelist.net/anime/64326/_/stats)<br>English: The Seven Knights of the Marronnier Kingdom | 4,770 / 0 | 4,770 → 2,385 | 6 → 7,000 | — | — | — | 9,385 | 9,385 | none | 2026-11-12T17:39:01.640753+00:00 |
+| [Keroro Gunsou☆](https://myanimelist.net/anime/63157/_/stats)<br>English: Keroro Gunsou☆ | 1,962 / 1 | 1,963 → 982 | 6 → 7,525 | — | — | — | 8,506 | 8,506 | none | 2026-11-12T17:38:27.339450+00:00 |
+| [Tank Chair](https://myanimelist.net/anime/63751/_/stats)<br>English: Tank Chair | 6,224 / 0 | 6,224 → 3,112 | 6 → 4,550 | — | — | — | 7,662 | 7,662 | none | 2026-11-12T17:38:42.524723+00:00 |
+| [Pan Dorobou](https://myanimelist.net/anime/62039/_/stats)<br>English: The Bread Thief | 261 / 0 | 261 → 130 | — (unknown) | — | — | — | 130 | — | score | 2026-11-12T17:38:10.864473+00:00 |
+| [Cardfight!! Vanguard: Divinez Unmei Seisen-hen](https://myanimelist.net/anime/63938/_/stats)<br>English: Cardfight!! Vanguard Divinez: Fate Holy War Arc | 259 / 1 | 260 → 130 | — (unknown) | — | — | — | 130 | — | score | 2026-11-12T17:38:52.683214+00:00 |
+| [Yuusanchi! from Yuu-hachi](https://myanimelist.net/anime/64717/_/stats)<br>English: Yuusanchi! from Yuu-hachi | 113 / 0 | 113 → 56 | — (unknown) | — | — | — | 56 | — | score | 2026-11-12T17:39:10.848637+00:00 |
+| [Tanuki to Kitsune (TV)](https://myanimelist.net/anime/64028/_/stats)<br>English: Tanuki and Fox | 102 / 0 | 102 → 51 | — (unknown) | — | — | — | 51 | — | score | 2026-11-12T17:38:53.967094+00:00 |
+| [Shirotan](https://myanimelist.net/anime/63901/_/stats)<br>English: Shirotan | 87 / 0 | 87 → 44 | — (unknown) | — | — | — | 44 | — | score | 2026-11-12T17:38:51.420580+00:00 |
+| [Yuruyuru Zukan](https://myanimelist.net/anime/64430/_/stats)<br>English: Yuruyuru Picture Book | 41 / 0 | 41 → 20 | — (unknown) | — | — | — | 20 | — | score | 2026-11-12T17:39:05.681256+00:00 |
+| [Nezumi-kun no Chokki (TV) 2nd Season](https://myanimelist.net/anime/64789/_/stats)<br>English: Nezumi-kun and Chokki Season 2 | 24 / 0 | 24 → 12 | — (unknown) | — | — | — | 12 | — | score | 2026-11-12T17:39:13.488311+00:00 |
+| [Punirunes: Puni 4](https://myanimelist.net/anime/63823/_/stats)<br>English: Punirunes Puni 4 | 24 / 0 | 24 → 12 | — (unknown) | — | — | — | 12 | — | score | 2026-11-12T17:38:50.156473+00:00 |
+| [Ghost Meets Gal!](https://myanimelist.net/anime/64718/_/stats)<br>English: Ghost Meets Gal! | 1,421 / 2 | 1,423 → 712 | 6 → -875 | — | — | — | -163 | -163 | none | 2026-11-12T17:39:12.225917+00:00 |
+| [Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu](https://myanimelist.net/anime/63381/_/stats)<br>English: I Can Control Reality with My Mouse Cursor, So I'll Click a Bunch of Girls | 3,015 / 1 | 3,016 → 1,508 | 6 → -5,600 | — | — | — | -4,092 | -4,092 | none | 2026-11-12T17:38:34.932466+00:00 |
+| [Vertex Force](https://myanimelist.net/anime/63764/_/stats)<br>English: Vertex Force | 3,067 / 1 | 3,068 → 1,534 | 6 → -5,950 | — | — | — | -4,416 | -4,416 | none | 2026-11-12T17:38:46.331600+00:00 |
+| [Kyoufu Collector](https://myanimelist.net/anime/63053/_/stats)<br>English: Horror Collector | 3,271 / 0 | 3,271 → 1,636 | 6 → -7,000 | — | — | — | -5,365 | -5,365 | none | 2026-11-12T17:38:23.509422+00:00 |
+| [Kanojo no Tomodachi](https://myanimelist.net/anime/64131/_/stats)<br>English: My Girlfriend's Friend | 4,818 / 0 | 4,818 → 2,409 | 6 → -7,875 | — | — | — | -5,466 | -5,466 | none | 2026-11-12T17:38:56.498186+00:00 |
+| [Dark Machine: The Animation](https://myanimelist.net/anime/59415/_/stats)<br>English: Dark Machine: The Animation | 1,940 / 1 | 1,941 → 970 | 6 → -7,350 | — | — | — | -6,379 | -6,379 | none | 2026-11-12T17:37:56.736096+00:00 |
+| [Battle Spirits [Re]: Zekkai no Kuu](https://myanimelist.net/anime/63818/_/stats)<br>English: Battle Spirits [Re]: Zekkai no Kuu | 1,027 / 1 | 1,028 → 514 | 6 → -7,875 | — | — | — | -7,361 | -7,361 | none | 2026-11-12T17:38:48.895662+00:00 |
+| [Juuou Mujin Dandivine](https://myanimelist.net/anime/64344/_/stats)<br>English: Juuou Mujin Dandivine | 1,941 / 1 | 1,942 → 971 | 5 → -10,675 | — | — | — | -9,704 | -9,704 | none | 2026-11-12T17:39:04.293576+00:00 |
 
 ## Completed-week observation checkpoints
 
@@ -800,8 +800,8 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | [Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai](https://myanimelist.net/anime/60948/_/stats)<br>English: Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | 24,052 | 304 | 607.2 | 2026-10-20T14:24:15.249225+00:00 |
 | [Tougen Anki: Nikko Kegon no Taki-hen](https://myanimelist.net/anime/63181/_/stats)<br>English: Tougen Anki: Nikko Kegon Falls Arc | 18,815 | 272 | 177.5 | 2026-10-20T14:23:46.300145+00:00 |
 | [Magical★Explorer](https://myanimelist.net/anime/56733/_/stats)<br>English: Magical★Explorer | 21,530 | 328 | 543.1 | 2026-10-20T14:24:23.121864+00:00 |
-| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 19,168 | 245 | 199.0 | 2026-10-20T14:23:51.561750+00:00 |
 | [Psyren](https://myanimelist.net/anime/63098/_/stats)<br>English: Psyren | 20,531 | 283 | 301.6 | 2026-10-20T14:24:07.271169+00:00 |
+| [Hyouken no Majutsushi ga Sekai wo Suberu II](https://myanimelist.net/anime/64254/_/stats)<br>English: The Iceblade Sorcerer Shall Rule the World II | 19,168 | 245 | 199.0 | 2026-10-20T14:23:51.561750+00:00 |
 | [Sasaki to Pii-chan Season 2](https://myanimelist.net/anime/58518/_/stats)<br>English: Sasaki and Peeps Season 2 | 14,256 | 157 | 78.9 | 2026-10-20T14:23:43.636164+00:00 |
 | [Shiotaiou no Satou-san ga Ore ni dake Amai](https://myanimelist.net/anime/63754/_/stats)<br>English: The Ice-Cold Satou-san Only Acts Sweet to Me | 18,911 | 214 | 190.7 | 2026-10-20T14:24:28.361671+00:00 |
 | [Romelia Senki](https://myanimelist.net/anime/59787/_/stats)<br>English: Romelia War Chronicle | 14,994 | 142 | 388.5 | 2026-10-20T14:24:38.867125+00:00 |
@@ -860,8 +860,6 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 
 | Source | Started UTC | Successes | Expected | Errors | Stop reason |
 |---|---|---:|---:|---:|---|
-| mal | 2026-11-08T23:42:23.640726+00:00 | 69 | 69 | 0 | — |
-| jikan_favorites | 2026-11-08T23:43:53.323162+00:00 | 0 | 69 | 3 | consecutive_failures |
 | mal | 2026-11-09T01:38:40.443864+00:00 | 69 | 69 | 0 | — |
 | jikan_favorites | 2026-11-09T01:40:10.102001+00:00 | 0 | 69 | 3 | consecutive_failures |
 | mal | 2026-11-09T19:52:19.552632+00:00 | 69 | 69 | 0 | — |
@@ -870,9 +868,8 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | jikan_favorites | 2026-11-10T17:07:16.875523+00:00 | 0 | 69 | 3 | consecutive_failures |
 | mal | 2026-11-11T17:13:04.952399+00:00 | 69 | 69 | 0 | — |
 | jikan_favorites | 2026-11-11T17:14:37.259880+00:00 | 0 | 69 | 3 | consecutive_failures |
-| youtube | 2026-11-09T01:41:15.481862+00:00 | 90 | 90 | 0 | — |
-| anilist | 2026-11-09T19:54:53.591244+00:00 | 0 | 0 | 0 | paused_after_access_denial |
-| reddit | 2026-11-09T19:54:54.230309+00:00 | 0 | 0 | 0 | paused_after_access_denial |
+| mal | 2026-11-12T17:37:45.981815+00:00 | 69 | 69 | 0 | — |
+| jikan_favorites | 2026-11-12T17:39:15.481418+00:00 | 0 | 69 | 3 | consecutive_failures |
 | youtube | 2026-11-09T19:54:54.838357+00:00 | 90 | 90 | 0 | — |
 | anilist | 2026-11-10T17:08:20.717987+00:00 | 0 | 0 | 0 | paused_after_access_denial |
 | reddit | 2026-11-10T17:08:21.408467+00:00 | 0 | 0 | 0 | paused_after_access_denial |
@@ -880,8 +877,11 @@ AniList popularity and favorites are separate features, never MAL points or MAL 
 | anilist | 2026-11-11T17:15:41.249595+00:00 | 0 | 0 | 0 | paused_after_access_denial |
 | reddit | 2026-11-11T17:15:41.960697+00:00 | 0 | 0 | 0 | paused_after_access_denial |
 | youtube | 2026-11-11T17:15:42.661588+00:00 | 90 | 90 | 0 | — |
-| mal_episode_discussions | 2026-11-08T23:47:16.681962+00:00 | 62 | 69 | 7 | — |
+| anilist | 2026-11-12T17:40:19.167559+00:00 | 0 | 0 | 0 | paused_after_access_denial |
+| reddit | 2026-11-12T17:40:19.812090+00:00 | 0 | 0 | 0 | paused_after_access_denial |
+| youtube | 2026-11-12T17:40:20.469955+00:00 | 49 | 90 | 4 | consecutive_failures |
 | mal_episode_discussions | 2026-11-09T01:43:39.825151+00:00 | 61 | 69 | 8 | — |
 | mal_episode_discussions | 2026-11-09T19:57:18.766990+00:00 | 60 | 69 | 9 | — |
 | mal_episode_discussions | 2026-11-10T17:10:43.607205+00:00 | 60 | 69 | 9 | — |
 | mal_episode_discussions | 2026-11-11T17:18:14.105865+00:00 | 61 | 69 | 8 | — |
+| mal_episode_discussions | 2026-11-12T17:41:58.771659+00:00 | 61 | 69 | 8 | — |
